@@ -19,15 +19,15 @@ Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/S
 > Not in the pack but recommended:
 [Just-Productive-Bees](https://github.com/DarkScorpyon/Just-Productive-Bees-) by DarkScorpyon
 
+### Little Preview
+![Main1](https://github.com/user-attachments/assets/d6308ba6-1a10-4df6-b668-59b9297e9a0f)
+![Main2](https://github.com/user-attachments/assets/70a4fffe-f33f-4ae3-a087-98a1916ac7de)
+
 ### Changelog
 v2.0
 - Backported Ae2 Dark Mode to be compatible with 1.7.10
 - Updated Nuclear Control Gui
 - Edited bunch of Lang files to match color scheme
-
-### Little Preview
-![Main1](https://github.com/user-attachments/assets/d6308ba6-1a10-4df6-b668-59b9297e9a0f)
-![Main2](https://github.com/user-attachments/assets/70a4fffe-f33f-4ae3-a087-98a1916ac7de)
 
 ### Licensing
 
