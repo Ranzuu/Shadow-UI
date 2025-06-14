@@ -1,0 +1,7 @@
+language.name=§7English
+language.region=§7US
+language.code=§7en_US
+
+#conduits
+enderio.gui.conduit.ioMode.input=§0Extract
+enderio.gui.conduit.ioMode.output=§0Insert
