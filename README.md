@@ -18,6 +18,8 @@ Contribution goes as follow, let's all thanks these guys for brining the future 
 Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/Scuffed-GTNH-Dark)
 > Not in the pack but recommended:
 [Just-Productive-Bees](https://github.com/DarkScorpyon/Just-Productive-Bees-) by DarkScorpyon
+> 
+> [Other resource packs](https://gtnh.miraheze.org/wiki/Resource_Packs)
 
 ### Little Preview
 ![Main1](https://github.com/user-attachments/assets/d6308ba6-1a10-4df6-b668-59b9297e9a0f)
