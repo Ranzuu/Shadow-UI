@@ -1,0 +1,95 @@
+# gui names
+gtnop.gui.veinStat.name=Vein Stats
+gtnop.gui.asteroidStat.name=Asteroid Stats
+gtnop.gui.smallOreStat.name=Small Ore Stats
+gtnop.gui.undergroundFluid.name=Underground Fluid Stats
+gtnop.gui.ieVeinStat.name=IE Vein Stats
+gtnop.gui.bedrockOreStat.name=Bedrock Ore Stats
+
+gtnop.gui.nei.veinName=§7Vein name
+gtnop.gui.nei.primaryOre=§7Primary
+gtnop.gui.nei.secondaryOre=§7Secondary
+gtnop.gui.nei.betweenOre=§7Between
+gtnop.gui.nei.sporadicOre=§7Sporadic
+gtnop.gui.nei.genHeight=§7Height
+gtnop.gui.nei.weightedChance=§7Weight
+gtnop.gui.nei.worldNames=§7Generated world
+gtnop.gui.nei.restrictBiome=§7Restricted biome
+gtnop.gui.nei.dimension=§7Dimension
+gtnop.gui.nei.chance=§7Chance
+gtnop.gui.nei.fluidAmount=§7Amount
+
+gtnop.gui.nei.asteroidPrimary=§7Main-Gen1
+gtnop.gui.nei.asteroidSecondary=§7Main-Gen2
+gtnop.gui.nei.asteroidBetween=§7Minor-Gen1
+gtnop.gui.nei.asteroidSporadic=§7Minor-Gen2
+
+gtnop.gui.nei.oreName=§7Ore name
+gtnop.gui.nei.amount=§7Amount per chunk
+gtnop.gui.nei.chanceDrops=§7Drops
+
+gtnop.gui.nei.ieVeinComponent=§7Vein components
+gtnop.gui.nei.fromMod=§7From mod
+
+gtnop.gui.nei.seeAll=§7See All
+gtnop.gui.nei.vein=§7Vein
+gtnop.gui.nei.oreOthers=§7Other ore
+gtnop.nei.genPosition=§7Position
+gtnop.nei.genPositionInfo=§7In the center of each chunk
+
+
+# world names
+gtnop.world.Overworld=§7Overworld
+gtnop.world.Nether=§7Nether
+gtnop.world.TheEnd=§7The End
+gtnop.world.Twilight=§7Twilight Forest
+gtnop.world.EndAsteroid=§7Far End Asteroids
+gtnop.world.Vanilla EndAsteroids=§7Vanilla End Asteroids
+gtnop.world.Moon=§7Moon
+gtnop.world.Mars=§7Mars
+gtnop.world.Phobos=§7Phobos
+gtnop.world.Deimos=§7Deimos
+gtnop.world.Asteroids=§7Asteroids
+gtnop.world.Ceres=§7Ceres
+gtnop.world.Europa=§7Europa
+gtnop.world.Ganymede=§7Ganymede
+gtnop.world.Callisto=§7Callisto
+gtnop.world.Ross128b=§7Ross128b
+gtnop.world.Io=§7Io
+gtnop.world.Venus=§7Venus
+gtnop.world.Mercury=§7Mercury
+gtnop.world.Enceladus=§7Enceladus
+gtnop.world.Titan=§7Titan
+gtnop.world.Ross128ba=§7Ross128ba
+gtnop.world.Miranda=§7Miranda
+gtnop.world.Oberon=§7Oberon
+gtnop.world.Proteus=§7Proteus
+gtnop.world.Triton=§7Triton
+gtnop.world.Pluto=§7Pluto
+gtnop.world.Kuiperbelt=§7Kuiper Belt
+gtnop.world.Haumea=§7Haumea
+gtnop.world.MakeMake=§7Makemake
+gtnop.world.CentauriA=§7α Centauri Bb
+gtnop.world.VegaB=§7Vega B
+gtnop.world.BarnardC=§7Barnard C
+gtnop.world.BarnardE=§7Barnard E
+gtnop.world.BarnardF=§7Barnard F
+gtnop.world.TcetiE=§7T Ceti E
+gtnop.world.Underdark=§7Deep Dark
+
+
+# biome names
+gtnop.biome.none.name=§7None
+
+
+# ore names extra
+gtnop.ore.null.name=§7None
+
+
+# vein types
+gtnop.ore.vein.name=§7Vein 
+gtnop.ore.asteroid.name=§7Asteriod
+gtnop.ore.custom.name=§7Custom
+
+# items
+itemGroup.gtneioreplugin=§7GT NEI Ore Plugin
