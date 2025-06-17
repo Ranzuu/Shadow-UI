@@ -25,11 +25,8 @@ Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/S
 ![Main1](https://github.com/user-attachments/assets/d6308ba6-1a10-4df6-b668-59b9297e9a0f)
 ![Main2](https://github.com/user-attachments/assets/70a4fffe-f33f-4ae3-a087-98a1916ac7de)
 
-### Changelog
-v2.0
-- Backported Ae2 Dark Mode to be compatible with 1.7.10
-- Updated Nuclear Control Gui
-- Edited bunch of Lang files to match color scheme
+### Connected Textures
+If you want to enjoy connected textures, you need to download [MyCTMLib](https://github.com/ABKQPO/MyCTMLib) and put it in your mods folder. In addition, the `MyCTMLib.cfg` file included in the download must be placed inside your config folder.
 
 ### Licensing
 

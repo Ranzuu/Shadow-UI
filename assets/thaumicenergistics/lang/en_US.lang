@@ -1,0 +1,10 @@
+﻿#GUI
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7Arcane Terminal
+thaumicenergistics.gui.essentia.cell.title=§7Essentia Cell
+thaumicenergistics.gui.selected.amount=§7Amount
+thaumicenergistics.gui.selected.aspect=§7Aspect
+thaumicenergistics.gui.digivis.source.name=§7DigiVis Source
+thaumicenergistics.gui.essentia.cell.workbench.title=§7Essentia Cell Workbench
+thaumicenergistics.gui.arcane.assembler.title=§7Arcane Assembler
+thaumicenergistics.gui.vibration.chamber.stored=Stored:§7 %d %s
+thaumicenergistics.gui.vibration.chamber.processing=§7Processing: %s
