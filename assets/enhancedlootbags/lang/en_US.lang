@@ -1,0 +1,20 @@
+enhancedlootbags.string.lootbag_templatename=§7LootBag (%s)
+enhancedlootbags.string.default=§7Default
+enhancedlootbags.string.try_again=§7That didn't work. Please try again!
+enhancedlootbags.string.sorry_damaged=§7This LootBag seems to be damaged, sorry about that
+itemGroup.ELBTab=§7Enhanced LootBags
+
+enhancedlootbags.nei.category=§7LootBag
+enhancedlootbags.nei.recipe.contains_trash=§7Contains trash: %s
+enhancedlootbags.nei.recipe.is_trash=§7This is a trash bag
+enhancedlootbags.nei.recipe.drop_id=§7Drop ID: %s
+enhancedlootbags.nei.recipe.drop_group=§7Drop group: %s
+enhancedlootbags.nei.recipe.amount_exact=§7Amount: %s
+enhancedlootbags.nei.recipe.amount_random=§7Amount: %s-%s (random)
+enhancedlootbags.nei.recipe.limit=§7Drop limit: %s / %s
+enhancedlootbags.nei.recipe.limit_reached=§7(limit reached)
+enhancedlootbags.nei.recipe.weight=§7Weight: %s
+enhancedlootbags.nei.recipe.weight_accumulated=§7Accumulated weight: %s
+enhancedlootbags.nei.recipe.chance=§7Drop %% (F0/1/2/3): %s | %s | %s | %s
+enhancedlootbags.nei.recipe.true=§7yes
+enhancedlootbags.nei.recipe.false=§7no

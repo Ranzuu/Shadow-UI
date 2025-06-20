@@ -1,0 +1,7 @@
+tile.gravity.name=§7Artificial Gravity Generator
+tile.machines1.0.name=§7Radioisotope Generator
+tile.isotopeGeneratorBasic.name=§7Radioisotope Generator
+tile.isotopeGeneratorAdvanced.name=§7Advanced Radioisotope Generator
+
+gui.message.mothership.status.name=§7Status
+tile.shuttleDock.name=§7Shuttle Dock
