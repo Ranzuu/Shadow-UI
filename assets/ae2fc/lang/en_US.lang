@@ -1,34 +1,3 @@
-item.fluid_drop.name=§7drop of %s
-item.fluid_encoded_pattern.name=§7Encode Pattern
-item.part_fluid_pattern_terminal.name=§7ME Fluid Pattern Terminal
-item.part_fluid_pattern_terminal_ex.name=§7ME Fluid Processing Pattern Terminal
-item.part_fluid_interface.name=§7ME Dual Interface
-item.part_fluid_import.name=§7ME Fluid Import Bus
-item.part_fluid_export.name=§7ME Fluid Export Bus
-item.fluid_packet.name=§7Fluid Packet
-item.fluid_storage.1.name=§71k ME Fluid Storage Cell
-item.fluid_storage.4.name=§74k ME Fluid Storage Cell
-item.fluid_storage.16.name=§716k ME Fluid Storage Cell
-item.fluid_storage.64.name=§764k ME Fluid Storage Cell
-item.fluid_storage.256.name=§7256k ME Fluid Storage Cell
-item.fluid_storage.1024.name=§71024k ME Fluid Storage Cell
-item.fluid_storage.4096.name=§74096k ME Fluid Storage Cell
-item.fluid_part.0.name=§71k ME Fluid Storage Component
-item.fluid_part.1.name=§74k ME Fluid Storage Component
-item.fluid_part.2.name=§716k ME Fluid Storage Component
-item.fluid_part.3.name=§764k ME Fluid Storage Component
-item.fluid_part.4.name=§7256k ME Fluid Storage Component
-item.fluid_part.5.name=§71024k ME Fluid Storage Component
-item.fluid_part.6.name=§74096k ME Fluid Storage Component
-
-tile.fluid_discretizer.name=§7Fluid Discretizer
-tile.fluid_pattern_encoder.name=§7Fluid Pattern Encoder
-tile.fluid_packet_decoder.name=§7ME Fluid Packet Decoder
-tile.fluid_interface.name=§7ME Dual Interface
-tile.ingredient_buffer.name=§7Ingredient Buffer
-tile.large_ingredient_buffer.name=§7Large Ingredient Buffer
-tile.oc_pattern_editor.name=§7OC Pattern Editor
-
 ae2fc.tooltip.invalid_fluid=§7Invalid fluid!
 ae2fc.tooltip.encode_pattern=§7Encode Patter
 ae2fc.tooltip.fluid_packet=§7Use a Fluid Packet Decoder to\nconvert this back into fluid.
@@ -44,6 +13,11 @@ ae2fc.tooltip.not_prio=§7Allow fluids to be placed first
 ae2fc.tooltip.not_prio.hint=§7Enabled
 ae2fc.tooltip.prio=§7Allow fluids to be placed first
 ae2fc.tooltip.prio.hint=§7Disabled
+
+
+item.part_fluid_pattern_terminal.name=§fME Fluid Pattern Terminal
+item.part_fluid_pattern_terminal_ex.name=§fME Fluid Processing Pattern Terminal
+ae2fc.gui.fluid_packet_decoder=§fME Fluid Packet Decoder
 
 ae2fc.gui.part_fluid_pattern_terminal=§7Fluid Pattern Terminal
 ae2fc.gui.part_fluid_pattern_terminal_ex=§7Fluid Processing Pattern Terminal
