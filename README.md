@@ -27,7 +27,7 @@ Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/S
 ![Main3](https://github.com/user-attachments/assets/951b7885-cb94-4b13-b396-9baa0e5c54f2)
 
 ### Connected Textures
-If you want to enjoy connected textures, you need to download [MyCTMLib](https://github.com/ABKQPO/MyCTMLib) and put it in your mods folder. In addition, the `MyCTMLib.cfg` file included in the download must be placed inside your config folder.
+If you want to enjoy connected textures, download [MyCTMLib](https://github.com/ABKQPO/MyCTMLib) and put it in your mods folder. In addition, the `MyCTMLib.cfg` file included in the download must be placed inside your config folder.
 
 ### Licensing
 
