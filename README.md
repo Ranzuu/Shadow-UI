@@ -7,11 +7,11 @@ Contribution goes as follow, let's all thanks these guys for brining the future 
 
 [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) by ABKQPO
 
-[GTNH Refreshed](https://github.com/BlueHero233/GTNHRefreshed) by BlueHero233
+[Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 
 [UU-Tex-main](https://github.com/Jimbno/UU-Tex) by Jimbno
 
-[Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
+[GTNH Refreshed](https://github.com/BlueHero233/GTNHRefreshed) by BlueHero233
 
 [AE2 Dark Mode](https://www.curseforge.com/minecraft/texture-packs/ae2-dark-mode) by Ridanisaurus
 
