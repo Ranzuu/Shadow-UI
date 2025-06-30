@@ -16,9 +16,7 @@ Contribution goes as follow, let's all thanks these guys for brining the future 
 [AE2 Dark Mode](https://www.curseforge.com/minecraft/texture-packs/ae2-dark-mode) by Ridanisaurus
 
 Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/Scuffed-GTNH-Dark)
-> Not in the pack but recommended:
-[Just-Productive-Bees](https://github.com/DarkScorpyon/Just-Productive-Bees-) by DarkScorpyon
-> 
+
 > [Other resource packs](https://gtnh.miraheze.org/wiki/Resource_Packs)
 
 
