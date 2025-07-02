@@ -157,7 +157,6 @@ gui.appliedenergistics2.TransparentFacades=§7Transparent Facades
 gui.appliedenergistics2.TransparentFacadesHint=§7Controls visibility of facades while the network tool is on your toolbar.
 gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
-gui.appliedenergistics2.FacadeCrafting=§7Facade Crafting
 gui.appliedenergistics2.inWorldCraftingPresses=§7Crafting Presses are found in the center of meteorites which can be found in around the world, they can be located by using a meteorite compass.
 gui.appliedenergistics2.Included=§7Included
 gui.appliedenergistics2.Excluded=§7Excluded
