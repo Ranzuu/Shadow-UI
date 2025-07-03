@@ -24,8 +24,15 @@ Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/S
 ![Main1](https://github.com/user-attachments/assets/d6308ba6-1a10-4df6-b668-59b9297e9a0f)
 ![Main3](https://github.com/user-attachments/assets/951b7885-cb94-4b13-b396-9baa0e5c54f2)
 
+
+---
 ### Connected Textures
 If you want to enjoy connected textures, download [MyCTMLib](https://github.com/ABKQPO/MyCTMLib) and put it in your mods folder. In addition, the `MyCTMLib.cfg` file included in the download must be placed inside your config folder.
+
+### Outlined Ores
+Additional texture pack that adds solid border that matches the color of the ore. Compatibile with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH)
+> [OutlinedOres-Modern](https://github.com/Ranzuu/OutlinedOres-Modern)
+---
 
 ### Licensing
 
