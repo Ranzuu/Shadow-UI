@@ -1,0 +1,56 @@
+
+
+
+door_movement.rotating_door=§7Rotating
+door_movement.sliding_door=§7Sliding on the side
+door_movement.sliding_up_door=§7Sliding up
+door_movement.sliding_split_door=§7Sliding up and down
+door_movement.rotating_split_door=§7Rotating up and down
+door_movement.vault_door=§7Vault
+door_movement.sliding_4ways=§7Sliding four ways
+door_movement.rotating_4ways=§7Rotating four ways
+door_movement.rotate_around=§7Rotating around
+door_movement.rotate_slide=§7Rotating and sliding
+door_movement.rotate_place=§7Rotating and replacing
+door_movement.vanishing_door=§7Vanishing
+door_movement.spinning_door=§7Spinning
+door_movement.spinning_around_door=§7Vortex
+door_movement.double_slide_left=§7Double sliding left
+door_movement.double_slide_right=§7Double sliding right
+door_movement.double_rotate_left=§7Double rotating left
+door_movement.double_rotate_right=§7Double rotating right
+
+
+
+gui.door_factory.tab_properties=§7Properties
+gui.door_factory.tab_materials=§7Materials
+gui.door_factory.tab_digicode=§7Digicode
+gui.door_factory.rb_create=§7Create
+gui.door_factory.rb_edit=§7Modify
+gui.door_factory.door_movement=§7Movement
+gui.door_factory.door_open_time=§7Opening time
+gui.door_factory.door_auto_close_time=§7Auto close delay
+gui.door_factory.door_require_redstone=§7Requires redstone
+gui.door_factory.door_double_door=§7Double door
+gui.door_factory.door_sound=§7Sound type
+gui.door_factory.door_sound.silent_door=§7Silent
+gui.door_factory.door_sound.vanilla_door=§7Vanilla door
+gui.door_factory.door_sound.glass_door=§7Glass door
+gui.door_factory.door_sound.jail_door=§7Jail door
+gui.door_factory.door_sound.pneumatic_door=§7Pneumatic door
+gui.door_factory.door_sound.shoji_door=§7Shoji door
+gui.door_factory.door_sound.carriage_door=§7Big Door
+
+
+gui.door_factory.frame_type=§7Frame type
+gui.door_factory.top_material=§7Top block material
+gui.door_factory.bottom_material=§7Bottom block material
+gui.door_factory.door_edit_slot=§7Door to modify
+gui.door_factory.create_door=§7Create door
+gui.door_factory.edit_door=§7Modify door
+
+gui.block_mixer.simple_rendering=§7Simple rendering
+gui.block_mixer.simple_rendering_tooltip=§7In world blocks require chunk update to take effect.
+
+tile.block_mixer.name=§7Block Mixer
+tile.door_factory.name=§7Door Factory
