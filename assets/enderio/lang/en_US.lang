@@ -319,3 +319,7 @@ enderio.gui.weather.task.rain=§7Rainy Weather
 enderio.gui.weather.task.storm=§7Thunderstorm
 enderio.gui.weather.requiredfluid=§7Required Fluid: %s L
 enderio.weatherObelisk.fuelTank=§7Barometric Flux Tank
+
+enderio.gui.inventorypanel.header.crafting=§7Crafting grid
+enderio.gui.inventorypanel.header.return=§7Return area
+enderio.gui.inventorypanel.header.storage=§7Storage area
