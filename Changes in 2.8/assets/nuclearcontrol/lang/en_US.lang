@@ -1,0 +1,110 @@
+#Tab Name
+nc.itemgroup.tab=§7Nuclear Control 2
+
+#Internal Blocks
+tile.blockThermalMonitor.name=§7Thermal Monitor
+tile.blockIndustrialAlarm.name=§7Industrial Alarm
+tile.blockHowlerAlarm.name=§7Howler Alarm
+tile.blockRemoteThermo.name=§7Remote Thermal Monitor
+tile.blockInfoPanel.name=§7Industrial Information Panel
+tile.blockInfoPanelExtender.name=§7Information Panel Extender
+tile.blockAdvancedInfoPanel.name=§7Advanced Information Panel
+tile.blockAdvancedInfoPanelExtender.name=§7Advanced Panel Extender
+tile.nclight0.name=§7White Lamp
+tile.nclight1.name=§7White Lamp
+tile.nclight2.name=§7Orange Lamp
+tile.nclight3.name=§7Orange Lamp
+tile.blockEnergyCounter.name=§7Energy Counter
+tile.blockAverageCounter.name=§7Average Counter
+tile.blockRangeTrigger.name=§7Range Trigger
+
+#Integration Blocks
+tile.blockBRPart.name=§7Reactor Monitor
+tile.NetworkLink.name=§7ME Network Monitor
+
+#Original Screen Messages
+msg.nc.HowlerAlarmSoundRange=§7Sound range: %s
+msg.nc.HowlerAlarmSound=§7Sound
+msg.nc.ThermalMonitorSave=§7Save setting
+msg.nc.ThermalMonitorSignalAt=§7Signal at %s heat
+msg.nc.Thermo=§7Hull heat: %s
+msg.nc.ThermoDigital=§7Hull heat: %s (Water evaporate: %s / melting: %s)
+msg.nc.SensorKit=§7Remote Sensor mounted, Sensor Location Card received
+
+msg.nc.InfoPanelOutOfRange=§7Out Of Range
+msg.nc.InfoPanelInvalidCard=§7Invalid Card
+msg.nc.InfoPanelNoTarget=§7Target Not Found
+
+msg.nc.InfoPanelOn=§7On
+msg.nc.InfoPanelOff=§7Off
+msg.nc.InfoPanelHeat=§7T: %s
+msg.nc.InfoPanelMaxHeat=§7MaxHeat: %s
+msg.nc.InfoPanelMelting=§7Melting: %s
+msg.nc.InfoPanelOutput=§7Output: %s EU/t
+msg.nc.InfoPanelOutputMJ=§7Output: %s RF/t
+msg.nc.InfoPanelOutputSteam=§7Output: %s mB/t
+msg.nc.InfoPanelTimeRemaining=§7Remaining: %s
+
+msg.nc.InfoPanelEnergyCounter=§7Energy: %s EU
+msg.nc.InfoPanelEnergyCounterMJ=§7Energy: %s RF
+
+msg.nc.InfoPanelEnergy=§7Energy: %s
+msg.nc.InfoPanelEnergyFree=§7Free: %s
+msg.nc.InfoPanelEnergyStorage=§7Storage: %s
+msg.nc.InfoPanelEnergyPercentage=§7Fill: %s%%
+
+msg.nc.cbInfoPanelLiquidName=§7Liquid name
+msg.nc.cbInfoPanelLiquidAmount=§7Amount
+msg.nc.cbInfoPanelLiquidCapacity=§7Capacity
+msg.nc.cbInfoPanelLiquidFree=§7Free
+msg.nc.cbInfoPanelLiquidPercentage=§7Fill percentage
+
+msg.nc.InfoPanelLiquidName=§7Name: %s
+msg.nc.InfoPanelLiquidAmount=§7Amount: %s
+msg.nc.InfoPanelLiquidCapacity=§7Capacity: %s
+msg.nc.InfoPanelLiquidFree=§7Free: %s
+msg.nc.InfoPanelLiquidPercentage=§7Fill: %s%%
+
+msg.nc.InfoPanelNotFoundN=§7#%d Not Found
+msg.nc.InfoPanelOutOfRangeN=§7#%d Out Of Range
+msg.nc.InfoPanelEnergyN=§7#%d Energy: %s
+msg.nc.InfoPanelEnergyFreeN=§7#%d Free: %s
+msg.nc.InfoPanelEnergyStorageN=§7#%d Storage: %s
+msg.nc.InfoPanelEnergyPercentageN=§7#%d Fill: %s%%
+msg.nc.InfoPanelLiquidNameN=§7#%d Name: %s
+msg.nc.InfoPanelLiquidN=§7#%d Amount: %s
+msg.nc.InfoPanelLiquidFreeN=§7#%d Free: %s
+msg.nc.InfoPanelLiquidCapacityN=§7#%d Capacity: %s
+msg.nc.InfoPanelLiquidPercentageN=§7#%d Fill: %s%%
+
+msg.nc.InfoPanelTime=§7Time: %s
+
+msg.nc.cbInfoPanelOnOff=§7On/Off Status
+msg.nc.cbInfoPanelHeat=§7Heat Level
+msg.nc.cbInfoPanelMaxHeat=§7Max Heat
+msg.nc.cbInfoPanelMelting=§7Melting Temp
+msg.nc.cbInfoPanelOutput=§7Output (EU/t)
+msg.nc.cbInfoPanelTimeRemaining=§7Time to cycle end
+msg.nc.cb24h=§724h Mode
+
+msg.nc.cbInfoPanelEnergyCurrent=§7Energy
+msg.nc.cbInfoPanelEnergyStorage=§7Storage
+msg.nc.cbInfoPanelEnergyFree=§7Free
+msg.nc.cbInfoPanelEnergyEach=§7Each card info
+msg.nc.cbInfoPanelEnergyTotal=§7Summary
+msg.nc.cbInfoPanelEnergyPercentage=§7Fill percentage
+msg.nc.EnergyCardQuantity=§7Cards quantity: %d
+msg.nc.AverageCounterPeriod=§7Period: %ssec
+
+msg.nc.LiquidCardQuantity=§7Cards quantity: %d
+
+msg.nc.cbInfoPanelLiquidEach=§7Each card info
+msg.nc.cbInfoPanelLiquidTotal=§7Summary
+
+msg.nc.Reset=§7Reset
+msg.nc.ScreenColor=§7Screen Color
+msg.nc.TextColor=§7Text Color
+msg.nc.None=§7N/A
+nc.msg.notValid=§7This Card may not be compatible
+nc.msg.notValid2=§7with the Remote Monitor
+nc.msg.notValid3=§7Try reopening the GUI
