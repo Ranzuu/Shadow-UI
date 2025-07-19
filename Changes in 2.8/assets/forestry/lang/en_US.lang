@@ -51,3 +51,8 @@ tile.for.worktable.name=§7Worktable
 tile.for.mailbox.name=§7Mailbox
 tile.for.trade_station.name=§7Trade Station
 tile.for.stamp_collector.name=§7Stamp Collector
+
+tile.for.apiculture.name=§7Apiary
+tile.for.apiculture.0.name=§7Apiary
+tile.for.apiculture.2.name=§7Bee House
+tile.for.alveary.0.name=§7Alveary
