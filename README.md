@@ -21,12 +21,30 @@ Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/S
 
 
 ### Little Preview
-![Main1](https://github.com/user-attachments/assets/d6308ba6-1a10-4df6-b668-59b9297e9a0f)
-![Main3](https://github.com/user-attachments/assets/951b7885-cb94-4b13-b396-9baa0e5c54f2)
+<img width="744" height="867" alt="Prev1" src="https://github.com/user-attachments/assets/798dc351-4024-4111-a4d7-f1d8f8717792" />
+
 
 It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
 > \config\GregTech\GregTech.cfg (set to false)
+
+#### Additionally includes:
+- Lower fire texture
+  
 ---
+### WAILA
+You can manually change the WAILA colors to match the gui colors.
+> \config\Waila.cfg
+
+`I:waila.cfg.bgcolor=4933704`
+
+`I:waila.cfg.fontcolor=10526880`
+
+`I:waila.cfg.gradient1=5790039`
+
+`I:waila.cfg.gradient2=2368291`
+
+<img width="597" height="237" alt="prev3" src="https://github.com/user-attachments/assets/2c7eb456-9a04-4a21-91c2-2e6f26ce7ea8" />
+
 ### Connected Textures
 If you want to enjoy connected textures, download [MyCTMLib](https://github.com/ABKQPO/MyCTMLib) and put it in your mods folder. In addition, the `MyCTMLib.cfg` file included in the download must be placed inside your config folder.
 
