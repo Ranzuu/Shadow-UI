@@ -37,8 +37,6 @@ You can manually change the WAILA colors to match the gui colors.
 
 `I:waila.cfg.bgcolor=4933704`
 
-`I:waila.cfg.fontcolor=10526880`
-
 `I:waila.cfg.gradient1=5790039`
 
 `I:waila.cfg.gradient2=2368291`
