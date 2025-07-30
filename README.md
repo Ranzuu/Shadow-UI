@@ -1,17 +1,15 @@
 # GTNH Shadow Refresh
-  Custom resource pack for GregTech New Horizon, minecraft version: 1.7.10.
+  Custom resource pack for GregTech New Horizon, minecraft version: 1.7.10. Made to be compatible with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) by ABKQPO. 
 
-  This recource pack was created because I (Ranzu) wanted to have everything that I like in one pack and to edit it as I want. This is edited combination of darker gui pack and packs that refresh your game with new blocks/items/etc textures. Most of the texture are ported from other resource packs listed below. Some new and some are edited, especially the AE2 Dark Mode as it needed backporting. 
-  
+  Includes:
+ - Updated Charcoal UI
+ - AE2-Dark Mode (darker blocks, including AE2 addons)
+ - Lower fire texture
+
+ 
 Contribution goes as follow, let's all thanks these guys for brining the future into the past:
 
-[Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) by ABKQPO
-
 [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
-
-[UU-Tex-main](https://github.com/Jimbno/UU-Tex) by Jimbno
-
-[GTNH Refreshed](https://github.com/BlueHero233/GTNHRefreshed) by BlueHero233
 
 [AE2 Dark Mode](https://www.curseforge.com/minecraft/texture-packs/ae2-dark-mode) by Ridanisaurus
 
@@ -26,9 +24,6 @@ Special thanks to Albi and his [Scuffed-GTNH-Dark](https://github.com/Flanisch/S
 
 It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
 > \config\GregTech\GregTech.cfg (set to false)
-
-#### Additionally includes:
-- Lower fire texture
   
 ---
 ### WAILA
@@ -42,9 +37,6 @@ You can manually change the WAILA colors to match the gui colors.
 `I:waila.cfg.gradient2=2368291`
 
 <img width="597" height="237" alt="prev3" src="https://github.com/user-attachments/assets/2c7eb456-9a04-4a21-91c2-2e6f26ce7ea8" />
-
-### Connected Textures
-If you want to enjoy connected textures, download [MyCTMLib](https://github.com/ABKQPO/MyCTMLib) and put it in your mods folder. In addition, the `MyCTMLib.cfg` file included in the download must be placed inside your config folder.
 
 ### Outlined Ores
 Additional texture pack that adds solid border that matches the color of the ore. Compatibile with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH).
