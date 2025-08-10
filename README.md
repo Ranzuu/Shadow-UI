@@ -39,7 +39,7 @@ Additional texture pack that adds solid border that matches the color of the ore
 > [OutlinedOres-Modern](https://github.com/Ranzuu/OutlinedOres-Modern)
 
 Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
-[AE2-Dark-Mode]https://github.com/Ranzuu/AE2-Dark-Mode
+> [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 ---
 
 ### Licensing
