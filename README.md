@@ -10,12 +10,12 @@ Based on [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 ### Little Preview 
 Vanilla GTNH version
 
-NEW IMAGE
+<img width="744" height="843" alt="PrevV" src="https://github.com/user-attachments/assets/b59e7a4f-780d-4c07-a97e-74ea95ac0f42" />
 
 
 Modernity version
 
-NEW IMAGE
+<img width="744" height="843" alt="PrevM" src="https://github.com/user-attachments/assets/7f7b43b2-2513-4cd3-af40-2e71761b51ba" />
 
 
 It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
