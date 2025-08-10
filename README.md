@@ -1,5 +1,5 @@
-# GTNH Shadow Refresh
-  Dark Gui resource pack for GregTech New Horizon; minecraft version: 1.7.10. Two version available, vanilla GTNH or Modernity (Compatible with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) by ABKQPO)
+# GTNH Shadow UI
+  Darker Gui resource pack for GregTech New Horizon; minecraft version: 1.7.10. Two version available, vanilla GTNH or Modernity (Compatible with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) by ABKQPO)
 
 Based on [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 
@@ -7,8 +7,15 @@ Based on [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 > [Other resource packs](https://gtnh.miraheze.org/wiki/Resource_Packs)
 
 
-### Little Preview (modernity version)
-<img width="744" height="867" alt="Prev1" src="https://github.com/user-attachments/assets/798dc351-4024-4111-a4d7-f1d8f8717792" />
+### Little Preview 
+Vanilla GTNH version
+
+<img width="744" height="843" alt="PrevV" src="https://github.com/user-attachments/assets/b59e7a4f-780d-4c07-a97e-74ea95ac0f42" />
+
+
+Modernity version
+
+<img width="744" height="843" alt="PrevM" src="https://github.com/user-attachments/assets/7f7b43b2-2513-4cd3-af40-2e71761b51ba" />
 
 
 It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
@@ -38,4 +45,6 @@ Additional texture pack that backports Ae2 (and addons) darker and modern blocks
 ### Licensing
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 
