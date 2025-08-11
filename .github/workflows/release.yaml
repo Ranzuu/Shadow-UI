@@ -3,75 +3,77 @@ name: Build and Release Resource Pack
 on:
   push:
     tags:
-      - 'v2.8.X/v*'
+      - 'v2.8.X/v*'  # Trigger only on tags like v2.8.X/v*
 
 jobs:
-  build:
+  build_and_release:
     runs-on: ubuntu-latest
-    outputs:
-      main_zip: ${{ steps.main_zip.outputs.zip_name }}
-      modernity_zip: ${{ steps.modernity_zip.outputs.zip_name }}
-      pack_version: ${{ steps.extract_version.outputs.pack_version }}
-      tag_name: ${{ steps.extract_version.outputs.tag_name }}
 
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
           ref: main
+          path: main
           fetch-depth: 0
-
-      - name: Extract tag and pack version
-        id: extract_version
-        run: |
-          TAG="${GITHUB_REF##*/}"
-          PACK_VERSION="${TAG#v2.8.X/}"
-          echo "::set-output name=pack_version::$PACK_VERSION"
-          echo "::set-output name=tag_name::$TAG"
-
-      - name: Install tools
-        run: sudo apt-get update && sudo apt-get install -y jq zip
-
-      - name: Build ZIP for main
-        id: main_zip
-        run: |
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.extract_version.outputs.pack_version }}"
-          jq --arg desc "$DESC" '.pack.description = $desc' pack.mcmeta > temp.mcmeta && mv temp.mcmeta pack.mcmeta
-          ZIP_NAME="Shadow UI ${{ steps.extract_version.outputs.pack_version }}.zip"
-          zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
-          echo "::set-output name=zip_name::$ZIP_NAME"
 
       - name: Checkout modernity branch
         uses: actions/checkout@v3
         with:
           ref: modernity
+          path: modernity
           fetch-depth: 0
 
-      - name: Build ZIP for modernity
-        id: modernity_zip
+      - name: Extract pack version from tag
+        id: vars
         run: |
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.extract_version.outputs.pack_version }} §f- §2Modernity version"
-          jq --arg desc "$DESC" '.pack.description = $desc' pack.mcmeta > temp.mcmeta && mv temp.mcmeta pack.mcmeta
-          ZIP_NAME="Shadow UI ${{ steps.extract_version.outputs.pack_version }} - Modernity version.zip"
-          zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
-          echo "::set-output name=zip_name::$ZIP_NAME"
+          TAG="${GITHUB_REF##*/}"
+          PACK_VERSION="${TAG#v2.8.X/}"
+          echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_OUTPUT
+          echo "TAG=$TAG" >> $GITHUB_OUTPUT
 
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Upload release assets
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq zip
+
+      # Prepare and zip main branch pack
+      - name: Prepare and zip main branch pack
+        run: |
+          cd main
+          PACK_META="pack.mcmeta"
+          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }}"
+          jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
+          ZIP_NAME="Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}.zip"
+          zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
+          echo "$ZIP_NAME" > ../main_zip_name.txt
+        shell: bash
+
+      # Prepare and zip modernity branch pack
+      - name: Prepare and zip modernity branch pack
+        run: |
+          cd modernity
+          PACK_META="pack.mcmeta"
+          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §f- §2Modernity version"
+          jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
+          ZIP_NAME="Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}-Modernity version.zip"
+          zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
+          echo "$ZIP_NAME" > ../modernity_zip_name.txt
+        shell: bash
+
+      - name: Read ZIP file names
+        id: zipfiles
+        run: |
+          MAIN_ZIP=$(cat main_zip_name.txt)
+          MODERNITY_ZIP=$(cat modernity_zip_name.txt)
+          echo "MAIN_ZIP=$MAIN_ZIP" >> $GITHUB_OUTPUT
+          echo "MODERNITY_ZIP=$MODERNITY_ZIP" >> $GITHUB_OUTPUT
+
+      - name: Upload Release with both ZIPs
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ needs.build.outputs.tag_name }}
-          name: ${{ needs.build.outputs.tag_name }}
-          body: |
-            ### Version
-            - Minecraft 1.7.10
-            - GTNH 2.8.X
-            - Pack version ${{ needs.build.outputs.pack_version }}
+          tag_name: ${{ steps.vars.outputs.TAG }}
+          name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}
           files: |
-            ${{ needs.build.outputs.main_zip }}
-            ${{ needs.build.outputs.modernity_zip }}
+            main/${{ steps.zipfiles.outputs.MAIN_ZIP }}
+            modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
