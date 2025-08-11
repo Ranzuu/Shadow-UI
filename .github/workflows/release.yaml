@@ -105,6 +105,7 @@ jobs:
         with:
           tag_name: ${{ steps.vars.outputs.TAG }}
           name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}
+          prerelease: true
           files: |
             main/${{ steps.zipfiles.outputs.MAIN_ZIP }}
             modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
