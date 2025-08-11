@@ -10,6 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Show GitHub context (debug)
+        run: |
+          echo "GITHUB_REF: $GITHUB_REF"
+          echo "GITHUB_REF_NAME: ${{ github.ref_name }}"
+          echo "GITHUB_SHA: $GITHUB_SHA"
+
+      - name: Extract tag name (debug)
+        id: vars
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          echo "Extracted TAG: $TAG"
+          echo "PACK_VERSION=${TAG#v2.8.X/}"
+          echo "TAG=$TAG" >> $GITHUB_OUTPUT
+          echo "PACK_VERSION=${TAG#v2.8.X/}" >> $GITHUB_OUTPUT
+
+      - name: Debug checkout info before checkout
+        run: |
+          git --version
+          git tag -l || echo "No tags found yet"
+          git log -1 || echo "No commits found"
+
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
@@ -24,13 +45,17 @@ jobs:
           path: modernity
           fetch-depth: 0
 
-      - name: Extract pack version from tag
-        id: vars
+      - name: Debug git tags after checkout
         run: |
-          TAG="${GITHUB_REF##*/}"
-          PACK_VERSION="${TAG#v2.8.X/}"
-          echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_OUTPUT
-          echo "TAG=$TAG" >> $GITHUB_OUTPUT
+          echo "Tags in main branch:"
+          cd main
+          git tag -l
+          cd ..
+
+          echo "Tags in modernity branch:"
+          cd modernity
+          git tag -l
+          cd ..
 
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq zip
@@ -66,6 +91,14 @@ jobs:
           MODERNITY_ZIP=$(cat modernity_zip_name.txt)
           echo "MAIN_ZIP=$MAIN_ZIP" >> $GITHUB_OUTPUT
           echo "MODERNITY_ZIP=$MODERNITY_ZIP" >> $GITHUB_OUTPUT
+
+      - name: Debug Release Inputs
+        run: |
+          echo "Release tag_name: ${{ steps.vars.outputs.TAG }}"
+          echo "Release name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}"
+          echo "Files to upload:"
+          echo "main/${{ steps.zipfiles.outputs.MAIN_ZIP }}"
+          echo "modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}"
 
       - name: Upload Release with both ZIPs
         uses: softprops/action-gh-release@v1
