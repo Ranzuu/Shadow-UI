@@ -1,17 +1,17 @@
 # GUI
 gui.appliedenergistics2.CraftingTerminal=§7Crafting Terminal
-gui.appliedenergistics2.METunnel=§7ME
-gui.appliedenergistics2.ItemTunnel=§7Item
-gui.appliedenergistics2.FluidTunnel=§7Fluid
-gui.appliedenergistics2.RedstoneTunnel=§7Redstone
-gui.appliedenergistics2.EUTunnel=§7EU
-gui.appliedenergistics2.RFTunnel=§7RF
-gui.appliedenergistics2.LightTunnel=§7Light
-gui.appliedenergistics2.SoundTunnel=§7Sound
-gui.appliedenergistics2.OCTunnel=§7OpenComputers
-gui.appliedenergistics2.PressureTunnel=§7Pressure
-gui.appliedenergistics2.GTTunnel=§7GT EU
-gui.appliedenergistics2.IFACETunnel=§7ME Interface
+gui.appliedenergistics2.METunnel=ME
+gui.appliedenergistics2.ItemTunnel=Item
+gui.appliedenergistics2.FluidTunnel=Fluid
+gui.appliedenergistics2.RedstoneTunnel=Redstone
+gui.appliedenergistics2.EUTunnel=EU
+gui.appliedenergistics2.RFTunnel=RF
+gui.appliedenergistics2.LightTunnel=Light
+gui.appliedenergistics2.SoundTunnel=Sound
+gui.appliedenergistics2.OCTunnel=OpenComputers
+gui.appliedenergistics2.PressureTunnel=Pressure
+gui.appliedenergistics2.GTTunnel=GT EU
+gui.appliedenergistics2.IFACETunnel=ME Interface
 
 gui.appliedenergistics2.security.extract.name=§7Withdraw
 gui.appliedenergistics2.security.inject.name=§7Deposit
