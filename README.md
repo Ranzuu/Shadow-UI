@@ -4,13 +4,13 @@
 Based on [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 
 
-> [Other resource packs](https://gtnh.miraheze.org/wiki/Resource_Packs)
+> [Other resource packs](https://wiki.gtnewhorizons.com/wiki/Resource_Packs)
 
 
 ### Little Preview 
 Vanilla GTNH version
 
-<img width="744" height="843" alt="PrevV" src="https://github.com/user-attachments/assets/0cfe9568-903a-4bff-ba19-63594502f302" />
+<img width="744" height="843" alt="PrevV" src="https://github.com/user-attachments/assets/39679340-9895-4eab-8f0b-6b9c7759fcbf" />
 
 
 Modernity version
@@ -38,6 +38,7 @@ You can manually change the WAILA colors to match the gui colors.
 Additional texture pack that adds solid border that matches the color of the ore. Compatible with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH).
 > [OutlinedOres-Modern](https://github.com/Ranzuu/OutlinedOres-Modern)
 
+### AE2 Dark Mode
 Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
 > [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 ---
