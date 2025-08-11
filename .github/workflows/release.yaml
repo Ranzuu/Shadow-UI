@@ -63,7 +63,7 @@ jobs:
           echo "Packaged resource pack to $ZIP_NAME"
           echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_OUTPUT
 
-      - name: Create GitHub Release and Upload Asset
+      - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.vars.outputs.TAG }}
@@ -73,7 +73,7 @@ jobs:
             - Minecraft 1.7.10
             - GTNH 2.8.X
             - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
-          asset_path: ${{ steps.vars.outputs.ZIP_NAME }}
           prerelease: true
+          files: ${{ steps.vars.outputs.ZIP_NAME }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
