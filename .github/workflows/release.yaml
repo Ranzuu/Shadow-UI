@@ -3,7 +3,7 @@ name: Build and Release Resource Pack
 on:
   push:
     tags:
-      - 'v2.8.X/v*'  # Trigger only on full tags
+      - 'v2.8.X/v*'  # Trigger only on full tags like v2.8.X/v4.2
 
 jobs:
   build_release:
@@ -14,10 +14,10 @@ jobs:
         branch: [main, modernity]
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo at tag
         uses: actions/checkout@v3
         with:
-          ref: ${{ matrix.branch }}
+          ref: ${{ github.ref }}
           fetch-depth: 0
 
       - name: Extract version info from tag
@@ -30,7 +30,7 @@ jobs:
           echo "TAG=$TAG" >> $GITHUB_OUTPUT
           echo "BRANCH=${{ matrix.branch }}" >> $GITHUB_OUTPUT
 
-      - name: Install jq
+      - name: Install jq and zip
         run: sudo apt-get update && sudo apt-get install -y jq zip
 
       - name: Update pack.mcmeta with new version and description
@@ -58,7 +58,7 @@ jobs:
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
           echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_OUTPUT
 
-      - name: Upload release assets (part 1)
+      - name: Upload release assets (main branch)
         if: matrix.branch == 'main'
         uses: softprops/action-gh-release@v1
         with:
@@ -74,7 +74,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload release assets (part 2)
+      - name: Upload release assets (modernity branch)
         if: matrix.branch == 'modernity'
         uses: softprops/action-gh-release@v1
         with:
