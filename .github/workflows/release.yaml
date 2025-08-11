@@ -3,16 +3,21 @@ name: Build and Release Resource Pack
 on:
   push:
     tags:
-      - 'v2.8.X/v*'
+      - 'v2.8.X/v*'   # triggered on existing tag push
 
 jobs:
   build_release:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        branch: [main, modernity]
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
+          ref: ${{ matrix.branch }}
           fetch-depth: 0
 
       - name: Extract version info from tag
@@ -22,18 +27,8 @@ jobs:
           echo "Tag: $TAG"
           PACK_VERSION="${TAG#v2.8.X/}"
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_OUTPUT
-          BRANCH="main"
-          if git tag --merged modernity | grep -q "$TAG"; then
-            BRANCH="modernity"
-          fi
-          echo "BRANCH=$BRANCH" >> $GITHUB_OUTPUT
           echo "TAG=$TAG" >> $GITHUB_OUTPUT
-
-      - name: Checkout branch for tag
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ steps.vars.outputs.BRANCH }}
-          fetch-depth: 0
+          echo "BRANCH=${{ matrix.branch }}" >> $GITHUB_OUTPUT
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
@@ -64,17 +59,10 @@ jobs:
           echo "Packaged resource pack to $ZIP_NAME"
           echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_OUTPUT
 
-      - name: Create GitHub Release
+      - name: Upload Release Asset
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.vars.outputs.TAG }}
-          name: ${{ steps.vars.outputs.TAG }}
-          body: |
-            ### Version 
-            - Minecraft 1.7.10
-            - GTNH 2.8.X
-            - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
-          prerelease: true
           files: ${{ steps.zip.outputs.ZIP_NAME }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
