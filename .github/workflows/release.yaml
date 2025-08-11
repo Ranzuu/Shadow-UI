@@ -60,7 +60,6 @@ jobs:
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq zip
 
-      # Prepare and zip main branch pack
       - name: Prepare and zip main branch pack
         run: |
           cd main
@@ -72,7 +71,6 @@ jobs:
           echo "$ZIP_NAME" > ../main_zip_name.txt
         shell: bash
 
-      # Prepare and zip modernity branch pack
       - name: Prepare and zip modernity branch pack
         run: |
           cd modernity
@@ -106,6 +104,11 @@ jobs:
           tag_name: ${{ steps.vars.outputs.TAG }}
           name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}
           prerelease: true
+          body: |
+            ### Version Info
+            - Minecraft 1.7.10
+            - GTNH 2.8.X
+            - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
           files: |
             main/${{ steps.zipfiles.outputs.MAIN_ZIP }}
             modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
