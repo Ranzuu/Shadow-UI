@@ -74,6 +74,14 @@ jobs:
             - GTNH 2.8.X
             - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
           prerelease: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.vars.outputs.TAG }}
+          name: ${{ steps.vars.outputs.ZIP_NAME }}
           files: ${{ steps.vars.outputs.ZIP_NAME }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
