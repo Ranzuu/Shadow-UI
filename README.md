@@ -4,7 +4,7 @@
 Based on [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 
 
-> [Other resource packs](https://gtnh.miraheze.org/wiki/Resource_Packs)
+> [Other resource packs](https://wiki.gtnewhorizons.com/wiki/Resource_Packs)
 
 
 ### Little Preview 
