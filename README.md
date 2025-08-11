@@ -10,7 +10,7 @@ Based on [Charcoal.UI-main](https://github.com/Jimbno/Charcoal.UI) by Jimbno
 ### Little Preview 
 Vanilla GTNH version
 
-<img width="744" height="843" alt="test" src="https://github.com/user-attachments/assets/c4ea6d35-bf82-4948-823d-13d92234ccb5" />
+<img width="744" height="843" alt="PrevV" src="https://github.com/user-attachments/assets/39679340-9895-4eab-8f0b-6b9c7759fcbf" />
 
 
 Modernity version
