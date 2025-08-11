@@ -3,82 +3,74 @@ name: Build and Release Resource Pack
 on:
   push:
     tags:
-      - 'v2.8.X/v*'  # Trigger only on full tags like v2.8.X/v4.2
+      - 'v2.8.X/v*'  # Trigger on tags like v2.8.X/v4.2
 
 jobs:
-  build_release:
+  build:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        branch: [main, modernity]
+    outputs:
+      main_zip: ${{ steps.main_zip.outputs.zip_name }}
+      modernity_zip: ${{ steps.modernity_zip.outputs.zip_name }}
 
     steps:
-      - name: Checkout repo at tag
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.ref }}
+          ref: main
           fetch-depth: 0
 
-      - name: Extract version info from tag
+      - name: Extract version from tag
         id: vars
         run: |
           TAG="${GITHUB_REF##*/}"
-          echo "Tag: $TAG"
-          PACK_VERSION="${TAG#v2.8.X/}"
-          echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_OUTPUT
-          echo "TAG=$TAG" >> $GITHUB_OUTPUT
-          echo "BRANCH=${{ matrix.branch }}" >> $GITHUB_OUTPUT
+          echo "PACK_VERSION=${TAG#v2.8.X/}" >> $GITHUB_ENV
+          echo "TAG=$TAG" >> $GITHUB_ENV
 
-      - name: Install jq and zip
+      - name: Install tools
         run: sudo apt-get update && sudo apt-get install -y jq zip
 
-      - name: Update pack.mcmeta with new version and description
+      - name: Build ZIP for main
+        id: main_zip
         run: |
-          PACK_META="pack.mcmeta"
-          PACK_VERSION="${{ steps.vars.outputs.PACK_VERSION }}"
-          BRANCH="${{ steps.vars.outputs.BRANCH }}"
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${PACK_VERSION}"
-          if [[ "$BRANCH" == "modernity" ]]; then
-            DESC="$DESC §f- §2Modernity version"
-          fi
-          jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
-          echo "Updated pack.mcmeta description to: $DESC"
-
-      - id: zip
-        name: Zip the resource pack
-        run: |
-          PACK_VERSION="${{ steps.vars.outputs.PACK_VERSION }}"
-          BRANCH="${{ steps.vars.outputs.BRANCH }}"
-          ZIP_NAME="Shadow UI ${PACK_VERSION}"
-          if [[ "$BRANCH" == "modernity" ]]; then
-            ZIP_NAME="${ZIP_NAME}-Modernity version"
-          fi
-          ZIP_NAME="${ZIP_NAME}.zip"
+          DESC="§8GTNH v2.8.X §f/ §3Pack $PACK_VERSION"
+          jq --arg desc "$DESC" '.pack.description = $desc' pack.mcmeta > temp.mcmeta && mv temp.mcmeta pack.mcmeta
+          ZIP_NAME="Shadow UI $PACK_VERSION.zip"
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
-          echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_OUTPUT
+          echo "zip_name=$ZIP_NAME" >> $GITHUB_OUTPUT
 
-      - name: Upload release assets (main branch)
-        if: matrix.branch == 'main'
+      - name: Checkout modernity branch
+        uses: actions/checkout@v3
+        with:
+          ref: modernity
+          fetch-depth: 0
+
+      - name: Build ZIP for modernity
+        id: modernity_zip
+        run: |
+          DESC="§8GTNH v2.8.X §f/ §3Pack $PACK_VERSION §f- §2Modernity version"
+          jq --arg desc "$DESC" '.pack.description = $desc' pack.mcmeta > temp.mcmeta && mv temp.mcmeta pack.mcmeta
+          ZIP_NAME="Shadow UI $PACK_VERSION - Modernity version.zip"
+          zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
+          echo "zip_name=$ZIP_NAME" >> $GITHUB_OUTPUT
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub Release and upload assets
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ steps.vars.outputs.TAG }}
-          name: ${{ steps.vars.outputs.TAG }}
+          tag_name: ${{ env.TAG }}
+          name: ${{ env.TAG }}
           body: |
             ### Version
             - Minecraft 1.7.10
             - GTNH 2.8.X
-            - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
-          prerelease: true
-          files: ${{ steps.zip.outputs.ZIP_NAME }}
+            - Pack version ${{ env.PACK_VERSION }}
+          files: |
+            ${{ needs.build.outputs.main_zip }}
+            ${{ needs.build.outputs.modernity_zip }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload release assets (modernity branch)
-        if: matrix.branch == 'modernity'
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: ${{ steps.vars.outputs.TAG }}
-          files: ${{ steps.zip.outputs.ZIP_NAME }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ github.ref_name }}
+          PACK_VERSION: ${{ github.ref_name && github.ref_name.replace('v2.8.X/', '') }}
