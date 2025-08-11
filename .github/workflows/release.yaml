@@ -3,7 +3,7 @@ name: Build and Release Resource Pack
 on:
   push:
     tags:
-      - 'v2.8.X/v*'   # triggered on existing tag push
+      - 'v2.8.X/v*'  # Trigger only on full tags
 
 jobs:
   build_release:
@@ -31,7 +31,7 @@ jobs:
           echo "BRANCH=${{ matrix.branch }}" >> $GITHUB_OUTPUT
 
       - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+        run: sudo apt-get update && sudo apt-get install -y jq zip
 
       - name: Update pack.mcmeta with new version and description
         run: |
@@ -56,10 +56,26 @@ jobs:
           fi
           ZIP_NAME="${ZIP_NAME}.zip"
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
-          echo "Packaged resource pack to $ZIP_NAME"
           echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_OUTPUT
 
-      - name: Upload Release Asset
+      - name: Upload release assets (part 1)
+        if: matrix.branch == 'main'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.vars.outputs.TAG }}
+          name: ${{ steps.vars.outputs.TAG }}
+          body: |
+            ### Version
+            - Minecraft 1.7.10
+            - GTNH 2.8.X
+            - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
+          prerelease: true
+          files: ${{ steps.zip.outputs.ZIP_NAME }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload release assets (part 2)
+        if: matrix.branch == 'modernity'
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.vars.outputs.TAG }}
