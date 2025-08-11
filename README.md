@@ -38,6 +38,7 @@ You can manually change the WAILA colors to match the gui colors.
 Additional texture pack that adds solid border that matches the color of the ore. Compatible with [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH).
 > [OutlinedOres-Modern](https://github.com/Ranzuu/OutlinedOres-Modern)
 
+### AE2 Dark Mode
 Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
 > [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 ---
