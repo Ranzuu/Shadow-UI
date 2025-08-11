@@ -47,5 +47,3 @@ Additional texture pack that backports Ae2 (and addons) darker and modern blocks
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
-
