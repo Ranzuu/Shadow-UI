@@ -41,8 +41,11 @@ Additional texture pack that adds solid border that matches the color of the ore
 ### AE2 Dark Mode
 Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
 > [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
----
 
+### Additional tweaks and fixes
+[Just-Fire](https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-Fire) - Overrides the vanilla fire texture to be lower.
+
+---
 ### Licensing
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
