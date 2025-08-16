@@ -44,6 +44,7 @@ Additional texture pack that backports Ae2 (and addons) darker and modern blocks
 
 ### Additional tweaks and fixes
 [Just-Fire](https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-Fire) - Overrides the vanilla fire texture to be lower.
+[Just-NoGalacticEq](https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-NoGalacticEq) - Removes the Galacticraft equipment player models.
 
 ---
 ### Licensing
