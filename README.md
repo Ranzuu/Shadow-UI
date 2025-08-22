@@ -47,7 +47,7 @@ Additional texture pack that backports Ae2 (and addons) darker and modern blocks
 
 [Just-NoModels](https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-NoModels) - Removes the equipment player models for mods such as: Galacticraft/ElectroMagicTools.
 
-[Shadow Island](https://github.com/Ranzuu/Shadow-UI/releases/tag/Shadow_Island) - Custom map my personal dimension.
+[Shadow Island](https://github.com/Ranzuu/Shadow-UI/releases/tag/Shadow_Island) - Custom map for my personal dimension.
 
 ---
 ### Licensing
