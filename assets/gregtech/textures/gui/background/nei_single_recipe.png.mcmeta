@@ -1,33 +1,14 @@
 {
-  "colors": {
-    "guiTint": {
-      "enableGUITint": false,
-      "Black":      "909090",
-      "Red":        "FFCCCC",
-      "Green":      "C3FCB4",
-      "Brown":      "C5B173",
-      "Blue":       "ABBAFC",
-      "Purple":     "DD93FF",
-      "Cyan":       "B5FBFE",
-      "Light Gray": "CFCFCF",
-      "Gray":       "B4B4B4",
-      "Pink":       "FE9DF4",
-      "Lime":       "B3FCD7",
-      "Yellow":     "FEFFA2",
-      "Light Blue": "A2FFF7",
-      "Magenta":    "F771FF",
-      "Orange":     "FFD075",
-      "White":      "FFFFFF",
-      "Machine Metal": "FFFFFF"
-    },
-    "textColor": {
-      "title": "AAAAAA",
-      "title_white": "AAAAAA",
-      "text_gray": "AAAAAA",
-      "text_red": "AA0000",
-      "text_white": "AAAAAA",
-      "nei": "AAAAAA",
-      "nei_overlay": "AAAAAA"
-    }
-  }
+	"colors": {
+		"textColor": {
+		"title": "AAAAAA",
+		"title_white": "AAAAAA",
+		"text_gray": "AAAAAA",
+		"text_red": "AAAAAA",
+		"text_white": "AAAAAA",
+		"nei": "AAAAAA",
+		"nei_overlay": "AAAAAA",
+		"value": "AAAAAA"
+		}
+	}
 }
