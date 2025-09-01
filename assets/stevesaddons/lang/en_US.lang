@@ -1,0 +1,26 @@
+gui.sfm.RfInputLong=§7RF Input
+gui.sfm.RfInputShort=§7RF Input
+
+gui.sfm.RfOutputLong=§7RF Output
+gui.sfm.RfOutputShort=§7RF Output
+
+gui.sfm.TypeRf=§7RF Storage
+gui.sfm.TypeRfInput=§7RF Provider
+gui.sfm.TypeRfOutput=§7RF Receiver
+gui.sfm.NoRfError=§7No RF Storage Selected
+
+gui.sfm.CopyCommand=§7Copy [Drop Command Here]
+
+gui.sfm.RfConditionShort=§7RF Condition
+gui.sfm.RfConditionLong=§7RF Condition
+gui.sfm.RfConditionMenu=§7RF Level
+gui.sfm.RfConditionInfo=§7Set the trigger level in the text box, and trigger above or below
+gui.sfm.RfConditionError=§7Invalid trigger level
+gui.sfm.Below=§7Trigger low
+
+gui.sfm.DelayOutput=§7Delayed Output
+gui.sfm.DelayTrigger=§7Delayed Trigger
+gui.sfm.DelayInfo=§7Set the delay in seconds, ticks before the trigger fires (minimum 5 ticks)
+gui.sfm.DelayError=§7Delay too low.
+gui.sfm.DelayRestart=§7Restart
+gui.sfm.DelayIgnore=§7Ignore

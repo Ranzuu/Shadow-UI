@@ -42,3 +42,10 @@ ae2fc.gui.part_fluid_export=§7ME Fluid Export Bus
 ae2fc.gui.part_fluid_terminal=§7ME Fluid Terminal
 ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
 ae2fc.gui.fluid_auto_filler=§7ME Fluid Auto Filler
+
+ae2fc.gui.magnet=§7Magnet Filter
+ae2fc.gui.magnet.nbt=§7Ignore NBT Data
+ae2fc.gui.magnet.meta=§7Ignore Meta Data
+ae2fc.gui.magnet.ore=§7Use Ore Dictionary
+ae2fc.gui.magnet.whitelist=§7Whitelisting
+ae2fc.gui.magnet.blacklist=§7BlackListing
