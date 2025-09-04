@@ -8,7 +8,6 @@ crafters.Smeltery=§7Smeltery
 
 inventory.PatternChest=§7Pattern Chest
 
-
 gui.partcrafter1=§7Tool Part Crafting
 gui.partcrafter2=§7Tool Part Building
 gui.partcrafter3=§7Place a pattern and a material on the left to get started.
@@ -47,3 +46,9 @@ gui.toolstation20=§7Protection:
 gui.toolstation21=§7Ammo: 
 gui.toolstation22=§7Break Chance: 
 gui.toolstation23=§7Max. Attack: 
+
+entity.TConstruct.EdibleSlime.name=§7Blue Slime
+entity.TConstruct.KingSlime.name=§7King Slime
+entity.TConstruct.Gardeslime.name=§7Gardeslime
+entity.TConstruct.MiniGardy.name=§7Mini Gardeslime
+entity.TConstruct.Crystal.name=§7Crystal

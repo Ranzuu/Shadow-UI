@@ -118,5 +118,22 @@ gui.status.hullHeat.name=§7Hull Heat
 
 gui.title.airLock.name=§7%s's Air Lock Controller
 
-
 gui.status.unknown.name=§dUnknown
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Alien Villager
+entity.GalacticraftCore.Buggy.name=§7Buggy
+entity.GalacticraftCore.EvolvedCreeper.name=§7Evolved Creeper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Evolved Skeleton
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Evolved Skeleton Boss
+entity.GalacticraftCore.EvolvedSpider.name=§7Evolved Spider
+entity.GalacticraftCore.EvolvedZombie.name=§7Evolved Zombie
+entity.GalacticraftCore.Flag.name=§7Flag
+entity.GalacticraftCore.GCFlag.name=§7Flag
+entity.GalacticraftCore.GravityArrow.name=§7Arrow
+entity.GalacticraftCore.Lander.name=§7Space Lander
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
+entity.GalacticraftCore.OxygenBubble.name=§7Oxygen Bubble
+entity.GalacticraftCore.ParaChest.name=§7Parachest
+entity.GalacticraftCore.Spaceship.name=§7Tier 1 Rocket

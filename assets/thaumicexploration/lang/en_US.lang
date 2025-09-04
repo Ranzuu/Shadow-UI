@@ -1,0 +1,370 @@
+----Item Names----
+item.thaumicexploration:tentacleRing.name=Taintacle Ring
+item.thaumicexploration:stabilizerBelt.name=Thaumostatic Stabilizer
+item.thaumicexploration:pureZombieBrain.name=Cured Zombie Brain
+item.thaumicexploration:transmutationCore.name=Transmutative Rod
+item.thaumicexploration:transmutationStaffCore.name=Transmutative Staff Core
+item.thaumicexploration:amberCore.name=Amber Rod
+item.thaumicexploration:amberStaffCore.name=Amber Staff Core
+item.thaumicexploration:breadCore.name=Baguette Rod
+item.thaumicexploration:necroStaffCore.name=Necromancer's Staff Core
+item.thaumicexploration:capSojourner.name=Sojourner's Cap
+item.thaumicexploration:capSojournerInert.name=Inert Sojourner's Cap
+item.thaumicexploration:capMechanist.name=Mechanist's Cap
+item.thaumicexploration:capMechanistInert.name=Inert Mechanist's Cap
+item.thaumicexploration:maskEvil.name=Mask of Cruelty
+item.thaumicexploration:bootsMeteor.name=Boots of the Meteor
+item.thaumicexploration:bootsComet.name=Boots of the Comet
+item.thaumicexploration:runicBootsMeteor.name=Runic Boots of the Meteor
+item.thaumicexploration:runicBootsComet.name=Runic Boots of the Comet
+item.thaumicexploration:theCandle.name=The Candle
+
+item.thaumicexploration:enhancedHelmetRunic.name=Enhanced Runic Headpiece
+item.thaumicexploration:enhancedChestplateRunic.name=Enhanced Runic Chestpiece
+item.thaumicexploration:enhancedLeggingsRunic.name=Enhanced Runic Legpiece
+item.thaumicexploration:enhancedBootsRunic.name=Enhanced Runic Foodpiece
+
+item.thaumicexploration:dreamcatcher.name=Wispy Dreamcatcher
+item.thaumicexploration:ringTaint.name=Tainted Band
+item.thaumicexploration:talismanFood.name=Talisman of Nourishment
+item.thaumicexploration:taintBerry.name=Taintberry
+item.thaumicexploration:necroAltar.name=Necromantic Pedestal
+thaumicexploration.bread0=Will you be my friend?
+thaumicexploration.bread1=Please eat me.
+thaumicexploration.bread2=Are you feeling hungry?
+thaumicexploration.bread3=Bonjour, monsieur.
+thaumicexploration.bread4=Mangez-moi, s'il vous plait.
+
+item.thaumicexploration:discountRing.name=Ring
+item.thaumicexploration:discountRing:0.name=Ring of Aer
+item.thaumicexploration:discountRing:1.name=Ring of Terra
+item.thaumicexploration:discountRing:2.name=Ring of Ignis
+item.thaumicexploration:discountRing:3.name=Ring of Aqua
+item.thaumicexploration:discountRing:4.name=Ring of Ordo
+item.thaumicexploration:discountRing:5.name=Ring of Perditio
+
+tc.aspect.Necromantic Energy=Energy of the Undead
+
+----Creative Tab----
+itemGroup.thaumicExploration=Thaumic Exploration
+
+----Death Messages----
+death.attack.witherMask=%1$s was withered away by %2$s
+death.attack.noTaint=%1$s suffered from Taint withdrawl
+potion.binding=Binding
+potion.taintWithdrawl=Taint Withdrawl
+
+----Misc---
+soulbrazier.invalidplayer=The brazier grumbles and spits as it refuses to work for an unknown soul
+soulbrazier.nopower=The brazier spluters as it's reserves are too dry.
+soulbrazier.noWarp=You have no permanent warp to get rid of.
+txitems.boundJar.networkInfo=Network ID: %s
+txitems.boundJar.noNetworkInfo=No Network
+
+txwaila.boundJar.network=Network: %s
+txwaila.boundJar.colour=Colour: %S
+
+ttwaila.soulBrazier.essentia=Essentia: %d
+ttwaila.soulBrazier.vis=Vis: %d
+ttwaila.soulBrazier.active=Active
+ttwaila.soulBrazier.notActive=Not Active
+ttwaila.soulBrazier.warp=Warp: %d
+ttwaila.soulBrazier.owner=Owner: %s
+ttwaila.everburnUrn.fluid=Lava: %d mb
+----Enchantment Names----
+enchantment.binding=Binding
+enchantment.nightVision=Night Vision
+enchantment.disarm=Disarming
+
+----Wand Names----
+item.Wand.AMBER.rod=Amber
+item.Wand.BREAD.rod=Baguette
+item.Wand.TRANSMUTATION.rod=Transmutative
+item.Wand.NECROMANCER.rod=Necromancer's
+item.Wand.SOJOURNER.cap=Sojourner's
+item.Wand.MECHANIST.cap=Mechanist's
+
+----Blank Seals----
+item.thaumicexploration:blankSeal:Pale.name=Pale Blank Seal
+item.thaumicexploration:blankSeal:Orange.name=Orange Blank Seal
+item.thaumicexploration:blankSeal:Magenta.name=Magenta Blank Seal
+item.thaumicexploration:blankSeal:Light Blue.name=Light Blue Blank Seal
+item.thaumicexploration:blankSeal:Yellow.name=Yellow Blank Seal
+item.thaumicexploration:blankSeal:Lime.name=Lime Blank Seal
+item.thaumicexploration:blankSeal:Pink.name=Pink Blank Seal
+item.thaumicexploration:blankSeal:Gray.name=Gray Blank Seal
+item.thaumicexploration:blankSeal:Light Gray.name=Light Gray Blank Seal
+item.thaumicexploration:blankSeal:Cyan.name=Cyan Blank Seal
+item.thaumicexploration:blankSeal:Purple.name=Purple Blank Seal
+item.thaumicexploration:blankSeal:Blue.name=Blue Blank Seal
+item.thaumicexploration:blankSeal:Brown.name=Brown Blank Seal
+item.thaumicexploration:blankSeal:Green.name=Green Blank Seal
+item.thaumicexploration:blankSeal:Red.name=Red Blank Seal
+item.thaumicexploration:blankSeal:Dark.name=Dark Blank Seal
+
+----Chest Seals----
+item.thaumicexploration:chestSeal.name=Chest Binding Seal
+item.thaumicexploration:chestSeal:Pale.name=Pale Chest Binding Seal
+item.thaumicexploration:chestSeal:Orange.name=Orange Chest Binding Seal
+item.thaumicexploration:chestSeal:Magenta.name=Magenta Chest Binding Seal
+item.thaumicexploration:chestSeal:Light Blue.name=Light Blue Chest Binding Seal
+item.thaumicexploration:chestSeal:Yellow.name=Yellow Chest Binding Seal
+item.thaumicexploration:chestSeal:Lime.name=Lime Chest Binding Seal
+item.thaumicexploration:chestSeal:Pink.name=Pink Chest Binding Seal
+item.thaumicexploration:chestSeal:Gray.name=Gray Chest Binding Seal
+item.thaumicexploration:chestSeal:Light Gray.name=Light Gray Chest Binding Seal
+item.thaumicexploration:chestSeal:Cyan.name=Cyan Chest Binding Seal
+item.thaumicexploration:chestSeal:Purple.name=Purple Chest Binding Seal
+item.thaumicexploration:chestSeal:Blue.name=Blue Chest Binding Seal
+item.thaumicexploration:chestSeal:Brown.name=Brown Chest Binding Seal
+item.thaumicexploration:chestSeal:Green.name=Green Chest Binding Seal
+item.thaumicexploration:chestSeal:Red.name=Red Chest Binding Seal
+item.thaumicexploration:chestSeal:Dark.name=Dark Chest Binding Seal
+
+----Jar Seals----
+item.thaumicexploration:jarSeal.name=Jar Binding Seal
+item.thaumicexploration:jarSeal:Pale.name=Pale Jar Binding Seal
+item.thaumicexploration:jarSeal:Orange.name=Orange Jar Binding Seal
+item.thaumicexploration:jarSeal:Magenta.name=Magenta Jar Binding Seal
+item.thaumicexploration:jarSeal:Light Blue.name=Light Blue Jar Binding Seal
+item.thaumicexploration:jarSeal:Yellow.name=Yellow Jar Binding Seal
+item.thaumicexploration:jarSeal:Lime.name=Lime Jar Binding Seal
+item.thaumicexploration:jarSeal:Pink.name=Pink Jar Binding Seal
+item.thaumicexploration:jarSeal:Gray.name=Gray Jar Binding Seal
+item.thaumicexploration:jarSeal:Light Gray.name=Light Gray Jar Binding Seal
+item.thaumicexploration:jarSeal:Cyan.name=Cyan Jar Binding Seal
+item.thaumicexploration:jarSeal:Purple.name=Purple Jar Binding Seal
+item.thaumicexploration:jarSeal:Blue.name=Blue Jar Binding Seal
+item.thaumicexploration:jarSeal:Brown.name=Brown Jar Binding Seal
+item.thaumicexploration:jarSeal:Green.name=Green Jar Binding Seal
+item.thaumicexploration:jarSeal:Red.name=Red Jar Binding Seal
+item.thaumicexploration:jarSeal:Dark.name=Dark Jar Binding Seal
+
+----Block Names----
+tile.thaumicexploration:thinkTankJar.name=Think Tank
+tile.thaumicexploration:everfullUrn.name=Everfull Urn
+tile.thaumicexploration:everburnUrn.name=Everburn Urn
+tile.thaumicexploration:crucibleSouls.name=Crucible of Souls
+tile.thaumicexploration:replicator.name=Thaumic Replicator
+tile.thaumicexploration:trashJar.name=Oblivion Jar
+tile.thaumicexploration:soulBrazier.name=Soul Brazier
+tile.boundJar.name=Bound Jar
+tile.boundChest.name=Bound Chest
+tile.thaumicexploration:floatCandle.name=Floating Candle
+tile.thaumicexploration:floatCandle.0.name=White Floating Candle
+tile.thaumicexploration:floatCandle.1.name=Orange Floating Candle
+tile.thaumicexploration:floatCandle.2.name=Magenta Floating Candle
+tile.thaumicexploration:floatCandle.3.name=Light Blue Floating Candle
+tile.thaumicexploration:floatCandle.4.name=Yellow Floating Candle
+tile.thaumicexploration:floatCandle.5.name=Lime Floating Candle
+tile.thaumicexploration:floatCandle.6.name=Pink Floating Candle
+tile.thaumicexploration:floatCandle.7.name=Gray Floating Candle
+tile.thaumicexploration:floatCandle.8.name=Light Gray Floating Candle
+tile.thaumicexploration:floatCandle.9.name=Cyan Floating Candle
+tile.thaumicexploration:floatCandle.10.name=Purple Floating Candle
+tile.thaumicexploration:floatCandle.11.name=Blue Floating Candle
+tile.thaumicexploration:floatCandle.12.name=Brown Floating Candle
+tile.thaumicexploration:floatCandle.13.name=Green Floating Candle
+tile.thaumicexploration:floatCandle.14.name=Red Floating Candle
+tile.thaumicexploration:floatCandle.15.name=Black Floating Candle
+tile.thaumicexploration:autoSorter.name=Auto-sorter
+
+----Thaumonomicon Entries----
+te.researchPrefix=[TX]
+tc.research_category.TAINT=Tainturgy
+tc.research_category.NECROMANCY=Necromancy
+tc.research_category.TX=Thaumic Exploration
+
+--Oblivion Jar
+te.name.TRASHJAR=Oblivion Jar
+te.tag.TRASHJAR=Essentia disposal
+te.text.TRASHJAR.1=While void jars are very useful in getting rid of large amounts of a certain type of essentia, you often find your infusion room overflowing with several types. Instead of wasting time making a void jar for every mystical aspect, you decided that there must be an easier solution. That solution has manifested itself in the form of the oblivion jar.<BR><BR>While significantly more expensive than its void or warded counterparts, only one oblivion jar is necessary to handle all of the excess essentia from a network. It will obliterate all essentia that enters the jar, much like a filled void jar does.
+te.text.TRASHJAR.2=The oblivion jar has the lowest suction of any jar, meaning that it will only take essentia that has nowhere else to go. Golems may interact with this jar as well, if they do not find another jar that can handle the essentia they are carrying.
+
+--Soul Brazier
+te.name.SOULBRAZIER=Soul Brazier
+te.tag.SOULBRAZIER=Warp is bad mmkay?
+te.text.SOULBRAZIER.1=Warp is a dangerous, malicious force. While in a mind, it is bad enough, released onto the world it is worse, this is why we have made a way to hold this warp safeish. It needs both vis from a node, and Mortus essentia, but it can hold the warp the player has, without too much damage to the enviroment
+
+
+--Taintacle Ring
+te.name.TENTACLERING=Taintacle Ring
+te.tag.TENTACLERING=Henturgy
+te.text.TENTACLERING.1=You have found a way to harness the knowledge you have gained from researching tainted lands. You have discovered a way to summon small taintacles to aid you in combat, similarily to the large taintacles you have found in your travels.<BR><BR>Wearing this ring in one of your ring slots activates this effect. Any time that you take damage and are on solid land, a small taintacle will sprout, attacking nearby foes.
+
+--Discount Rings
+te.name.DISCOUNTRINGS=Shard Rings
+te.tag.DISCOUNTRINGS=Conserving vis
+te.text.DISCOUNTRINGS.1=You have found a way to reduce the amount of vis used by casting wands. Simply carve the mystical shards that you find underground into the shape of a ring, and give them a touch of magic.<BR><BR>A ring can be made for each of the six primal aspects. You may wear up to two of these rings at a time. Two rings of the same aspect will stack their discounts.
+
+--Thaumostatic Stabilizer
+te.name.STABILIZERBELT=Thaumostatic Stabilizer
+te.tag.STABILIZERBELT=Knockback nullifier
+te.text.STABILIZERBELT.1=Using similar technology to that found in the thaumostatic harness, you've created a special belt that nullifies the effect of knockback.<BR><BR>Any time you take damage, instead of being knocked around, you will instead remain in place. You have found this device to be extremely useful for not only flying using the harness, but also for travel at night.
+
+--Floating Candles
+te.name.FLOATCANDLE=Floating Candles
+te.tag.FLOATCANDLE=Wingardium Leviosa
+te.text.FLOATCANDLE.1=You always have felt that tallow candles are missing something... A touch of magic and an Aer shard should be enough to make them look right at home in any respected wizarding school. Floating candles can be placed in midair without a surface beneath them. These candles bob pleasingly, and add a touch of magic to any room.<BR><BR>Like their more mundane counterparts, they can also be used to stabilise infusions.
+
+--Flesh Curing
+te.name.FLESHCURE=Flesh Purification
+te.tag.FLESHCURE=Making things better
+te.text.FLESHCURE.1=By imbuing rotten flesh with certain aspects, you have found that you are able to remove nearly all traces of disease and decomposition from the flesh, rendering it much more useful.<BR><BR>Although this discovery may not be particularly useful, you are sure it will lead to exciting things.
+
+--Brain Curing
+te.name.BRAINCURE=Brain Sanitization
+te.tag.BRAINCURE=Brain washing
+te.text.BRAINCURE.1=You have discovered that by using a process similar to purifying zombie villagers, you can reverse the effects of zombification on the brain. These cured brains exhibit much more intellectual capacity than their diseased counterparts, so you hope they will prove useful in future creations.<BR><BR>Note that any type and any duration of weakening potion will work.
+TO BE IMPLEMENTED: The brains also serve as a bait for zombified creatures, when dropped or placed on an arcane pedestal.
+
+--Think Tank
+te.name.THINKTANK=Think Tank
+te.tag.THINKTANK=All the way from the Big MT
+te.text.THINKTANK.1=Your search for a way to automate research has finally come to an end. You have found that purified zombie brains make the perfect research aide. Placing a few of them in a warded jar with some thaumic devices and supplying them with an ample amount of books will result in a quantity of knowledge fragments. The system is not perfect, and the supplied books are destroyed in the process.
+te.text.THINKTANK.2=This 'think tank' has very particular placement requirements. To construct a working think tank, you must place the tank on top of a bookshelf, with nothing occupying the space in a 3x3x3 cube around the tank except for the bookshelf it is placed on. Note that a wand does not need to be used when setting up your think tank.
+
+--Chest Sealing
+te.name.CHESTSEAL=Seal of Chest Binding
+te.tag.CHESTSEAL=Magical inventory linking
+te.text.CHESTSEAL.1=By soaking a mundane seal made of tallow in a concoction of essentia, you have discovered a way to bind chests so that they share their contents. These seals can be dyed various colors for sorting purposes, but an unlimited number of bound chest networks can be created.<BR><BR>By right clicking on a chest with a chest binding seal, you can create a new network. Right clicking on a bound chest will link the seal to that network. Right clicking on an unbound chest with a linked seal will add that chest to the linked network. Note that only empty chests are able to be bound.
+
+--Jar Sealing
+te.name.JARSEAL=Seal of Jar Binding
+te.tag.JARSEAL=Essentia, essentia everywhere
+te.text.JARSEAL.1=By adjusting the mixture of aspects that you soak the tallow seal in to account for essentia's mystical properties, you have found that you are able to bind essentia containers, in particular, warded jars. Much like your previous binding seals, the jar binding seal can be dyed and an unlimited amount of networks can be created.<BR><BR>By right clicking on a jar with a jar binding seal, you can create a new network. Right clicking on a bound jar will link the seal to that network. Right clicking on an unbound jar with a linked seal will add that jar to the linked network. Note that only empty jars are able to be bound. You can not bind void jars or jars with labels.<BR><BR>Sealed jars have a higher suction than unlabeled jars but lower than labeled jars.
+
+--Everfull Urn
+te.name.URN=Everfull Urn
+te.tag.URN=It seems familiar...
+te.text.URN.1=You have read much about an 'Everfull Urn' in your research, a mystical device created by the great Thaumaturge Azanor that acted as an endless source of water. You have finally constructed a device that can do that and more.<BR><BR>Your Everfull Urn can not only supply water to an infinite amount of buckets, it can also be pumped out of the top to an external tank. Your urn also has the ability to fill any nearby crucible, and extinguish nearby players that are on fire.
+te.text.URN.1B=You have read much about an 'Everfull Urn' in your research, a mystical device created by the great Thaumaturge Azanor that acted as an endless source of water. You have finally constructed a device that can do that and more.<BR><BR>Your Everfull Urn can not only supply water to an infinite amount of buckets, it can also be pumped out of the top to an external tank. Your urn also has the ability to fill any nearby crucible, and extinguish nearby players that are on fire.<BR><BR>The Urn is also able to fill nearby Petal Apothecaries, if one chooses to dabble in floral magic.
+
+
+
+
+--Everburn Urn
+te.name.BURN=Everburn Urn
+te.tag.BURN=Why did I make it out of fire??
+te.text.BURN.1=After researching more into your Everfull Urn, you find a way to generate lava with one.<BR><BR>You find that unlike water, lava needs energy to produce, and so, the Everburn urn as you decide to call it, will need Centivis to power it. Your Everfull Urn can not only supply lava to buckets, it can also be pumped out of the top to an external tank.
+
+--Crucible of Souls
+te.name.CRUCSOULS=Crucible of Souls
+te.tag.CRUCSOULS=Caution: Keep out of reach of children.
+te.text.CRUCSOULS.1=You have discovered a way to take advantage of a previously untapped source of essentia - that of living creatures. Infusing an alchemical furnace with various occult reagents and precise quantities of essentia, will create a crucible of souls, a device that will seek out the nearest living creature and slowly drain their life force, retrieving essentia at the final blow. This comes at the cost of the normal loot the creature would drop. This essentia can then be piped out of any face except the top via essentia tubes.
+te.text.CRUCSOULS.2=The Crucible of Souls is very unstable, and has a high probability of converting some of the essentia to flux or breaking it down into its component parts. You should make preparations to dispose of this flux before it causes a problem.<BR><BR>You have managed to install a basic safeguard so the device will not attack humans, but keep your pets at a safe distance. Magical golems should also be ignored by the device.
+
+--Replicator
+te.name.REPLICATOR=Thaumic Replicator
+te.tag.REPLICATOR=Equivalent exchange
+te.text.REPLICATOR.1=You have been able to break down blocks and items into essentia with an alchemical furnace, now finally you have found a way to do the opposite. You have created a device that can replicate simple building blocks using essentia.<BR><BR>By right clicking the Thaumic Replicator with a block, you can set the template. Right clicking with a wand starts the replication process. Simply look at the Replicator with Goggles of Revealing to see what essentia is neccesary, and place this essentia in nearby jars like you would for an infusion.
+te.text.REPLICATOR.2=This essentia will then form into the block that you set as a template. This block must be removed before starting the process again. Right clicking will remove any blocks in the replicator and right clicking again will reset the template.<BR><BR>This process can also be automated by starting replication with a redstone signal and removing blocks with a hopper.
+
+--Amber Wand Core
+te.name.ROD_AMBER=Amber Wand Core
+te.tag.ROD_AMBER=Regenerative vis storage
+te.text.ROD_AMBER.1=You have finally found a practical use for amber, in the form of a wand core. Amber serves as a poor conduit for vis, and thus can only hold 10 vis of each type, but it has other benefits.<BR><BR>Amber cores seem to store a fleeting memory of vis when empty. By harnessing this memory, you have created a wand core that can replenish all forms of vis at a rather quick rate when not at full capacity. While many of the other wand cores you have created have had regenerative properties, the amber core regenerates one point of every type of vis, instead of one type in particular, at two times the rate.
+
+--Amber Staff Core
+te.name.ROD_AMBER_staff=Amber Staff Core
+te.tag.ROD_AMBER_staff=Regenerative vis storage
+te.text.ROD_AMBER_staff.1=A staff core crafted from amber can store 25 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+
+--Transmutation Staff Core
+te.name.ROD_TRANSMUTATION_staff=Transmutative Staff Core
+te.tag.ROD_TRANSMUTATION_staff=One thing into another
+te.text.ROD_TRANSMUTATION_staff.1=A staff core crafted from a primal charm and various shards can store 175 vis of each type.<BR>Like the wand core it transmutate vis forms when over 90% capacity in a particular type.
+
+--Necromancer's Staff Core
+te.name.ROD_NECROMANCER_staff=Necromancer's Staff Core
+te.tag.ROD_NECROMANCER_staff=The power of the undead
+te.text.ROD_NECROMANCER_staff.1=You have created a horrifying tool by infusing a Bone Staff Core with remnants of the undead.<BR><BR>This staff core is the perfect tool for the bloodthirsty thaumaturge. It boasts a large capacity of 200 vis, and receives four times the normal amount of vis from killed monsters. In addition, this staff is an even more proficient at melee combat. Striking a monster begins to wither their life force away. Unfortunately, this does not come without downsides. The dark magic used to infuse the staff makes it less receptive to vis obtained from other means, only effectively receiving 75% of the vis an ordinary wand would from nodes or other sources.
+
+--Bread Wand Core
+te.name.ROD_BREAD=Baguette Wand Core
+te.tag.ROD_BREAD=Frenchman's vis storage
+te.text.ROD_BREAD.1=Bonjour! Yesterday, you bought one too many baguettes. It is a shame to let this beautiful bread go to waste, so you have developed a way to use this bread as a wand core. Bon Appetit!
+
+--Sojourner's Wand Cap
+te.name.CAP_SOJOURNER=Sojourner's Wand Caps
+te.tag.CAP_SOJOURNER=Sentient wand caps
+te.text.CAP_SOJOURNER.1=Even with the wand recharge pedestal, refilling your wand has been a chore. One must go through the work of constructing the pedestal and placing nodes in its vicinity. You have developed a special wand cap that will passively drain nearby nodes in a similar fashion to the Wand Recharge Pedestal when the wand is held in the hand.<BR><BR>This cap is more efficient in channeling vis than gold wand caps but less efficient than thaumium wand caps.
+
+--Mechanist's Wand Cap
+te.name.CAP_MECHANIST=Mechanist's Wand Caps
+te.tag.CAP_MECHANIST=Mechanical wand caps
+te.text.CAP_MECHANIST.1=You have researched nodes extensively, and you feel that you have reached a point in which you can no longer improve the draining speed of nodes without improving your wands themselves. You have created a mechanical wand cap that is able to deconstruct and harvest vis from a node much more quickly than usual, using a combination of gadgetry and magic.<BR><BR>This cap is more efficient in channeling vis than gold wand caps but less efficient than thaumium wand caps.
+
+--Wispy Dreamcatcher
+te.name.DREAMCATCHER=Wispy Dreamcatcher
+te.tag.DREAMCATCHER=Filtered thoughts
+te.text.DREAMCATCHER.1=They say that dreamcatchers are meant to stop nightmares from reaching the mind. Though taint may not be a construct of your psyche, you think that perhaps the ill effects that taint has on the body could be combated using a modified dreamcatcher.<BR><BR>If you hold this dreamcatcher in your hotbar, it will have a high probability of nullifying damage from taint or tainted creatures. Although this dreamcatcher does not nullify all damage, it will certainly make excursions into tainted land much less dangerous.
+
+--Talisman of Nourishment
+te.name.TALISMANFOOD=Talisman of Nourishment
+te.tag.TALISMANFOOD=Everfull belly
+te.text.TALISMANFOOD.1=You often find yourself needing to take breaks during marathon researching sessions to satisfy your hunger. Finally you have found a way to get past your need for food.<BR><BR>By infusing a ruby with the essence of hunger, you have created an item that is able to suck the nourishing energy from various food items in your hotbar and store this energy within. It will then automatically replenish your food meter if it is depleted.<BR><BR>This device will only work on simple food items, so foods that invoke effects such as Rotten Flesh and Golden Apples must be consumed normally.
+
+--Disarming Enchantment
+te.name.ENCHDISARM=Enchantment: Disarming
+te.tag.ENCHDISARM=Fighting dirty
+te.text.ENCHDISARM.1=You have formulated an enchantment that has a slight chance of knocking a weapon from a creature's hands.<BR><BR>This enchantment can be applied to swords. When done so, struck creatures have a chance of dropping the weapon they are holding. This disarming effect does not work on other players. This enchantment has a better chance of success if it is a higher level.
+
+--Binding Enchantment
+te.name.ENCHBINDING=Enchantment: Binding
+te.tag.ENCHBINDING=Going somewhere?
+te.text.ENCHBINDING.1=You have formulated an enchantment that binds a struck creature to a certain location.<BR><BR>This enchantment can be applied to swords. When a creature is struck with a sword enchanted with the first level of this enchantment, they will be slowed temporarily. Attacking an enderman with a sword that carries the second level of this enchantment will stop the enderman from teleporting away. Creepers struck with a blade that holds the second level of this enchantment will not be able to explode for a short time afterward.
+
+--Night Vision Enchantment
+te.name.ENCHNIGHTVISION=Enchantment: Night Vision
+te.tag.ENCHNIGHTVISION=Low-light vision
+te.text.ENCHNIGHTVISION.1=You have formulated an enchantment that allows you to see in the dark.<BR><BR>This enchantment can be applied to headgear. When done so, the wearer is able to see in low light conditions, similarly to using a night vision potion.<BR><BR>§oIf the mod §lEnderIO§r§o is installed, you can toggle this ability with the Dark Steel Armor Night Vision hotkey.
+
+--Boots of the Meteor
+te.name.METEORBOOTS=Boots of the Meteor
+te.tag.METEORBOOTS=Come on and slam
+te.text.METEORBOOTS.1=Your Boots of the Traveller have been very useful, but sometimes you have desired even more mobility. By imbuing the Boots of the Traveller with the raw power of Ignis and Potentia, you have created a pair of boots with unrivaled mobility.<BR><BR>These boots propel the wearer with the force of a meteor in the direction they are looking, if they jump while crouching. Pressing the crouch button when in midair will launch the player towards the ground at incredible speeds, damaging anything near the point of impact.
+
+--Boots of the Comet
+te.name.COMETBOOTS=Boots of the Comet
+te.tag.COMETBOOTS=Ice ice baby
+te.text.COMETBOOTS.1=The Boots of the Traveller are fast, but you think that there is room for improvement. By infusing the Boots of the Traveller with Aqua and Gelum, you have created a pair of boots with unrivaled speed.<BR><BR>These boots allow the user to run with the speed of a comet, covering large tracts of land in a matter of seconds. Water can do nothing to slow you. When wearing the Boots of the Comet, water will be temporarily frozen under your feet.
+
+--Runic Boots
+te.name.RUNICBOOTS=Runic Elemental Boots
+te.tag.RUNICBOOTS=Protection coupled with mobility
+te.text.RUNICBOOTS.1=It was easy enough to find a way to combine your Boots of the Traveller with Runic Armor, and now you have done the same with its upgraded variants. You have created the ultimate footwear, providing a fusion of mobility and protection.<BR>Simply affix runic charms to a pair of Boots of the Meteor or Boots of the Comet with a bit of mystical energy, and you will create a variant that has the armor strength of Runic Armor and the mobility of the boots of your choice.
+
+--Enhanced Runic Armor
+te.name.ENHANCEDRUNICARMOR=Enhanced Runic Armor
+te.tag.ENHANCEDRUNICARMOR=So... much... power!
+te.text.ENHANCEDRUNICARMOR.1=Your extensive research into augmenting Runic Armor has left you disappointed at the armor's ability to only hold one augment. You also miss the mystical discount granted from wearing your Thaumaturge's Robes. Instead of being discouraged, you have developed a 'suit' of Enhanced Runic Armor that satisfies these grievances.<BR><BR>Each piece of this armor can hold not one, but two augments, allowing for even more protection. This armor also grants a passive vis discount much like your robes. There is but one catch - the cost.
+te.text.ENHANCEDRUNICARMOR.2=Keep in mind that the inital creation of the Enhanced armor will wipe existing augments. <BR><BR>In the case that you want to overwrite an augment placed on the Enhanced armor, you may right click while holding it to swap positions of the augments. The augment displayed first is the one that will be overwritten.<BR><BR>[Recipes pending... leave feedback]
+
+--Transmutative Wand Core
+te.name.ROD_TRANSMUTATION=Transmutative Wand Core
+te.tag.ROD_TRANSMUTATION=One thing into another
+te.text.ROD_TRANSMUTATION.1=While experimenting with the properties of primal charms, you have found that you can sporadically convert one form of vis into another. You have found this property to be too unreliable to use for most purposes, but if a charm is infused with certain materials, it can be used as a wand core with unique properties.<BR><BR>When the wand is filled at over 90% capacity of a certain aspect, this vis will be converted into other forms of vis, albeit at a low ratio.<BR><BR>This wand also boasts a higher vis capacity than a mundane greatwood wand, holding up to 75 vis of each type.
+
+--Necro Wand
+te.name.ROD_NECROMANCER=Necromancer's Wand Core
+te.tag.ROD_NECROMANCER=Evil vis storage
+te.text.ROD_NECROMANCER.1=You have always found finding a node to charge your depleted wand to be a nuisance. To remedy this, you have developed a wand core that harnesses the energy of the dead more efficiently.<BR><BR>Vis orbs collected from the remains of dead monsters yeild twice the vis, charging your wand quickly. Unfortunately, the dark energies used to infuse this wand are not as receptive to other forms of vis. When draining nodes or obtaining vis from other means, approximately a fourth is lost. This wand core has storage that rivals that of silverwood, making it a formidible option when choosing which core to use.
+
+--Necromantic Energy
+te.name.NECROENERGY=Necromantic Energy
+te.tag.NECROENERGY=Energy of the Undead
+te.text.NECROENERGY.1=When infusing using the Necromantic Infusion Altar, a specific quantity of Necromantic Energy is required. This energy can be provided by specific items being sacrificed at the altar, a list of these items is displayed here.
+
+--Necro Infusion
+te.name.NECROINFUSION=Necromantic Infusion
+te.tag.NECROINFUSION=Kali ma! Kali maaa!
+te.text.NECROINFUSION.1=Harnessing the mystical energies of the natural world is all fine and good, but you want to do more. The energy of a living being is something you've wanted to be able to capture for a long time. Finally, that day is here.<BR><BR>By infusing an Arcane Pedestal with evil energies, adorning it with the skulls of the undead, and building a pentagram of candles surrounding the pedestal, you have created an altar that will allow you to fuse items wih evil energies. Right click on this construct with a wand to activate the altar. Right click with items to add them to the altar, shift right click the altar to remove items.
+te.text.NECROINFUSION.2=To infuse an item, simply hit the altar with a wand. Each infusion requires a certain amount of Necromantic Energy, or NE, that can be supplied by sacrificing items that contain NE to the altar. To do this, light a fire on top of the altar and toss in items. When enough NE is supplied, the infusion will complete.
+te.text.NECROINFUSION.3=An example setup for the Necromantic Infusion Altar can be found below.<IMG>thaumicexploration:textures/tabs/altarSetup.png:0:0:255:255:0.5</IMG> The skulls placed on the altar can be from a zombie, skeleton, or wither skeleton.
+
+--Taint Basics
+te.name.TAINTBASICS=Taint
+te.tag.TAINTBASICS=Evil magic
+te.text.TAINTBASICS.1=Sometimes, Thaumaturgy goes horribly wrong. Miracles become twisted calamities and the very landscape twists into hideous forms. Tainted Lands are places infected by the sick runoff of magical workings, flux. Local flora and fauna become warped and mutated into forms hostile to normal life and the very ground of a tainted land infects those who tread upon its pulsing fibres.
+te.text.TAINTBASICS.2=Tainted Lands can be found naturally in the world, but can also form when a careless Thaumaturge allows flux goo to stagnate for too long. They are recognizable by their telltale purple fibres and bright violet stalks. Left alone, the tainted land will gradually extend its tendrils outwards, infecting more and more of the surrounding land. Dirt becomes thick, pulpy Tainted Soil while trees and other natural materials are slowly covered in fibres and converted into structurally unsound crust which can collapse or melt into flux goo at any moment.

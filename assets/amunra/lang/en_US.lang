@@ -5,3 +5,11 @@ tile.isotopeGeneratorAdvanced.name=§7Advanced Radioisotope Generator
 
 gui.message.mothership.status.name=§7Status
 tile.shuttleDock.name=§7Shuttle Dock
+
+entity.robotVillager.name=§7Robot Villager
+entity.porcodon.name=§7Porcodon
+entity.sentryRobot.name=§7Sentry
+entity.osirisBoss.name=U§7ndead Pharaoh
+entity.alienVillagerAR.name=§7Gastropod Villager
+entity.alienBug.name=§7Pincer Bug
+entity.GalacticraftAmunRa.Shuttle.name=§7Shuttle Rocket
