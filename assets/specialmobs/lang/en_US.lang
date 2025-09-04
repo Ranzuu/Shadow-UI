@@ -1,0 +1,130 @@
+entity.SpecialMobs.LavaMonster.name=§7Lava Monster
+
+entity.SpecialMobs.SMFireball.name=§7Fireball
+entity.SpecialMobs.SMFishHook.name=§7Fish Hook
+
+entity.SpecialMobs.SpecialBlaze.name=§7Blaze
+
+entity.SpecialMobs.CinderBlaze.name=§7Cinder
+entity.SpecialMobs.ConflagrationBlaze.name=§7Conflagration
+entity.SpecialMobs.EmberBlaze.name=§7Ember
+entity.SpecialMobs.HellfireBlaze.name=§7Hellfire
+entity.SpecialMobs.InfernoBlaze.name=§7Inferno
+entity.SpecialMobs.JoltBlaze.name=§7Jolt
+entity.SpecialMobs.SmolderBlaze.name=§7Smolder
+entity.SpecialMobs.WildfireBlaze.name=§7Wildfire
+
+entity.SpecialMobs.SpecialCaveSpider.name=§7Cave Spider
+entity.SpecialMobs.BabyCaveSpider.name=§7Baby Cave Spider
+entity.SpecialMobs.FlyingCaveSpider.name=§7Flying Cave Spider
+entity.SpecialMobs.MotherCaveSpider.name=§7Mother Cave Spider
+entity.SpecialMobs.ToughCaveSpider.name=§7Tough Cave Spider
+entity.SpecialMobs.WebCaveSpider.name=§7Web Cave Spider
+entity.SpecialMobs.WitchCaveSpider.name=§7Witch Cave Spider
+
+entity.SpecialMobs.SpecialCreeper.name=§7Creeper
+entity.SpecialMobs.ArmorCreeper.name=§7Armor Creeper
+entity.SpecialMobs.DarkCreeper.name=§7Dark Creeper
+entity.SpecialMobs.DeathCreeper.name=§7Death Creeper
+entity.SpecialMobs.DirtCreeper.name=§7Dirt Creeper
+entity.SpecialMobs.DoomCreeper.name=§7Doom Creeper
+entity.SpecialMobs.DrowningCreeper.name=§7Drowning Creeper
+entity.SpecialMobs.EnderCreeper.name=§7Ender Creeper
+entity.SpecialMobs.FireCreeper.name=§7Fire Creeper
+entity.SpecialMobs.GravelCreeper.name=§7Gravel Creeper
+entity.SpecialMobs.GravityCreeper.name=§7Gravity Creeper
+entity.SpecialMobs.JumpingCreeper.name=§7Jumping Creeper
+entity.SpecialMobs.LightningCreeper.name=§7Lightning Creeper
+entity.SpecialMobs.MiniCreeper.name=§7Mini Creeper
+entity.SpecialMobs.SplittingCreeper.name=§7Splitting Creeper
+
+entity.SpecialMobs.SpecialEnderman.name=§7Enderman
+entity.SpecialMobs.BlindingEnderman.name=§7Blinding Enderman
+entity.SpecialMobs.CursedEnderman.name=§7Cursed Enderman
+entity.SpecialMobs.IcyEnderman.name=§7Icy Enderman
+entity.SpecialMobs.LightningEnderman.name=§7Lightning Enderman
+entity.SpecialMobs.MiniEnderman.name=§7Mini Enderman
+entity.SpecialMobs.MirageEnderman.name=§7Mirage Enderman
+entity.SpecialMobs.ThiefEnderman.name=§7Thief Enderman
+
+entity.SpecialMobs.SpecialGhast.name=§7Ghast
+entity.SpecialMobs.BabyGhast.name=§7Baby Ghast
+entity.SpecialMobs.FaintGhast.name=§7Faint Ghast
+entity.SpecialMobs.FighterGhast.name=§7Fighter Ghast
+entity.SpecialMobs.KingGhast.name=§7King Ghast
+entity.SpecialMobs.MiniGhast.name=§7Mini Ghast
+entity.SpecialMobs.QueenGhast.name=§7Queen Ghast
+entity.SpecialMobs.UnholyGhast.name=§7Unholy Ghast
+
+entity.SpecialMobs.SpecialPigZombie.name=§7Zombie Pigman
+entity.SpecialMobs.BrutishPigZombie.name=§7Brutish Zombie Pigman
+entity.SpecialMobs.FishingPigZombie.name=§7Fishing Zombie Pigman
+entity.SpecialMobs.GiantPigZombie.name=§7Giant Zombie Pigman
+entity.SpecialMobs.HungryPigZombie.name=§7Hungry Zombie Pigman
+entity.SpecialMobs.PlaguePigZombie.name=§7Plague Zombie Pigman
+entity.SpecialMobs.VampirePigZombie.name=§7Vampire Pigman
+
+entity.SpecialMobs.SpecialSilverfish.name=§7Silverfish
+entity.SpecialMobs.BlindingSilverfish.name=§7Blinding Silverfish
+entity.SpecialMobs.FishingSilverfish.name=§7Fishing Silverfish
+entity.SpecialMobs.FlyingSilverfish.name=§7Flying Silverfish
+entity.SpecialMobs.PoisonSilverfish.name=§7Poison Silverfish
+entity.SpecialMobs.ToughSilverfish.name=§7Tough Silverfish
+
+entity.SpecialMobs.SpecialSkeleton.name=§7Skeleton
+entity.SpecialMobs.BrutishSkeleton.name=§7Brutish Skeleton
+entity.SpecialMobs.FireSkeleton.name=§7Fire Skeleton
+entity.SpecialMobs.GatlingSkeleton.name=§7Gatling Skeleton
+entity.SpecialMobs.GiantSkeleton.name=§7Giant Skeleton
+entity.SpecialMobs.NinjaSkeleton.name=§7Ninja Skeleton
+entity.SpecialMobs.PoisonSkeleton.name=§7Poison Skeleton
+entity.SpecialMobs.SniperSkeleton.name=§7Sniper Skeleton
+entity.SpecialMobs.SpitfireSkeleton.name=§7Spitfire Skeleton
+entity.SpecialMobs.ThiefSkeleton.name=§7Thief Skeleton
+
+entity.SpecialMobs.SpecialSlime.name=§7Slime
+entity.SpecialMobs.BlackberrySlime.name=§7Blackberry Slime
+entity.SpecialMobs.BlueberrySlime.name=§7Blueberry Slime
+entity.SpecialMobs.CaramelSlime.name=§7Caramel Slime
+entity.SpecialMobs.GrapeSlime.name=§7Grape Slime
+entity.SpecialMobs.LemonSlime.name=§7Lemon Slime
+entity.SpecialMobs.StrawberrySlime.name=§7Strawberry Slime
+entity.SpecialMobs.WatermelonSlime.name=§7Watermelon Slime
+
+entity.SpecialMobs.SpecialSpider.name=§7Spider
+entity.SpecialMobs.BabySpider.name=§7Baby Spider
+entity.SpecialMobs.DesertSpider.name=§7Desert Spider
+entity.SpecialMobs.FlyingSpider.name=§7Flying Spider
+entity.SpecialMobs.GhostSpider.name=§7Ghost Spider
+entity.SpecialMobs.GiantSpider.name=§7Giant Spider
+entity.SpecialMobs.HungrySpider.name=§7Hungry Spider
+entity.SpecialMobs.MotherSpider.name=§7Mother Spider
+entity.SpecialMobs.PaleSpider.name=§7Pale Spider
+entity.SpecialMobs.PoisonSpider.name=§7Poison Spider
+entity.SpecialMobs.SmallSpider.name=§7Small Spider
+entity.SpecialMobs.ToughSpider.name=§7Tough Spider
+entity.SpecialMobs.WebSpider.name=§7Web Spider
+entity.SpecialMobs.WitchSpider.name=§7Witch Spider
+
+entity.SpecialMobs.SpecialWitch.name=§7Witch
+entity.SpecialMobs.DominationWitch.name=§7Witch of Domination
+entity.SpecialMobs.RageWitch.name=§7Witch of Rage
+entity.SpecialMobs.ShadowsWitch.name=§7Witch of Shadows
+entity.SpecialMobs.UndeadWitch.name=§7Witch of the Undead
+entity.SpecialMobs.WildsWitch.name=§7Witch of the Wilds
+entity.SpecialMobs.WindWitch.name=§7Witch of the Wind
+
+entity.SpecialMobs.SpecialZombie.name=§7Zombie
+entity.SpecialMobs.BrutishZombie.name=§7Brutish Zombie
+entity.SpecialMobs.FireZombie.name=§7Fire Zombie
+entity.SpecialMobs.FishingZombie.name=§7Fishing Zombie
+entity.SpecialMobs.GiantZombie.name=§7Giant Zombie
+entity.SpecialMobs.HungryZombie.name=§7Hungry Zombie
+entity.SpecialMobs.PlagueZombie.name=§7Plague Zombie
+
+enchantment.SpecialMobs.painBow=§7Agony
+enchantment.SpecialMobs.painSword=§7Pain
+enchantment.SpecialMobs.plagueBow=§7Scourge
+enchantment.SpecialMobs.plagueSword=§7Plague
+enchantment.SpecialMobs.poisonBow=§7Venom
+enchantment.SpecialMobs.poisonSword=§7Poison Aspect
