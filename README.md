@@ -17,11 +17,10 @@ Modernity version
 
 <img width="744" height="843" alt="PrevM" src="https://github.com/user-attachments/assets/7f7b43b2-2513-4cd3-af40-2e71761b51ba" />
 
-
-It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
+> [!NOTE]
+> It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
 > \config\GregTech\GregTech.cfg (set to false)
-  
----
+
 ### WAILA
 You can manually change the WAILA colors to match the gui colors.
 > \config\Waila.cfg
