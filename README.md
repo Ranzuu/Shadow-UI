@@ -20,7 +20,7 @@ Modernity version
 > [!NOTE]
 > It is recommended to disable `coloredGUI` and `machineMetalGUI` in the GregTech configuration file while using this resource pack.
 > 
-> `\config\GregTech\GregTech.cfg (set to false)`
+> > \config\GregTech\GregTech.cfg (set to false)
 
 ### WAILA
 You can manually change the WAILA colors to match the gui colors.
