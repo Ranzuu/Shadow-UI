@@ -1,0 +1,14 @@
+gui.floodlights:nonElectricFloodlightTimeRemaining=§7Time remaining
+gui.floodlights:RFStorage=§7RF Storage
+gui.floodlights:invert=§7Inverted
+gui.floodlights:mode=§7Mode
+gui.floodlights:true=§7true
+gui.floodlights:false=§7false
+gui.floodlights:straight=§7straight
+gui.floodlights:narrowCone=§7narrow cone
+gui.floodlights:wideCone=§7wide cone
+gui.floodlights:minutesShort=§7m
+gui.floodlights:secondsShort=§7s
+gui.floodlights:growLightLighting=§7Normal lighting
+gui.floodlights:growLightDarkLight=§7Black light
+gui.floodlights:tooltipConfigured=§7Configured

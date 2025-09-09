@@ -1,0 +1,27 @@
+botany.gui.controls.colorMixSymbol.chance=§7Current Chance - %f%%
+botany.gui.controls.pageSpeciesFurtherTitle=§7Resultant Mixes
+botany.gui.controls.pageColorFurtherTitle=§7Further Mixes
+
+botany.gui.database.name=§7FlowerDatabase
+botany.gui.database.tab.colour=§7Color
+botany.gui.database.tab.species.overview=§7Overview
+
+botany.gui.database.tab.genome=§7Genome
+botany.gui.database.tab.genome.temp=§7Temp. :
+botany.gui.database.tab.genome.moist=§7Moist. :
+botany.gui.database.tab.genome.ph=§7pH. :
+botany.gui.database.tab.genome.fertility=§7Fertility :
+botany.gui.database.tab.genome.lifespan=§7Lifespan :
+botany.gui.database.tab.genome.lifespan.value=§7%s days
+botany.gui.database.tab.genome.nectar=§7Nectar :
+botany.gui.database.tab.genome.varieties=§7Varieties :
+
+botany.gui.database.tab.species.classification=§7Classification
+botany.gui.database.tab.species.resultant=§7Resultant Mutations
+botany.gui.database.tab.species.further=§7Further Mutations
+botany.gui.database.tab.branches.overview=§7Overview
+botany.gui.database.tab.branches.species=§7Species
+botany.gui.database.tab.breeder=§7Breeder
+
+botany.gui.database.tab.colour.resultant=§7Resultant Mixes
+botany.gui.database.tab.colour.further=§7Further Mixes

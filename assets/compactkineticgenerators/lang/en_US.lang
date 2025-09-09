@@ -1,0 +1,12 @@
+Windtile.ckg:BlockCkg.name=§7Low Kinetic Wind Generator
+tile.ckg:BlockCkg1.name=§7Medium Kinetic Wind Generator
+tile.ckg:BlockCkg2.name=§7High Kinetic Wind Generator
+tile.ckg:BlockCkg3.name=§7Extreme Kinetic Wind Generator
+tile.ckg:BlockCkg4.name=§7Low Kinetic Water Generator
+tile.ckg:BlockCkg5.name=§7Medium Kinetic Water Generator
+tile.ckg:BlockCkg6.name=§7High Kinetic Water Generator
+tile.ckg:BlockCkg7.name=§7Extreme Kinetic Water Generator
+tile.ckg:BlockCkg8.name=§7Low Kinetic Generator
+tile.ckg:BlockCkg9.name=§7Medium Kinetic Generator
+tile.ckg:BlockCkg10.name=§7High Kinetic Generator
+tile.ckg:BlockCkg11.name=§7Extreme Kinetic Generator

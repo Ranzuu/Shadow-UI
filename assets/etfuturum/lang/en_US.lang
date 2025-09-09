@@ -24,3 +24,5 @@ entity.etfuturum.elder_guardian.name=§7Elder Guardian
 entity.etfuturum.polar_bear.name=§7Polar Bear
 entity.etfuturum.bee.name=§7Bee
 entity.etfuturum.fox.name=§7Fox
+
+gui.smithing.upgrade=§7Upgrade Gear
