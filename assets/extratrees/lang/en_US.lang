@@ -1,0 +1,46 @@
+extratrees.gui.database.planks.use=§7Can make:
+
+extratrees.gui.database.mode.fruit=§7Fruit
+extratrees.gui.database.mode.wood=§7Wood
+extratrees.gui.database.mode.planks=§7Planks
+
+extratrees.gui.database.tab.species.overview=§7Overview
+extratrees.gui.database.tab.species.genome=§7Genome
+extratrees.gui.database.tab.species.classification=§7Classification
+extratrees.gui.database.tab.species.resultant=§7Resultant Mutations
+extratrees.gui.database.tab.species.further=§7Further Mutations
+
+extratrees.gui.database.tab.branches.overview=§7Overview
+extratrees.gui.database.tab.branches.species=§7Species
+
+extratrees.gui.database.tab.breeder.breeder=§7Breeder
+
+extratrees.gui.database.tab.fruit.natural=§7Natural Trees
+extratrees.gui.database.tab.fruit.natura.help=§7List of trees that naturally produce this fruit
+extratrees.gui.database.tab.fruit.potential=§7Potential Trees
+extratrees.gui.database.tab.fruit.potential.help=§7List of trees that can produce this fruit if they possess the right allele
+extratrees.gui.database.tab.wood.natural=§7Natural Trees
+extratrees.gui.database.tab.wood.natural.help=§7List of trees that are made of this wood
+extratrees.gui.database.tab.planks.overview=§7Overview
+extratrees.gui.database.tab.planks.overview.help=§7Description and possible uses
+extratrees.gui.database.tab.planks.natural=§7Natural Trees
+extratrees.gui.database.tab.planks.natural.help=§7List of trees that produce logs that can be crafted into this plank
+
+extratrees.gui.database.tab.butterfly.species.overview=§7Overview
+extratrees.gui.database.tab.butterfly.species.classification=§7Classification
+extratrees.gui.database.tab.butterfly.species.specimen=§7Specimen
+extratrees.gui.database.tab.butterfly.species.resultant=§7Resultant Mutations
+extratrees.gui.database.tab.butterfly.species.further=§7Further Mutations
+extratrees.gui.database.tab.butterfly.branches.overview=§7Overview
+extratrees.gui.database.tab.butterfly.branches.species=§7Species
+extratrees.gui.database.tab.butterfly.breeder=§7Breeder
+
+extratrees.gui.database.log=§7Log
+extratrees.gui.database.leaves=§7Leaves
+
+extratrees.machine.machine.brewery=§7Brewery
+extratrees.machine.machine.lumbermill=§7Lumbermill
+extratrees.machine.machine.woodworker=§7Woodworker
+extratrees.machine.machine.panelworker=§7Panelworker
+extratrees.machine.machine.glassworker=§7Glassworker
+extratrees.machine.machine.tileworker=§7Tileworker

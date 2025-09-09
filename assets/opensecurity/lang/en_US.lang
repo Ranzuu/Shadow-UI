@@ -1,0 +1,8 @@
+gui.string.cardwriter=§7Card Writer
+gui.string.cardslot=§7Card Slot
+gui.string.kvm=§7KVM Switch Control
+gui.string.energyturret=§7Energy Turret
+gui.string.energyturret.damagemod=§7+Damage
+gui.string.energyturret.movementmod=§7+Movement
+gui.string.energyturret.cooldownmod=§7-Cooldown
+gui.string.energyturret.energymod=§7-Energy

@@ -1,4 +1,5 @@
-# Entities
+tile.blockChestHungry.name=§7Hungry Chest
+
 entity.Thaumcraft.Golem.name=§7Golem
 entity.Thaumcraft.ThaumSlime.name=§7Thaumic Slime
 entity.Thaumcraft.Dart.name=§7Golem Dart

@@ -1,8 +1,3 @@
-############ All of this is not working because fuck you that's why.
-
-testtile.for.core.0.name=§7Analyzer
-tile.for.core.1.name=§7Escritoire
-
 tile.for.engine.0.name=§7Electrical Engine
 tile.for.engine.1.name=§7Peat-fired Engine
 tile.for.engine.2.name=§7Biogas Engine
@@ -25,8 +20,7 @@ tile.for.mail.0.name=§7Mailbox
 tile.for.mail.1.name=§7Trade Station
 tile.for.mail.2.name=§7Stamp Collector
 
-############
-
+tile.for.core.name=§7Analyzer / Escritoire
 tile.for.analyzer.name=§7Analyzer
 tile.for.escritoire.name=§7Escritoire
 

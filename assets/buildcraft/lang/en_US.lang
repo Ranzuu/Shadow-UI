@@ -26,8 +26,6 @@ gui.pipes.emzuli.title=§7Extraction Presets
 gui.pipes.emzuli.paint=§7Paint Items %s
 gui.pipes.emzuli.nopaint=§7Don't Paint Items
 
-
-
 tile.assemblyTableBlock.name=§7Assembly Table
 tile.autoWorkbenchBlock.name=§7Auto Workbench
 
@@ -55,3 +53,15 @@ tile.refineryBlock.name=§7Refinery
 tile.requester.name=§7Requester
 tile.stampingTableBlock.name=§7Stamping Table
 tile.zonePlan.name=§7Zone Planner
+
+fillerpattern.clear=§7Clear
+fillerpattern.fill=§7Fill
+fillerpattern.flatten=§7Flatten
+fillerpattern.horizon=§7Horizon
+fillerpattern.pyramid=§7Pyramid
+fillerpattern.stairs=§7Stairs
+fillerpattern.box=§7Box
+fillerpattern.cylinder=§7Cylinder
+fillerpattern.frame=§7Frame
+fillerpattern.parameter.hollow=§7Hollow
+fillerpattern.parameter.filled=§7Filled
