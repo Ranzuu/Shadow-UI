@@ -64,7 +64,7 @@ jobs:
         run: |
           cd main
           PACK_META="pack.mcmeta"
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }}"
+          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §aby Ranzu"
           jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
           ZIP_NAME="Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}.zip"
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
@@ -75,7 +75,7 @@ jobs:
         run: |
           cd modernity
           PACK_META="pack.mcmeta"
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §f- §2Modernity version"
+          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §f- §2Modernity version §aby Ranzu"
           jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
           ZIP_NAME="Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}-Modernity version.zip"
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
