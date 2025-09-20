@@ -15,21 +15,6 @@ container.chestDouble=§7Large Chest
 container.minecart=§7Minecart
 container.enderchest=§7Ender Chest
 
-itemGroup.buildingBlocks=§7Building Blocks
-itemGroup.decorations=§7Decoration Blocks
-itemGroup.redstone=§7Redstone
-itemGroup.transportation=§7Transportation
-itemGroup.misc=§7Miscellaneous
-itemGroup.search=§7Search Items
-itemGroup.food=§7Foodstuffs
-itemGroup.tools=§7Tools
-itemGroup.combat=§7Combat
-itemGroup.brewing=§7Brewing
-itemGroup.materials=§7Materials
-itemGroup.inventory=§7Survival Inventory
-
-inventory.binSlot=§7Destroy Item
-
 entity.Arrow.name=§7arrow
 entity.Bat.name=§7Bat
 entity.Blaze.name=§7Blaze
