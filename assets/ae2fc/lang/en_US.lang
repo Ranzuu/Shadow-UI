@@ -1,19 +1,18 @@
 ae2fc.tooltip.invalid_fluid=§7Invalid fluid!
-ae2fc.tooltip.encode_pattern=§7Encode Patter
+ae2fc.tooltip.encode_pattern=§fEncode Patter
 ae2fc.tooltip.fluid_packet=§7Use a Fluid Packet Decoder to\nconvert this back into fluid.
-ae2fc.tooltip.empty=§7Empty
-ae2fc.tooltip.dump_tank=§7Dump Tank Contents
-ae2fc.tooltip.switch_fluid_interface=§7Switch ME Dual Interface GUI
-ae2fc.tooltip.not_combine=§7Merge the same items
+ae2fc.tooltip.empty=§fEmpty
+ae2fc.tooltip.dump_tank=§fDump Tank Contents
+ae2fc.tooltip.switch_fluid_interface=§fSwitch ME Dual Interface GUI
+ae2fc.tooltip.not_combine=§fMerge the same items
 ae2fc.tooltip.not_combine.hint=§7Disabled
-ae2fc.tooltip.combine=§7Merge the same items
+ae2fc.tooltip.combine=§fMerge the same items
 ae2fc.tooltip.combine.hint=§7Enabled
 
-ae2fc.tooltip.not_prio=§7Allow fluids to be placed first
+ae2fc.tooltip.not_prio=§fAllow fluids to be placed first
 ae2fc.tooltip.not_prio.hint=§7Enabled
-ae2fc.tooltip.prio=§7Allow fluids to be placed first
+ae2fc.tooltip.prio=§fAllow fluids to be placed first
 ae2fc.tooltip.prio.hint=§7Disabled
-
 
 item.part_fluid_pattern_terminal.name=§fME Fluid Pattern Terminal
 item.part_fluid_pattern_terminal_ex.name=§fME Fluid Processing Pattern Terminal

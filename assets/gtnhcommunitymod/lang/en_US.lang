@@ -1,0 +1,10 @@
+# TwistSpaceTechnology
+StrangeMatterAggregator.UI.Running.ConfigurationDescription.text=§7Set SpaceTime Maintenance Fluid Tier: 1-Molten SpaceTime, 2-Molten Universium, 3-MagnetoConstrainedStarMatter
+StrangeMatterAggregator.UI.Structure.ConfigurationDescription.text=§7The machine will build the oscillator ring, constraintor ring, and merger ring in a set number of cycles.
+StrangeMatterAggregator.UI.OscillatorPieceNeed.text=§7Oscillator
+StrangeMatterAggregator.UI.ConstraintorPieceNeed.text=§7Constraintor
+StrangeMatterAggregator.UI.MergerPieceNeed.text=§7Merger
+
+MegaCraftingCenter.UI.Magnification.ConfigurationDescription.text=§7Set actual pattern magnification, actual input/output numbers of patterns will be multiplied by this number.
+
+tst.DynamicParallelController.UI.text.01=§7Prallel
