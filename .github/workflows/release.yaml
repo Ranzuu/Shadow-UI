@@ -103,7 +103,7 @@ jobs:
         with:
           tag_name: ${{ steps.vars.outputs.TAG }}
           name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}
-          prerelease: true
+          prerelease: false
           body: |
             ### Version Info
             - Minecraft 1.7.10
