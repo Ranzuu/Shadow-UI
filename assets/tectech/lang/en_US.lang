@@ -1,0 +1,18 @@
+gt.blockmachines.multimachine.FOG.modulestatus=§7Status:§f
+gt.blockmachines.multimachine.FOG.expectedinputs=§7Expected Inputs
+gt.blockmachines.multimachine.FOG.possibleinputsqgp=§7Possible Input Materials for QGP
+gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=§7Possible Input Materials for Magmatter
+gt.blockmachines.multimachine.FOG.fuelconsumption=§7Stellar Fuel Consumption Factor
+gt.blockmachines.multimachine.FOG.fueltype=§7Click to Select Fuel Type
+gt.blockmachines.multimachine.FOG.fuelusage=§7Fuel Usage
+
+fog.cosmetics.applycolor=§7Apply
+fog.cosmetics.addcolor=§7Add
+fog.cosmetics.resetcolor=§7Reset
+fog.cosmetics.savecolors=§7Save
+fog.cosmetics.deletecolors=§7Delete
+fog.cosmetics.importcolors=§7Import
+fog.cosmetics.exportcolors=§7Export
+
+fog.upgrade.confirm=§7Construct
+gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§7Click to consume upgrade materials

@@ -6,6 +6,7 @@ bogosort.gui.tab.nbt_sort_rules.name=§7NBT sort rules
 bogosort.gui.available_sort_rules=§7Available Sort-Rules
 bogosort.gui.configured_sort_rules=§7Configured Sort-Rules
 bogosort.gui.enable_hotbarSort=§7Enable hotbar sorting
+bogosort.gui.enable_noguiSort=§7Enable sorting via keybind while no GUI is open
 bogosort.gui.enable_refill=§7Enable auto hotbar refill
 bogosort.gui.refill_comment=§7Quark is installed. If this option is disabled, theirs might still be enabled. You can find the config at 'Management' -> 'Automatic Tool Restock'.
 bogosort.gui.refill_threshold=§7Auto refill damage threshold

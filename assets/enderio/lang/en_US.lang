@@ -4,36 +4,36 @@ enderio.gui.simple.in=§7Max In:
 enderio.gui.simple.out=§7Max Out:
 
 enderio.gui.available=§7Available
-enderio.gui.disabled=§7Disabled
-enderio.gui.enabled=§7Enabled
-enderio.gui.max=§7Max:
+enderio.gui.disabled=§fDisabled
+enderio.gui.enabled=§fEnabled
+enderio.gui.max=§fMax:
 enderio.gui.progress=§7Progress {0,number}%
 enderio.gui.receive=§7Receive
 enderio.gui.send=§7Send
 enderio.gui.sendReceive=§7Send & Receive 
 
 #Redstone controls
-enderio.gui.tooltip.redstoneControlMode=§7Redstone Mode
+enderio.gui.tooltip.redstoneControlMode=§fRedstone Mode
 enderio.gui.tooltip.redstoneControlMode.ignore=§7Always active
 enderio.gui.tooltip.redstoneControlMode.on=§7Active with signal
 enderio.gui.tooltip.redstoneControlMode.off=§7Active without signal
 enderio.gui.tooltip.redstoneControlMode.never=§7Never active
 
-enderio.gui.machine.button.storelevel=§7Store 1
-enderio.gui.machine.tooltip.storelevel=§7level of player XP
-enderio.gui.machine.button.storelevels=§7Store 10
-enderio.gui.machine.tooltip.storelevels=§7levels of player XP
-enderio.gui.machine.button.storeall=§7Store all
-enderio.gui.machine.tooltip.storeall=§7player XP
+enderio.gui.machine.button.storelevel=§fStore 1
+enderio.gui.machine.tooltip.storelevel=§flevel of player XP
+enderio.gui.machine.button.storelevels=§fStore 10
+enderio.gui.machine.tooltip.storelevels=§flevels of player XP
+enderio.gui.machine.button.storeall=§fStore all
+enderio.gui.machine.tooltip.storeall=§fplayer XP
 
-enderio.gui.machine.button.retrievelevel=§7Retrieve 1
-enderio.gui.machine.tooltip.retrievelevel=§7player XP level
-enderio.gui.machine.button.retrievelevels=§7Retrieve 10
-enderio.gui.machine.tooltip.retrievelevels=§7player XP levels
-enderio.gui.machine.button.retrieveall=§7Retrieve all
-enderio.gui.machine.tooltip.retrieveall=§7player XP levels
+enderio.gui.machine.button.retrievelevel=§fRetrieve 1
+enderio.gui.machine.tooltip.retrievelevel=§fplayer XP level
+enderio.gui.machine.button.retrievelevels=§fRetrieve 10
+enderio.gui.machine.tooltip.retrievelevels=§fplayer XP levels
+enderio.gui.machine.button.retrieveall=§fRetrieve all
+enderio.gui.machine.tooltip.retrieveall=§fplayer XP levels
 
-enderio.gui.machine.ioMode.overlay.tooltip=§7Configure IO
+enderio.gui.machine.ioMode.overlay.tooltip=§fConfigure IO
 enderio.gui.machine.ioMode.overlay.tooltip.visible.line1=§7Shift click to reset all sides
 enderio.gui.machine.ioMode.overlay.tooltip.visible.line2=§7to their default setting
 enderio.gui.machine.ioMode.none=§7None
@@ -47,11 +47,11 @@ enderio.gui.machine.poweredspawner.capture=§7Capture
 enderio.gui.machine.poweredspawner.spawn=§7Spawn
 enderio.gui.machine.receivefilter=§7Receive Filter
 enderio.gui.machine.sendfilter=§7Send Filter
-enderio.gui.machine.sendReceivebuffer=§7Send/Receive Buffer
-enderio.gui.machine.localbuffer=§7Local Buffer
-enderio.gui.machine.upkeep=§7Upkeep:
-enderio.gui.machine.bufferingstacks=§7Buffering item stacks
-enderio.gui.machine.bufferingsingle=§7Buffering single items
+enderio.gui.machine.sendReceivebuffer=§fSend/Receive Buffer
+enderio.gui.machine.localbuffer=§fLocal Buffer
+enderio.gui.machine.upkeep=§fUpkeep:§7
+enderio.gui.machine.bufferingstacks=§fBuffering item stacks
+enderio.gui.machine.bufferingsingle=§fBuffering single items
 enderio.gui.machine.percraft=§7Per Craft
 enderio.gui.machine.side=§7Side: %s
 enderio.gui.machine.side.north=§7North
@@ -98,53 +98,53 @@ enderio.gui.mjReader.receiveItem1=§7Can receive
 enderio.gui.mjReader.receiveItem2=§7from:
 
 #CapactorBank
-enderio.gui.capBank.inputRs=§7Input Redstone Mode
-enderio.gui.capBank.outputRs=§7Output Redstone Mode
-enderio.gui.capBank.maxIo=§7Max I/O
+enderio.gui.capBank.inputRs=§fInput Redstone Mode
+enderio.gui.capBank.outputRs=§fOutput Redstone Mode
+enderio.gui.capBank.maxIo=§fMax I/O
 enderio.gui.capBank.maxInput=§7Max Input
 enderio.gui.capBank.maxOutput=§7Max Output
 enderio.gui.capBank.inputMode=§7Input
 enderio.gui.capBank.outputMode=§7Output
 
 #Transceiver
-enderio.gui.trans.publicChannel=§7Public Channel
-enderio.gui.trans.privateChannel=§7Private Channel
-enderio.gui.trans.addChannel=§7Add Channel
-enderio.gui.trans.deleteChannel=§7Delete Channel
-enderio.gui.trans.activateChannel=§7Activate Channel
-enderio.gui.trans.powerMode=§7Power Mode
-enderio.gui.trans.fluidMode=§7Fluid Mode
-enderio.gui.trans.itemMode=§7Item Mode
-enderio.gui.trans.publicHeading=§7Public
-enderio.gui.trans.privateHeading=§7Private
+enderio.gui.trans.publicChannel=§fPublic Channel
+enderio.gui.trans.privateChannel=§fPrivate Channel
+enderio.gui.trans.addChannel=§fAdd Channel
+enderio.gui.trans.deleteChannel=§fDelete Channel
+enderio.gui.trans.activateChannel=§fActivate Channel
+enderio.gui.trans.powerMode=§fPower Mode
+enderio.gui.trans.fluidMode=§fFluid Mode
+enderio.gui.trans.itemMode=§fItem Mode
+enderio.gui.trans.publicHeading=§fPublic
+enderio.gui.trans.privateHeading=§fPrivate
 
 #Alloy Smelter
-enderio.gui.alloy.mode.heading=§7Furnace Mode
+enderio.gui.alloy.mode.heading=§fFurnace Mode
 enderio.gui.alloy.mode.all=§7All Smelting
 enderio.gui.alloy.mode.alloy=§7Alloys Only
 enderio.gui.alloy.mode.furnace=§7Furnace Only
 
 #Vacuum chest
-enderio.gui.vacuum.range=§7Suction Strength
+enderio.gui.vacuum.range=§fSuction Strength
 enderio.gui.vacuum.header.chest=§7Vacuum Chest
 enderio.gui.vacuum.header.filter=§7Item Filter
 enderio.gui.vacuum.header.range=§7Range
 
 #Vat
-enderio.vat.outputTank=§7Output Tank
-enderio.vat.inputTank=§7Input Tank
-enderio.gui.machine.vat.dump.1=§7Dump Input Tank
-enderio.gui.machine.vat.dump.2=§7Dump Output Tank
+enderio.vat.outputTank=§fOutput Tank
+enderio.vat.inputTank=§fInput Tank
+enderio.gui.machine.vat.dump.1=§fDump Input Tank
+enderio.gui.machine.vat.dump.2=§fDump Output Tank
 
 #Combustion Gen
 enderio.combustionGenerator.coolantTank=§7Coolant
-enderio.combustionGenerator.fuelTank=§7Fuel
+enderio.combustionGenerator.fuelTank=§fFuel
 enderio.combustionGenerator.output=§7Generating:
 
 #Stirling Gen
 enderio.stirlingGenerator.output=§7Generating:
 enderio.stirlingGenerator.burnRate=§7Burn Rate:
-enderio.stirlingGenerator.upgradeslot=§7Upgrade slot
+enderio.stirlingGenerator.upgradeslot=§fUpgrade slot
 enderio.stirlingGenerator.upgrades=§7{0} gives {2}{1,number,#.#}x{3} efficiency
 enderio.stirlingGenerator.remaining=§7Remaining {0,number,percent}|{1,choice,0#|0<{1}m }{2,number}s|{3,number,#,###} RF
 
@@ -160,7 +160,7 @@ enderio.gui.travelAccessable.ok=§7Authorise
 enderio.gui.travelAccessable.skipLocked=§7Skipped locked anchor, use targeted teleport.
 enderio.gui.travelAccessable.skipObstructed=§7Skipped obstructed anchor.
 enderio.gui.travelAccessable.skipPrivate=§7Skipped private anchor.
-enderio.gui.travelAccessable.tooltip.visible=§7Visibility
+enderio.gui.travelAccessable.tooltip.visible=§fVisibility
 enderio.gui.travelAccessable.tooltip.visible.desc1=§7When off, you cannot see this block through other blocks.
 enderio.gui.travelAccessable.tooltip.visible.desc2=§7Handy for use as elevators.
 
@@ -169,8 +169,8 @@ enderio.gui.telepad.configure.telepad=§7Telepad Settings
 enderio.gui.telepad.blocked=§7Teleport Blocked!
 
 #Spawn Gurad [sic]
-enderio.gui.spawnGurad.showRange=§7Show Range
-enderio.gui.spawnGurad.hideRange=§7Hide Range
+enderio.gui.spawnGurad.showRange=§fShow Range
+enderio.gui.spawnGurad.hideRange=§fHide Range
 enderio.gui.spawnGurad.range=§7Range:
 
 # Filters
@@ -190,17 +190,17 @@ enderio.gui.edit_item_filter=§7Edit Filter Settings
 enderio.gui.item_filter.close=§7Close Filter
 enderio.gui.item_filter.close2=§7Go back to previous inventory
 
-enderio.gui.item_filter.whitelist=§7Whitelist
-enderio.gui.item_filter.blacklist=§7Blacklist
-enderio.gui.item_filter.match_meta=§7Match Metadata
-enderio.gui.item_filter.ignore_meta=§7Ignore Metadata
-enderio.gui.item_filter.sticky_enabled=§7Sticky Mode Enabled
+enderio.gui.item_filter.whitelist=§fWhitelist
+enderio.gui.item_filter.blacklist=§fBlacklist
+enderio.gui.item_filter.match_meta=§fMatch Metadata
+enderio.gui.item_filter.ignore_meta=§fIgnore Metadata
+enderio.gui.item_filter.sticky_enabled=§fSticky Mode Enabled
 enderio.gui.item_filter.sticky_enabled2=§7Selected items will only be sent to this or other sticky outputs
-enderio.gui.item_filter.sticky_disabled=§7Sticky Mode Disabled
-enderio.gui.item_filter.ore_dic_enabled=§7Ore Dictionary Enabled
-enderio.gui.item_filter.ore_dic_disabled=§7Ore Dictionary Disabled
-enderio.gui.item_filter.match_nbt=§7Match NBT
-enderio.gui.item_filter.ignore_nbt=§7Ignore NBT
+enderio.gui.item_filter.sticky_disabled=§fSticky Mode Disabled
+enderio.gui.item_filter.ore_dic_enabled=§fOre Dictionary Enabled
+enderio.gui.item_filter.ore_dic_disabled=f7Ore Dictionary Disabled
+enderio.gui.item_filter.match_nbt=§fMatch NBT
+enderio.gui.item_filter.ignore_nbt=§fIgnore NBT
 
 enderio.gui.existing.item_filter.snapshot=§7Snapshot
 enderio.gui.existing.item_filter.merge=§7Merge
@@ -287,11 +287,11 @@ enderio.gui.conduit.item.roundRobinEnabled=§7Round Robin Enabled
 enderio.gui.conduit.item.roundRobinDisabled=§7Round Robin Disabled
 enderio.gui.conduit.item.priority=§7Priority
 
-enderio.gui.conduit.item.fuzzy.disabled=§7Damage Mode: Disabled
-enderio.gui.conduit.item.fuzzy.fuzzy_25=§7Damage Mode: Damaged by 25% or more
-enderio.gui.conduit.item.fuzzy.fuzzy_50=§7Damage Mode: Damaged by 50% or more
-enderio.gui.conduit.item.fuzzy.fuzzy_75=§7Damage Mode: Damaged by 75% or more
-enderio.gui.conduit.item.fuzzy.fuzzy_99=§7Damage Mode: Damaged at least once
+enderio.gui.conduit.item.fuzzy.disabled=§fDamage Mode: §fDisabled
+enderio.gui.conduit.item.fuzzy.fuzzy_25=§fDamage Mode: §fDamaged by 25% or more
+enderio.gui.conduit.item.fuzzy.fuzzy_50=§fDamage Mode: §fDamaged by 50% or more
+enderio.gui.conduit.item.fuzzy.fuzzy_75=§fDamage Mode: §fDamaged by 75% or more
+enderio.gui.conduit.item.fuzzy.fuzzy_99=§fDamage Mode: §fDamaged at least once
 enderio.gui.conduit.item.fuzzy.tooltip.0=§7Can work without items in the filter
 enderio.gui.conduit.item.fuzzy.tooltip.1=§7In this case its logic can be
 enderio.gui.conduit.item.fuzzy.tooltip.2=§7controlled by %s button

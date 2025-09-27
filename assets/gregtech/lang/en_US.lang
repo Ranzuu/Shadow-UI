@@ -260,3 +260,16 @@ GT5U.gui.text.no_tools=§4Missing applicable tools
 
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
+
+GT5U.nei.display.overclock=§6(OC)§7
+
+GT5U.DTPF.catalysttier=§7Catalyst Tier
+
+GTPP.CC.parallel=§7Maximum Parallel
+
+GT5U.gui.button.drill_retract_pipes=§fAbort and retract mining pipes
+
+GT5U.gui.button.chunk_loading_on=§fChunk Loading: §aON
+GT5U.gui.button.chunk_loading_off=§fChunk Loading: §4OFF
+
+GT5U.multiblock.energy=§7Stored Energy
