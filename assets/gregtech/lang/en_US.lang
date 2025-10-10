@@ -71,9 +71,9 @@ GT5U.gui.text.pump_recovery.2=§7 L per operation
 GT5U.gui.text.not_enough_energy=§4Not enough energy
 GT5U.gui.text.power_overflow=§4Power overflowed
 GT5U.gui.text.duration_overflow=§4Processing time overflowed
-GT5U.gui.text.insufficient_power=§4Recipe needs more power to start. Required: %s EU/t (%s)
-GT5U.gui.text.insufficient_voltage=§4§4Recipe needs a higher voltage to start. Required: %s EU/t (%s)
-GT5U.gui.text.insufficient_heat=§4Recipe needs more heat to start. Required: %s K (%s)
+GT5U.gui.text.insufficient_power=§4Recipe needs more power to start. Required: %s EU/t (%s§4)
+GT5U.gui.text.insufficient_voltage=§4Recipe needs a higher voltage to start. Required: %s EU/t (%s§4)
+GT5U.gui.text.insufficient_heat=§4Recipe needs more heat to start. Required: %s K (%s§4)
 GT5U.gui.text.insufficient_machine_tier=§4Recipe needs higher structure tier. Required: %s
 GT5U.gui.text.insufficient_startup_power=§4Recipe needs higher startup power. Required: %s
 GT5U.gui.text.internal_error=§pRecipe was found, but had internal error
@@ -273,3 +273,137 @@ GT5U.gui.button.chunk_loading_on=§fChunk Loading: §aON
 GT5U.gui.button.chunk_loading_off=§fChunk Loading: §4OFF
 
 GT5U.multiblock.energy=§7Stored Energy
+
+GT5U.gui.text.powerfail_events=§7Powerfail Events
+
+## Item Filter
+gt.interact.desc.Item_Filter.Filter=§7Filter 
+gt.interact.desc.Item_Filter.CheckMode=§7Check Mode
+
+## Steam Regulator????
+
+## Pump
+gt.interact.desc.Pump.ExpImp=§7Export/Import
+gt.interact.desc.Pump.Conditional=§7Conditional
+gt.interact.desc.Pump.InputBlock=§7Input Blocking
+gt.interact.desc.Pump.OutputBlock=§7Output Blocking
+
+## Conveyor
+gt.interact.desc.conveyor.ExpImp=§7Export/Import
+gt.interact.desc.conveyor.Conditional=§7Conditional
+gt.interact.desc.conveyor.InputBlock=§7Input Blocking
+gt.interact.desc.conveyor.OutputBlock=§7Output Blocking
+
+## Arm
+gt.interact.desc.arm.Internal_Slot=§7Internal slot#
+gt.interact.desc.arm.Adjacent_Slot=§7Adjacent slot#
+
+gt.interact.desc.export=§7Export
+gt.interact.desc.import=§7Import
+
+gt.interact.desc.normal=§7Normal
+gt.interact.desc.inverted=§7Inverted
+
+gt.interact.desc.freq=§7Frequency
+
+## Fluid Regulator
+gt.interact.desc.fluid_regulator.ExpImp=§7Export/Import
+gt.interact.desc.fluid_regulator.Conditional=§7Conditional
+gt.interact.desc.fluid_regulator.L=§7 L
+gt.interact.desc.fluid_regulator.Ticks=§7 ticks
+gt.interact.desc.fluid_regulator.Average=§7Average: 
+gt.interact.desc.fluid_regulator.L_Sec=§7L/sec
+
+## FluidFilter
+gt.interact.desc.FluidFilter.Direction=§7IFilter Direction
+gt.interact.desc.FluidFilter.Type=§7IFilter Type
+gt.interact.desc.FluidFilter.BlockFlow=§7IBlock Flow
+gt.interact.desc.FluidFilter.Empty=§7IFilter Empty
+
+## Machine Controller Cover
+gt.interact.desc.MachContr.EnRedstone=§7Enable with Redstone
+gt.interact.desc.MachContr.DisRedstone=§7Disable with Redstone
+gt.interact.desc.MachContr.DisMachine=§7Disable machine
+gt.interact.desc.MachContr.SafeMode=§7Safe Mode
+
+## Wireless Activity
+gt.interact.desc.Wireless_Activity.Enabled=§7Machine enabled
+gt.interact.desc.Wireless_Activity.Idle=§7Machine idle
+gt.interact.desc.Wireless_Activity.Recipe_Progress=§7Recipe progress
+
+## Wireless Fluid Detector
+gt.interact.desc.Wireless_Fluid_Detector.FluidTHR=§7Fluid threshold
+
+## Liquid Meter (Fluid meter)
+gt.interact.desc.Fluid_Meter.FluidTHR=§7Fluid threshold
+
+## Item Meter/Detector
+gt.interact.desc.Item_Meter.DetectSlot=§7Detect slot #
+gt.interact.desc.Item_Meter.ItemTHR=§7Item threshold
+
+## Player Detector
+gt.interact.desc.Player_Detector.Any_Player=§7Any player
+gt.interact.desc.Player_Detector.Other_Players=§7Other players
+gt.interact.desc.Player_Detector.Only_Owner=§7Only owner
+
+## Shutter
+gt.interact.desc.Shutter.Open_Enabled=§7Open if work enabled
+gt.interact.desc.Shutter.Open_Disabled=§7Open if work disabled
+gt.interact.desc.Shutter.OutAllow=§7Only Output allowed
+gt.interact.desc.Shutter.InAllow=§7Only Input allowed
+
+## Redstone Receiver
+GT5U.gui.tooltip.redstone_receiver.GateMode=§7Gate Mode
+
+## Wireless Fluid Detector
+gt.cover.wirelessdetector.redstone.1=§7Wireless signal & direct Redstone
+
+## Wireless Item Detector
+gt.interact.desc.Item_Item_Detector.ItemTHR=§7tem threshold
+gt.interact.desc.Item_Item_Detector.DetectSlot=§7Detect slot #
+
+## Wireless Maintenance Cover
+GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=§7no Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=§7>= 1 Issue
+GT5U.gui.text.wireless_maintenance_detector.extra.ge2_issues=§7>= 2 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge3_issues=§7>= 3 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge4_issues=§7>= 4 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.ge5_issues=§7>= 5 Issues
+GT5U.gui.text.wireless_maintenance_detector.extra.rotor_lt20=§7Rotor < 20%
+GT5U.gui.text.wireless_maintenance_detector.extra.rotor_0=§7Rotor ≈ 0%
+
+## Energy Detector
+gt.interact.desc.Energy_Detector.universal=§7Universal
+gt.interact.desc.Energy_Detector.electricity=§7Int. EU
+gt.interact.desc.Energy_Detector.steam=§7Steam
+gt.interact.desc.Energy_Detector.average_in=§7Avg. Input
+gt.interact.desc.Energy_Detector.average_out=§7Avg. Output
+gt.interact.desc.Energy_Detector.eu_stored=§7EU stored
+
+## Maintenance Cover
+gt.interact.desc.issue=§71 Issue
+gt.interact.desc.issues=§7%s Issues
+gt.interact.desc.issue_rotor_low=§7Rotor < 20%
+gt.interact.desc.issue_rotor_dead=§7Rotor ≈ 0%
+
+## DoesWorkUI
+gt.interact.desc.MachineEnabled=§7Machine enabled
+gt.interact.desc.MachineIdle=§7Machine idle
+gt.interact.desc.RecipeProgress=§7Recipe progress
+
+## EU MEter
+gt.interact.desc.EnergyTHR=§7Energy threshold
+
+## Facade
+gt.interact.desc.facade.Redstone=§7Redstone
+gt.interact.desc.facade.Energy=§7Energy
+gt.interact.desc.facade.Fluids=§7Fluids
+gt.interact.desc.facade.Items=§7Items
+
+## TecTech
+gt.interact.desc.channel=§7Channel
+gt.interact.desc.set_perm=§7Public/Private
+gt.interact.desc.set_io=§7Import/Export
+
+#mui1
+mui.button.close=§7x
