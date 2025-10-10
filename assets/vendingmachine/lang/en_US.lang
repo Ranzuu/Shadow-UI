@@ -1,0 +1,7 @@
+vendingmachine.gui.requirementHeader=§7Requirements:
+
+vendingmachine.gui.neiColor.conditionDefault=AAAAAA
+vendingmachine.gui.neiColor.conditionSatisfied=7AC25F
+vendingmachine.gui.neiColor.conditionUnsatisfied=AAAAAA
+
+gt.blockmachines.multimachine.vendingmachine.name.gui=§7Vending Machine

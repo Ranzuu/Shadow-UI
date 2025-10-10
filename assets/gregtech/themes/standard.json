@@ -1,0 +1,75 @@
+{
+  "parent": "DEFAULT",
+  "defaultWidth": 18,
+  "defaultHeight": 18,
+  "background": null,
+  "hoverBackground": "none",
+  "color": "#FFFFFF",
+  "textColor": "#AAAAAA",
+  "textShadow": false,
+  "iconColor": "#404040",
+  "panel": {
+    "background": {
+      "type": "texture",
+      "id": "vanilla_background"
+    }
+  },
+  "button": {
+    "background": {
+      "type": "texture",
+      "id": "mc_button"
+    },
+    "textColor": "#FFFFFF",
+    "textShadow": true
+  },
+  "button:hover": {
+    "background": {
+      "type": "texture",
+      "id": "mc_button_hovered"
+    }
+  },
+  "itemSlot": {
+    "background": {
+      "type": "texture",
+      "id": "slot_item"
+    }
+  },
+  "fluidSlot": {
+    "background": {
+      "type": "texture",
+      "id": "slot_fluid"
+    }
+  },
+  "textField": {
+    "background": {
+      "type": "texture",
+      "id": "display_small"
+    },
+    "textColor": "#FFFFFF",
+    "markedColor": "#2F72A8",
+    "hintColor": "#5F5F5F"
+  },
+  "toggleButton": {
+    "background": {
+      "type": "texture",
+      "id": "mc_button"
+    },
+    "textColor": "#FFFFFF",
+    "textShadow": true,
+    "selectedBackground": {
+      "type": "texture",
+      "id": "mc_button_disabled"
+    },
+    "selectedColor": "#FFFFFF",
+    "selectedTextColor": "#FFFFFF",
+    "selectedTextShadow": true
+  },
+  "toggleButton:hover": {
+    "background": {
+      "type": "texture",
+      "id": "mc_button_hovered"
+    },
+    "selectedBackground": "none"
+  }
+
+}

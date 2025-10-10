@@ -5,6 +5,7 @@ gui.appliedenergistics2.security.craft.name=§fCraft
 gui.appliedenergistics2.security.build.name=§fBuild
 gui.appliedenergistics2.security.security.name=§fSecurity
 
+gui.appliedenergistics2.CraftingTerminal=§7Crafting Terminal
 gui.appliedenergistics2.security.extract.tip=§7User is allowed to remove items from storage.
 gui.appliedenergistics2.security.inject.tip=§7User is allowed to store new items into storage.
 gui.appliedenergistics2.security.craft.tip=§7User can initiate new crafting jobs.
@@ -117,6 +118,8 @@ gui.appliedenergistics2.Empty=§7Empty
 gui.appliedenergistics2.Stored=§7Stored
 gui.appliedenergistics2.AddToBookmark=§7Bookmark
 gui.appliedenergistics2.Cancel=§7Cancel
+gui.appliedenergistics2.Suspend=§7Suspend
+gui.appliedenergistics2.Resume=§7Resume
 gui.appliedenergistics2.ETAFormat=§7HH:mm:ss
 gui.appliedenergistics2.SwitchCraftingSimulationDisplayMode=§fSwitch display mode (List/Tree)
 gui.appliedenergistics2.Crafting=§fCrafting
@@ -129,7 +132,7 @@ gui.appliedenergistics2.ToCraft=§7To Craft
 gui.appliedenergistics2.ToCraftRequests=§7Steps
 gui.appliedenergistics2.CraftingPlan=§7Crafting Plan
 gui.appliedenergistics2.Automatic=§7Automatic
-gui.appliedenergistics2.Start=§fStart
+gui.appliedenergistics2.Start=§7Start
 gui.appliedenergistics2.StartWithFollow=§7Start With Follow
 gui.appliedenergistics2.Merge=§7Merge
 gui.appliedenergistics2.Missing=§7Missing
@@ -153,7 +156,7 @@ gui.appliedenergistics2.TransparentFacades=§7Transparent Facades
 gui.appliedenergistics2.TransparentFacadesHint=§7Controls visibility of facades while the network tool is on your toolbar.
 gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
-gui.appliedenergistics2.FacadeCrafting=§7Facade Crafting
+gui.appliedenergistics2.FacadeCrafting=§fFacade Crafting
 gui.appliedenergistics2.inWorldCraftingPresses=§7Crafting Presses are found in the center of meteorites which can be found in around the world, they can be located by using a meteorite compass.
 gui.appliedenergistics2.Included=§7Included
 gui.appliedenergistics2.Excluded=§7Excluded
@@ -213,10 +216,18 @@ gui.color.appliedenergistics2.SearchboxUnfocused=00000000
 gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=66111111
 gui.color.appliedenergistics2.ItemSlotOverlayInvalid=66ff6666
 
-gui.color.appliedenergistics2.CraftConfirmMissingItem=1AFF0000
-gui.color.appliedenergistics2.CraftingCPUActive=5A45A021
+gui.color.appliedenergistics2.CraftConfirmMissingItem=1AB13E53
+gui.color.appliedenergistics2.CraftingCPUActive=597AC25f
 gui.color.appliedenergistics2.CraftingCPUScheduled=FF787878
-gui.color.appliedenergistics2.InterfaceTerminalMatch=2A00FF00
-gui.color.appliedenergistics2.ProcessBarStartColor=FFE60A00
-gui.color.appliedenergistics2.ProcessBarMiddleColor=FFE6E600
-gui.color.appliedenergistics2.ProcessBarEndColor=FF0AE600
+gui.color.appliedenergistics2.InterfaceTerminalMatch=2A7AC25F
+gui.color.appliedenergistics2.ProcessBarStartColor=FFB13E53
+gui.color.appliedenergistics2.ProcessBarMiddleColor=FFF6E600
+gui.color.appliedenergistics2.ProcessBarEndColor=FF7AC25F
+
+# 1AFF0000
+# 5A45A021
+# FF787878
+# 2A00FF00
+# FFE60A00
+# FFE6E600
+# FF0AE600
