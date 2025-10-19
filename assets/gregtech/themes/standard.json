@@ -34,6 +34,12 @@
       "id": "slot_item"
     }
   },
+  "itemSlot:Player": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/slot/item_player"
+    }
+  }, 
   "fluidSlot": {
     "background": {
       "type": "texture",
@@ -70,6 +76,14 @@
       "id": "mc_button_hovered"
     },
     "selectedBackground": "none"
+  },
+  "scrollbar": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_scroll",
+      "imageWidth": 4,
+      "imageHeight": 4,
+      "border": 1
+    }
   }
-
 }
