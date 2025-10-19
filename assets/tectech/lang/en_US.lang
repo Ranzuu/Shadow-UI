@@ -16,3 +16,5 @@ fog.cosmetics.exportcolors=§7Export
 
 fog.upgrade.confirm=§7Construct
 gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§7Click to consume upgrade materials
+
+tt.wirelessInputData.config.text=§7Configure how much computation to pull from wireless network
