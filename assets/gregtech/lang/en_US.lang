@@ -235,8 +235,6 @@ GT5U.gui.circuit.timer.data_description.pulses=§7Pulses
 GT5U.gui.circuit.timer.data_description.time=§7Time
 
 gt.behaviour.paintspray.infinite.gui.header=§7Select a Color
-gt.behaviour.paintspray.infinite.gui.lock_error=§7§eSpray can is §clocked§e! §bSneak + MMB to unlock.
-gt.behaviour.paintspray.infinite.gui.solvent=§7Solvent
 gt.behaviour.paintspray.infinite.gui.shake_toggle=§7Allow/disallow color iteration
 
 GT5U.gui.text.no_water=§4Missing water
@@ -257,6 +255,7 @@ GT5U.gui.text.warm_up=§pWarming up
 GT5U.gui.text.machine_locked_to_different_recipe=§4Machine is already locked to a different recipe
 GT5U.gui.text.no_output_for_sapling=§pThis sapling yields no outputs
 GT5U.gui.text.no_tools=§4Missing applicable tools
+GT5U.multiblock.startup=§7Starting up...
 
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
