@@ -1,0 +1,35 @@
+{
+	"colors": {
+		"guiTint": {
+			"enableGUITint":	true,
+			"Black":			"505050",
+			"Red":				"a13838",
+			"Green":			"38b764",
+			"Brown":			"784b25",
+			"Blue":				"3b5dc9",
+			"Purple":			"5d275d",
+			"Cyan":				"73eff7",
+			"Light Gray":		"AAAAAA",
+			"Gray":				"969696",
+			"Pink":				"ff80aa",
+			"Lime":				"83e04c",
+			"Yellow":			"fff275",
+			"Light Blue":		"8999ff",
+			"Magenta":			"ff46ee",
+			"Orange":			"ffa049",
+			"White":			"FAFAFF",
+			"Machine Metal":	"FFFFFF"
+		},
+		"textColor": {
+			"title":			"AAAAAA",
+			"title_white":		"AAAAAA",
+			"text_light_gray":	"AAAAAA",
+			"text_gray":		"AAAAAA",
+			"text_red":			"AAAAAA",
+			"text_white":		"AAAAAA",
+			"nei":				"AAAAAA",
+			"nei_overlay":		"AAAAAA",
+			"value":			"AAAAAA"
+		}
+	}
+}
