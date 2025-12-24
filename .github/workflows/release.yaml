@@ -45,7 +45,6 @@ jobs:
           path: modernity
           fetch-depth: 0
 
-      # NEW: Read release notes from main/release_notes.md
       - name: Read release notes (main)
         id: notes
         shell: bash
@@ -62,7 +61,7 @@ jobs:
             echo "text<<$delim"
             if [ -f release_notes.md ]; then
               cat release_notes.md
-              echo ""   # <-- FORCE final newline
+              echo ""
             else
               echo "- (no release notes provided)"
             fi
@@ -141,4 +140,3 @@ jobs:
             modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
