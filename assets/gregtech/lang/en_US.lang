@@ -406,3 +406,9 @@ gt.interact.desc.set_io=§7Import/Export
 
 #mui1
 mui.button.close=§7x
+
+#Cauldron Recipe Info
+GT5U.cauldron_recipe.supports=§7Supports any Impure Dust
+GT5U.cauldron_recipe.consumed=§7Consumed Water
+
+gt.recipe.cauldron=§7Cauldron
