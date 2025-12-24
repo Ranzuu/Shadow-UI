@@ -46,20 +46,26 @@ jobs:
           fetch-depth: 0
 
       # NEW: Read release notes from main/release_notes.md
-      - name: Read release notes (Changes)
+      - name: Read release notes (main)
         id: notes
         shell: bash
         run: |
           cd main
+
           if [ -f release_notes.md ]; then
-            echo "text<<EOF" >> $GITHUB_OUTPUT
-            cat release_notes.md >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
-          else
-            echo "text<<EOF" >> $GITHUB_OUTPUT
-            echo "- (no release notes provided)" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
+            sed -i 's/\r$//' release_notes.md
           fi
+
+          delim="RELEASE_NOTES_$(date +%s%N)"
+
+          echo "text<<$delim" >> "$GITHUB_OUTPUT"
+          if [ -f release_notes.md ]; then
+            cat release_notes.md >> "$GITHUB_OUTPUT"
+          else
+            echo "- (no release notes provided)" >> "$GITHUB_OUTPUT"
+          fi
+          echo "$delim" >> "$GITHUB_OUTPUT"
+
 
       - name: Debug git tags after checkout
         run: |
@@ -133,3 +139,4 @@ jobs:
             modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
