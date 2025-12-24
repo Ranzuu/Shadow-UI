@@ -410,5 +410,5 @@ mui.button.close=§7x
 #Cauldron Recipe Info
 GT5U.cauldron_recipe.supports=§7Supports any Impure Dust
 GT5U.cauldron_recipe.consumed=§7Consumed Water
-
 gt.recipe.cauldron=§7Cauldron
+GT5U.nei.cauldron.consumed=§7Consumed per operation
