@@ -18,3 +18,6 @@ kubatech.gui.text.configuration=§7Configuration
 kubatech.gui.text.tea_ultimate.tea=§7Tea
 kubatech.gui.text.tea_ultimate.tea_limit=§7Tea limit
 kubatech.gui.text.tea_acceptor.in=§7IN: %s/t
+
+kubatech.gui.text.usage_line=§7Usage: %s EU/t
+kubatech.gui.text.time_line=§7Time: %s secs
