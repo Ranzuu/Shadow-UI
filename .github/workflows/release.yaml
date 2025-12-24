@@ -58,14 +58,16 @@ jobs:
 
           delim="RELEASE_NOTES_$(date +%s%N)"
 
-          echo "text<<$delim" >> "$GITHUB_OUTPUT"
-          if [ -f release_notes.md ]; then
-            cat release_notes.md >> "$GITHUB_OUTPUT"
-          else
-            echo "- (no release notes provided)" >> "$GITHUB_OUTPUT"
-          fi
-          echo "$delim" >> "$GITHUB_OUTPUT"
-
+          {
+            echo "text<<$delim"
+            if [ -f release_notes.md ]; then
+              cat release_notes.md
+              echo ""   # <-- FORCE final newline
+            else
+              echo "- (no release notes provided)"
+            fi
+            echo "$delim"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Debug git tags after checkout
         run: |
