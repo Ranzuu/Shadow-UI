@@ -1,2 +1,3 @@
--
--
+- Testing script
+- Test release note 1
+- Test release note 2 (don't mind, it will be deleted)
