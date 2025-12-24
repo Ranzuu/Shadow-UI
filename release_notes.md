@@ -1,3 +1,3 @@
-- Testing script
-- Test  note 1 release
-- Yes
+- Te sting script
+- Te st  note 1 release
+- Y es
