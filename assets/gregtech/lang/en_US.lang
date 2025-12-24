@@ -149,6 +149,7 @@ GT5U.gui.text.beta-plus=§7Beta Plus Decay
 GT5U.gui.text.cannot_change_when_running=§4Can't change configuration when running!
 
 GT5U.gui.text.fluid_limiter.threshold=§7Percent threshold
+
 GT5U.gui.text.volumetric_flask.capacity=§7Capacity
 GT5U.gui.text.volumetric_flask.confirm=§7Confirm
 
