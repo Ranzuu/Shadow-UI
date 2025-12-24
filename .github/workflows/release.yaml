@@ -45,6 +45,22 @@ jobs:
           path: modernity
           fetch-depth: 0
 
+      # NEW: Read release notes from main/release_notes.md
+      - name: Read release notes (Changes)
+        id: notes
+        shell: bash
+        run: |
+          cd main
+          if [ -f release_notes.md ]; then
+            echo "text<<EOF" >> $GITHUB_OUTPUT
+            cat release_notes.md >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          else
+            echo "text<<EOF" >> $GITHUB_OUTPUT
+            echo "- (no release notes provided)" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
       - name: Debug git tags after checkout
         run: |
           echo "Tags in main branch:"
@@ -109,6 +125,9 @@ jobs:
             - Minecraft 1.7.10
             - GTNH 2.8.X
             - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
+
+            ### Changes
+            ${{ steps.notes.outputs.text }}
           files: |
             main/${{ steps.zipfiles.outputs.MAIN_ZIP }}
             modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
