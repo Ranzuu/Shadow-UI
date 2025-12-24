@@ -18,3 +18,9 @@ fog.upgrade.confirm=§7Construct
 gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§7Click to consume upgrade materials
 
 tt.wirelessInputData.config.text=§7Configure how much computation to pull from wireless network
+
+GT5U.gui.text.total_line=§7Total: %s EU
+GT5U.gui.text.usage_line=§7Usage: %s EU/t
+GT5U.gui.text.time_line=§7Time: %s secs
+GT5U.gui.text.time_line_with_ticks=§7Time: %s secs (%d ticks)
+GT5U.gui.text.kv=§7%s: %s

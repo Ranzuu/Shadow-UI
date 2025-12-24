@@ -29,6 +29,7 @@ mobsinfo.mobhandler.extended_info_5=§7which averages at 1 drop every time (100%
 mobsinfo.mobhandler.spawns_everywhere=§7Spawns everywhere
 mobsinfo.mobhandler.spawns_in=§7§nSpawns in %d places...
 mobsinfo.mobhandler.spawns_not_in=§7§nSpawns everywhere but %d places...
+mobsinfo.mobhandler.wither_skeleton_name=§7Wither Skeleton
 
 mobsinfo.villagertradeshandler.name=§7Name: 
 mobsinfo.villagertradeshandler.mod=§7Mod: 
@@ -106,3 +107,5 @@ mobsinfo.command.hidden.invalid_mob=§cInvalid mob name!
 mobsinfo.command.hidden.lock_error=§cMob isn't unlocked for the player or the name is invalid!
 mobsinfo.command.hidden.success=§aSuccess!
 mobsinfo.command.hidden.invalid=§cInvalid options! The correct usage is: %s
+
+mobsinfo.mobhandler.wither_skeleton_name=§7Wither Skeleton
