@@ -1,225 +1,178 @@
-# GUI
-gui.appliedenergistics2.security.extract.name=§fWithdraw
-gui.appliedenergistics2.security.inject.name=§fDeposit
-gui.appliedenergistics2.security.craft.name=§fCraft
-gui.appliedenergistics2.security.build.name=§fBuild
-gui.appliedenergistics2.security.security.name=§fSecurity
+## ARGB Colors: Name and default value
+## gui.color.appliedenergistics2 + enum GuiColors
+## https://github.com/gaogao-qwq/Applied-Energistics-2-Unofficial/blob/e8c89344472b306d10987ebf555eedfe086e1e76/src/main/java/appeng/core/localization/GuiColors.java
 
-gui.appliedenergistics2.CraftingTerminal=§7Crafting Terminal
-gui.appliedenergistics2.security.extract.tip=§7User is allowed to remove items from storage.
-gui.appliedenergistics2.security.inject.tip=§7User is allowed to store new items into storage.
-gui.appliedenergistics2.security.craft.tip=§7User can initiate new crafting jobs.
-gui.appliedenergistics2.security.build.tip=§7User can modify the physical structure of the network, and make configuration changes.
-gui.appliedenergistics2.security.security.tip=§7User can access and modify the security terminal of the network.
+## ShadowUI AE2 colors
+# Text: 0xFFABAAAA
+# Main Background: 0xFF4A4948
+# Button icon color inactive: 0xFF8B8B8B
+# Button icon color pressed: 0xFF6A6A6A
 
-gui.appliedenergistics2.Efficiency=§7Efficiency
-gui.appliedenergistics2.RequiredPower=§7Required Power
-gui.appliedenergistics2.StoredPower=§7Stored Power
-gui.appliedenergistics2.MaxPower=§7Max Power
-gui.appliedenergistics2.QuartzCuttingKnife=§7Quartz Cutting Knife
-gui.appliedenergistics2.Inscriber=§7Inscriber
-gui.appliedenergistics2.Wireless=§7Wireless Access Point
-gui.appliedenergistics2.WirelessTerminal=§7Wireless Term
-gui.appliedenergistics2.NoPermissions=§7No Permissions Selected
-gui.appliedenergistics2.SecurityCardEditor=§7Biometric Card Editor
-gui.appliedenergistics2.Encoded=§7Encoded
-gui.appliedenergistics2.Priority=§fPriority
-gui.appliedenergistics2.StorageBus=§7Storage Bus
-gui.appliedenergistics2.EnergyDrain=§7Passive Drain
-gui.appliedenergistics2.Installed=§7Installed
-gui.appliedenergistics2.NetworkTool=§7Network Tool
-gui.appliedenergistics2.AdvancedNetworkTool=§7Advanced Network Tool
-gui.appliedenergistics2.PowerUsageRate=§7Energy Usage
-gui.appliedenergistics2.PowerInputRate=§7Energy Generation
-gui.appliedenergistics2.PortableCell=§7Portable Cell
-gui.appliedenergistics2.Security=§7Security Term
-gui.appliedenergistics2.CellWorkbench=§7Cell Workbench
-gui.appliedenergistics2.QuantumLinkChamber=§7Quantum Link Chamber
-gui.appliedenergistics2.IOPort=§7ME IO Port
-gui.appliedenergistics2.Chest=§7ME Chest
-gui.appliedenergistics2.Condenser=§7Matter Condenser
-gui.appliedenergistics2.Config=§7Config
-gui.appliedenergistics2.Drive=§7ME Drive
-gui.appliedenergistics2.ExportBus=§7ME Export Bus
-gui.appliedenergistics2.GrindStone=§7Grindstone
-gui.appliedenergistics2.ImportBus=§7ME Import Bus
-gui.appliedenergistics2.Interface=§7ME Interface
-gui.appliedenergistics2.LevelEmitter=§7ME Level Emitter
-gui.appliedenergistics2.Of=§7of
-gui.appliedenergistics2.Patterns=§7Patterns
-gui.appliedenergistics2.SpatialIOPort=§7Spatial IO Port
-gui.appliedenergistics2.StoredEnergy=§fStored Energy
-gui.appliedenergistics2.StoredItems=§fStored Items
-gui.appliedenergistics2.StoredStacks=§fStored Stacks
-gui.appliedenergistics2.Terminal=§7Terminal
-gui.appliedenergistics2.InterfaceTerminal=§fInterface Terminal
-gui.appliedenergistics2.InterfaceTerminalHint=§7Show Or Hide on Interface Terminal.
-gui.appliedenergistics2.PatternOptimization=§fAllow pattern optimization
-gui.appliedenergistics2.PatternOptimizationHint=§7Allows patterns from this interface to be modified by pattern optimizer.
-gui.appliedenergistics2.PatternOptimizer=§7Pattern optimizer
-gui.appliedenergistics2.StepsPerCraft=§7Max steps per craft
-gui.appliedenergistics2.PatternsAffected=§7Patterns affected
-gui.appliedenergistics2.Multiplied=§7Multiplied
-gui.appliedenergistics2.MultipliedBy=§7Multiplied by
-gui.appliedenergistics2.CurrentPatternOutput=§7Current pattern output
-gui.appliedenergistics2.NewPatternOutput=§7New pattern output
-gui.appliedenergistics2.Optimize=§7Optimize
+# Button background color inactive: 0xFF434241
+# Button background color pressed: 0xFF3C3B3A
+# Button background color hovered: 0xFF555452
 
-gui.appliedenergistics2.FormationPlane=§7Formation Plane
-gui.appliedenergistics2.VibrationChamber=§7Vibration Chamber
-gui.appliedenergistics2.NetworkDetails=§7Network Details
-gui.appliedenergistics2.StorageCells=§7ME Storage Cells
-gui.appliedenergistics2.IOBuses=§7ME Import/Export Bus
-gui.appliedenergistics2.Stores=§7Stores
-gui.appliedenergistics2.BytesUsed=§fBytes Used
-gui.appliedenergistics2.TimeUsed=§7Time Used
-gui.appliedenergistics2.Types=§7Types
-gui.appliedenergistics2.Blank=§7Blank
-gui.appliedenergistics2.Unlinked=§7Unlinked
-gui.appliedenergistics2.Linked=§7Linked
-gui.appliedenergistics2.StoredSize=§7Stored Size
-gui.appliedenergistics2.SkyChest=§7Sky Stone Chest
-gui.appliedenergistics2.PatternTerminal=§7Pattern Terminal
-gui.appliedenergistics2.PatternTerminalEx=§7Processing Pattern Terminal
-gui.appliedenergistics2.CraftingPattern=§fCrafting Pattern
-gui.appliedenergistics2.MolecularAssembler=§7Molecular Assembler
-gui.appliedenergistics2.ProcessingPattern=§fProcessing Pattern
-gui.appliedenergistics2.Crafts=§fCrafts
-gui.appliedenergistics2.HoldShift=§7Hold [LSHIFT] to show Ingredients
-gui.appliedenergistics2.Result=§7Result
-gui.appliedenergistics2.Results=§7Results
-gui.appliedenergistics2.Ingredients=§7Ingredients
-gui.appliedenergistics2.Ingredient=§7Ingredient
-gui.appliedenergistics2.And=§7and
-gui.appliedenergistics2.Creates=§7Creates
-gui.appliedenergistics2.With=§7with
-gui.appliedenergistics2.Substitute=§fUsing Substitutions:
-gui.appliedenergistics2.BeSubstitute=§7Can be a substitution:
-gui.appliedenergistics2.Yes=§7Yes
-gui.appliedenergistics2.No=§7No
-gui.appliedenergistics2.EncodedBy=§7Encoded by: %s
-gui.appliedenergistics2.InWorldCrafting=§7AE2 In World Crafting
-gui.appliedenergistics2.inWorldFluix=§7Drop 1 Charged Certus Quartz + 1 Nether Quartz + Redstone Dust into a puddle next to one another and wait a moment to receive 2 Fluix Crystals.
-gui.appliedenergistics2.inWorldPurificationCertus=§7Drop a Certus Quartz Seed made from Certus Quartz Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
-gui.appliedenergistics2.inWorldPurificationNether=§7Drop a Nether Quartz Seed made from Nether Quartz Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
-gui.appliedenergistics2.inWorldPurificationFluix=§7Drop a Fluix Seed made from Fluix Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
-gui.appliedenergistics2.inWorldSingularity=§7To create drop 1 Singularity and 1 Ender Dust and cause an explosion within range of the items.
-gui.appliedenergistics2.ChargedQuartz=§7Charged Certus Quartz is crafted by inserting an uncharged Certus Quartz Crystal into the Charger, and powering it.
-gui.appliedenergistics2.ChargedQuartzFind=§7Charged Certus Quartz can be found in world semi rarely, it appears similar to normal Certus Quartz, except it sparkles.
-gui.appliedenergistics2.NoSecondOutput=§7No Secondary Output
-gui.appliedenergistics2.OfSecondOutput=§7%1$d%% Chance for second output.
-gui.appliedenergistics2.MultipleOutputs=§7%1$d%% second, %2$d%% third output.
-gui.appliedenergistics2.SelectAmount=§7Select Amount
-gui.appliedenergistics2.CopyMode=§fCopy Mode
-gui.appliedenergistics2.CopyModeDesc=§7Controls if the contents of the configuration pane are cleared when you remove the cell.
-gui.appliedenergistics2.Next=§fNext
-gui.appliedenergistics2.Lumen=§7Lumen
-gui.appliedenergistics2.Empty=§7Empty
-gui.appliedenergistics2.Stored=§7Stored
-gui.appliedenergistics2.AddToBookmark=§7Bookmark
-gui.appliedenergistics2.Cancel=§7Cancel
-gui.appliedenergistics2.Suspend=§7Suspend
-gui.appliedenergistics2.Resume=§7Resume
-gui.appliedenergistics2.ETAFormat=§7HH:mm:ss
-gui.appliedenergistics2.SwitchCraftingSimulationDisplayMode=§fSwitch display mode (List/Tree)
-gui.appliedenergistics2.Crafting=§fCrafting
-gui.appliedenergistics2.Scheduled=§fScheduled
-gui.appliedenergistics2.CraftingStatus=§7Status
-gui.appliedenergistics2.RemainingOperations=§7Idle Processors
-gui.appliedenergistics2.FromStorage=§7Available
-gui.appliedenergistics2.FromStoragePercent=§7Used
-gui.appliedenergistics2.ToCraft=§7To Craft
-gui.appliedenergistics2.ToCraftRequests=§7Steps
-gui.appliedenergistics2.CraftingPlan=§7Crafting Plan
-gui.appliedenergistics2.Automatic=§7Automatic
-gui.appliedenergistics2.Start=§7Start
-gui.appliedenergistics2.StartWithFollow=§7Start With Follow
-gui.appliedenergistics2.Merge=§7Merge
-gui.appliedenergistics2.Missing=§7Missing
-gui.appliedenergistics2.NoCraftingTreeReceived=§7No crafting tree received
-gui.appliedenergistics2.CraftingStepLimitExceeded=§7Crafting step limit exceeded
-gui.appliedenergistics2.CraftingSizeLimitExceeded=§7Crafting size limit exceeded
-gui.appliedenergistics2.RequestedItem=§fRequested item
-gui.appliedenergistics2.SimulationIncomplete=§fSimulation incomplete
-gui.appliedenergistics2.Bytes=§7Storage
-gui.appliedenergistics2.Set=§7Set
-gui.appliedenergistics2.Simulation=§fSimulation
-gui.appliedenergistics2.CoProcessors=§7Co-Processors
-gui.appliedenergistics2.CraftingCPU=§7Crafting CPU
-gui.appliedenergistics2.NoCraftingCPUs=§7No Crafting CPUs are Available
-gui.appliedenergistics2.CalculatingWait=§7Calculating Please Wait...
-gui.appliedenergistics2.Clean=§7Clean
-gui.appliedenergistics2.InvalidPattern=§7Invalid Pattern
-gui.appliedenergistics2.UnknownItem=§7Unknown Item
-gui.appliedenergistics2.Range=§7Range
-gui.appliedenergistics2.TransparentFacades=§7Transparent Facades
-gui.appliedenergistics2.TransparentFacadesHint=§7Controls visibility of facades while the network tool is on your toolbar.
-gui.appliedenergistics2.CPUs=§7CPU
-gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
-gui.appliedenergistics2.FacadeCrafting=§fFacade Crafting
-gui.appliedenergistics2.inWorldCraftingPresses=§7Crafting Presses are found in the center of meteorites which can be found in around the world, they can be located by using a meteorite compass.
-gui.appliedenergistics2.Included=§7Included
-gui.appliedenergistics2.Excluded=§7Excluded
-gui.appliedenergistics2.Partitioned=§7Partitioned
-gui.appliedenergistics2.PartitionedOre=§7Ore dictionary filter
-gui.appliedenergistics2.Precise=§7Precise
-gui.appliedenergistics2.Fuzzy=§7Fuzzy
-gui.appliedenergistics2.Filter=§7Filter
-gui.appliedenergistics2.SmallFontCraft=Craft
-gui.appliedenergistics2.LargeFontCraft=+
-gui.appliedenergistics2.Renamer=§7Custom Name: (Enter to set)
-gui.appliedenergistics2.OreFilterLabel=§7Ore dictionary filter
-gui.appliedenergistics2.PriorityCard=§7Priority Card
-gui.appliedenergistics2.PriorityCardTooltip=§7For all your prioritization needs!
-gui.appliedenergistics2.PriorityCardTooltipModeEdit=§7Mode: Edit priority
-gui.appliedenergistics2.PriorityCardTooltipModeView=§7Mode: Print priority
-gui.appliedenergistics2.PriorityCardTooltipModeSet=§7Mode: Apply priority
-gui.appliedenergistics2.PriorityCardTooltipModeInc=§7Mode: Apply and increment priority
-gui.appliedenergistics2.PriorityCardTooltipModeDec=§7Mode: Apply and decrement priority
-gui.appliedenergistics2.Sticky=§7Sticky
-gui.appliedenergistics2.Contains=§7Contains Item
-gui.appliedenergistics2.HoldShiftForTooltip=§7Hold shift for extended tooltip
-gui.appliedenergistics2.HoldShiftClick_HIGHLIGHT_INTERFACE=§7Hold shift click to highlight interface
-gui.appliedenergistics2.Nothing=§7Nothing
-gui.appliedenergistics2.VoidCellTooltip=§7Deletes §4everything§7 stored on it
-gui.appliedenergistics2.CellView=§7Cell View
-gui.appliedenergistics2.Deprecated=§7Deprecated, will be removed soon!
-gui.appliedenergistics2.ViewCellToggleKey=§7Right-click to toggle
+# Color Blue Light: 0xFF2A63C1
+# Color Blue Dark: 0xFF2344A1
+# Color Orange Light: 0xFFC46632
+# Color Orange Dark: 0XFFAB502C
 
-gui.appliedenergistics2.NetworkBytesDetails=§7Network Bytes Details
-gui.appliedenergistics2.Items=§7Items
-gui.appliedenergistics2.Fluids=§7Fluids
-gui.appliedenergistics2.Essentias=§7Essen
-gui.appliedenergistics2.NetworkCellStatus=§7Cell status
-gui.appliedenergistics2.NetworkItemCellCount=§7Network Item Cell Count
-gui.appliedenergistics2.NetworkFluidCellCount=§7Network Fluid Cell Count
-gui.appliedenergistics2.NetworkEssentiaCellCount=§7Network Essentia Cell Count
-gui.appliedenergistics2.TypesInfo=§7Types
-gui.appliedenergistics2.BytesInfo=§7Bytes
-gui.appliedenergistics2.ToFollow=§7Follow
-gui.appliedenergistics2.ToUnfollow=§7Unfollow
-gui.appliedenergistics2.CellRestriction=§7Cell Restriction
-gui.appliedenergistics2.Restricted=§7Restricted
-gui.appliedenergistics2.CellRestrictionTips=§70 for default
-gui.appliedenergistics2.MaxItems=§7Max Items:
-gui.appliedenergistics2.MaxFluid=§7Max Fluids:
-gui.appliedenergistics2.MaxTypes=§7Max Types:
-gui.appliedenergistics2.NumberOfItems=§7Number of items
-gui.appliedenergistics2.NumberOfFluids=§7Number of fluids
-gui.appliedenergistics2.ItemsPerByte=§7Items per byte:
-gui.appliedenergistics2.FluidsPerByte=§7Fluids per byte:
-gui.appliedenergistics2.BytesPerType=§7Bytes per type:
+# Color Green Light: 0xFF7AC25F
+# Color Green Dark: 0XFF4E8F46k
 
-# GUI Colors - ARGB
+# Color Yellow Light: 0xFFFFF70F
+# Color Yellow Dark: 0XFFD6CF0C
+
+# Color Red Light: 0xFFB13E53
+# Color Red Dark: 0XFF68353F
+
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
 gui.color.appliedenergistics2.SearchboxUnfocused=00000000
-gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=66111111
-gui.color.appliedenergistics2.ItemSlotOverlayInvalid=66ff6666
 
-gui.color.appliedenergistics2.CraftConfirmMissingItem=1AB13E53
-gui.color.appliedenergistics2.CraftingCPUActive=597AC25f
-gui.color.appliedenergistics2.CraftingCPUScheduled=FF787878
-gui.color.appliedenergistics2.InterfaceTerminalMatch=2A7AC25F
+gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=FF4A4948
+gui.color.appliedenergistics2.ItemSlotOverlayInvalid=FFC46632
+
+gui.color.appliedenergistics2.CraftConfirmMissingItem=FFB13E53
+
+gui.color.appliedenergistics2.CraftingCPUActive=FF7AC25F
+gui.color.appliedenergistics2.CraftingCPUInactive=FFFFF70F
+
+gui.color.appliedenergistics2.InterfaceTerminalMatch=FF7AC25F
+
+gui.color.appliedenergistics2.SearchboxText=FFABAAAA
+
+gui.color.appliedenergistics2.CraftingCPUTitle=FFABAAAA
+gui.color.appliedenergistics2.CraftingCPUStored=FFABAAAA
+gui.color.appliedenergistics2.CraftingCPUAmount=FFABAAAA
+gui.color.appliedenergistics2.CraftingCPUScheduled=FFABAAAA
+
+gui.color.appliedenergistics2.CraftingStatusCPUName=FFABAAAA
+gui.color.appliedenergistics2.CraftingStatusCPUStorage=FFABAAAA
+gui.color.appliedenergistics2.CraftingStatusCPUAmount=FFABAAAA
+
+gui.color.appliedenergistics2.CraftAmountToCraft=FFABAAAA
+gui.color.appliedenergistics2.CraftAmountSelectAmount=FFABAAAA
+
+gui.color.appliedenergistics2.LevelEmitterValue=FFABAAAA
+
+gui.color.appliedenergistics2.PriorityTitle=FFABAAAA
+gui.color.appliedenergistics2.PriorityValue=FFABAAAA
+
+gui.color.appliedenergistics2.ChestTitle=FFABAAAA
+gui.color.appliedenergistics2.ChestInventory=FFABAAAA
+
+gui.color.appliedenergistics2.CondenserTitle=FFABAAAA
+gui.color.appliedenergistics2.CondenserInventory=FFABAAAA
+
+gui.color.appliedenergistics2.CraftConfirmCraftingPlan=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmSimulation=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmFromStorage=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmPercent25=#0x1c4ca6
+gui.color.appliedenergistics2.CraftConfirmPercent50=#0x1a751e
+gui.color.appliedenergistics2.CraftConfirmPercent75=#0xe3940b
+gui.color.appliedenergistics2.CraftConfirmPercent100=#0x660f0f
+gui.color.appliedenergistics2.CraftConfirmMissing=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmToCraft=FFABAAAA
+
+gui.color.appliedenergistics2.CraftingTerminalTitle=FFABAAAA
+
+gui.color.appliedenergistics2.DriveTitle=FFABAAAA
+gui.color.appliedenergistics2.DriveInventory=FFABAAAA
+
+gui.color.appliedenergistics2.FormationPlaneTitle=FFABAAAA
+gui.color.appliedenergistics2.FormationPlaneInventory=FFABAAAA
+
+gui.color.appliedenergistics2.GrindStoneTitle=FFABAAAA
+gui.color.appliedenergistics2.GrindStoneInventory=FFABAAAA
+
+gui.color.appliedenergistics2.InscriberTitle=FFABAAAA
+gui.color.appliedenergistics2.InscriberInventory=FFABAAAA
+
+gui.color.appliedenergistics2.InterfaceTitle=FFABAAAA
+
+gui.color.appliedenergistics2.InterfaceTerminalTitle=FFABAAAA
+gui.color.appliedenergistics2.InterfaceTerminalInventory=FFABAAAA
+gui.color.appliedenergistics2.InterfaceTerminalName=FFABAAAA
+
+gui.color.appliedenergistics2.IOPortTitle=FFABAAAA
+gui.color.appliedenergistics2.IOPortInventory=FFABAAAA
+
+gui.color.appliedenergistics2.NetworkStatusDetails=FFABAAAA
+gui.color.appliedenergistics2.NetworkBytesDetails=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusStoredPower=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusMaxPower=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusPowerInputRate=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusPowerUsageRate=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusItemCount=FFABAAAA
+
+gui.color.appliedenergistics2.NetworkToolTitle=FFABAAAA
+gui.color.appliedenergistics2.AdvancedNetworkToolTitle=FFABAAAA
+gui.color.appliedenergistics2.NetworkToolInventory=FFABAAAA
+gui.color.appliedenergistics2.AdvancedNetworkToolInventory=FFABAAAA
+
+gui.color.appliedenergistics2.OreFilterLabel=FFABAAAA
+gui.color.appliedenergistics2.OreFilterTextLength=FFABAAAA
+gui.color.appliedenergistics2.OreFilterTextLengthFull=FFB13E53
+
+gui.color.appliedenergistics2.PatternTerminalTitle=FFABAAAA
+gui.color.appliedenergistics2.PatternTerminalEx=FFABAAAA
+
+gui.color.appliedenergistics2.QuantumLinkChamberTitle=FFABAAAA
+gui.color.appliedenergistics2.QuantumLinkChamberInventory=FFABAAAA
+
+gui.color.appliedenergistics2.QuartzCuttingKnifeTitle=FFABAAAA
+gui.color.appliedenergistics2.QuartzCuttingKnifeInventory=FFABAAAA
+
+gui.color.appliedenergistics2.RenamerTitle=FFABAAAA
+
+gui.color.appliedenergistics2.SecurityCardEditorTitle=FFABAAAA
+
+gui.color.appliedenergistics2.SkyChestTitle=FFABAAAA
+gui.color.appliedenergistics2.SkyChestInventory=FFABAAAA
+
+gui.color.appliedenergistics2.SpatialIOTitle=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOInventory=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOStoredPower=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOMaxPower=FFABAAAA
+gui.color.appliedenergistics2.SpatialIORequiredPower=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOEfficiency=FFABAAAA
+
+gui.color.appliedenergistics2.StorageBusTitle=FFABAAAA
+gui.color.appliedenergistics2.StorageBusInventory=FFABAAAA
+
+gui.color.appliedenergistics2.UpgradableTitle=FFABAAAA
+gui.color.appliedenergistics2.UpgradableInventory=FFABAAAA
+
+gui.color.appliedenergistics2.VibrationChamberTitle=FFABAAAA
+gui.color.appliedenergistics2.VibrationChamberInventory=FFABAAAA
+
+gui.color.appliedenergistics2.WirelessTitle=FFABAAAA
+gui.color.appliedenergistics2.WirelessInventory=FFABAAAA
+gui.color.appliedenergistics2.WirelessRange=FFABAAAA
+gui.color.appliedenergistics2.WirelessPowerUsageRate=FFABAAAA
+
+gui.color.appliedenergistics2.NEIGrindstoneRecipeChance=FFABAAAA
+gui.color.appliedenergistics2.NEIGrindstoneNoSecondOutput=FFABAAAA
+
+gui.color.appliedenergistics2.MEMonitorableTitle=FFABAAAA
+gui.color.appliedenergistics2.MEMonitorableInventory=FFABAAAA
+gui.color.appliedenergistics2.DefaultBlack=FFABAAAA
+
+gui.color.appliedenergistics2.CellStatusOrange=FFC46632
+gui.color.appliedenergistics2.CellStatusRed=FFB13E53
+gui.color.appliedenergistics2.CellStatusBlue=2A63C1
+gui.color.appliedenergistics2.CellStatusGreen=7AC25F
+
+gui.color.appliedenergistics2.SearchHighlight=FFF70F
+gui.color.appliedenergistics2.SearchGoToHighlight=FFC46632
+
 gui.color.appliedenergistics2.ProcessBarStartColor=FFB13E53
-gui.color.appliedenergistics2.ProcessBarMiddleColor=FFF6E600
-gui.color.appliedenergistics2.ProcessBarEndColor=FF7AC25F
+gui.color.appliedenergistics2.ProcessBarMiddleColor=FFF70F
+gui.color.appliedenergistics2.ProcessBarEndColor=7AC25F
+
+#Additions
+gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
+gui.appliedenergistics2.Terminal=§7Terminal
+gui.appliedenergistics2.Set=§7Set
+gui.appliedenergistics2.IncreaseAmount=§7+%s
+gui.appliedenergistics2.DecreaseAmount=§7-%s
