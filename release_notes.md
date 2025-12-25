@@ -1,3 +1,1 @@
-- Te sting script
-- Te st  note 1 release
-- Y es
+- Finally making Ae2 terminals and other ae2 stuff readable! (actually big!)
