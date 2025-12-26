@@ -421,3 +421,17 @@ GT5U.nei.purified_water.grade_3.1=§7+%s%%/%dL
 GT5U.nei.purified_water.grade_3.2=§7Returned in amount equivalent to consumed flocculant.
 GT5U.nei.purified_water.grade_4.0=§7+%s pH/stack
 GT5U.nei.purified_water.grade_4.1=§7%s pH/1000L
+
+# Exo-Foundry GUI
+GT5U.gui.text.foundry.modules.preview=§7Showing Preview Modules
+GT5U.gui.text.foundry.modules.installed=§7Showing Installed Modules
+
+# Large Hadron Collider GUI
+GT5U.gui.text.LHC.beamenergykeV=§7Current Beam Energy %seV
+GT5U.gui.text.LHC.beamrate=§7Current Beam Rate
+GT5U.gui.text.LHC.powercost=§7Current Power Draw %s §7EU/t
+GT5U.gui.text.LHC.status=§7Status: %s
+GT5U.gui.text.LHC.off=§7Off
+GT5U.gui.text.LHC.acceleratormode=§7Accelerating beam...
+GT5U.gui.text.LHC.collidermode=§7Colliding beam...
+GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
