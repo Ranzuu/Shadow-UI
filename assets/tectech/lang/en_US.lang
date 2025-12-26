@@ -5,6 +5,7 @@ gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=§7Possible Input Mate
 gt.blockmachines.multimachine.FOG.fuelconsumption=§7Stellar Fuel Consumption Factor
 gt.blockmachines.multimachine.FOG.fueltype=§7Click to Select Fuel Type
 gt.blockmachines.multimachine.FOG.fuelusage=§7Fuel Usage
+gt.blockmachines.multimachine.FOG.voltageinfo=§7Voltage Per Parallel
 
 fog.cosmetics.applycolor=§7Apply
 fog.cosmetics.addcolor=§7Add

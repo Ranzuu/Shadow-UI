@@ -19,7 +19,7 @@ GT5U.machines.solarindicator3=§7Can See Sky
 GT5U.gui.select.current=§7Current:
 
 GT5U.gui.text.rangedvalue=§7Range: %s-%s
-GT5U.gui.text.lockedvalue=§7Locked: %s
+#GT5U.gui.text.lockedvalue=§7Locked: %s
 GT5U.gui.text.success=§7Processing recipe
 GT5U.gui.text.progress=§7Progress:
 GT5U.gui.text.generating=§7Generating power
@@ -407,3 +407,17 @@ gt.interact.desc.set_io=§7Import/Export
 
 #mui1
 mui.button.close=§7x
+
+#Cauldron Recipe Info
+GT5U.cauldron_recipe.supports=§7Supports any Impure Dust
+GT5U.cauldron_recipe.consumed=§7Consumed Water
+gt.recipe.cauldron=§7Cauldron
+GT5U.nei.cauldron.consumed=§7Consumed per operation
+
+#Purified Water
+GT5U.nei.purified_water.base_chance=§7Base success chance: %s%%
+GT5U.nei.purified_water.grade_3.0=§7Consumed during operation
+GT5U.nei.purified_water.grade_3.1=§7+%s%%/%dL
+GT5U.nei.purified_water.grade_3.2=§7Returned in amount equivalent to consumed flocculant.
+GT5U.nei.purified_water.grade_4.0=§7+%s pH/stack
+GT5U.nei.purified_water.grade_4.1=§7%s pH/1000L
