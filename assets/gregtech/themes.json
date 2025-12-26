@@ -1,3 +1,6 @@
 {
-  "gregtech:standard": "gregtech:standard"
+  "gregtech:standard": "gregtech:standard",
+  "gregtech:steel": "gregtech:steel",
+  "gregtech:bronze": "gregtech:bronze",
+  "exofoundry": "gregtech:exofoundry"
 }

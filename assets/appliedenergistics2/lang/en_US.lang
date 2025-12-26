@@ -1,4 +1,4 @@
-## ARGB Colors: Name and default value
+## ARGB Hex Colors: Name and value
 ## gui.color.appliedenergistics2 + enum GuiColors
 ## https://github.com/gaogao-qwq/Applied-Energistics-2-Unofficial/blob/e8c89344472b306d10987ebf555eedfe086e1e76/src/main/java/appeng/core/localization/GuiColors.java
 
@@ -16,28 +16,28 @@
 # Color Blue Dark: 0xFF2344A1
 # Color Orange Light: 0xFFC46632
 # Color Orange Dark: 0XFFAB502C
-
 # Color Green Light: 0xFF7AC25F
 # Color Green Dark: 0XFF4E8F46k
-
 # Color Yellow Light: 0xFFFFF70F
 # Color Yellow Dark: 0XFFD6CF0C
-
 # Color Red Light: 0xFFB13E53
 # Color Red Dark: 0XFF68353F
+
+# Transparency%  0 10 20 30 40 50 60 70 80 90 100
+# Alpha         FF E6 CC B3 99 80 66 4D 33 1A 00
 
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
 gui.color.appliedenergistics2.SearchboxUnfocused=00000000
 
-gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=FF4A4948
-gui.color.appliedenergistics2.ItemSlotOverlayInvalid=FFC46632
+gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=E6000000
+gui.color.appliedenergistics2.ItemSlotOverlayInvalid=66C46632
 
-gui.color.appliedenergistics2.CraftConfirmMissingItem=FFB13E53
+gui.color.appliedenergistics2.CraftConfirmMissingItem=33B13E53
 
-gui.color.appliedenergistics2.CraftingCPUActive=FF7AC25F
-gui.color.appliedenergistics2.CraftingCPUInactive=FFFFF70F
+gui.color.appliedenergistics2.CraftingCPUActive=4D7AC25F
+gui.color.appliedenergistics2.CraftingCPUInactive=4DFFF70F
 
-gui.color.appliedenergistics2.InterfaceTerminalMatch=FF7AC25F
+gui.color.appliedenergistics2.InterfaceTerminalMatch=667AC25F
 
 gui.color.appliedenergistics2.SearchboxText=FFABAAAA
 
@@ -67,10 +67,10 @@ gui.color.appliedenergistics2.CondenserInventory=FFABAAAA
 gui.color.appliedenergistics2.CraftConfirmCraftingPlan=FFABAAAA
 gui.color.appliedenergistics2.CraftConfirmSimulation=FFABAAAA
 gui.color.appliedenergistics2.CraftConfirmFromStorage=FFABAAAA
-gui.color.appliedenergistics2.CraftConfirmPercent25=#0x1c4ca6
-gui.color.appliedenergistics2.CraftConfirmPercent50=#0x1a751e
-gui.color.appliedenergistics2.CraftConfirmPercent75=#0xe3940b
-gui.color.appliedenergistics2.CraftConfirmPercent100=#0x660f0f
+gui.color.appliedenergistics2.CraftConfirmPercent25=FF2A63C1
+gui.color.appliedenergistics2.CraftConfirmPercent50=FF7AC25F
+gui.color.appliedenergistics2.CraftConfirmPercent75=FFC46632
+gui.color.appliedenergistics2.CraftConfirmPercent100=FFB13E53
 gui.color.appliedenergistics2.CraftConfirmMissing=FFABAAAA
 gui.color.appliedenergistics2.CraftConfirmToCraft=FFABAAAA
 
@@ -163,15 +163,26 @@ gui.color.appliedenergistics2.CellStatusRed=FFB13E53
 gui.color.appliedenergistics2.CellStatusBlue=2A63C1
 gui.color.appliedenergistics2.CellStatusGreen=7AC25F
 
-gui.color.appliedenergistics2.SearchHighlight=FFF70F
+gui.color.appliedenergistics2.SearchHighlight=FFC46632
 gui.color.appliedenergistics2.SearchGoToHighlight=FFC46632
 
-gui.color.appliedenergistics2.ProcessBarStartColor=FFB13E53
-gui.color.appliedenergistics2.ProcessBarMiddleColor=FFF70F
-gui.color.appliedenergistics2.ProcessBarEndColor=7AC25F
+gui.color.appliedenergistics2.ProcessBarStartColor=CCB13E53
+gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
+gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 
 #Additions
+gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
+gui.appliedenergistics2.NoCraftingCPUs=§7No Crafting CPUs are Available
+gui.appliedenergistics2.CraftingCPU=§7Crafting CPU
+gui.appliedenergistics2.StartWithFollow=§7Start With Follow
+gui.appliedenergistics2.ToFollow=§7Follow
+gui.appliedenergistics2.ToUnfollow=§7Unfollow
+gui.appliedenergistics2.Start=§7Start
+gui.appliedenergistics2.Next=§7Next
+gui.appliedenergistics2.Suspend=§7Suspend
+gui.appliedenergistics2.Resume=§7Resume
+gui.appliedenergistics2.Cancel=§7Cancel
 gui.appliedenergistics2.Terminal=§7Terminal
 gui.appliedenergistics2.Set=§7Set
 gui.appliedenergistics2.IncreaseAmount=§7+%s
