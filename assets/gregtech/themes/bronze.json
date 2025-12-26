@@ -1,0 +1,18 @@
+{
+  "parent": "gregtech:standard",
+    "textTitle": {
+      "textColor": "#AAAAAA"
+  },
+    "itemSlot:playerMainInventory": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/slot/item_player"
+    }
+  },
+  "itemSlot:playerHotbar": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/slot/item_player"
+    }
+  }
+}
