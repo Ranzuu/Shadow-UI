@@ -1,6 +1,3 @@
-#Tab Name
-nc.itemgroup.tab=§7Nuclear Control 2
-
 #Internal Blocks
 tile.blockThermalMonitor.name=§7Thermal Monitor
 tile.blockIndustrialAlarm.name=§7Industrial Alarm

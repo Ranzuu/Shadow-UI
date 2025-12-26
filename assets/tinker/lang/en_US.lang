@@ -1,4 +1,4 @@
-﻿crafters.ToolStation=§7Tool Station
+crafters.ToolStation=§7Tool Station
 crafters.ToolForge=§7Tool Forge
 crafters.TinkerTable=§7Tinker Table
 crafters.PartBuilder=§7Part Builder
@@ -52,3 +52,5 @@ entity.TConstruct.KingSlime.name=§7King Slime
 entity.TConstruct.Gardeslime.name=§7Gardeslime
 entity.TConstruct.MiniGardy.name=§7Mini Gardeslime
 entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

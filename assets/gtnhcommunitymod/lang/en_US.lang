@@ -7,4 +7,8 @@ StrangeMatterAggregator.UI.MergerPieceNeed.text=§7Merger
 
 MegaCraftingCenter.UI.Magnification.ConfigurationDescription.text=§7Set actual pattern magnification, actual input/output numbers of patterns will be multiplied by this number.
 
-tst.DynamicParallelController.UI.text.01=§7Prallel
+tst.DynamicParallelController.UI.text.01=§7Parallel
+tst.DynamicSpeedController.UI.text.01=§7Speed Multiplier
+
+TST_LargeSolarBoiler.gui.02=§7Heat:
+TST_LargeSolarBoiler.gui.03=§7Calcification Level:
