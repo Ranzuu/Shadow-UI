@@ -1,5 +1,1 @@
-- Ae2 - Fixed color transparency and other issues from previous version (Big thanks to BladeMaster898 for testing and reporting the bugs!)
-- GalacticraftCode - Changed dungeon key texture to be more visible on the dark ui.
-- Tinker - Re-do NEI recipe pages.
-- Other text fixes: GregTech, Twist Space Technology (yes we have that), TecTech
-- Added herobrine back.
+- Added support for GTNH Addon Mods: (ScienceNoLeisure, 123Technology, EzStorage, StorageNetworkm ReAvaritia)
