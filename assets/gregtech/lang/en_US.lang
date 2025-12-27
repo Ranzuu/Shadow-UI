@@ -20,6 +20,7 @@ GT5U.gui.select.current=§7Current:
 
 GT5U.gui.text.rangedvalue=§7Range: %s-%s
 #GT5U.gui.text.lockedvalue=§7Locked: %s
+#GT5U.gui.text.lockedvalue=§7Locked: %s
 GT5U.gui.text.success=§7Processing recipe
 GT5U.gui.text.progress=§7Progress:
 GT5U.gui.text.generating=§7Generating power
