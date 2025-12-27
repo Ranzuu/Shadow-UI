@@ -22,6 +22,14 @@ Modernity version
 > 
 > > \config\GregTech\GregTech.cfg (set to false)
 
+### Supported GTNH Addon mods
+- Twist Space Technology
+- 123Technology
+- EzStorage
+- Storage Network
+- ScienceNoLeisure
+- and other if you want!
+
 ### WAILA
 You can manually change the WAILA colors to match the gui colors.
 > \config\Waila.cfg
