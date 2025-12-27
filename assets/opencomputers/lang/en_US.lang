@@ -11,8 +11,12 @@ oc:gui.Rack.Left=§7Left
 oc:gui.Rack.None=§7None
 oc:gui.Rack.Right=§7Right
 oc:gui.Rack.Enabled=§7Enabled
-oc:gui.Rack.Disabled=§7Disabled
+oc:gui.Rack.Disabled=§4Disabled
 oc:gui.Rack.Top=§7Top
+
+oc:gui.Switch.TransferRate=§7Cycle rate
+oc:gui.Switch.PacketsPerCycle=§7Packets / cycle
+oc:gui.Switch.QueueSize=§7Queue size
 
 # Containers
 oc:container.AccessPoint=§7Access Point

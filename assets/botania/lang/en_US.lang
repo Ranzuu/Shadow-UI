@@ -1,3 +1,5 @@
+botaniamisc.noloc=botaniamisc.noloc
+
 botaniamisc.neiratio=§7Zoom (shift to zoom out)
 
 # KNOWLEDGE
@@ -5,7 +7,10 @@ botania.knowledge.minecraft=§7Minecraftian Knowledge
 botania.knowledge.alfheim=§7Elven Knowledge
 botania.knowledge.relic=§7Relic Knowledge
 
+# NEI INTEGRATION
+
 botania.nei.lexicaSeparator=§7Extra Info:
+botania.nei.lexicaNoInfo=§7(there's no Extra Info for this entry, sorry!)
 
 botania.entry.welcome=§0Welcome To Botania
 botania.entry.tutorial=§0A Tutorial of the Basics
@@ -256,3 +261,5 @@ entity.Botania.botania:playerMover.name=§7Luminizer Beam
 entity.Botania.botania:manaStorm.name=§7Manastorm Epicenter
 entity.Botania.botania:babylonWeapon.name=§7Treasury Weapon
 entity.Botania.botania:fallingStar.name=§7Falling Star
+
+item.botania:flowerBag.name=§7Flower Pouch
