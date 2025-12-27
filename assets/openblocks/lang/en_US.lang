@@ -27,3 +27,5 @@ openblocks.gui.xp_outputs=§7XP Outputs
 openblocks.gui.item_outputs=§7Item Outputs
 openblocks.gui.max_level=§7Max. Level: %d
 openblocks.gui.save_folder=§7Save folder
+
+tile.openblocks.trophy.entity.name=%s §9Trophy

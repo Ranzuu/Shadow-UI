@@ -1,9 +1,6 @@
 gui.transferNode.searching=§7Searching for inventories at
 gui.transferNode=§7Transfer Node
 
-nei.options.keys.gui.xu_ping=§7Search For Item In Nearby Inventories
-
-
 item.extrautils:angelRing.documentation=§7The Angel Ring is a magical artifact imbued with the power of flight and whenever you have the ring in your possession, you will gain unlimited ability to fly
 item.extrautils:bedrockiumIngot.documentation=§7The toughest material known to man, this material can withstand some of the toughest hardships physically possible. Note that while this is named after Bedrock and resembles it strongly, this is not bedrock and can be damaged and destroyed with enough pressure.
 item.extrautils:builderswand.documentation=§7When you right-click on a block it checks your inventory to see if there are blocks of the same kind adjacent to it. Then it will attempt to extend the current layer of those blocks by another layer (the direction depending on which face you right-clicked on) using blocks in your inventory, up to a maximum of 9 blocks at a time.
