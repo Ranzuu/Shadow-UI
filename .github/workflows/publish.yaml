@@ -1,0 +1,138 @@
+name: Publish to Modrinth & CurseForge
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    if: startsWith(github.event.release.tag_name, 'v2.8.X/')
+    runs-on: ubuntu-latest
+
+    steps:
+      # Extract versions
+      - name: Extract tag + pack version
+        id: vars
+        shell: bash
+        run: |
+          TAG="${{ github.event.release.tag_name }}"
+          PACK_VERSION="${TAG#v2.8.X/}"   # e.g. v4.27
+          echo "TAG=$TAG" >> "$GITHUB_OUTPUT"
+          echo "PACK_VERSION=$PACK_VERSION" >> "$GITHUB_OUTPUT"
+
+      # Debug release context
+      - name: Debug release context
+        shell: bash
+        run: |
+          echo "Release tag:         ${{ github.event.release.tag_name }}"
+          echo "Release name:        ${{ github.event.release.name }}"
+          echo "Draft?:              ${{ github.event.release.draft }}"
+          echo "Prerelease?:         ${{ github.event.release.prerelease }}"
+          echo "Release URL:         ${{ github.event.release.html_url }}"
+          echo "Pack version parsed: ${{ steps.vars.outputs.PACK_VERSION }}"
+
+      # Download assets
+      - name: Download release assets (ZIPs)
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          gh release download "${{ steps.vars.outputs.TAG }}" \
+            --repo "${{ github.repository }}" \
+            --pattern "*.zip" \
+            --dir dist
+
+          echo "Downloaded files:"
+          ls -la dist
+
+      - name: Debug downloaded asset list
+        shell: bash
+        run: |
+          echo "dist directory contents:"
+          ls -la dist
+          echo ""
+          echo "ZIP files detected:"
+          ls -la dist/*.zip || true
+
+      # Detect ZIP variants
+      - name: Detect main + modernity ZIP names
+        id: zips
+        shell: bash
+        run: |
+          MAIN_ZIP="$(ls -1 dist/*.zip | grep -vi "modernity" | head -n 1)"
+          MODERNITY_ZIP="$(ls -1 dist/*.zip | grep -i "modernity" | head -n 1)"
+
+          if [ -z "$MAIN_ZIP" ] || [ -z "$MODERNITY_ZIP" ]; then
+            echo "ERROR: Could not find both ZIPs."
+            echo "Expected one normal ZIP and one containing 'Modernity' in the filename."
+            exit 1
+          fi
+
+          echo "MAIN_ZIP=$MAIN_ZIP" >> "$GITHUB_OUTPUT"
+          echo "MODERNITY_ZIP=$MODERNITY_ZIP" >> "$GITHUB_OUTPUT"
+
+      - name: Debug chosen ZIPs
+        shell: bash
+        run: |
+          echo "Main ZIP:      ${{ steps.zips.outputs.MAIN_ZIP }}"
+          echo "Modernity ZIP: ${{ steps.zips.outputs.MODERNITY_ZIP }}"
+
+      # Modrinth uploads
+      - name: Upload to Modrinth (Main)
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: OFx9JGCC
+          name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}
+          version: ${{ steps.vars.outputs.PACK_VERSION }}
+          changelog: ${{ github.event.release.body }}
+          loaders: |-
+            minecraft
+          game-versions: |-
+            1.7.10
+          files: ${{ steps.zips.outputs.MAIN_ZIP }}
+
+      - name: Upload to Modrinth (Modernity)
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: OFx9JGCC
+          name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }} Modernity Version
+          version: ${{ steps.vars.outputs.PACK_VERSION }}-modernity
+          changelog: ${{ github.event.release.body }}
+          loaders: |-
+            minecraft
+          game-versions: |-
+            1.7.10
+          files: ${{ steps.zips.outputs.MODERNITY_ZIP }}
+
+      # CurseForge uploads
+      - name: Upload to CurseForge (Main)
+        uses: itsmeow/curseforge-upload@v3
+        with:
+          token: ${{ secrets.CURSEFORGE_TOKEN }}
+          project_id: "1351373"
+          game_endpoint: "minecraft"
+          file_path: ${{ steps.zips.outputs.MAIN_ZIP }}
+          display_name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}
+          changelog: ${{ github.event.release.body }}
+          changelog_type: "markdown"
+          release_type: "release"
+          game_versions: "Minecraft 1.7.10:1.7.10"
+
+      - name: Upload to CurseForge (Modernity)
+        uses: itsmeow/curseforge-upload@v3
+        with:
+          token: ${{ secrets.CURSEFORGE_TOKEN }}
+          project_id: "1351373"
+          game_endpoint: "minecraft"
+          file_path: ${{ steps.zips.outputs.MODERNITY_ZIP }}
+          display_name: Shadow UI ${{ steps.vars.outputs.PACK_VERSION }} Modernity Version
+          changelog: ${{ github.event.release.body }}
+          changelog_type: "markdown"
+          release_type: "release"
+          game_versions: "Minecraft 1.7.10:1.7.10"
