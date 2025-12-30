@@ -1,0 +1,166 @@
+name: Publish to Modrinth & CurseForge
+
+on:
+  workflow_run:
+    workflows: ["Build and Release Resource Pack"]
+    types: [completed]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Debug workflow_run context
+        shell: bash
+        run: |
+          echo "Workflow:     ${{ github.event.workflow_run.name }}"
+          echo "Conclusion:   ${{ github.event.workflow_run.conclusion }}"
+          echo "Head SHA:     ${{ github.event.workflow_run.head_sha }}"
+          echo "Head branch:  ${{ github.event.workflow_run.head_branch }}"
+          echo "Repo:         ${{ github.repository }}"
+
+      - name: Resolve TAG (prefer workflow_run head_branch)
+        id: rel
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          CANDIDATE="${{ github.event.workflow_run.head_branch }}"
+
+          if [[ "$CANDIDATE" == v2.8.X/* ]]; then
+            TAG="$CANDIDATE"
+            echo "Using TAG from workflow_run.head_branch: $TAG"
+          else
+            echo "head_branch was '$CANDIDATE' (not a tag). Falling back to latest v2.8.X/* release."
+            TAG="$(gh api "repos/${{ github.repository }}/releases?per_page=50" \
+              --jq '[.[] | select(.tag_name | startswith("v2.8.X/"))][0].tag_name')"
+
+            if [ -z "${TAG:-}" ] || [ "$TAG" = "null" ]; then
+              echo "ERROR: Could not find any v2.8.X/* releases."
+              exit 1
+            fi
+          fi
+
+          PACK_VERSION="${TAG#v2.8.X/}"  # e.g. v4.28
+          echo "TAG=$TAG" >> "$GITHUB_OUTPUT"
+          echo "PACK_VERSION=$PACK_VERSION" >> "$GITHUB_OUTPUT"
+
+
+      - name: Fetch release body (changelog) from GitHub Release
+        id: notes
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          BODY="$(gh release view "${{ steps.rel.outputs.TAG }}" --repo "${{ github.repository }}" --json body --jq .body)"
+          # Put body into a multiline output
+          delim="REL_BODY_$(date +%s%N)"
+          {
+            echo "body<<$delim"
+            echo "$BODY"
+            echo "$delim"
+          } >> "$GITHUB_OUTPUT"
+
+          echo "Changelog preview (first 20 lines):"
+          echo "$BODY" | sed -n '1,20p'
+
+      - name: Download release assets (ZIPs)
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+          gh release download "${{ steps.rel.outputs.TAG }}" \
+            --repo "${{ github.repository }}" \
+            --pattern "*.zip" \
+            --dir dist
+
+          echo "Downloaded files:"
+          ls -la dist
+
+      - name: Detect main + modernity ZIP names
+        id: zips
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Your filenames contain "Modernity version" for the modernity file.
+          MAIN_ZIP="$(ls -1 dist/*.zip | grep -vi "modernity" | head -n 1 || true)"
+          MODERNITY_ZIP="$(ls -1 dist/*.zip | grep -i "modernity" | head -n 1 || true)"
+
+          if [ -z "$MAIN_ZIP" ] || [ -z "$MODERNITY_ZIP" ]; then
+            echo "ERROR: Could not find both ZIPs."
+            echo "All ZIPs found:"
+            ls -la dist/*.zip || true
+            exit 1
+          fi
+
+          echo "MAIN_ZIP=$MAIN_ZIP" >> "$GITHUB_OUTPUT"
+          echo "MODERNITY_ZIP=$MODERNITY_ZIP" >> "$GITHUB_OUTPUT"
+
+          echo "MAIN_ZIP: $MAIN_ZIP"
+          echo "MODERNITY_ZIP: $MODERNITY_ZIP"
+
+      # Modrinth (2 versions)
+      - name: Upload to Modrinth (Main)
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: OFx9JGCC
+          name: Shadow UI ${{ steps.rel.outputs.PACK_VERSION }}
+          version: ${{ steps.rel.outputs.PACK_VERSION }}
+          changelog: ${{ steps.notes.outputs.body }}
+          loaders: |-
+            minecraft
+          game-versions: |-
+            1.7.10
+          files: ${{ steps.zips.outputs.MAIN_ZIP }}
+
+      - name: Upload to Modrinth (Modernity)
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: OFx9JGCC
+          name: Shadow UI ${{ steps.rel.outputs.PACK_VERSION }} Modernity Version
+          version: ${{ steps.rel.outputs.PACK_VERSION }}
+          changelog: ${{ steps.notes.outputs.body }}
+          loaders: |-
+            minecraft
+          game-versions: |-
+            1.7.10
+          files: ${{ steps.zips.outputs.MODERNITY_ZIP }}
+
+      # CurseForge (2 files)
+      - name: Upload to CurseForge (Main)
+        uses: itsmeow/curseforge-upload@v3
+        with:
+          token: ${{ secrets.CURSEFORGE_TOKEN }}
+          project_id: "1351373"
+          game_endpoint: "minecraft"
+          file_path: ${{ steps.zips.outputs.MAIN_ZIP }}
+          display_name: Shadow UI ${{ steps.rel.outputs.PACK_VERSION }}
+          changelog: ${{ steps.notes.outputs.body }}
+          changelog_type: "markdown"
+          release_type: "release"
+          game_versions: "Minecraft 1.7:1.7.10"
+
+      - name: Upload to CurseForge (Modernity)
+        uses: itsmeow/curseforge-upload@v3
+        with:
+          token: ${{ secrets.CURSEFORGE_TOKEN }}
+          project_id: "1351373"
+          game_endpoint: "minecraft"
+          file_path: ${{ steps.zips.outputs.MODERNITY_ZIP }}
+          display_name: Shadow UI ${{ steps.rel.outputs.PACK_VERSION }} Modernity Version
+          changelog: ${{ steps.notes.outputs.body }}
+          changelog_type: "markdown"
+          release_type: "release"
+          game_versions: "Minecraft 1.7:1.7.10"

@@ -1,1 +1,2 @@
-- Added support for GTNH Addon Mods: (ScienceNoLeisure, 123Technology, EzStorage, StorageNetworkm ReAvaritia)
+- Lang Fixes: Botania, ExtraUtils, GalaxySpace, LogisticsPipes, OpenComputers, StorageDrawers
+- Texture Fixes: Railcraft, DraconicEvolution, Forestry, MagicBees, OpenModsLib(OC), WitchingGadgets
