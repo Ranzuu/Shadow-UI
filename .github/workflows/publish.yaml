@@ -23,7 +23,7 @@ jobs:
           echo "Head branch:  ${{ github.event.workflow_run.head_branch }}"
           echo "Repo:         ${{ github.repository }}"
 
-      - name: Find matching GitHub Release by commit SHA
+      - name: Resolve TAG (prefer workflow_run head_branch)
         id: rel
         shell: bash
         env:
@@ -31,30 +31,26 @@ jobs:
         run: |
           set -euo pipefail
 
-          SHA="${{ github.event.workflow_run.head_sha }}"
-          echo "Looking for release with target_commitish == $SHA"
+          CANDIDATE="${{ github.event.workflow_run.head_branch }}"
 
-          # Get recent releases and find the one created from this exact commit
-          # (Your release tags are v2.8.X/v*, so we filter to that namespace too)
-          TAG="$(gh api "repos/${{ github.repository }}/releases?per_page=50" \
-            --jq ".[] | select(.tag_name | startswith(\"v2.8.X/\")) | select(.target_commitish == \"$SHA\") | .tag_name" \
-            | head -n 1)"
+          if [[ "$CANDIDATE" == v2.8.X/* ]]; then
+            TAG="$CANDIDATE"
+            echo "Using TAG from workflow_run.head_branch: $TAG"
+          else
+            echo "head_branch was '$CANDIDATE' (not a tag). Falling back to latest v2.8.X/* release."
+            TAG="$(gh api "repos/${{ github.repository }}/releases?per_page=50" \
+              --jq '[.[] | select(.tag_name | startswith("v2.8.X/"))][0].tag_name')"
 
-          if [ -z "${TAG:-}" ]; then
-            echo "ERROR: No matching release found for commit $SHA."
-            echo "This usually means the release wasn't created from this commit, or GitHub hasn't indexed it yet."
-            echo "Recent releases:"
-            gh api "repos/${{ github.repository }}/releases?per_page=10" --jq '.[] | {tag: .tag_name, target: .target_commitish, published: .published_at}'
-            exit 1
+            if [ -z "${TAG:-}" ] || [ "$TAG" = "null" ]; then
+              echo "ERROR: Could not find any v2.8.X/* releases."
+              exit 1
+            fi
           fi
 
           PACK_VERSION="${TAG#v2.8.X/}"  # e.g. v4.28
-
-          echo "Found TAG=$TAG"
-          echo "Parsed PACK_VERSION=$PACK_VERSION"
-
           echo "TAG=$TAG" >> "$GITHUB_OUTPUT"
           echo "PACK_VERSION=$PACK_VERSION" >> "$GITHUB_OUTPUT"
+
 
       - name: Fetch release body (changelog) from GitHub Release
         id: notes
