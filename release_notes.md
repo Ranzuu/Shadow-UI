@@ -1,2 +1,2 @@
 - Lang Fixes: Botania, ExtraUtils, GalaxySpace, LogisticsPipes, OpenComputers, StorageDrawers
-- Texture Fixes: Railcraft, DraconicEvolution, Forestry, MagicBees, OpenModsLib(OC), witchingGadgets
+- Texture Fixes: Railcraft, DraconicEvolution, Forestry, MagicBees, OpenModsLib(OC), WitchingGadgets
