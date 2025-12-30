@@ -1,9 +1,16 @@
+#English (US)
 tile.SolarWindPanel.name=§7Solar Wind Panel
 tile.StorageModuleT3.0.name=§7Advanced Energy Cluster
 tile.StorageModuleT3_4.name=§7Advanced Energy Cluster
 tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
 tile.OxygenStorageModuleT2_4.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.name=§7Advanced Oxygen Module
 tile.SolarPanel.name=§7Hybrid Solar Panel
+tile.GeothermalGenerator.name=§7Geothermal Generator
+tile.FuelGenerator.name=§7Fuel Generator
+tile.AssemblyMachine.name=§7Assembly Machine
+tile.ConverterSurface.name=§7Surface Converter
 
 entity.GalacticraftCore.Crawler.name=§7Crawler
 entity.GalacticraftCore.EvolvedBlaze.name=§7Evolved Blaze
