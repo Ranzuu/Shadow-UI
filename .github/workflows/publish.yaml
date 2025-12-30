@@ -130,7 +130,7 @@ jobs:
           token: ${{ secrets.MODRINTH_TOKEN }}
           project: OFx9JGCC
           name: Shadow UI ${{ steps.rel.outputs.PACK_VERSION }} Modernity Version
-          version: ${{ steps.rel.outputs.PACK_VERSION }}-modernity
+          version: ${{ steps.rel.outputs.PACK_VERSION }}
           changelog: ${{ steps.notes.outputs.body }}
           loaders: |-
             minecraft
@@ -150,7 +150,7 @@ jobs:
           changelog: ${{ steps.notes.outputs.body }}
           changelog_type: "markdown"
           release_type: "release"
-          game_versions: "Minecraft 1.7.10:1.7.10"
+          game_versions: "Minecraft 1.7:1.7.10"
 
       - name: Upload to CurseForge (Modernity)
         uses: itsmeow/curseforge-upload@v3
@@ -163,4 +163,4 @@ jobs:
           changelog: ${{ steps.notes.outputs.body }}
           changelog_type: "markdown"
           release_type: "release"
-          game_versions: "Minecraft 1.7.10:1.7.10"
+          game_versions: "Minecraft 1.7:1.7.10"
