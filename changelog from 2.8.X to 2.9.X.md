@@ -1,4 +1,4 @@
-# Personal PRs that affected the resoruce pack
+# Personal PRs that affected the resource pack
 Applied Energistics 2:
 - Fixed text color: Amount elements - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/982 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/997
 
