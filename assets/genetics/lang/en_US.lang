@@ -1,14 +1,16 @@
-genetics.machine.machine.isolator=§7Isolator
-genetics.machine.machine.sequencer=§7Sequencer
-genetics.machine.machine.polymeriser=§7Polymeriser
-genetics.machine.machine.inoculator=§7Inoculator
-genetics.machine.labMachine.analyser=§7Analyzer
-genetics.machine.labMachine.incubator=§7Incubator
-genetics.machine.labMachine.genepool=§7Genepool
-genetics.machine.labMachine.acclimatiser=§7Acclimatiser
-genetics.machine.advMachine.splicer=§7Splicer
+gui.genetics.machine.machine.isolator.title=§7Isolator
+gui.genetics.machine.machine.sequencer.title=§7Sequencer
+gui.genetics.machine.machine.polymeriser.title=§7Polymeriser
+gui.genetics.machine.machine.inoculator.title=§7Inoculator
+gui.genetics.machine.labMachine.genepool.title=§7Genepool
+gui.genetics.machine.labMachine.analyser.title=§7Analyzer
+gui.genetics.machine.labMachine.incubator.title=§7Incubator
+gui.genetics.machine.labMachine.acclimatiser.title=§7Acclimatiser
+gui.genetics.machine.advMachine.splicer.title=§7Splicer
 
-genetics.gui.geneBank=§7Gene Bank
+genetics.gui.registry.title=§7Registry
+genetics.gui.registry.1.title=§7Master Registry
+genetics.gui.analyst.title=§7Analyst
 
 genetics.machine.sequencer.gui.sequensedBy=§7Genes will be sequenced by %s
 genetics.machine.sequencer.gui.willNotSave=§7Userless. Will not save sequences

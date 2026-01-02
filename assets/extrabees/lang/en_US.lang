@@ -1,7 +1,7 @@
-extrabees.machine.alveay.hatchery=§7§7Hatchery
-extrabees.machine.alveay.stimulator=§7§7Electrical Stimulator
-extrabees.machine.alveay.frame=§7§7Frame Housing
-extrabees.machine.alveay.mutator=§7§7Mutator
+extrabees.machine.alveay.frame.title=§7Frame Housing
+extrabees.machine.alveay.mutator.title=§7Mutator
+extrabees.machine.alveay.stimulator.title=§7Elec. Stimulator
+extrabees.machine.alveay.hatchery.title=§7Hatchery
 
 extrabees.machine.alveay.mutator.mutagens=§7Possible Mutagens:
 
