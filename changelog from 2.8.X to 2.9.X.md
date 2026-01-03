@@ -5,6 +5,9 @@ Applied Energistics 2
 Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
+Buildcraft and addons
+- Fixed text color for some guis (+texture fixes) - https://github.com/GTNewHorizons/BuildCraft/pull/26 / https://github.com/GTNewHorizons/BuildCraftCompat/pull/13/files
+
 ExtraBees
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/Binnie/pull/81
 
