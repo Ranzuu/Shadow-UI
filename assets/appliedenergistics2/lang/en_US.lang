@@ -170,7 +170,25 @@ gui.color.appliedenergistics2.ProcessBarStartColor=CCB13E53
 gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
 gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 
-#Additions
+## Color Aplicator Shift-click GUI
+# Window Border
+gui.color.appliedenergistics2.ColorSelectBackground=FF3C3B3A
+# Window Background
+gui.color.appliedenergistics2.ColorSelectBorder=FF4A4948
+# Button background
+gui.color.appliedenergistics2.ColorSelectBtnBg=FF6A6A6A
+# Button border selected
+gui.color.appliedenergistics2.ColorSelectBtnBorderSelected=FF7AC25F
+# Button border hover all minus selected
+gui.color.appliedenergistics2.ColorSelectBtnBorderHover=FF555452
+# Button background hover all minus selected
+gui.color.appliedenergistics2.ColorSelectBtnOverlayHover=33555452
+# Button border disabled
+gui.color.appliedenergistics2.ColorSelectBtnBorderDisabled=FF1D1D1D
+# Button background disabled
+gui.color.appliedenergistics2.ColorSelectBtnOverlayDisabled=B31D1D1D
+
+# Additions
 gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
 gui.appliedenergistics2.NoCraftingCPUs=§7No Crafting CPUs are Available
@@ -188,3 +206,4 @@ gui.appliedenergistics2.Set=§7Set
 gui.appliedenergistics2.IncreaseAmount=§7+%s
 gui.appliedenergistics2.DecreaseAmount=§7-%s
 gui.appliedenergistics2.AddToBookmark=§7Bookmark
+gui.appliedenergistics2.SelectColor=§7Select a Color
