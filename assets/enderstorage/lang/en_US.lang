@@ -1,4 +1,2 @@
-tile.enderchest.name=§7Ender Chest/Tank
-tile.enderchest|0.name=§7Ender Chest
-tile.enderchest|1.name=§7Ender Tank
-item.enderpouch.name=§7Ender Pouch
+gui.tile.enderchest|0.name.title=§7Ender Chest
+gui.item.enderpouch.name.title=§7Ender Pouch

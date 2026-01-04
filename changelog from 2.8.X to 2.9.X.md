@@ -8,11 +8,17 @@ Binnie Core
 Buildcraft and addons
 - Fixed text color for some guis (+texture fixes) - https://github.com/GTNewHorizons/BuildCraft/pull/26 / https://github.com/GTNewHorizons/BuildCraftCompat/pull/13/files
 
+CarpentersBlocks
+- Fixed title text color for Carpenter's Safe - https://github.com/GTNewHorizons/CarpentersBlocks/pull/15
+
 ExtraBees
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/Binnie/pull/81
 
 ExtraTrees
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/Binnie/pull/81
+
+EnderStorage
+- Fixed text color for Ender Chest and Ender Pouch - https://github.com/GTNewHorizons/EnderStorage/pull/24
 
 Forestry
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/ForestryMC/pull/106
@@ -25,6 +31,9 @@ Genetics
 
 KubaTech
 - Fixed text color: Usage/Time lines - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
+
+NotEnoughtItems (NEI)
+- Fixed small subset label (%) color (I hate that purple) - https://github.com/GTNewHorizons/NotEnoughItems/pull/836
 
 Project Red
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/ProjectRed/pull/64
@@ -40,6 +49,7 @@ Mobs-Info
 Applied Energistics 2
 - Added "Bookmark" text color
 - Added "Collapse/Expand" icons
+- Added Color Aplicator GUI - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/998 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1002
 
 Enhanced Lootbags
 - Updated Nei handler
