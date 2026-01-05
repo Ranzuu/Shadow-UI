@@ -1,23 +1,15 @@
 #Internal Blocks
-tile.blockThermalMonitor.name=§7Thermal Monitor
-tile.blockIndustrialAlarm.name=§7Industrial Alarm
-tile.blockHowlerAlarm.name=§7Howler Alarm
-tile.blockRemoteThermo.name=§7Remote Thermal Monitor
-tile.blockInfoPanel.name=§7Industrial Information Panel
-tile.blockInfoPanelExtender.name=§7Information Panel Extender
-tile.blockAdvancedInfoPanel.name=§7Advanced Information Panel
-tile.blockAdvancedInfoPanelExtender.name=§7Advanced Panel Extender
-tile.nclight0.name=§7White Lamp
-tile.nclight1.name=§7White Lamp
-tile.nclight2.name=§7Orange Lamp
-tile.nclight3.name=§7Orange Lamp
-tile.blockEnergyCounter.name=§7Energy Counter
-tile.blockAverageCounter.name=§7Average Counter
-tile.blockRangeTrigger.name=§7Range Trigger
+gui.tile.blockThermalMonitor.name.title=§7Thermal Monitor
+gui.tile.blockIndustrialAlarm.name.title=§7Industrial Alarm
+gui.tile.blockHowlerAlarm.name.title=§7Howler Alarm
+gui.tile.blockRemoteThermo.name.title=§7Remote Thermal Monitor
+gui.tile.blockInfoPanel.name.title=§7Industrial Information Panel
+gui.tile.blockEnergyCounter.name.title=§7Energy Counter
+gui.tile.blockAverageCounter.name.title=§7Average Counter
+gui.tile.blockRangeTrigger.name.title=§7Range Trigger
+gui.tile.blockAdvancedInfoPanel.name.title=§7Advanced Information Panel
 
-#Integration Blocks
-tile.blockBRPart.name=§7Reactor Monitor
-tile.NetworkLink.name=§7ME Network Monitor
+gui.optional.numbers=§7
 
 #Original Screen Messages
 msg.nc.HowlerAlarmSoundRange=§7Sound range: %s
