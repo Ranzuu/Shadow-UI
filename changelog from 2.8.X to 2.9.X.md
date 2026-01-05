@@ -48,8 +48,10 @@ Nuclear Control 2
 - Fixed text color for bunch of numbers - https://github.com/GTNewHorizons/Nuclear-Control/pull/35
 
 Mobs-Info
-- Fixed text color for Wither Skeleton https://github.com/kuba6000/Mobs-Info/pull/124
+- Fixed text color for Wither Skeleton - https://github.com/kuba6000/Mobs-Info/pull/124
 
+RandomThinkgs
+- Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/Random-Things/pull/16
 
 # Other "non personal PRs" fixes and changes
 Applied Energistics 2
