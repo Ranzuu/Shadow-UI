@@ -1,20 +1,27 @@
-tile.playerinterface.name=§7Player Interface
-tile.creativePlayerInterface.name=§7Creative Player Interface
-text.miscellaneous.connectedTo=§7Connected to
+item.filter.name=§7Filter: 
+gui.item.filterItem.name.title=§7Item Filter
+gui.item.dropFilter.name.title=§7Drop Filter
+gui.item.dropFilterVoiding.name.title=§7Voiding Drop Filter
 
-tile.advancedItemCollector.name=§7Advanced Item Collector
-tile.onlineDetector.name=§7Online Detector
+gui.tile.advancedItemCollector.name.title=§7Advanced Item Collector
+gui.tile.onlineDetector.name.title=§7Online Detector
+gui.tile.dyeingMachine.name.title=§7Dyeing Machine
+gui.tile.imbuingStation.name.title=§7Imbuing Station
+gui.tile.energyDistributor.name.title=§7Energy Distributor
+gui.tile.enderEnergyDistributor.name.title=§7Ender Energy Distributor
+gui.tile.playerinterface.name.title=§7Player Interface
+gui.tile.creativePlayerInterface.name.title=§7Creative Player Interface
+
+text.miscellaneous.connectedTo=§7Connected to %s
+text.miscellaneous.nobody=§7nobody
+text.miscellaneous.radiusX=§7Radius X: %s
+text.miscellaneous.radiusY=§7Radius Y: %s
+text.miscellaneous.radiusZ=§7Radius Z: %s
 text.onlineDetector.detectingNobody=§7Detecting Nobody
 text.onlineDetector.detecting=§7"Detecting %s"
-tile.dyeingMachine.name=§7Dyeing Machine
-tile.energyDistributor.name=§7Energy Distributor
-tile.enderEnergyDistributor.name=§7Ender Energy Distributor
-tile.imbuingStation.name=§7Imbuing Station
-
-item.dropFilter.name=§7Drop Filter
-item.dropFilterVoiding.name=§7Voiding Drop Filter
-item.filterItem.name=§7Item Filter
-item.voidStone.name=§7Void Stone
+text.miscellaneous.edlt=§7Edlt: %s/%s RF
+text.miscellaneous.mc=§7MC: %s/%s
 
 entity.RandomThings.spirit.name=§7Spirit
 entity.bloodmoonCircle.name=§7Bloodmoon Circle
+
