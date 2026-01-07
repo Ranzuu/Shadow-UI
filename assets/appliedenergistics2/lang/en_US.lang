@@ -188,6 +188,12 @@ gui.color.appliedenergistics2.ColorSelectBtnBorderDisabled=FF1D1D1D
 # Button background disabled
 gui.color.appliedenergistics2.ColorSelectBtnOverlayDisabled=B31D1D1D
 
+## Level Maintainer Fluid Crafting
+ae2fc.gui.color.StateIdle=FF7AC25F
+ae2fc.gui.color.StateCraft=FFFFF70F
+ae2fc.gui.color.StateExport=FF2A63C1
+ae2fc.gui.color.StateError=FFB13E53
+
 # Additions
 gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
