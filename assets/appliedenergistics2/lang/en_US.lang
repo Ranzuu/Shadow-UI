@@ -170,6 +170,11 @@ gui.color.appliedenergistics2.ProcessBarStartColor=CCB13E53
 gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
 gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 
+ae2fc.gui.color.StateIdle=FF7AC25F
+ae2fc.gui.color.StateCraft=FFFFF70F
+ae2fc.gui.color.StateExport=FF2A63C1
+ae2fc.gui.color.StateError=FFB13E53
+
 #Additions
 gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
