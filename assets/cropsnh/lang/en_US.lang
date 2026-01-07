@@ -1,0 +1,15 @@
+# Industrial Farm Gui
+GT5U.gui.text.cropsnh.industrialFarm.blockUnderNotFound=§4Failed to insert new seeds as the block that goes below the soil is missing.
+GT5U.gui.text.cropsnh.industrialFarm.blockUnderMismatch.input=§4Failed to insert new seeds as the blocks stored in this machine aren't compatible.
+GT5U.gui.text.cropsnh.industrialFarm.blockUnderMismatch.farm=§4The current block does not match the blocks required for this seed to grow.
+GT5U.gui.text.cropsnh.industrialFarm.seedBedTierTooLow=§4The current tier of seed bed is too low for this seed.
+GT5U.gui.text.cropsnh.industrialFarm.seedsFull=§4Seed capacity reached.
+GT5U.gui.text.cropsnh.industrialFarm.seedOverflow=§4Seed Storage exceeds current capacity!
+GT5U.gui.text.cropsnh.industrialFarm.cannotGrow=§4This seed cannot grow in the current environment.
+
+# NEI
+cropsnh_nei.mutationPool.poolName=§7Pool: %1$s
+cropsnh_nei.crops.tier=§7Tier: §r%d
+cropsnh_nei.crops.growthDuration=§7Growth Points: §r%1$s
+cropsnh_nei.crops.dropMult=§7Drop Multiplier: §r%1$0.2f
+cropsnh_nei.crops.likes=§7Likes: §r%1$s
