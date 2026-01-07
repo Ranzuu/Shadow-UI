@@ -2,6 +2,9 @@
 Applied Energistics 2
 - Fixed text color: Amount elements - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/982 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/997
 
+AE2Stuff
+- Customized the Network Visualizer overlay color - https://github.com/GTNewHorizons/ae2stuff/pull/37
+
 Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 

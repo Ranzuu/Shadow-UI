@@ -2,5 +2,6 @@
   "gregtech:standard": "gregtech:standard",
   "gregtech:steel": "gregtech:steel",
   "gregtech:bronze": "gregtech:bronze",
-  "exofoundry": "gregtech:exofoundry"
+  "exofoundry": "gregtech:exofoundry",
+  "tectech:standard": "gregtech:tectech"
 }
