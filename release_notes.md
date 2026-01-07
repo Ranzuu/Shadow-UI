@@ -1,2 +1,3 @@
-- Lang Fixes: Botania, ExtraUtils, GalaxySpace, LogisticsPipes, OpenComputers, StorageDrawers
-- Texture Fixes: Railcraft, DraconicEvolution, Forestry, MagicBees, OpenModsLib(OC), WitchingGadgets
+- Lang Fixes: AppliedEnergistics2, TecTech
+- Texture Fixes: Vanilla, AppliedEnergistics2, TecTech, GregTech, GtIntergalactic
+- Other: Mui2 fixes
