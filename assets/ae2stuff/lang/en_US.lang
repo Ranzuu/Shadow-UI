@@ -2,3 +2,13 @@ tile.ae2stuff.Encoder.name=§7Pattern Encoder
 tile.ae2stuff.Grower.name=§7Crystal Growth Chamber
 tile.ae2stuff.Inscriber.name=§7Advanced Inscriber
 tile.ae2stuff.Wireless.name=§7Wireless Connector
+
+ae2stuff.visualiser.color.node.missing=0xE6B13E53
+ae2stuff.visualiser.color.node.dense=0xE6FFF70F
+ae2stuff.visualiser.color.node.proxy=0xE6C46632
+ae2stuff.visualiser.color.node.default=0xE62A63C1
+
+ae2stuff.visualiser.color.link.compressed=0xB3FF71D6
+ae2stuff.visualiser.color.link.dense=0xB3FFF70F
+ae2stuff.visualiser.color.link.proxy=0xB3C46632
+ae2stuff.visualiser.color.link.default=0xB32A63C1

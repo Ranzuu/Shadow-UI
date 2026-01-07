@@ -1,4 +1,3 @@
-gui.projectred.expansion.machine.inventory.title=§7Inventory
 gui.projectred.expansion.machine1|0.title=§7Inductive Furnace
 gui.projectred.expansion.machine1|1.title=§7Electrotine Generator
 gui.projectred.expansion.machine2|2.title=§7Block Placer
@@ -11,7 +10,7 @@ gui.projectred.expansion.machine2|11.title=§7Auto Crafting Bench
 gui.projectred.integration.icblock|0.title=§7IC Workbench
 gui.projectred.integration.icblock|0.detail=§7detail
 gui.projectred.integration.icblock|0.scale=§7scale
-gui.projectred.integration.icblock|0.redraw=§7redraw
+gui.projectred.integration.icblock|0.redraw=§fredraw
 gui.projectred.integration.icblock|1.title=§7IC Printer
 
 gui.projectred.integration.icblock|0.detail_value=§7%s
