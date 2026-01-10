@@ -47,6 +47,9 @@ Project Red
 TecTech
 - Fixed text color for GodForge and Research Station - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
 
+ThaumicEnergistics
+- Fixed text color for literally every gui - https://github.com/GTNewHorizons/ThaumicEnergistics/pull/100
+
 Nuclear Control 2
 - Fixed text color for bunch of numbers - https://github.com/GTNewHorizons/Nuclear-Control/pull/35
 
@@ -55,6 +58,9 @@ Mobs-Info
 
 RandomThinkgs
 - Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/Random-Things/pull/16
+
+Other
+- Fixes text color of gui titles inside the Creative inventory and tabs - https://github.com/GTNewHorizons/Hodgepodge/pull/709
 
 # Other "non personal PRs" fixes and changes
 Applied Energistics 2
