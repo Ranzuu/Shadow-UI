@@ -1,25 +1,26 @@
-tile.gravity.name=§7Artificial Gravity Generator
-tile.machines1.0.name=§7Radioisotope Generator
-tile.isotopeGeneratorBasic.name=§7Radioisotope Generator
-tile.isotopeGeneratorAdvanced.name=§7Advanced Radioisotope Generator
+gui.title.gravity=§7Artificial Gravity Generator
+gui.title.isotopeGeneratorBasic=§7Radioisotope Generator
+gui.title.isotopeGeneratorAdvanced=§7Advanced Radioisotope Generator
+gui.title.mothershipEngineIon=§7Ion Thruster
+gui.title.hydroponics=§7Hydroponics Unit
+gui.title.aluChest=§7Aluminum Chest
+gui.title.steelChest=§7Steel Chest
+gui.title.shuttleDock=§7Shuttle Dock
 
-tile.hydroponics.name=§7Hydroponics Unit
 tile.hydroponics.plant=§7Plant Seeds
 tile.hydroponics.harvest=§7Harvest
 tile.hydroponics.fertilize=§7Fertilize
 tile.hydroponics.noplant=§7No Plant
 tile.hydroponics.plantstatus=§7Plant status
 
-tile.aluChest.name=§7Aluminum Chest
-tile.steelChest.name=§7Steel Chest
-
 gui.message.mothership.status.name=§7Status
-tile.shuttleDock.name=§7Shuttle Dock
 
 gui.checkbox.show_visual_guide=§7Show Area
 gui.checkbox.invert_force=§7Upwards
 gui.message.force.strength=§7Strength
 gui.message.energy_usage=§7Energy Usage
+gui.message.mothership.numEngineParts=§7Engine Size
+gui.message.mothership.travelThrust=§7Thrust
 
 entity.robotVillager.name=§7Robot Villager
 entity.porcodon.name=§7Porcodon

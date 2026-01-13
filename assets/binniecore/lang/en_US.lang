@@ -47,6 +47,8 @@ binniecore.gui.side.south=§7South
 binniecore.gui.side.insertSide=§7Insert Side: %s
 binniecore.gui.side.extractSide=§7Extract Side: %s
 
+binniecore.gui.design=§7Design
+
 binniecore.machine.storage.compartment.title=§7Compartment
 binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
 binniecore.machine.storage.compartmentDiamond.title=§7Diamond Compartment

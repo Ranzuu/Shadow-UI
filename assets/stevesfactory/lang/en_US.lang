@@ -376,3 +376,5 @@ gui.sfm.PermissionRestricted=§7Restricted access
 gui.sfm.PermissionCreative=§7Creative access
 gui.sfm.PermissionInventory=§7Inventory access
 gui.sfm.PermissionDenied=§7No access
+
+gui.sfm.CommandNameFormat=§7%s
