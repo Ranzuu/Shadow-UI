@@ -5,6 +5,9 @@ Applied Energistics 2
 AE2Stuff
 - Customized the Network Visualizer overlay color - https://github.com/GTNewHorizons/ae2stuff/pull/37
 
+Amun-Ra
+- Fixed text color for literally every gui - https://github.com/GTNewHorizons/amunra/pull/37
+
 Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
@@ -43,6 +46,9 @@ NotEnoughtItems (NEI)
 
 Project Red
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/ProjectRed/pull/64
+
+Steve's Factory Manager
+- Fixed text color for custom command titles - https://github.com/GTNewHorizons/Steve-s-Factory-Manager/pull/17
 
 TecTech
 - Fixed text color for GodForge and Research Station - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
