@@ -1,3 +1,4 @@
-item.ifu_buildingKit.name=§7Ore Finder Wand
-IFU.NameTip=§7Name: 
+gui.ifu_buildingKit.title=§7Ore Finder Wand
+IFU.NameTip=§7Name: %s
 IFU.Empty=§7Empty
+IFU.BlacklistedBlock=§cBlacklisted block!
