@@ -12,8 +12,8 @@ railcraft.gui.turbine=§7Steam Turbine
 railcraft.gui.tank.aluminium=§7Aluminium Tank
 railcraft.gui.tank.stainless=§7Stainless Steel Tank
 railcraft.gui.tank.titanium=§7Titanium Tank
-railcraft.gui.tank.tungstensteel=T§7ungstensteel Tank
-railcraft.gui.tank.palladium=§7rPalladium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
 
 railcraft.gui.ic2.energy.rate=§7Rate: @d EU
 
@@ -34,9 +34,9 @@ railcraft.gui.item.loader.buffer=§7Buffer
 tile.railcraft.machine.alpha.rolling.machine.name=§7Rolling Machine
 tile.railcraft.machine.alpha.feed.station.name=§7Feed Station
 tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
-tile.railcraft.machine.alpha.anchor.admin.name=§7SAdmin Anchor
+tile.railcraft.machine.alpha.anchor.admin.name=§7Admin Anchor
 tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
-tile.railcraft.machine.alpha.anchor.personal.name=§7SPersonal Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7Personal Anchor
 tile.railcraft.machine.alpha.anchor.world.name=§7World Anchor
 railcraft.gui.anchor.fuel.remaining=§7@.2f hours
 railcraft.gui.anchor.fuel=§7Ender Pearls
