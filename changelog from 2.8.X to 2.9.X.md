@@ -8,6 +8,9 @@ AE2Stuff
 Amun-Ra
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/amunra/pull/37
 
+Backpack-Mod
+- Fixes title gui text color and inventory/hotbar slot textures - https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/pull/25
+
 Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 

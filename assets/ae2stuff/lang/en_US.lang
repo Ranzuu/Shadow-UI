@@ -1,7 +1,6 @@
-tile.ae2stuff.Encoder.name=§7Pattern Encoder
-tile.ae2stuff.Grower.name=§7Crystal Growth Chamber
-tile.ae2stuff.Inscriber.name=§7Advanced Inscriber
-tile.ae2stuff.Wireless.name=§7Wireless Connector
+gui.ae2stuff.Encoder.title=§7Pattern Encoder
+gui.ae2stuff.Grower.title=§7Crystal Growth Chamber
+gui.ae2stuff.Inscriber.title=§7Advanced Inscriber
 
 ae2stuff.visualiser.color.node.missing=0xE6B13E53
 ae2stuff.visualiser.color.node.dense=0xE6FFF70F
