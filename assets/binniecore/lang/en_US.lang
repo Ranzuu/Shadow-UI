@@ -47,12 +47,18 @@ binniecore.gui.side.south=§7South
 binniecore.gui.side.insertSide=§7Insert Side: %s
 binniecore.gui.side.extractSide=§7Extract Side: %s
 
-binniecore.machine.storage.compartment=§7Compartment
-binniecore.machine.storage.compartmentIron=§7Iron Compartment
-binniecore.machine.storage.compartmentDiamond=§7Diamond Compartment
-binniecore.machine.storage.compartmentCopper=§7Copper Compartment
-binniecore.machine.storage.compartmentBronze=§7Bronze Compartment
-binniecore.machine.storage.compartmentGold=§7Gold Compartment
+binniecore.gui.design=§7Design
+
+binniecore.gui.fieldKit=§7Field Kit
+binniecore.gui.tooltip.paper=§7Paper
+binniecore.gui.tooltip.noPaper=§cNo Paper!
+
+binniecore.machine.storage.compartment.title=§7Compartment
+binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
+binniecore.machine.storage.compartmentDiamond.title=§7Diamond Compartment
+binniecore.machine.storage.compartmentCopper.title=§7Copper Compartment
+binniecore.machine.storage.compartmentBronze.title=§7Bronze Compartment
+binniecore.machine.storage.compartmentGold.title=§7Gold Compartment
 
 binniecore.machine.storage.sort=§7Sort A-Z
 binniecore.machine.storage.filterItems=§7Include Items
