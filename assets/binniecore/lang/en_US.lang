@@ -49,6 +49,10 @@ binniecore.gui.side.extractSide=§7Extract Side: %s
 
 binniecore.gui.design=§7Design
 
+binniecore.gui.fieldKit=§7Field Kit
+binniecore.gui.tooltip.paper=§7Paper
+binniecore.gui.tooltip.noPaper=§cNo Paper!
+
 binniecore.machine.storage.compartment.title=§7Compartment
 binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
 binniecore.machine.storage.compartmentDiamond.title=§7Diamond Compartment
