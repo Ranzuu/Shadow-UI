@@ -38,6 +38,9 @@ Gendustry
 Genetics
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
+IFU (I will find you!)
+- Fixed title text color for Ore Finder Wand - https://github.com/GTNewHorizons/IFU/pull/22
+
 KubaTech
 - Fixed text color: Usage/Time lines - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
 
@@ -50,6 +53,10 @@ Project Red
 Steve's Factory Manager
 - Fixed text color for custom command titles - https://github.com/GTNewHorizons/Steve-s-Factory-Manager/pull/17
 
+SGCraft
+
+- Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/SGCraft/pull/21
+
 TecTech
 - Fixed text color for GodForge and Research Station - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
 
@@ -61,6 +68,9 @@ Nuclear Control 2
 
 Mobs-Info
 - Fixed text color for Wither Skeleton - https://github.com/kuba6000/Mobs-Info/pull/124
+
+Malisis Doors
+- Fixed title text color for Block Mixer and Door Factory - https://github.com/GTNewHorizons/MalisisDoors/pull/24
 
 RandomThinkgs
 - Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/Random-Things/pull/16
