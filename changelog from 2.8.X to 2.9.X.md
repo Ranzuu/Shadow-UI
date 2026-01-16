@@ -20,6 +20,9 @@ Buildcraft and addons
 CarpentersBlocks
 - Fixed title text color for Carpenter's Safe - https://github.com/GTNewHorizons/CarpentersBlocks/pull/15
 
+Computronics
+- Fixes title text color for Ticket machine - https://github.com/GTNewHorizons/Computronics/pull/35
+
 ExtraBees
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/Binnie/pull/81
 
@@ -41,6 +44,9 @@ Gendustry
 Genetics
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
+Gtnh Intergalactic
+- Fixed text color for Space Pumping Module values in NEI - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5711
+
 IFU (I will find you!)
 - Fixed title text color for Ore Finder Wand - https://github.com/GTNewHorizons/IFU/pull/22
 
@@ -57,7 +63,6 @@ Steve's Factory Manager
 - Fixed text color for custom command titles - https://github.com/GTNewHorizons/Steve-s-Factory-Manager/pull/17
 
 SGCraft
-
 - Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/SGCraft/pull/21
 
 TecTech
