@@ -1,3 +1,2 @@
-- Lang Fixes: AppliedEnergistics2, TecTech
-- Texture Fixes: Vanilla, AppliedEnergistics2, TecTech, GregTech, GtIntergalactic
-- Other: Mui2 fixes
+- Text color fixes: BackpackMod, Binnies, EMT, Railcraft, StructureLib
+- Texture changes/fixes: Avaritia, Draconic Evolution, ExtraBees, Malisis Core, Malisis Doors, Steve Factory Manager, StructureLib

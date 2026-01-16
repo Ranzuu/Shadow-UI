@@ -12,5 +12,6 @@ text.backpack.title_format=§7%s
 button.backpack.ok=§7OK
 button.backpack.cancel=§7Cancel
 
+
 key.personalBackpack=§7Open Backpack
 key.categories.backpack=§7Backpacks
