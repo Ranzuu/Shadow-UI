@@ -1,0 +1,48 @@
+FramedChest.name=§7Rámovaná truhla
+
+gui.painting.showFrame=§7Zobraz rám
+gui.painting.hideFrame=§7Skryj rám
+gui.painting.scale=§7Velikost
+gui.painting.resolution=§7Rozlišení
+gui.painting.aspectRatio=§7Poměr stran
+gui.painting.size=§7Velikost obrazu
+gui.painting.rotation=§7Rotace
+gui.painting.corner=§7Mistrovský roh
+
+gui.paintpress.page=§7Strana
+gui.paintpress.of=§7z
+
+gui.paintpress.transfer=§7Přenos
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Volitelné
+
+gui.sign.scale=§7Velikost textu
+gui.sign.format=§7Formát
+gui.sign.linenum=§7Řádek#
+
+gui.sign.left=§7Doleva
+gui.sign.center=§7Střed
+gui.sign.right=§7Doprava
+
+gui.sign.tooltip1=§7Klikni na pole, nebo stiskni TAB k vybrání editovaného panelu. Tabulátor panely cykluje.
+
+gui.fancyworkbench=§7Užitkový pracovní stůl
+
+gui.armorstand=§7Stojan na zbroj
+gui.bookcase=§7Knihovna
+gui.cookiejar=§7Sklenice sušenek
+gui.shelf=§7Dřevěná police
+gui.label=§7Dřevený štítek
+gui.potionshelf=§7Police na lektvary
+gui.table=§7Dřevený stůl
+gui.case=§7Skříňka
+gui.toolrack=§7Držák nástrojů
+gui.desk=§7Stolek
+gui.mapWaypoint.accept=§7Přijmout
+gui.mapWaypoint.remove=§7Smazat
+gui.mapWaypoint.cancel=§7Zrušit
+gui.mapWaypoint.waypoint=§7Cestovní bod
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Talíř
+gui.discRack=§7Řadič disků

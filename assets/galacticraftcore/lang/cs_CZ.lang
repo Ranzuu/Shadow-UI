@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Výstup
+gui.message.in.name=§7Vstup
+gui.message.status.name=§7Stav
+gui.message.oxoutput.name=§7Kyslíkový výstup
+gui.message.oxinput.name=§7Kyslikový vstup
+gui.message.fuel.name=§7Palivo
+gui.message.full.name=§7plný
+gui.message.page.name=§7Strana
+gui.message.addnewsch.name=§7Nové schéma
+gui.message.generating.name=§7Vyrábí
+gui.message.environment.name=§7Akcelerátor prostředí
+gui.message.oil.name=§7Ropa
+gui.message.catalog.name=§7Katalog
+gui.message.back.name=§7Zpět
+gui.message.daynightcycle.name=§7Délka dne
+gui.message.surfacegravity.name=§7Gravitace na povrchu
+gui.message.surfacecomposition.name=§7Složení povrchu
+gui.message.atmosphere.name=§7Atmosféra
+gui.message.meansurfacetemp.name=§7Střední teplota na povrchu
+gui.message.energy=§7Energie
+gui.message.maxEnergy=§7Plná energie
+gui.message.bubbleVisible.name=§7Viditelné bubliny
+gui.message.launch.name=§7Start
+gui.message.clickAgain.0.name=§7Klikněte znovu pro přiblížení (měsíce a satelity)
+gui.message.clickAgain.1.name=§7Klikněte znovu pro přiblížení (měsíce)
+gui.message.clickAgain.2.name=§7Klikněte znovu pro přiblížení (satelity)
+gui.message.clickAgain.3.name=§7Klikněte znovu pro přiblížení
+gui.message.exit.name=§7Ukončit
+gui.message.tier.name=§7Typ %d
+gui.message.canCreateSpaceStation.name=§7Vesmírná stanice zde může být postavena.
+gui.message.cannotCreateSpaceStation.name=§7Vesmírná stanice zde nemůže být postavena.
+gui.message.createSS.name=§7Postavit
+gui.message.selectSS.name=§7Vyberte vesmírnou stanici
+gui.message.ssOwner.name=§7Vlastník:
+gui.message.apply.name=§7Použít
+gui.message.cancel.name=§7Zrušit
+gui.message.assignName.name=§7Přidělit jméno
+gui.message.rename.name=§7Přejmenovat
+gui.message.unnamed.name=§7Nepojmenováno
+gui.message.grow.name=§7Růst
+gui.message.breed.name=§7Rodit
+gui.message.strengthen.name=§7Posílit
+gui.message.heal.name=§7Léčit
+gui.message.of.name=§7z
+gui.message.help1=§7Nápověda Galacticraftu
+gui.message.help1a=§7Pro opětovné zobrazení této zprávy napište
+gui.message.help2=§7Pro rady ohledně vesmírného programu
+gui.message.help3=§7Pro rady ohledně paliv
+gui.message.prelaunch=§7Seznam předstartovní přípravy
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Teplotní regulátor
+
+gui.button.enableseal.name=§7Spustit uzávěr
+gui.button.disableseal.name=§7Vypnout uzávěr
+gui.button.loaditems.name=§7Naložit
+gui.button.stoploading.name=§7Zastavit
+gui.button.unloaditems.name=§7Vyložit
+gui.button.stopunloading.name=§7Zastavit
+gui.button.createsstation.name=§7Vybudovat vesmírnou stanici
+gui.button.sendtodim.name=§7Cestovat
+gui.button.rename.name=§7Přejmenovat
+gui.button.loadfuel.name=§7Natankovat
+gui.button.refine.name=§7Zpracovat
+gui.button.back.name=§7Zpět
+gui.button.next.name=§7Další
+gui.button.unlockschematic.name=§7Odemknout další
+gui.button.stoprefine.name=§7Zastavit
+gui.button.enable.name=§7Zapnout
+gui.button.disable.name=§7Vypnout
+gui.button.hideDest.name=§7Skrýt
+gui.button.unhideDest.name=§7Zobrazit
+
+# CONTAINERS
+container.cargoloader.name=§7Nakladač
+container.cargounloader.name=§7Vykladač
+container.fuelloader.name=§7Palivové čerpadlo
+container.oxygencollector.name=§7Kyslikový kolektor
+container.oxygencompressor.name=§7Kyslíkový kompresor
+container.oxygendistributor.name=§7Kyslíkový distributor
+container.oxygensealer.name=§7Systém podpory života
+container.parachest.name=§7Truhla na padáku
+container.refinery.name=§7Refinérie
+container.treasurechest.name=§7Pokladnice
+container.lander.name=§7Přistávací modul
+container.spaceship.name=§7Raketa typ 1
+container.solarbasic.name=§7Základní solární panel
+container.solaradvanced.name=§7Pokročilý solární panel
+container.oxygendecompressor.name=§7Kyslíkový dekompresor
+
+gui.checkbox.redstoneSignal.name=§7Otevře při přivedení napětí
+gui.checkbox.playerWithin.name=§7Hráč v okruhu
+gui.checkbox.playerName.name=§7Jméno hráče je
+gui.checkbox.invert.name=§7Opačné chování
+gui.checkbox.horizontal.name=§7Horizontální režim
+
+tile.machine.0.name=§7Tepelná elektrárna
+tile.machine.1.name=§7Energetická zásobárna
+tile.machine.2.name=§7Elektrická pec
+tile.machine.3.name=§7Kompresor
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Elektrický kompresor
+tile.machine2.5.name=§7Stroj na výrobu solárních waferů
+tile.machine2.6.name=§7Zásobárna kyslíku
+tile.machine.7.name=§7Elektrická oblouková pec
+tile.machine.8.name=§7Energetický Cluster
+
+gui.maxOutput.desc=§7Max. výstup
+gui.oxygenUse.desc=§7Využití kyslíku
+
+gui.message.generating.name=§7Vyrábí
+
+gui.status.collecting.name=§7Sbírá
+gui.status.generating.name=§7Vyrábí
+gui.status.notGenerating.name=§7Nevyrábí
+gui.status.hullHeat.name=§7Teplota pláště
+
+gui.title.airLock.name=§7%sův kontroler přechodové komory
+
+gui.status.unknown.name=§dNeznámý
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Mimozemšťan
+entity.GalacticraftCore.Buggy.name=§7Bugina
+entity.GalacticraftCore.EvolvedCreeper.name=§7Vyvinutý syčák
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Vyvinutý kostlivec
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Vyvinutý kostlivec (Boss)
+entity.GalacticraftCore.EvolvedSpider.name=§7Vyvinutý pavouk
+entity.GalacticraftCore.EvolvedZombie.name=§7Vyvinutý zombie
+entity.GalacticraftCore.Flag.name=§7Vlajka
+entity.GalacticraftCore.GCFlag.name=§7Vlajka
+entity.GalacticraftCore.GravityArrow.name=§7Šíp
+entity.GalacticraftCore.Lander.name=§7Přistávací modul
+entity.GalacticraftCore.Meteor.name=§7Meteorit
+entity.GalacticraftCore.MeteorChunk.name=§7Úlomek meteoritu
+entity.GalacticraftCore.OxygenBubble.name=§7Kyslíková bublina
+entity.GalacticraftCore.ParaChest.name=§7Truhla na padáku
+entity.GalacticraftCore.Spaceship.name=§7Raketa typ 1

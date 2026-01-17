@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Távvezérlésu Teherrakéta
+entity.GalacticraftMars.CreeperBoss.name=§7Vejlett Creeper-Fogonosz
+entity.GalacticraftMars.LandingBalloons.name=§7Landing Balloons ##NEEDS TRANSLATE##
+entity.GalacticraftMars.Slimeling.name=§7Nyálkahernyó
+entity.GalacticraftMars.Sludgeling.name=§7Iszaphernyó
+entity.GalacticraftMars.SpaceshipT2.name=§72-Es Szintu Rakéta
+
+# CONTAINERS
+container.launchcontroller.name=§7Távvezérlo
+container.tileTerraformer.name=§7Növényülteto
+container.marsLander.name=§7Landing Balloons ##NEEDS TRANSLATE##

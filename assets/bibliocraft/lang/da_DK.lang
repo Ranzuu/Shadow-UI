@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Show Frame
+gui.painting.hideFrame=§7Hide Frame
+gui.painting.scale=§7Scale
+gui.painting.resolution=§7Resolution
+gui.painting.aspectRatio=§7Aspect Ratio
+gui.painting.size=§7Painting Size
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Master Corner
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7of
+
+gui.paintpress.transfer=§7Transfer
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Custom
+
+gui.sign.scale=§7Skriftstørrelse
+gui.sign.format=§7Formatér
+gui.sign.linenum=§7Linje#
+
+gui.sign.left=§7Højre
+gui.sign.center=§7Midt
+gui.sign.right=§7Venstre
+
+gui.sign.tooltip1=§7Klik på en boks eller tryk Tab(↹) for at vælge et ændringspanel. Tab vil rotere gennem panelerne.
+
+gui.fancyworkbench=§7Smart Arbejdsbord
+
+gui.armorstand=§7Rustningsholder
+gui.bookcase=§7Bogreol
+gui.cookiejar=§7Kagedåse
+gui.shelf=§7Træhylde
+gui.label=§7Træmærkat
+gui.potionshelf=§7Eliksirhylde
+gui.table=§7Træbord
+gui.case=§7Montre
+gui.toolrack=§7Værktøjsskab
+gui.desk=§7Træskrivebord
+gui.mapWaypoint.accept=§7Acceptér
+gui.mapWaypoint.remove=§7Fjern
+gui.mapWaypoint.cancel=§7Anuller
+gui.mapWaypoint.waypoint=§7Waypoint
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Tallerken
+gui.discRack=§7Pladeholder

@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7 Allan
+gui.message.in.name=§7 Yn
+gui.message.status.name=§7 Statws
+gui.message.oxoutput.name=§7 Allbwn Ocsigen
+gui.message.oxinput.name=§7 Ocsigen Mewnbwn
+gui.message.fuel.name=§7 Tanwydd
+gui.message.full.name=§7 amser
+gui.message.page.name=§7 Tudalen
+gui.message.addnewsch.name=§7 Ychwanegu New Sgematig
+gui.message.generating.name=§7 Cynhyrchu
+gui.message.environment.name=§7 Hwb Amgylcheddol
+gui.message.oil.name=§7Oil ##NEEDS TRANSLATE##
+gui.message.catalog.name=§7Catalog ##NEEDS TRANSLATE##
+gui.message.back.name=§7Back ##NEEDS TRANSLATE##
+gui.message.daynightcycle.name=§7Day-night Cycle ##NEEDS TRANSLATE##
+gui.message.surfacegravity.name=§7Surface Gravity ##NEEDS TRANSLATE##
+gui.message.surfacecomposition.name=§7Surface Composition ##NEEDS TRANSLATE##
+gui.message.atmosphere.name=§7Atmosphere ##NEEDS TRANSLATE##
+gui.message.meansurfacetemp.name=§7Mean Surface Temp ##NEEDS TRANSLATE##
+gui.message.energy=§7Energy ##NEEDS TRANSLATE##
+gui.message.maxEnergy=§7Max Energy ##NEEDS TRANSLATE##
+gui.message.bubbleVisible.name=§7Bubble Visible ##NEEDS TRANSLATE##
+gui.message.launch.name=§7Launch ##NEEDS TRANSLATE##
+gui.message.clickAgain.0.name=§7Click again to zoom (view moons & satellites) ##NEEDS TRANSLATE##
+gui.message.clickAgain.1.name=§7Click again to zoom (view moons) ##NEEDS TRANSLATE##
+gui.message.clickAgain.2.name=§7Click again to zoom (view satellites) ##NEEDS TRANSLATE##
+gui.message.clickAgain.3.name=§7Click again to zoom ##NEEDS TRANSLATE##
+gui.message.exit.name=§7Exit ##NEEDS TRANSLATE##
+gui.message.tier.name=§7Tier %d ##NEEDS TRANSLATE##
+gui.message.canCreateSpaceStation.name=§7A Space Station can be created here! ##NEEDS TRANSLATE##
+gui.message.cannotCreateSpaceStation.name=§7A Space Station cannot be created here. ##NEEDS TRANSLATE##
+gui.message.createSS.name=§7Create ##NEEDS TRANSLATE##
+gui.message.selectSS.name=§7Select a Space Station ##NEEDS TRANSLATE##
+gui.message.ssOwner.name=§7Owner: ##NEEDS TRANSLATE##
+gui.message.apply.name=§7Apply ##NEEDS TRANSLATE##
+gui.message.cancel.name=§7Cancel ##NEEDS TRANSLATE##
+gui.message.assignName.name=§7Assign Name ##NEEDS TRANSLATE##
+gui.message.rename.name=§7Rename ##NEEDS TRANSLATE##
+gui.message.unnamed.name=§7Unnamed ##NEEDS TRANSLATE##
+gui.message.grow.name=§7Grow ##NEEDS TRANSLATE##
+gui.message.breed.name=§7Breed ##NEEDS TRANSLATE##
+gui.message.strengthen.name=§7Strengthen ##NEEDS TRANSLATE##
+gui.message.heal.name=§7Heal ##NEEDS TRANSLATE##
+gui.message.of.name=§7of ##NEEDS TRANSLATE##
+gui.message.help1=§7For Galacticraft help ##NEEDS TRANSLATE##
+gui.message.help1a=§7To see this message again at any time, type ##NEEDS TRANSLATE##
+gui.message.help2=§7For Space Program guidance ##NEEDS TRANSLATE##
+gui.message.help3=§7For help with oil ##NEEDS TRANSLATE##
+gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
+
+gui.button.enableseal.name=§7 Galluogi Sêl
+gui.button.disableseal.name=§7 Analluogi Seal
+gui.button.loaditems.name=§7Load Items ##NEEDS TRANSLATE##
+gui.button.stoploading.name=§7 Stop Llwytho
+gui.button.unloaditems.name=§7 Dadlwytho Eitemau
+gui.button.stopunloading.name=§7 Stop Dadlwytho
+gui.button.createsstation.name=§7 Creu Orsaf Ofod
+gui.button.sendtodim.name=§7 Anfon at DIMENSION
+gui.button.rename.name=§7 Rename
+gui.button.loadfuel.name=§7 Llwytho Tanwydd
+gui.button.refine.name=§7 Mireinio
+gui.button.back.name=§7 Yn ôl
+gui.button.next.name=§7 Nesaf
+gui.button.unlockschematic.name=§7 Datglo Sgematig
+gui.button.stoprefine.name=§7 Stop Mireinio
+gui.button.enable.name=§7 Galluogi
+gui.button.disable.name=§7 Analluogi
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
+container.cargoloader.name=§7 Cargo Loader
+container.cargounloader.name=§7 Cargo Unloader
+container.fuelloader.name=§7 Loader Tanwydd
+container.oxygencollector.name=§7 Ocsigen Casglwr
+container.oxygencompressor.name=§7 Ocsigen Cywasgydd
+container.oxygendistributor.name=§7 Ocsigen Ddosbarthu
+container.oxygensealer.name=§7 Ocsigen Sealer
+container.parachest.name=§7 Para - frest
+container.refinery.name=§7 Purfa
+container.treasurechest.name=§7 Treasure Chest
+container.lander.name=§7 Gofod Lander
+container.spaceship.name=§7 Haen 1 Roced
+container.solarbasic.name=§7 Panel Solar Sylfaenol
+container.solaradvanced.name=§7 Panel Solar Uwch
+container.oxygendecompressor.name=§7 Ocsigen Decompressor
+
+gui.checkbox.redstoneSignal.name=§7Opens on Redstone Signal ##NEEDS TRANSLATE##
+gui.checkbox.playerWithin.name=§7Player is within ##NEEDS TRANSLATE##
+gui.checkbox.playerName.name=§7Player name is ##NEEDS TRANSLATE##
+gui.checkbox.invert.name=§7Invert Selection ##NEEDS TRANSLATE##
+gui.checkbox.horizontal.name=§7Horizontal Mode ##NEEDS TRANSLATE##
+
+tile.machine.0.name=§7 Glo Generator
+tile.machine.1.name=§7 Storio Modiwl Ynni
+tile.machine.2.name=§7 Electric Ffwrnais
+tile.machine.3.name=§7 Cywasgydd
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7 Electric Cywasgydd
+tile.machine2.5.name=§7 Cylchdaith Ffabrigeiddiwr
+tile.machine2.6.name=§7 Storio Ocsigen Modiwl
+tile.machine.7.name=§7Electric Arc Furnace ##NEEDS TRANSLATE##
+tile.machine.8.name=§7Energy Storage Cluster ##NEEDS TRANSLATE##
+
+gui.maxOutput.desc=§7Max Output ##NEEDS TRANSLATE##
+gui.oxygenUse.desc=§7Oxygen Use ##NEEDS TRANSLATE##
+
+gui.message.generating.name=§7 Cynhyrchu
+
+gui.status.collecting.name=§7Collecting ##NEEDS TRANSLATE##
+gui.status.generating.name=§7Generating ##NEEDS TRANSLATE##
+gui.status.notGenerating.name=§7Not Generating ##NEEDS TRANSLATE##
+gui.status.hullHeat.name=§7Hull Heat ##NEEDS TRANSLATE##
+
+gui.title.airLock.name=§7%s's Air Lock Controller ##NEEDS TRANSLATE##
+
+gui.status.unknown.name=§d Anhysbys
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Pentrefwr Alien
+entity.GalacticraftCore.Buggy.name=§7Buggy
+entity.GalacticraftCore.EvolvedCreeper.name=§7esblygu Dringwr Bach
+entity.GalacticraftCore.EvolvedSkeleton.name=§7esblygu Sgerbwd
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7esblygu Sgerbwd Boss
+entity.GalacticraftCore.EvolvedSpider.name=§7esblygu Spider
+entity.GalacticraftCore.EvolvedZombie.name=§7esblygu Zombie
+entity.GalacticraftCore.Flag.name=§7Flag
+entity.GalacticraftCore.GCFlag.name=§7Flag ##NEEDS TRANSLATE##
+entity.GalacticraftCore.GravityArrow.name=§7Arrow
+entity.GalacticraftCore.Lander.name=§7Gofod Lander
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk ##NEEDS TRANSLATE##
+entity.GalacticraftCore.OxygenBubble.name=§7Ocsigen Bubble
+entity.GalacticraftCore.ParaChest.name=§7Parachest
+entity.GalacticraftCore.Spaceship.name=§7Haen 1 Roced

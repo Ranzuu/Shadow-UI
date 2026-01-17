@@ -1,0 +1,8 @@
+storageDrawers.container.drawers=§7抽屜
+storageDrawers.container.compDrawers=§7壓縮抽屜
+storageDrawers.container.upgrades=§7升級組件
+storageDrawers.container.controller=§7抽屜管理器
+storageDrawers.container.unboundSlave=§7未連接的傳動方塊
+storageDrawers.container.framingTable=§7Framing Table
+
+storagedrawers.msg.maxUpgrades=§7這個抽屜已無法接受更多的升級。

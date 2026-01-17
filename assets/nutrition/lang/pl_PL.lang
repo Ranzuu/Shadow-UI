@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§7Odżywianie
+gui.nutrition:close=§7Zamknij
+gui.nutrition:updating=§7Aktualizowanie...
+
+# Nutrients
+nutrient.nutrition:grain=§7Zboża
+nutrient.nutrition:fruit=§7Owoce
+nutrient.nutrition:vegetable=§7Warzywa
+nutrient.nutrition:protein=§7Białko
+nutrient.nutrition:dairy=§7Nabiał

@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7Стальной резервуар
+railcraft.gui.tank.water=§7Резервуар для воды
+railcraft.gui.steam.boiler=§7 Паровой котёл
+railcraft.gui.blast.furnace=§7 Доменная печь
+railcraft.gui.coke.oven=§7Коксовая печь
+railcraft.gui.steam.oven=§7Паровая печь
+railcraft.gui.turbine.output=§7Выход: @d%%
+railcraft.gui.turbine.rotor=§7Ротор:
+railcraft.gui.turbine=§7Паровая турбина
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Коэффициент: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7Запал
+railcraft.gui.cart.track.relayer.pattern=§7Шаблон
+railcraft.gui.cart.track.relayer.stock=§7Инвентарь
+railcraft.gui.cart.undercutter.pattern=§7Шаблоны
+railcraft.gui.cart.undercutter.sides=§7Стороны
+railcraft.gui.cart.undercutter.stock=§7Инвентарь
+railcraft.gui.cart.undercutter.under=§7Под
+
+railcraft.gui.feed.station.feed=§7Корм
+railcraft.gui.filter=§7Фильтр
+railcraft.gui.filters.carts=§7Вагонетки
+railcraft.gui.filters=§7Фильтры
+railcraft.gui.item.loader.buffer=§7Буфер
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7Прокатный стан
+tile.railcraft.machine.alpha.feed.station.name=§7Станция кормления
+tile.railcraft.machine.alpha.trade.station.name=§7Торговая станция
+tile.railcraft.machine.alpha.anchor.admin.name=§7Якорь администратора
+tile.railcraft.machine.alpha.anchor.passive.name=§7Пассивный якорь
+tile.railcraft.machine.alpha.anchor.personal.name=§7Личный якорь
+tile.railcraft.machine.alpha.anchor.world.name=§7Мировой якорь
+railcraft.gui.anchor.fuel.remaining=§7@.2f часов
+railcraft.gui.anchor.fuel=§7Жемчужины Края
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7Котёл высокого давления
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Котёл низкого давления
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Любительский паровой двигатель
+tile.railcraft.machine.beta.engine.steam.low.name=§7Коммерческий паровой двигатель
+tile.railcraft.machine.beta.engine.steam.high.name=§7Промышленный паровой двигатель
+tile.railcraft.machine.beta.chest.void.name=§7Пустотный сундук
+tile.railcraft.machine.beta.chest.metals.name=§7Сундук для металлов
+
+railcraft.gui.box.aspect.action=§7Сигнал красн. камня на аспект
+
+railcraft.gui.detector.item.analog=§7Аналоговый
+railcraft.gui.detector.item.anything=§7Любое количество
+railcraft.gui.detector.item.at_least=§7Не менее
+railcraft.gui.detector.item.at_most=§7Не более
+railcraft.gui.detector.item.empty=§7Пустой инвентарь
+railcraft.gui.detector.item.exactly=§7Точное количество
+railcraft.gui.detector.item.filtered=§7Фильтр
+railcraft.gui.detector.item.full=§7Полный инвентарь
+railcraft.gui.detector.item.greater_than=§7Больше чем
+railcraft.gui.detector.item.less_than=§7Меньше чем
+railcraft.gui.detector.item.not_empty=§7Не пусто
+railcraft.gui.detector.loco.primary=§7Основной цвет
+railcraft.gui.detector.loco.secondary=§7Вторичный цвет
+railcraft.gui.detector.tank.tip.analog=§7Аналоговый сигнал красного камня\n в зависимости от уровня в цистерне
+railcraft.gui.detector.tank.tip.empty=§7Подходят пустые цистерны
+railcraft.gui.detector.tank.tip.full=§7Подходят полные цистерны
+railcraft.gui.detector.tank.tip.half=§7Подходят более, чем наполовину полные цистерны
+railcraft.gui.detector.tank.tip.less.than.full=§7Подходят неполные цистерны
+railcraft.gui.detector.tank.tip.less.than.half=§7Подходят менее, чем наполовину полные цистерны
+railcraft.gui.detector.tank.tip.less.than.most=§7Подходят менее, чем на 3/4 полные цистерны
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Подходят менее, чем на четверть полные цистерны
+railcraft.gui.detector.tank.tip.most=§7Подходят более, чем на 3/4 полные цистерны
+railcraft.gui.detector.tank.tip.not.empty=§7Подходят непустые цистерны
+railcraft.gui.detector.tank.tip.quarter=§7Подходят более, чем на четверть полные цистерны
+railcraft.gui.detector.tank.tip.void=§7Подходит любое количество
+railcraft.gui.detector.train.size=§7Размер поезда = @d
+railcraft.gui.detector.villager.any=§7Любой
+railcraft.gui.detector.villager.equals=§7Равно
+railcraft.gui.detector.villager.none=§7Никто
+railcraft.gui.detector.villager.not=§7Нет
+
+tile.railcraft.machine.gamma.loader.item.name=§7Загрузчик предметов
+tile.railcraft.machine.gamma.unloader.item.name=§7Разгрузчик предметов
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Продвинутый загрузчик предметов
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Продвинутый разгрузчик предметов
+tile.railcraft.machine.gamma.loader.liquid.name=§7Загрузчик жидкостей
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Разгрузчик жидкостей
+tile.railcraft.machine.gamma.loader.energy.name=§7Загрузчик энергии
+tile.railcraft.machine.gamma.unloader.energy.name=§7Разгрузчик энергии
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Раздатчик вагонеток
+tile.railcraft.machine.gamma.dispenser.train.name=§7Раздатчик поездов

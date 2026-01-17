@@ -1,0 +1,20 @@
+tile.playerinterface.name=§7玩家接口
+tile.creativePlayerInterface.name=§7创造模式玩家接口
+text.miscellaneous.connectedTo=§7连接到
+
+tile.advancedItemCollector.name=§7高级物品收集器
+tile.onlineDetector.name=§7在线侦测器
+text.onlineDetector.detectingNobody=§7未探测到任何玩家
+text.onlineDetector.detecting=§7"探测到玩家%s"
+tile.dyeingMachine.name=§7混色机器
+tile.energyDistributor.name=§7能量分配器
+tile.enderEnergyDistributor.name=§7末影能量分配器
+tile.imbuingStation.name=§7激素药水酿造台
+
+item.dropFilter.name=§7掉落物过滤器
+item.dropFilterVoiding.name=§7虚空掉落物过滤器
+item.filterItem.name=§7物品过滤器
+item.voidStone.name=§7虚空之石
+
+entity.RandomThings.spirit.name=§7Spirit
+entity.bloodmoonCircle.name=§7Bloodmoon Circle

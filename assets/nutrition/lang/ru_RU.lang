@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§7Питательные компоненты
+gui.nutrition:close=§7Закрыть
+gui.nutrition:updating=§7Обновление...
+
+# Nutrients
+nutrient.nutrition:grain=§7Зерновые
+nutrient.nutrition:fruit=§7Фрукты
+nutrient.nutrition:vegetable=§7Овощи
+nutrient.nutrition:protein=§7Белки
+nutrient.nutrition:dairy=§7Молочные

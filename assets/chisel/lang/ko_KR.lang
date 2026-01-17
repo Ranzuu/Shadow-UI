@@ -1,0 +1,9 @@
+#Container
+container.chisel=§7치슬
+container.chisel.title=§7블력 변환
+container.chisel.titleShort=§7변환
+container.chisel.mode=§7변환 범위:
+container.chisel.mode.single=§7단일
+container.chisel.mode.panel=§7판
+container.chisel.mode.column=§7수직
+container.chisel.mode.row=§7수평

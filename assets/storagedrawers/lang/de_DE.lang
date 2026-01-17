@@ -1,0 +1,8 @@
+storageDrawers.container.drawers=§7Schubfächer
+storageDrawers.container.compDrawers=§7Verdichtende Schubfächer
+storageDrawers.container.upgrades=§7Upgrades
+storageDrawers.container.controller=§7Schubfach-Controller
+storageDrawers.container.unboundSlave=§7Uneingebundener Slave
+storageDrawers.container.framingTable=§7Framing Table
+
+storagedrawers.msg.maxUpgrades=§7Dieses Schubfach kann keine Upgrades mehr annehmen.

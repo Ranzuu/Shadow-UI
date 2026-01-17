@@ -1,0 +1,19 @@
+gui.EMT.config.title=§7Electro-Magic Tools Einstellungen
+gui.EMT.etherealMacerator.title=§7Ätherischer Verarbeiter
+gui.EMT.wandRecharge.title=§7Industrie Stab-Auflade-Station
+gui.EMT.inventory=§7Inventar
+gui.EMT.book.aspect.output.eu.title=§7Essentia Ausgabe Buch
+gui.EMT.book.aspect.output.essentia.eu=§7EU Leistung per Essentia
+gui.EMT.key.unequip=§7Ausziehen
+
+emt.Output=§7Ausgabe:
+emt.Storage=§7Speicher:
+emt.PressShift=§7<Drücke SHIFT>
+emt.Generating=§7Erzeugt:
+emt.Fuel=§7Brennstoff
+emt.OutputMax=§7Output at Max:
+emt.remaining_second=§7Remaining seconds:
+
+entity.EMT.laser.name=§7Laser
+entity.EMT.archer.name=§7Wächterschneemann
+entity.EMT.shield.name=§7Schield

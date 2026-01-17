@@ -1,0 +1,72 @@
+bogosort.gui.title=§7§7Configuração da Classificação
+bogosort.gui.tab.general.name=§7Geral
+bogosort.gui.tab.profiles.name=§7Profiles
+bogosort.gui.tab.item_sort_rules.name=§7Regras de classificação de itens
+bogosort.gui.tab.nbt_sort_rules.name=§7regras de classificação NBT
+bogosort.gui.available_sort_rules=§7Regras de classificação disponíveis
+bogosort.gui.configured_sort_rules=§7Regras de classificação configuradas
+bogosort.gui.enable_hotbarSort=§7Enable hotbar sorting
+bogosort.gui.enable_noguiSort=§7Enable sorting via keybind while no GUI is open
+bogosort.gui.enable_refill=§7Ativar recarga automática da hotbar
+bogosort.gui.refill_comment=§7Quark is installed. If this option is disabled, theirs might still be enabled. You can find the config at 'Management' -> 'Automatic Tool Restock'.
+bogosort.gui.refill_threshold=§7Limiar de dano de recarga automática
+bogosort.gui.ascending=§7Ascendente
+bogosort.gui.descending=§7descendente
+bogosort.gui.hotbar_scrolling=§7Rolagem da coluna Hotbar
+bogosort.gui.hotbar_scrolling.tooltip=§7Percorra a coluna de inventário segurando ALT
+bogosort.gui.enabled=§7Habilitado
+bogosort.gui.button.enabled=§7Enable sort and config buttons in GUI's
+bogosort.gui.dropoff_enable=§7Enable Dropoff
+bogosort.gui.button.color=§7Background color of sort buttons
+bogosort.gui.dropoffbutton_enable=§7Show Dropoff Button in Inventory
+bogosort.gui.dropoff_render=§7Show Dropoff Targets
+bogosort.gui.dropoff_chatmessage=§7Show Dropoff Chat Message
+bogosort.gui.usageticker_enable=§7Enable Usage Ticker
+bogosort.gui.usageticker_mainhand=§7Enable Usage Ticker Mainhand
+bogosort.gui.usageticker_offhand=§7Enable Usage Ticker Offhand
+bogosort.gui.usageticker_armor=§7Enable Usage Ticker Armor
+
+
+bogosort.command.config_relaod.success=§7Configuração de classificação recarregada
+
+bogosort.sortrules.item.mod.name=§7Nome do Mod
+bogosort.sortrules.item.id.name=§7Nome do registro
+bogosort.sortrules.item.meta.name=§7Metavalor
+bogosort.sortrules.item.registry_order.name=§7Pedido de registro
+bogosort.sortrules.item.display_name.name=§7Nome em Exibição
+bogosort.sortrules.item.nbt_size.name=§7Tamanho da etiqueta NBT
+bogosort.sortrules.item.nbt_has.name=§7Tem etiqueta NBT
+bogosort.sortrules.item.nbt_rules.name=§7regras NBT
+bogosort.sortrules.item.nbt_all_values.name=§7Todos os valores NBT
+bogosort.sortrules.item.count.name=§7Tamanho da pilha
+bogosort.sortrules.item.ore_dict.name=§7Ditado de Minério
+bogosort.sortrules.item.material.name=§7Material
+bogosort.sortrules.item.ore_prefix.name=§7Prefixo de minério
+bogosort.sortrules.item.burn_time.name=§7Tempo de queima
+bogosort.sortrules.item.block_type.name=§7Block Type
+bogosort.sortrules.item.hunger.name=§7Fome
+bogosort.sortrules.item.saturation.name=§7Saturação
+bogosort.sortrules.item.emc.name=§7Valor EMC
+bogosort.sortrules.item.color.name=§7Cor
+
+bogosort.sortrules.item.mod.description=§7Classifica os itens em ordem alfabética pelo nome do mod
+bogosort.sortrules.item.id.description=§7Classifica os itens em ordem alfabética por seu nome de registro (sem mod)
+bogosort.sortrules.item.meta.description=§7Classifica os itens numericamente por seu valor meta
+bogosort.sortrules.item.registry_order.description=§7Classifica os itens numericamente por sua ordem de registro
+bogosort.sortrules.item.display_name.description=§7Classifica os itens em ordem alfabética pelo nome exibido
+bogosort.sortrules.item.nbt_size.description=§7Classifica os itens numericamente por seu tamanho de tag NBT de meta valor
+bogosort.sortrules.item.nbt_has.description=§7Classifica os itens com base no fato de terem ou não uma tag NBT
+bogosort.sortrules.item.nbt_rules.description=§7Classifica itens com base em regras de classificação NBT configuradas
+bogosort.sortrules.item.nbt_all_values.description=§7Tenta classificar itens comparando todas as tags e subtags nbt
+bogosort.sortrules.item.count.description=§7Classifica os itens numericamente pelo tamanho da pilha
+bogosort.sortrules.item.ore_dict.description=§7Classifica os itens numericamente e/ou alfabeticamente por seus ditados de minério
+bogosort.sortrules.item.material.description=§7Classifica os itens em ordem alfabética pelo nome do material (por exemplo, Ferro, Ouro, Cobre...)
+bogosort.sortrules.item.ore_prefix.description=§7Classifica os itens por seu prefixo de minério (por exemplo, lingote, pepita, placa, engrenagem...)
+bogosort.sortrules.item.burn_time.description=§7Classifica os itens numericamente por seu tempo de queima de combustível
+bogosort.sortrules.item.block_type.description=§7Sorts items based on what type of block the item is (f.e. full block, slab, stairs ...)
+bogosort.sortrules.item.hunger.description=§7Classifica os itens numericamente por seu valor de reabastecimento de fome
+bogosort.sortrules.item.saturation.description=§7Classifica os itens numericamente por seu valor de recarga de saturação
+bogosort.sortrules.item.emc.description=§7=Classifica os itens numericamente por seu valor EMC
+bogosort.sortrules.item.color.description=§7=Classifica os itens numericamente por seu valor de matiz de cor
+
+

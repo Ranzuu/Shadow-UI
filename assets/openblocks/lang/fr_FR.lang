@@ -1,0 +1,31 @@
+openblocks.gui.blocks=§7Blocs
+openblocks.gui.items=§7Articles
+openblocks.gui.misc=§7Divers
+openblocks.gui.changelogs=§7Modifier les journaux
+
+openblocks.gui.features=§7Fonctionnalités
+openblocks.gui.bugfixes=§7Correction de bugs
+openblocks.gui.tweaks=§7Ajustements
+
+openblocks.gui.luggage=§7Bagage
+openblocks.gui.sprinkler=§7Arroseur
+openblocks.gui.vacuumhopper=§7Entonnoir à vide
+openblocks.gui.bigbutton=§7Gros bouton
+openblocks.gui.xpbottler=§7Embouteilleur d'XP
+openblocks.gui.autoanvil=§7Enclume auto
+openblocks.gui.autoeject=§7Éjection auto
+openblocks.gui.autoextract=§7Extraction auto
+openblocks.gui.autodrink=§7Boisson auto
+openblocks.gui.autoenchantmenttable=§7Table d'enchantement auto
+openblocks.gui.donationstation=§7Donation Station
+openblocks.gui.itemdropper=§7Lanceur d'élément
+openblocks.gui.blockplacer=§7Placeur de bloc
+openblocks.gui.paintmixer=§7Agitateur de peinture
+openblocks.gui.drawingtable=§7Table à dessin
+openblocks.gui.digitalfuse=§7Fusible numérique
+openblocks.gui.xp_outputs=§7Sorties d'XP
+openblocks.gui.item_outputs=§7Sorties d'élément
+openblocks.gui.max_level=§7Niveau maxi. : %d
+openblocks.gui.save_folder=§7Dossier de sauvegarde
+
+tile.openblocks.trophy.entity.name=%s §9Trophy

@@ -1,0 +1,16 @@
+text.backpack.rename=§7Переименовать рюкзак
+text.backpack.new_name=§7Новое имя:
+text.backpack.backpack_slot=§7Слот для рюкзака
+text.backpack.update_available=§7Обновление %s для Backpack Mod доступно!
+text.backpack.up_to_date=§7Используется самая актуальная версия Backpack Mod
+text.backpack.allowed_backpacks=§7Вам не разрешается иметь рюкзаков более %s в инвентаре.
+text.backpack.dropped_backpacks=§7%s рюкзаки были убраны из Вашего инвентаря. Посмотрите на пол.
+text.backpack.autopickup=§7Подбирать автоматически:
+text.backpack.recipes=§7Рецепты
+text.backpack.configuration=§7Конфигурация рюкзаков
+
+button.backpack.ok=§7ОК
+button.backpack.cancel=§7Отмена
+
+key.personalBackpack=§7Открыть рюкзак
+key.categories.backpack=§7Рюкзаки

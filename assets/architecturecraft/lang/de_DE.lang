@@ -1,0 +1,143 @@
+# Container
+gui.architecturecraft.Sawbench=§7Tischsäge
+gui.architecturecraft.Makes=§7wird zu
+
+# Pages
+gui.architecturecraft.Roofing=§7Dächer
+gui.architecturecraft.Rounded=§7Rundungen
+gui.architecturecraft.Classical=§7Klassisch
+gui.architecturecraft.Window=§7Fenster
+gui.architecturecraft.Arches=§7Bögen
+gui.architecturecraft.Railings=§7Geländer
+gui.architecturecraft.Other=§7Andere
+gui.architecturecraft.Glow=§7Leuchtend
+
+# Shapes
+gui.architecturecraft.RoofTile=§7Dachschräge
+gui.architecturecraft.RoofOuterCorner=§7Dachgrat
+gui.architecturecraft.RoofInnerCorner=§7Dachkehle
+gui.architecturecraft.RoofRidge=§7Dachfirst
+gui.architecturecraft.RoofSmartRidge=§7Walmdach
+gui.architecturecraft.RoofValley=§7Traufkehle
+gui.architecturecraft.RoofSmartValley=§7Dachtrichter
+
+gui.architecturecraft.RoofOverhang=§7Traufe mit Überhang
+gui.architecturecraft.RoofOverhangOuterCorner=§7Traufe an Grat mit Überhang
+gui.architecturecraft.RoofOverhangInnerCorner=§7Traufe an Kehle mit Überhang
+
+gui.architecturecraft.Cylinder=§7Zylinder
+gui.architecturecraft.CylinderHalf=§7Halbzylinder
+gui.architecturecraft.CylinderQuarter=§7Viertelzylinder
+gui.architecturecraft.CylinderLargeQuarter=§7Abgerundete äußere Ecke
+gui.architecturecraft.AnticylinderLargeQuarter=§7Abgerundete innere Ecke
+gui.architecturecraft.Pillar=§7Runde Säule
+gui.architecturecraft.Post=§7Runder Pfosten
+gui.architecturecraft.Pole=§7Runder Pfahl
+
+gui.architecturecraft.BevelledOuterCorner=§7Abgeschrägte Außenecke
+gui.architecturecraft.BevelledInnerCorner=§7Abgeschrägte Innenecke
+
+gui.architecturecraft.PillarBase=§7Runde Säulenbasis
+gui.architecturecraft.DoricCapital=§7Dorisches Säulenkapitell
+gui.architecturecraft.IonicCapital=§7Ionisches Säulenkapitell
+gui.architecturecraft.CorinthianCapital=§7Korinthisches Säulenkapitell
+gui.architecturecraft.DoricTriglyph=§7Triglyphe
+gui.architecturecraft.DoricTriglyphCorner=§7Ecktriglyphe
+gui.architecturecraft.DoricMetope=§7Metope
+gui.architecturecraft.Architrave=§7Architrav
+gui.architecturecraft.ArchitraveCorner=§7Eckarchitrav
+
+gui.architecturecraft.WindowFrame=§7Fensterrahmen
+gui.architecturecraft.WindowCorner=§7Eckfenster
+gui.architecturecraft.WindowMullion=§7Doppelfenster
+
+gui.architecturecraft.SphereFull=§7Kugel
+gui.architecturecraft.SphereHalf=§7Halbkugel
+gui.architecturecraft.SphereQuarter=§7Viertelkugel
+gui.architecturecraft.SphereEighth=§7Achtelkugel
+gui.architecturecraft.SphereEighthLarge=§7Außenkugelecke
+gui.architecturecraft.SphereEighthLargeRev=§7Innenkugelecke
+
+gui.architecturecraft.RoofOverhangGableLH=§7Ortgang mit Überhang (links)
+gui.architecturecraft.RoofOverhangGableRH=§7Ortgang mit Überhang (rechts)
+gui.architecturecraft.RoofOverhangGableEndLH=§7Traufe an Ortgang mit Überhang (links)
+gui.architecturecraft.RoofOverhangGableEndRH=§7Traufe an Ortgang mit Überhang (rechts)
+gui.architecturecraft.RoofOverhangRidge=§7Giebelüberhang
+gui.architecturecraft.RoofOverhangValley=§7Kehlenüberhang
+
+gui.architecturecraft.CorniceLH=§7Giebelgesims (links)
+gui.architecturecraft.CorniceRH=§7Giebelgesims (rechts)
+gui.architecturecraft.CorniceEndLH=§7Giebelgesimsende (links)
+gui.architecturecraft.CorniceEndRH=§7Giebelgesimsende (rechts)
+gui.architecturecraft.CorniceRidge=§7Giebelgesimsspitze
+gui.architecturecraft.CorniceValley=§7Traufgesims
+gui.architecturecraft.CorniceBottom=§7Fußgesims
+
+gui.architecturecraft.CladdingSheet=§7Verkleidung
+
+gui.architecturecraft.ArchD1=§7Bogen (Durchmesser 1)
+gui.architecturecraft.ArchD2=§7Bogen (Durchmesser 2)
+gui.architecturecraft.ArchD3A=§7Bogen (Durchmesser 3 Teil A)
+gui.architecturecraft.ArchD3B=§7Bogen (Durchmesser 3 Teil B)
+gui.architecturecraft.ArchD3C=§7Bogen (Durchmesser 3 Teil C)
+gui.architecturecraft.ArchD4A=§7Bogen (Durchmesser 4 Teil A)
+gui.architecturecraft.ArchD4B=§7Bogen (Durchmesser 4 Teil B)
+gui.architecturecraft.ArchD4C=§7Bogen (Durchmesser 4 Teil C)
+
+gui.architecturecraft.BanisterPlainBottom=§7Einfacher Treppengeländerbodenübergang
+gui.architecturecraft.BanisterPlain=§7Einfaches Treppengeländer
+gui.architecturecraft.BanisterPlainTop=§7Einfacher Treppengeländerstockwerkübergang
+
+gui.architecturecraft.BalustradeFancy=§7Schöne Balustrade
+gui.architecturecraft.BalustradeFancyCorner=§7Schöne Balustradenecke
+gui.architecturecraft.BalustradeFancyWithNewel=§7Schöne Balustrade mit Pfosten
+gui.architecturecraft.BalustradeFancyNewel=§7Schöner Balustradenpfosten
+
+gui.architecturecraft.BalustradePlain=§7Einfache Balustrade
+gui.architecturecraft.BalustradePlainOuterCorner=§7Einfache äußere Balustradenecke
+gui.architecturecraft.BalustradePlainWithNewel=§7Einfache Balustrade mit Pfosten
+
+gui.architecturecraft.BanisterPlainEnd=§7Einfaches Geländerende
+
+gui.architecturecraft.BanisterFancyNewelTall=§7Großer schöner Pfosten
+
+gui.architecturecraft.BalustradePlainInnerCorner=§7Einfache innere Balustradenecke
+gui.architecturecraft.BalustradePlainEnd=§7Einfaches Balustradenende
+
+gui.architecturecraft.BanisterFancyBottom=§7Schöner Treppengeländerbodenübergang
+gui.architecturecraft.BanisterFancy=§7Schönes Treppengeländer
+gui.architecturecraft.BanisterFancyTop=§7Schöner Treppengeländerstockwerkübergang
+gui.architecturecraft.BanisterFancyEnd=§7Schönes Treppengeländerende
+
+gui.architecturecraft.BanisterPlainInnerCorner=§7Einfache Geländerinnenecke
+
+gui.architecturecraft.Slab=§7Stufe
+gui.architecturecraft.Stairs=§7Treppe
+gui.architecturecraft.StairsOuterCorner=§7Außentreppenecke
+gui.architecturecraft.StairsInnerCorner=§7Innentreppenecke
+
+gui.architecturecraft.SlopeTileA1=§7Unteres Schrägenende A
+gui.architecturecraft.SlopeTileA2=§7Oberes Schrägenende A
+gui.architecturecraft.SlopeTileB1=§7Unteres Schrägenende B
+gui.architecturecraft.SlopeTileB2=§7Schrägenmittelteil B
+gui.architecturecraft.SlopeTileB3=§7Oberes Schrägenende B
+gui.architecturecraft.SlopeTileC1=§7Schrägenteil C 1
+gui.architecturecraft.SlopeTileC2=§7Schrägenteil C 2
+gui.architecturecraft.SlopeTileC3=§7Schrägenteil C 3
+gui.architecturecraft.SlopeTileC4=§7Schrägenteil C 4
+gui.architecturecraft.AngledRoofRidge=§7Schräger Dachgiebel
+
+gui.architecturecraft.SquareSE=§7Leuchtender Block
+gui.architecturecraft.SlabSE=§7Leuchtende Stufe
+gui.architecturecraft.RoofTileSE=§7Leuchtende Dachschräge
+gui.architecturecraft.SlopeTileA1SE=§7Leuchtendes unteres Schrägenende A
+gui.architecturecraft.SlopeTileA2SE=§7Leuchtendes oberes Schrägenende A
+gui.architecturecraft.SlopeTileB1SE=§7Leuchtendes unteres Schrägenende B
+gui.architecturecraft.SlopeTileB2SE=§7Leuchtendes Schrägenmittelteil B
+gui.architecturecraft.SlopeTileB3SE=§7Leuchtendes oberes Schrägenende B
+gui.architecturecraft.SlopeTileC1SE=§7Leuchtendes Schrägenteil C 1
+gui.architecturecraft.SlopeTileC2SE=§7Leuchtendes Schrägenteil C 2
+gui.architecturecraft.SlopeTileC3SE=§7Leuchtendes Schrägenteil C 3
+gui.architecturecraft.SlopeTileC4SE=§7Leuchtendes Schrägenteil C 4
+
+gui.architecturecraft.DoubleRoofTile=§7Doppel-Dachschräge

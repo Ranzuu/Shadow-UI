@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Show Frame
+gui.painting.hideFrame=§7Hide Frame
+gui.painting.scale=§7Scale
+gui.painting.resolution=§7Resolution
+gui.painting.aspectRatio=§7Aspect Ratio
+gui.painting.size=§7Painting Size
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Master Corner
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7of
+
+gui.paintpress.transfer=§7Transfer
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Custom
+
+gui.sign.scale=§7文字比例
+gui.sign.format=§7格式
+gui.sign.linenum=§7行號#
+
+gui.sign.left=§7左
+gui.sign.center=§7中
+gui.sign.right=§7右
+
+gui.sign.tooltip1=§7點擊格子或按標籤便可選取編輯面板. 按Tab便可循環多個面板.
+
+gui.fancyworkbench=§7精美工作台
+
+gui.armorstand=§7盔甲架
+gui.bookcase=§7書架
+gui.cookiejar=§7曲奇瓶
+gui.shelf=§7木架
+gui.label=§7木標籤
+gui.potionshelf=§7藥水架
+gui.table=§7木桌
+gui.case=§7展示盒子
+gui.toolrack=§7工具架
+gui.desk=§7木桌
+gui.mapWaypoint.accept=§7接受
+gui.mapWaypoint.remove=§7移除
+gui.mapWaypoint.cancel=§7取消
+gui.mapWaypoint.waypoint=§7路標
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7餐盤
+gui.discRack=§7光碟架

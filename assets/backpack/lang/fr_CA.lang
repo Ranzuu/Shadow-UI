@@ -1,0 +1,16 @@
+text.backpack.rename=§7Renommez votre sac à dos
+text.backpack.new_name=§7Nouveau nom :
+text.backpack.backpack_slot=§7Emplacement de sac à dos
+text.backpack.update_available=§7La version %s du mod Backpack est maintenant disponible !
+text.backpack.up_to_date=§7Le mod Backpack est à jour
+text.backpack.allowed_backpacks=§7Vous n'êtes pas autorisé(e) d'avoir plus de %s sacs à dos dans votre inventaire.
+text.backpack.dropped_backpacks=§7%s sacs à dos ont été retirés de votre inventaire. Regardez par terre.
+text.backpack.autopickup=§7Prendre automatiquement :
+text.backpack.recipes=§7Recettes
+text.backpack.configuration=§7Configuration de Backpack
+
+button.backpack.ok=§7OK
+button.backpack.cancel=§7Annuler
+
+key.personalBackpack=§7Ouvrir le sac à dos
+key.categories.backpack=§7Backpack

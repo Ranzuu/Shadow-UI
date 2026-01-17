@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Вывод
+gui.message.in.name=§7Ввод
+gui.message.status.name=§7Статус
+gui.message.oxoutput.name=§7Вывод для кислорода
+gui.message.oxinput.name=§7Ввод для кислорода
+gui.message.fuel.name=§7Топливо
+gui.message.full.name=§7осталось
+gui.message.page.name=§7Страница
+gui.message.addnewsch.name=§7Добавить новую схему
+gui.message.generating.name=§7Создание
+gui.message.environment.name=§7Ускорение окружающей среды
+gui.message.oil.name=§7Нефть
+gui.message.catalog.name=§7Каталог
+gui.message.back.name=§7Назад
+gui.message.daynightcycle.name=§7Цикл день-ночь
+gui.message.surfacegravity.name=§7Гравитация на поверхности
+gui.message.surfacecomposition.name=§7Состав поверхности
+gui.message.atmosphere.name=§7Атмосфера
+gui.message.meansurfacetemp.name=§7Средняя температура на поверхности
+gui.message.energy=§7Энергия
+gui.message.maxEnergy=§7Макс. энергия
+gui.message.bubbleVisible.name=§7Видимость пузырей
+gui.message.launch.name=§7Запуск
+gui.message.clickAgain.0.name=§7Нажмите ещё раз для увеличения (видно Луны и Спутники)
+gui.message.clickAgain.1.name=§7Нажмите ещё раз для увеличения (видно Луны)
+gui.message.clickAgain.2.name=§7Нажмите ещё раз для увеличения (видно Спутники)
+gui.message.clickAgain.3.name=§7Нажмите ещё раз для увеличения
+gui.message.exit.name=§7Выход
+gui.message.tier.name=§7Уровень %d
+gui.message.canCreateSpaceStation.name=§7Здесь можно построить станцию!
+gui.message.cannotCreateSpaceStation.name=§7Космическая станция не может быть создана здесь.
+gui.message.createSS.name=§7Создать
+gui.message.selectSS.name=§7Выбрать космическую станцию
+gui.message.ssOwner.name=§7Владелец:
+gui.message.apply.name=§7Применить
+gui.message.cancel.name=§7Отмена
+gui.message.assignName.name=§7Дать имя
+gui.message.rename.name=§7Переименовать
+gui.message.unnamed.name=§7Без имени
+gui.message.grow.name=§7Расти
+gui.message.breed.name=§7Размножать
+gui.message.strengthen.name=§7Укреплять
+gui.message.heal.name=§7Лечить
+gui.message.of.name=§7из
+gui.message.help1=§7Для помощи по Galacticraft, напечатайте
+gui.message.help1a=§7Для того, чтобы увидеть это уведомлениe eщё раз, напечатайте 
+gui.message.help2=§7Для помощи по космической программе, напечатайте
+gui.message.help3=§7Для помощи по добычи нефти, напечатайте
+gui.message.prelaunch=§7Контрольный список
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Тепловой контроль
+
+gui.button.enableseal.name=§7Запустить уплотнитель
+gui.button.disableseal.name=§7Отключить уплотнитель
+gui.button.loaditems.name=§7Загрузить
+gui.button.stoploading.name=§7Остановить загрузку
+gui.button.unloaditems.name=§7Разгрузить
+gui.button.stopunloading.name=§7Остановить разгрузку
+gui.button.createsstation.name=§7Создать космическую станцию
+gui.button.sendtodim.name=§7Отправиться в полет
+gui.button.rename.name=§7Переименовать
+gui.button.loadfuel.name=§7Загрузить топливо
+gui.button.refine.name=§7Очистить
+gui.button.back.name=§7Назад
+gui.button.next.name=§7Вперёд
+gui.button.unlockschematic.name=§7Разблокировать схему
+gui.button.stoprefine.name=§7Остановить очистку
+gui.button.enable.name=§7Включить
+gui.button.disable.name=§7Выключить
+gui.button.hideDest.name=§7Спрятать
+gui.button.unhideDest.name=§7Показать
+
+# CONTAINERS
+container.cargoloader.name=§7Грузовой загрузчик
+container.cargounloader.name=§7Грузовой разгрузчик
+container.fuelloader.name=§7Загрузчик топлива
+container.oxygencollector.name=§7Кислородный сборщик
+container.oxygencompressor.name=§7Кислородный компрессор
+container.oxygendistributor.name=§7Распределитель кислорода
+container.oxygensealer.name=§7Уплотнитель кислорода
+container.parachest.name=§7Сундук с парашютом
+container.refinery.name=§7Очистительный завод
+container.treasurechest.name=§7Сундук с сокровищами
+container.lander.name=§7Посадочный модуль
+container.spaceship.name=§7Ракета 1-го уровня
+container.solarbasic.name=§7Основная солнечная панель
+container.solaradvanced.name=§7Продвинутая солнечная панель
+container.oxygendecompressor.name=§7Кислородный декомпрессор
+
+gui.checkbox.redstoneSignal.name=§7Открывается по сигналу красного камня
+gui.checkbox.playerWithin.name=§7Игрок в пределах
+gui.checkbox.playerName.name=§7Имя игрока:
+gui.checkbox.invert.name=§7Инвертированный выбор
+gui.checkbox.horizontal.name=§7Горизонтальный режим
+
+tile.machine.0.name=§7Угольный генератор
+tile.machine.1.name=§7Модуль «Хранилище энергии»
+tile.machine.2.name=§7Электропечь
+tile.machine.3.name=§7Компрессор
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Электрический компрессор
+tile.machine2.5.name=§7Производитель микросхем
+tile.machine2.6.name=§7Модуль «Хранилище кислорода»
+tile.machine.7.name=§7Электрическая дуговая печь
+tile.machine.8.name=§7Энергетический массив
+
+gui.maxOutput.desc=§7Макс. выход
+gui.oxygenUse.desc=§7Потребление кислорода
+
+gui.message.generating.name=§7Создание
+
+gui.status.collecting.name=§7Сбор
+gui.status.generating.name=§7Создание
+gui.status.notGenerating.name=§7Не создаётся
+gui.status.hullHeat.name=§7Нагрев корпуса
+
+gui.title.airLock.name=§7Контроллер воздушного шлюза игрока %s
+
+gui.status.unknown.name=§dНеизвестно
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Инопланетный житель
+entity.GalacticraftCore.Buggy.name=§7Багги
+entity.GalacticraftCore.EvolvedCreeper.name=§7Эволюционировавший крипер
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Эволюционировавший скелет
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Эволюционировавший скелет-босс
+entity.GalacticraftCore.EvolvedSpider.name=§7Эволюционировавший паук
+entity.GalacticraftCore.EvolvedZombie.name=§7Эволюционировавший зомби
+entity.GalacticraftCore.Flag.name=§7Флаг
+entity.GalacticraftCore.GCFlag.name=§7Флаг
+entity.GalacticraftCore.GravityArrow.name=§7Стрелка
+entity.GalacticraftCore.Lander.name=§7Посадочный модуль
+entity.GalacticraftCore.Meteor.name=§7Метеорит
+entity.GalacticraftCore.MeteorChunk.name=§7Кусок метеорита
+entity.GalacticraftCore.OxygenBubble.name=§7Кислородный пузырь
+entity.GalacticraftCore.ParaChest.name=§7Сундук с парашютом
+entity.GalacticraftCore.Spaceship.name=§7Ракета 1-го уровня

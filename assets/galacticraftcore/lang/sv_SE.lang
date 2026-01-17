@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Ut
+gui.message.in.name=§7In
+gui.message.status.name=§7Läge
+gui.message.oxoutput.name=§7Syrgasutmatning
+gui.message.oxinput.name=§7Syrgasinmatning
+gui.message.fuel.name=§7Mängd
+gui.message.full.name=§7full
+gui.message.page.name=§7Sida
+gui.message.addnewsch.name=§7Läs in ny ritning
+gui.message.generating.name=§7Effekt
+gui.message.environment.name=§7Miljöbonus
+gui.message.oil.name=§7Mängd
+gui.message.catalog.name=§7Katalog
+gui.message.back.name=§7Återgå
+gui.message.daynightcycle.name=§7Day-night Cycle
+gui.message.surfacegravity.name=§7Surface Gravity
+gui.message.surfacecomposition.name=§7Surface Composition
+gui.message.atmosphere.name=§7Atmosphere
+gui.message.meansurfacetemp.name=§7Mean Surface Temp
+gui.message.energy=§7Energi
+gui.message.maxEnergy=§7Kapacitet
+gui.message.bubbleVisible.name=§7Synlig bubbla
+gui.message.launch.name=§7Avgå
+gui.message.clickAgain.0.name=§7Klicka igen för zoom (granska månar och satelliter)
+gui.message.clickAgain.1.name=§7Klicka igen för zoom (granska månar)
+gui.message.clickAgain.2.name=§7Klicka igen för zoom (granska satelliter)
+gui.message.clickAgain.3.name=§7Klicka igen för zoom
+gui.message.exit.name=§7Stäng
+gui.message.tier.name=§7Nivå %d
+gui.message.canCreateSpaceStation.name=§7En rymdstation kan skapas här!
+gui.message.cannotCreateSpaceStation.name=§7En rymdstation kan ej skapas här.
+gui.message.createSS.name=§7Skapa
+gui.message.selectSS.name=§7Välj en rymdstation
+gui.message.ssOwner.name=§7Ägare:
+gui.message.apply.name=§7Verkställ
+gui.message.cancel.name=§7Avbryt
+gui.message.assignName.name=§7Ange namn
+gui.message.rename.name=§7Byt namn
+gui.message.unnamed.name=§7Odöpt
+gui.message.grow.name=§7Väx
+gui.message.breed.name=§7Avla
+gui.message.strengthen.name=§7Stärk
+gui.message.heal.name=§7Hela
+gui.message.of.name=§7av
+gui.message.help1=§7För allmän hjälp med Galacticraft
+gui.message.help1a=§7För att se detta meddelande igen, skriv
+gui.message.help2=§7För hjälp angående rymdorganisationer
+gui.message.help3=§7För hjälp med olja
+gui.message.prelaunch=§7Startchecklista
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
+
+gui.button.enableseal.name=§7Starta
+gui.button.disableseal.name=§7Stäng av
+gui.button.loaditems.name=§7Lasta
+gui.button.stoploading.name=§7Stäng av
+gui.button.unloaditems.name=§7Lasta ur
+gui.button.stopunloading.name=§7Stäng av
+gui.button.createsstation.name=§7Skapa rymdstation
+gui.button.sendtodim.name=§7Skicka till dimension
+gui.button.rename.name=§7Byt namn
+gui.button.loadfuel.name=§7Tanka
+gui.button.refine.name=§7Arbetar
+gui.button.back.name=§7Föreg.
+gui.button.next.name=§7Nästa
+gui.button.unlockschematic.name=§7Läs in ritning
+gui.button.stoprefine.name=§7Stäng av
+gui.button.enable.name=§7Starta
+gui.button.disable.name=§7Stäng av
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
+container.cargoloader.name=§7Pålastare
+container.cargounloader.name=§7Urlastare
+container.fuelloader.name=§7Bränslepump
+container.oxygencollector.name=§7Syrgasutvinnare
+container.oxygencompressor.name=§7Syrgastapp
+container.oxygendistributor.name=§7Luftbubbelmaskin
+container.oxygensealer.name=§7Andningsklimatsystem
+container.parachest.name=§7Fallskärmskista
+container.refinery.name=§7Oljeraffinaderi
+container.treasurechest.name=§7Skattkista
+container.lander.name=§7Månlandare
+container.spaceship.name=§7N1-raket
+container.solarbasic.name=§7Enkel solpanel
+container.solaradvanced.name=§7Avancerad solpanel
+container.oxygendecompressor.name=§7Syrgaskompressor
+
+gui.checkbox.redstoneSignal.name=§7Öppna på rödstensignal
+gui.checkbox.playerWithin.name=§7Spelare inom
+gui.checkbox.playerName.name=§7Spelarnamn
+gui.checkbox.invert.name=§7Kasta om inställning
+gui.checkbox.horizontal.name=§7Horisontellt läge
+
+tile.machine.0.name=§7Kolgenerator
+tile.machine.1.name=§7Energilagringsmodul
+tile.machine.2.name=§7Elugn
+tile.machine.3.name=§7Plåtmaskin
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Elplåtmaskin
+tile.machine2.5.name=§7Kretskortstillverkare
+tile.machine2.6.name=§7Syrgaslagringsmodul
+tile.machine.7.name=§7Ljusbågsugn
+tile.machine.8.name=§7Energilagringskluster
+
+gui.maxOutput.desc=§7Max. uteffekt
+gui.oxygenUse.desc=§7Syrgasåtgång
+
+gui.message.generating.name=§7Effekt
+
+gui.status.collecting.name=§7Utvinner
+gui.status.generating.name=§7Alstrar
+gui.status.notGenerating.name=§7Inaktiv
+gui.status.hullHeat.name=§7Temperatur
+
+gui.title.airLock.name=§7%s's luftslusskontroll
+
+gui.status.unknown.name=§dOkänd
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Utomjordisk bybo
+entity.GalacticraftCore.Buggy.name=§7Månbil
+entity.GalacticraftCore.EvolvedCreeper.name=§7Rymdsmygare
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Rymdskelett
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Månhålehärskare
+entity.GalacticraftCore.EvolvedSpider.name=§7Rymdspindel
+entity.GalacticraftCore.EvolvedZombie.name=§7Rymdzombie
+entity.GalacticraftCore.Flag.name=§7Flagga
+entity.GalacticraftCore.GCFlag.name=§7Flagga
+entity.GalacticraftCore.GravityArrow.name=§7Pil
+entity.GalacticraftCore.Lander.name=§7Månlandare
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteorsten
+entity.GalacticraftCore.OxygenBubble.name=§7Luftbubbla
+entity.GalacticraftCore.ParaChest.name=§7Fallskärmskista
+entity.GalacticraftCore.Spaceship.name=§7Rymdskepp

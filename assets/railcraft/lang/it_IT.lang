@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7Tanica di Acciaio
+railcraft.gui.tank.water=§7Tanica d'Acqua
+railcraft.gui.steam.boiler=§7 Bollitore a Vapore
+railcraft.gui.blast.furnace=§7 Alto forno
+railcraft.gui.coke.oven=§7Forno per carburante
+railcraft.gui.steam.oven=§7Forno a Vapore
+railcraft.gui.turbine.output=§7Uscita: @d%%
+railcraft.gui.turbine.rotor=§7Rotore:
+railcraft.gui.turbine=§7Turbina a vapore
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Rate: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7Fusibile
+railcraft.gui.cart.track.relayer.pattern=§7Modello
+railcraft.gui.cart.track.relayer.stock=§7Scorta
+railcraft.gui.cart.undercutter.pattern=§7Modello
+railcraft.gui.cart.undercutter.sides=§7Lati
+railcraft.gui.cart.undercutter.stock=§7Scorta
+railcraft.gui.cart.undercutter.under=§7Sotto
+
+railcraft.gui.feed.station.feed=§7Cibo
+railcraft.gui.filter=§7Filtro
+railcraft.gui.filters.carts=§7Minecarts
+railcraft.gui.filters=§7Filtri
+railcraft.gui.item.loader.buffer=§7Buffer
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7Macchinario di rodaggio
+tile.railcraft.machine.alpha.feed.station.name=§7Mangiatoia
+tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
+tile.railcraft.machine.alpha.anchor.admin.name=§7Ancora dell'amministratore
+tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7Ancora personale
+tile.railcraft.machine.alpha.anchor.world.name=§7Ancora del mondo
+railcraft.gui.anchor.fuel.remaining=§7@.2f ore
+railcraft.gui.anchor.fuel=§7Perle Ender
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7Bollitore ad alta pressione
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Bollitore a bassa pressione
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Motore amatoriale a Vapore
+tile.railcraft.machine.beta.engine.steam.low.name=§7Motore commerciale a Vapore
+tile.railcraft.machine.beta.engine.steam.high.name=§7Motore industriale a Vapore
+tile.railcraft.machine.beta.chest.void.name=§7Cassa del nulla
+tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
+
+railcraft.gui.box.aspect.action=§7Emetti un segnale di Pietrarossa in base all'aspetto
+
+railcraft.gui.detector.item.analog=§7Analogo
+railcraft.gui.detector.item.anything=§7Qualsiasi
+railcraft.gui.detector.item.at_least=§7Almeno
+railcraft.gui.detector.item.at_most=§7Al massimo
+railcraft.gui.detector.item.empty=§7Vuoto
+railcraft.gui.detector.item.exactly=§7Esattamente
+railcraft.gui.detector.item.filtered=§7Filtrato
+railcraft.gui.detector.item.full=§7Pieno
+railcraft.gui.detector.item.greater_than=§7Greater Than
+railcraft.gui.detector.item.less_than=§7Less Than
+railcraft.gui.detector.item.not_empty=§7Non Vuoto
+railcraft.gui.detector.loco.primary=§7Colore Primario
+railcraft.gui.detector.loco.secondary=§7Colore secondario
+railcraft.gui.detector.tank.tip.analog=§7Emetti un segnale di Pietrarossa analogo\n alla quantità di liquido nella tanica
+railcraft.gui.detector.tank.tip.empty=§7Abbina taniche vuote
+railcraft.gui.detector.tank.tip.full=§7Abbina taniche piene
+railcraft.gui.detector.tank.tip.half=§7Abbina taniche più di metà piene
+railcraft.gui.detector.tank.tip.less.than.full=§7Abbina taniche non piene
+railcraft.gui.detector.tank.tip.less.than.half=§7Abbina taniche meno di metà piene
+railcraft.gui.detector.tank.tip.less.than.most=§7Abbina taniche meno di tre quarti piene
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Abbina taniche meno di un quarto piene
+railcraft.gui.detector.tank.tip.most=§7Abbina taniche più di tre quarti piene
+railcraft.gui.detector.tank.tip.not.empty=§7Abbina taniche non vuote
+railcraft.gui.detector.tank.tip.quarter=§7Abbina taniche più di un quarto piene
+railcraft.gui.detector.tank.tip.void=§7Match any amount
+railcraft.gui.detector.train.size=§7Train Size =§7 @d
+railcraft.gui.detector.villager.any=§7Qualunque
+railcraft.gui.detector.villager.equals=§7Equivale
+railcraft.gui.detector.villager.none=§7Nessuno
+railcraft.gui.detector.villager.not=§7No
+
+tile.railcraft.machine.gamma.loader.item.name=§7Caricatore d'oggetti
+tile.railcraft.machine.gamma.unloader.item.name=§7Scaricatore d'oggetti
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Caricatore d'oggetti avanzato
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Scaricatore d'oggetti avanzato
+tile.railcraft.machine.gamma.loader.liquid.name=§7Caricatore di liquidi
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Scaricatore di liquidi
+tile.railcraft.machine.gamma.loader.energy.name=§7Caricatore di energia
+tile.railcraft.machine.gamma.unloader.energy.name=§7Scaricatore di energia
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Distributore di Minecarts
+tile.railcraft.machine.gamma.dispenser.train.name=§7Distributore di treni

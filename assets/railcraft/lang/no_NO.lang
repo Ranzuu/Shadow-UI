@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7Ståltank
+railcraft.gui.tank.water=§7Vanntank
+railcraft.gui.steam.boiler=§7 Dampkoker
+railcraft.gui.blast.furnace=§7 Masovn
+railcraft.gui.coke.oven=§7Koksovn
+railcraft.gui.steam.oven=§7Dampovn
+railcraft.gui.turbine.output=§7Ut: @d%%
+railcraft.gui.turbine.rotor=§7Rotor:
+railcraft.gui.turbine=§7Dampturbin
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Rate: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7Lunte
+railcraft.gui.cart.track.relayer.pattern=§7Mønster
+railcraft.gui.cart.track.relayer.stock=§7Lager
+railcraft.gui.cart.undercutter.pattern=§7Mønstre
+railcraft.gui.cart.undercutter.sides=§7Sider
+railcraft.gui.cart.undercutter.stock=§7Lager
+railcraft.gui.cart.undercutter.under=§7Under
+
+railcraft.gui.feed.station.feed=§7Mat
+railcraft.gui.filter=§7Filter
+railcraft.gui.filters.carts=§7Vogner
+railcraft.gui.filters=§7Filtere
+railcraft.gui.item.loader.buffer=§7Buffer
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7Rullemaskin
+tile.railcraft.machine.alpha.feed.station.name=§7Matestasjon
+tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
+tile.railcraft.machine.alpha.anchor.admin.name=§7Admin Anker
+tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7Personlig Anker
+tile.railcraft.machine.alpha.anchor.world.name=§7Verdens Anker
+railcraft.gui.anchor.fuel.remaining=§7@.2f timer
+railcraft.gui.anchor.fuel=§7Enderperle
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7Høytrykkskoker
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Lavstrykkskoker
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Fritidmannens dampmaskin
+tile.railcraft.machine.beta.engine.steam.low.name=§7Kommersiell dampmaskin
+tile.railcraft.machine.beta.engine.steam.high.name=§7Industriell dampmaskin
+tile.railcraft.machine.beta.chest.void.name=§7Annulerings kiste
+tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
+
+railcraft.gui.box.aspect.action=§7Gi rødstein signal på Aspektet
+
+railcraft.gui.detector.item.analog=§7Analog
+railcraft.gui.detector.item.anything=§7Altmulig
+railcraft.gui.detector.item.at_least=§7Minst
+railcraft.gui.detector.item.at_most=§7Maks
+railcraft.gui.detector.item.empty=§7Tom
+railcraft.gui.detector.item.exactly=§7Akkurat
+railcraft.gui.detector.item.filtered=§7Filtrert
+railcraft.gui.detector.item.full=§7Full
+railcraft.gui.detector.item.greater_than=§7Greater Than
+railcraft.gui.detector.item.less_than=§7Less Than
+railcraft.gui.detector.item.not_empty=§7Ikke tom
+railcraft.gui.detector.loco.primary=§7Hovedfarge
+railcraft.gui.detector.loco.secondary=§7Sekundærfarge
+railcraft.gui.detector.tank.tip.analog=§7Emit Analog Redstone\n based on amount in tank
+railcraft.gui.detector.tank.tip.empty=§7Match empty tanks
+railcraft.gui.detector.tank.tip.full=§7Match full tanks
+railcraft.gui.detector.tank.tip.half=§7Match more than half full tanks
+railcraft.gui.detector.tank.tip.less.than.full=§7Match less than full tanks
+railcraft.gui.detector.tank.tip.less.than.half=§7Match less than half full tanks
+railcraft.gui.detector.tank.tip.less.than.most=§7Match less than 3/4th full tanks
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Match less than quarter full tanks
+railcraft.gui.detector.tank.tip.most=§7Match more than 3/4th full tanks
+railcraft.gui.detector.tank.tip.not.empty=§7Match non-empty tanks
+railcraft.gui.detector.tank.tip.quarter=§7Match more than quarter full tanks
+railcraft.gui.detector.tank.tip.void=§7Match any amount
+railcraft.gui.detector.train.size=§7Train Size =§7 @d
+railcraft.gui.detector.villager.any=§7Hvilken som helst
+railcraft.gui.detector.villager.equals=§7Lik
+railcraft.gui.detector.villager.none=§7Ingen
+railcraft.gui.detector.villager.not=§7Ikke
+
+tile.railcraft.machine.gamma.loader.item.name=§7Gjenstandslaster
+tile.railcraft.machine.gamma.unloader.item.name=§7Gjenstandsavlaster
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Avansert gjenstandslaster
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Avansert gjenstandsavlaster
+tile.railcraft.machine.gamma.loader.liquid.name=§7Væskelaster
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Væskeavlaster
+tile.railcraft.machine.gamma.loader.energy.name=§7Energi Lader
+tile.railcraft.machine.gamma.unloader.energy.name=§7Energitømmer
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Vogn Dispenser
+tile.railcraft.machine.gamma.dispenser.train.name=§7Tog Dispenser

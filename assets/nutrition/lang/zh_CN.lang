@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§7营养水平
+gui.nutrition:close=§7关闭
+gui.nutrition:updating=§7更新中……
+
+# Nutrients
+nutrient.nutrition:grain=§7谷类
+nutrient.nutrition:fruit=§7水果
+nutrient.nutrition:vegetable=§7蔬菜
+nutrient.nutrition:protein=§7蛋白质
+nutrient.nutrition:dairy=§7乳类

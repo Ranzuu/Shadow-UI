@@ -1,0 +1,144 @@
+genetics.machine.machine.isolator=§7Изолятор
+genetics.machine.machine.sequencer=§7Секвенсор
+genetics.machine.machine.polymeriser=§7Полимеризатор
+genetics.machine.machine.inoculator=§7Инокулятор
+genetics.machine.labMachine.analyser=§7Анализатор
+genetics.machine.labMachine.incubator=§7Инкубатор
+genetics.machine.labMachine.genepool=§7Экстрактор ДНК
+genetics.machine.labMachine.acclimatiser=§7Акклиматизатор
+genetics.machine.advMachine.splicer=§7Сплайсер
+
+genetics.gui.geneBank=§7Генный банк
+
+genetics.machine.sequencer.gui.sequensedBy=§7Гены будут проанализированы игроком %s
+genetics.machine.sequencer.gui.willNotSave=§7Потеря владелец. Гены не будут извлечены
+
+genetics.gui.geneBank=§7Генный банк
+genetics.gui.geneBank.info=§7Инфо
+genetics.gui.geneBank.stats=§7Статистика
+genetics.gui.geneBank.ranking=§7Ранжирование
+genetics.gui.geneBank.project=§7Полный проект генома
+genetics.gui.geneBank.sequencedGenes=§7Секвенцировано %d/%d генов
+genetics.gui.geneBank.sequencedGenes.short=§7%d/%d генов
+
+genetics.gui.analyst.info=§7Добавьте пчелу, саженец, цветок или бабочку в верхний левый слот. ДНК-краситель требуется, если образец еще не анализирован. Краситель также может конвертировать ванильные образцы в используемые в генетике.
+genetics.gui.analyst.registry=§7Картотека
+genetics.gui.analyst.page.hours=§7%s час.
+genetics.gui.analyst.page.minutes=§7%s мин.
+genetics.gui.analyst.page.seconds=§7%s сек.
+genetics.gui.analyst.chromosome.active=§7Активно: %s
+genetics.gui.analyst.chromosome.inactive=§7Неактивно: %s
+genetics.gui.analyst.karyogram=§7Кариограмма
+genetics.gui.analyst.specimen=§7Проба
+
+genetics.gui.analyst.appearance=§7Внешний вид
+genetics.gui.analyst.appearance.primaryColor=§7Первичный цвет лепестков
+genetics.gui.analyst.appearance.secondColor=§7Вторичный цвет лепестков
+genetics.gui.analyst.appearance.stemColor=§7Цвет стебля
+
+genetics.gui.analyst.behaviour=§7Поведение
+genetics.gui.analyst.behaviour.effect=§7Эффект: %s
+genetics.gui.analyst.behaviour.pollinatesNearby=§7Опыление
+genetics.gui.analyst.behaviour.withinBlocks=§7%d блоков
+genetics.gui.analyst.behaviour.everyTime=§7Каждые %s
+genetics.gui.analyst.behaviour.territory=§7Территория: %dx%dx%d
+genetics.gui.analyst.behaviour.metabolism=§7Метаболизм: %s
+
+genetics.gui.analyst.biology=§7Биология
+genetics.gui.analyst.biology.allDay=§7Активны и днем, и ночью
+genetics.gui.analyst.biology.night=§7Активны ночью
+genetics.gui.analyst.biology.day=§7Активны днем
+genetics.gui.analyst.biology.notRain=§7Не могут работать под дождем
+genetics.gui.analyst.biology.rain=§7Могут работать под дождем
+genetics.gui.analyst.biology.underground=§7Могут работать под землей
+genetics.gui.analyst.biology.notUnderground=§7Не могут работать под землей
+genetics.gui.analyst.biology.flammable=§7Боится огня
+genetics.gui.analyst.biology.nonflammable=§7Огнестойкая
+genetics.gui.analyst.biology.sappiness=§7Созревание: %s
+genetics.gui.analyst.biology.fertility.drones=§7%d дронов в улье
+genetics.gui.analyst.biology.fertility.drone=§71 дрон в улье
+genetics.gui.analyst.biology.fertility.moths=§7Оставляет %d гусениц перед смертью
+genetics.gui.analyst.biology.fertility.moth=§7Оставляет 1 гусеницу перед смертью
+genetics.gui.analyst.biology.fertility.leaves=§71 саженец на %d блоков листвы
+genetics.gui.analyst.biology.fertility.leaf=§71 саженец на 1 блок листвы
+genetics.gui.analyst.biology.caterpillarGestation=§7Плодовитость
+genetics.gui.analyst.biology.flightSpeed=§7Скорость полета
+genetics.gui.analyst.biology.blocksPerSec=§7%d блоков/сек
+genetics.gui.analyst.biology.mothSpawn.perLeaf=§7Бабочки появляются каждые\n%s на блок листвы
+genetics.gui.analyst.biology.mothSpawn=§7Бабочки появляются каждые\n%s
+genetics.gui.analyst.biology.plantTypes=§7Типы растений
+genetics.gui.analyst.biology.averageLifespan=§7Средняя жизнь
+genetics.gui.analyst.biology.pollination=§7Опыление
+genetics.gui.analyst.biology.seedDispersal=§7Разведение семян
+genetics.gui.analyst.biology.perLifetime=§7%d в жизненный цикл
+genetics.gui.analyst.biology.mcDays=§7%s игровых дней
+
+genetics.gui.analyst.climate=§7Климат
+genetics.gui.analyst.climate.biomes=§7Биомы
+genetics.gui.analyst.climate.humidity=§7Влажность
+genetics.gui.analyst.climate.temperature=§7Температура
+
+genetics.gui.analyst.soil=§7Почва
+genetics.gui.analyst.soil.moistureTolerance=§7Влажность
+genetics.gui.analyst.soil.pHTolerance=§7Кислотность pH
+genetics.gui.analyst.soil.recommendedSoil=§7Рекомендованная почва
+genetics.gui.analyst.soil.otherSoils=§7Остальные почвы
+
+genetics.gui.analyst.genome.active=§7Активный геном
+genetics.gui.analyst.genome.inactive=§7Неактивный геном
+
+genetics.gui.analyst.growth=§7Рост
+genetics.gui.analyst.growth.mature=§7Созревание саженцев в
+genetics.gui.analyst.growth.height=§7Высота: %s
+genetics.gui.analyst.growth.girth=§7Толщина: %s
+genetics.gui.analyst.growth.conditions=§7Условия роста
+
+genetics.gui.analyst.mutations=§7Мутации
+genetics.gui.analyst.mutations.habitat=§7Естественная среда обитания
+genetics.gui.analyst.mutations.habitat.any=§7Может быть найдена в любом улье
+genetics.gui.analyst.mutations.habitat.villagers=§7Может быть куплена у жителя
+genetics.gui.analyst.mutations.habitat.chest=§7Может быть найдена в сундуках
+genetics.gui.analyst.mutations.resultantMutations=§7Мутации для получения
+genetics.gui.analyst.mutations.furtherMutations=§7Дальнейшие мутации
+genetics.gui.analyst.mutations.chance=§7Шанс %d%%
+genetics.gui.analyst.mutations.chance.current=§7(текущий %d%%)
+genetics.gui.analyst.mutations.unknownMutation=§7Неизвестная мутация
+genetics.gui.analyst.mutations.unknown=§7НЕИЗВЕСТНО
+
+genetics.gui.analyst.description=§7Описание
+genetics.gui.analyst.description.unknown=§7<Неизвестно>
+genetics.gui.analyst.description.discoveredBy=§7Найдено %s
+genetics.gui.analyst.description.complexity=§7Генетическая сложность: %s
+
+genetics.gui.analyst.produce=§7Продукция
+genetics.gui.analyst.produce.rate=§7Шанс: %s
+genetics.gui.analyst.produce.natural=§7Естественная продукция
+genetics.gui.analyst.produce.speciality=§7Специальная продукция
+genetics.gui.analyst.produce.refined=§7Дополнительная продукция
+genetics.gui.analyst.produce.centrifuge=§7В центрифуге:
+genetics.gui.analyst.produce.squeezes=§7В соковыжимателе:
+genetics.gui.analyst.produce.everyTime=§7Каждые %s
+
+genetics.gui.analyst.fruit=§7Фрукты
+genetics.gui.analyst.fruit.yield=§7Количество: %s
+genetics.gui.analyst.fruit.natural=§7Фрукты
+genetics.gui.analyst.fruit.speciality=§7Специальные фрукты
+genetics.gui.analyst.fruit.refined=§7Дополнительные фрукты
+genetics.gui.analyst.fruit.possible=§7Возможные фрукты
+genetics.gui.analyst.fruit.none=§7Дерево не производит\nфруктов или орехов
+
+genetics.gui.analyst.wood=§7Дерево
+genetics.gui.analyst.wood.fireproof=§7Огнестойкое
+genetics.gui.analyst.wood.flammable=§7Боится огня
+genetics.gui.analyst.wood.logs=§7Древесина
+genetics.gui.analyst.wood.products=§7Дополнительные продукты
+genetics.gui.analyst.wood.noFruits=§7Дерево не производит\nфруктов или орехов
+
+genetics.nei.tip.loss=§7Loss:
+genetics.nei.tip.noConsume=§7Not Be Consumed
+genetics.nei.tip.effect=§7Effect: %s
+genetics.nei.tip.temperature=§7Temperature
+genetics.nei.tip.humidity=§7Humidity
+genetics.nei.tip.processSpeed=§7%dx Processing Speed
+genetics.nei.tip.rf=§7%dx Processing Speed
+genetics.nei.tip.databaseDesc=§7Open the database and pick up an empty serum. Click the serum on Sequenced gene to apply.

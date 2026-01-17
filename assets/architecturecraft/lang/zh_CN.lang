@@ -1,0 +1,143 @@
+# Container
+gui.architecturecraft.Sawbench=§7Sawbench
+gui.architecturecraft.Makes=§7makes
+
+# Pages
+gui.architecturecraft.Roofing=§7Roofing
+gui.architecturecraft.Rounded=§7Rounded
+gui.architecturecraft.Classical=§7Classical
+gui.architecturecraft.Window=§7Window
+gui.architecturecraft.Arches=§7Arches
+gui.architecturecraft.Railings=§7Railings
+gui.architecturecraft.Other=§7Other
+gui.architecturecraft.Glow=§7Glow
+
+# Shapes
+gui.architecturecraft.RoofTile=§7Roof Tile
+gui.architecturecraft.RoofOuterCorner=§7Roof Outer Corner
+gui.architecturecraft.RoofInnerCorner=§7Roof Inner Corner
+gui.architecturecraft.RoofRidge=§7Gabled Roof Ridge
+gui.architecturecraft.RoofSmartRidge=§7Hip Roof Ridge
+gui.architecturecraft.RoofValley=§7Gabled Roof Valley
+gui.architecturecraft.RoofSmartValley=§7Hip Roof Valley
+
+gui.architecturecraft.RoofOverhang=§7Roof Overhang
+gui.architecturecraft.RoofOverhangOuterCorner=§7Roof Overhang Outer Corner
+gui.architecturecraft.RoofOverhangInnerCorner=§7Roof Overhang Inner Corner
+
+gui.architecturecraft.Cylinder=§7Cylinder
+gui.architecturecraft.CylinderHalf=§7Half Cylinder
+gui.architecturecraft.CylinderQuarter=§7Quarter Cylinder
+gui.architecturecraft.CylinderLargeQuarter=§7Round Outer Corner
+gui.architecturecraft.AnticylinderLargeQuarter=§7Round Inner Corner
+gui.architecturecraft.Pillar=§7Round Pillar
+gui.architecturecraft.Post=§7Round Post
+gui.architecturecraft.Pole=§7Round Pole
+
+gui.architecturecraft.BevelledOuterCorner=§7Bevelled Outer Corner
+gui.architecturecraft.BevelledInnerCorner=§7Bevelled Inner Corner
+
+gui.architecturecraft.PillarBase=§7Round Pillar Base
+gui.architecturecraft.DoricCapital=§7Doric Capital
+gui.architecturecraft.IonicCapital=§7Ionic capital
+gui.architecturecraft.CorinthianCapital=§7Corinthian capital
+gui.architecturecraft.DoricTriglyph=§7Triglyph
+gui.architecturecraft.DoricTriglyphCorner=§7Triglyph Corner
+gui.architecturecraft.DoricMetope=§7Metope
+gui.architecturecraft.Architrave=§7Architrave
+gui.architecturecraft.ArchitraveCorner=§7Architrave Corner
+
+gui.architecturecraft.WindowFrame=§7Window Frame
+gui.architecturecraft.WindowCorner=§7Window Corner
+gui.architecturecraft.WindowMullion=§7Window Mullion
+
+gui.architecturecraft.SphereFull=§7Sphere
+gui.architecturecraft.SphereHalf=§7Hemisphere
+gui.architecturecraft.SphereQuarter=§7Quarter Sphere
+gui.architecturecraft.SphereEighth=§7Quarter Hemisphere
+gui.architecturecraft.SphereEighthLarge=§7Round Outer Corner Cap
+gui.architecturecraft.SphereEighthLargeRev=§7Round Inner Corner Cap
+
+gui.architecturecraft.RoofOverhangGableLH=§7Gable Overhang LH
+gui.architecturecraft.RoofOverhangGableRH=§7Gable Overhang RH
+gui.architecturecraft.RoofOverhangGableEndLH=§7Gable Overhang LH End
+gui.architecturecraft.RoofOverhangGableEndRH=§7Gable Overhang RH End
+gui.architecturecraft.RoofOverhangRidge=§7Ridge Overhang
+gui.architecturecraft.RoofOverhangValley=§7Valley Overhang
+
+gui.architecturecraft.CorniceLH=§7Cornice LH
+gui.architecturecraft.CorniceRH=§7Cornice RH
+gui.architecturecraft.CorniceEndLH=§7Cornice LH End
+gui.architecturecraft.CorniceEndRH=§7Cornice RH End
+gui.architecturecraft.CorniceRidge=§7Cornice Ridge
+gui.architecturecraft.CorniceValley=§7Cornice Valley
+gui.architecturecraft.CorniceBottom=§7Cornice Bottom
+
+gui.architecturecraft.CladdingSheet=§7Cladding
+
+gui.architecturecraft.ArchD1=§7Arch Diameter 1
+gui.architecturecraft.ArchD2=§7Arch Diameter 2
+gui.architecturecraft.ArchD3A=§7Arch Diameter 3 Part A
+gui.architecturecraft.ArchD3B=§7Arch Diameter 3 Part B
+gui.architecturecraft.ArchD3C=§7Arch Diameter 3 Part C
+gui.architecturecraft.ArchD4A=§7Arch Diameter 4 Part A
+gui.architecturecraft.ArchD4B=§7Arch Diameter 4 Part B
+gui.architecturecraft.ArchD4C=§7Arch Diameter 4 Part C
+
+gui.architecturecraft.BanisterPlainBottom=§7Plain Banister Bottom Transition
+gui.architecturecraft.BanisterPlain=§7Plain Banister
+gui.architecturecraft.BanisterPlainTop=§7Plain Banister Top Transition
+
+gui.architecturecraft.BalustradeFancy=§7Fancy Balustrade
+gui.architecturecraft.BalustradeFancyCorner=§7Fancy Corner Balustrade
+gui.architecturecraft.BalustradeFancyWithNewel=§7Fancy Balustrade with Newel
+gui.architecturecraft.BalustradeFancyNewel=§7Fancy Newel
+
+gui.architecturecraft.BalustradePlain=§7Plain Balustrade
+gui.architecturecraft.BalustradePlainOuterCorner=§7Plain Outer Corner Balustrade
+gui.architecturecraft.BalustradePlainWithNewel=§7Plain Balustrade with Newel
+
+gui.architecturecraft.BanisterPlainEnd=§7Plain Banister End
+
+gui.architecturecraft.BanisterFancyNewelTall=§7Tall Fancy Newel
+
+gui.architecturecraft.BalustradePlainInnerCorner=§7Plain Inner Corner Balustrade
+gui.architecturecraft.BalustradePlainEnd=§7Plain Balustrade End
+
+gui.architecturecraft.BanisterFancyBottom=§7Fancy Banister Bottom Transition
+gui.architecturecraft.BanisterFancy=§7Fancy Banister
+gui.architecturecraft.BanisterFancyTop=§7Fancy Banister Top Transition
+gui.architecturecraft.BanisterFancyEnd=§7Fancy Banister End
+
+gui.architecturecraft.BanisterPlainInnerCorner=§7Plain Banister Inner Corner
+
+gui.architecturecraft.Slab=§7Slab
+gui.architecturecraft.Stairs=§7Stairs
+gui.architecturecraft.StairsOuterCorner=§7Stairs Outer Corner
+gui.architecturecraft.StairsInnerCorner=§7Stairs Inner Corner
+
+gui.architecturecraft.SlopeTileA1=§7Slope A Start
+gui.architecturecraft.SlopeTileA2=§7Slope A End
+gui.architecturecraft.SlopeTileB1=§7Slope B Start
+gui.architecturecraft.SlopeTileB2=§7Slope B Middle
+gui.architecturecraft.SlopeTileB3=§7Slope B End
+gui.architecturecraft.SlopeTileC1=§7Slope C 1
+gui.architecturecraft.SlopeTileC2=§7Slope C 2
+gui.architecturecraft.SlopeTileC3=§7Slope C 3
+gui.architecturecraft.SlopeTileC4=§7Slope C 4
+gui.architecturecraft.AngledRoofRidge=§7Angled Roof Ridge
+
+gui.architecturecraft.SquareSE=§7Square(Glow)
+gui.architecturecraft.SlabSE=§7Slab(Glow)
+gui.architecturecraft.RoofTileSE=§7Roof Tile(Glow)
+gui.architecturecraft.SlopeTileA1SE=§7Slope A Start(Glow)
+gui.architecturecraft.SlopeTileA2SE=§7Slope A End(Glow)
+gui.architecturecraft.SlopeTileB1SE=§7Slope B Start(Glow)
+gui.architecturecraft.SlopeTileB2SE=§7Slope B Middle(Glow)
+gui.architecturecraft.SlopeTileB3SE=§7Slope B End(Glow)
+gui.architecturecraft.SlopeTileC1SE=§7Slope C 1(Glow)
+gui.architecturecraft.SlopeTileC2SE=§7Slope C 2(Glow)
+gui.architecturecraft.SlopeTileC3SE=§7Slope C 3(Glow)
+gui.architecturecraft.SlopeTileC4SE=§7Slope C 4(Glow)
+
+gui.architecturecraft.DoubleRoofTile=§7Double Roof Tile

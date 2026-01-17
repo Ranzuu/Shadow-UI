@@ -1,0 +1,20 @@
+tile.playerinterface.name=§7Интерфейс игрока
+tile.creativePlayerInterface.name=§7Творческий интерфейс игрока
+text.miscellaneous.connectedTo=§7Соединено с
+
+tile.advancedItemCollector.name=§7Продвинутый собиратель предметов
+tile.onlineDetector.name=§7Детектор онлайн-игроков
+text.onlineDetector.detectingNobody=§7Никто не отслеживается
+text.onlineDetector.detecting=§7"Отслеживание %s"
+tile.dyeingMachine.name=§7Покрасочный механизм
+tile.energyDistributor.name=§7Распределитель энергии
+tile.enderEnergyDistributor.name=§7Распределитель энергии Края
+tile.imbuingStation.name=§7Станция наполнения
+
+item.dropFilter.name=§7Фильтр упавших предметов
+item.dropFilterVoiding.name=§7Пустотный фильтр упавших предметов
+item.filterItem.name=§7Фильтр предметов
+item.voidStone.name=§7Пустотный камень
+
+entity.RandomThings.spirit.name=§7Spirit
+entity.bloodmoonCircle.name=§7Круг кровавой луны

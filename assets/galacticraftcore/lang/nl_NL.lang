@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Uit
+gui.message.in.name=§7In
+gui.message.status.name=§7Status
+gui.message.oxoutput.name=§7Zuurstof Uitgang
+gui.message.oxinput.name=§7Zuurstof Ingang
+gui.message.fuel.name=§7Brandstof
+gui.message.full.name=§7vol
+gui.message.page.name=§7Pagina
+gui.message.addnewsch.name=§7Niew Schema Toevoegen
+gui.message.generating.name=§7Genereren
+gui.message.environment.name=§7Milieu Boost
+gui.message.oil.name=§7Olie
+gui.message.catalog.name=§7Catalogus
+gui.message.back.name=§7Terug
+gui.message.daynightcycle.name=§7Dag-Nacht Omloop
+gui.message.surfacegravity.name=§7Oppervlakte Zwaartekracht
+gui.message.surfacecomposition.name=§7Oppervlakte Samenstelling
+gui.message.atmosphere.name=§7Atmosfeer
+gui.message.meansurfacetemp.name=§7Gemiddelde Oppervlakte Temperatuur
+gui.message.energy=§7Energie
+gui.message.maxEnergy=§7Max Energie
+gui.message.bubbleVisible.name=§7Bubbel Zichtbaar
+gui.message.launch.name=§7Lanceren
+gui.message.clickAgain.0.name=§7Klik opnieuw Om te vergroten (Manen en Sattelieten)
+gui.message.clickAgain.1.name=§7Klik opnieuw Om te vergroten (Manen)
+gui.message.clickAgain.2.name=§7Klik opnieuw Om te vergroten (Sattelieten)
+gui.message.clickAgain.3.name=§7Klik opnieuw Om te vergroten 
+gui.message.exit.name=§7Sluiten
+gui.message.tier.name=§7Tier %d
+gui.message.canCreateSpaceStation.name=§7Een Ruimte Station Kan hier worden Gecreëerd
+gui.message.cannotCreateSpaceStation.name=§7Een Ruimte Sation Kan hier niet worden Gecreëerd
+gui.message.createSS.name=§7Creëren
+gui.message.selectSS.name=§7Selecteer een Ruimte Station
+gui.message.ssOwner.name=§7Eigenaar:
+gui.message.apply.name=§7Toepassen
+gui.message.cancel.name=§7Annuleren
+gui.message.assignName.name=§7Naam Toewijzen
+gui.message.rename.name=§7Hernoemen
+gui.message.unnamed.name=§7naamloos
+gui.message.grow.name=§7Groeien
+gui.message.breed.name=§7Paren
+gui.message.strengthen.name=§7Versterken
+gui.message.heal.name=§7Genezen
+gui.message.of.name=§7van
+gui.message.help1=§7Voor Galacticraft Help
+gui.message.help1a=§7Om dit bericht weer te zien, Typ
+gui.message.help2=§7Voor Ruimte Programma Begeleiding
+gui.message.help3=§7Voor Help Met olie
+gui.message.prelaunch=§7Voor Lancering Checklist
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
+
+gui.button.enableseal.name=§7Enable Seal
+gui.button.disableseal.name=§7Disable Seal
+gui.button.loaditems.name=§7Laad Items
+gui.button.stoploading.name=§7Stop Inladen
+gui.button.unloaditems.name=§7Unload Items
+gui.button.stopunloading.name=§7Stop Uitladen
+gui.button.createsstation.name=§7Maak een Ruimte Station
+gui.button.sendtodim.name=§7Send to Dimension
+gui.button.rename.name=§7Naam veranderen
+gui.button.loadfuel.name=§7Laad Brandstof
+gui.button.refine.name=§7Verfijn
+gui.button.back.name=§7Terug
+gui.button.next.name=§7Volgende
+gui.button.unlockschematic.name=§7Unlock Schematic
+gui.button.stoprefine.name=§7Stop Raffinage
+gui.button.enable.name=§7Inschakelen
+gui.button.disable.name=§7Uitschakelen
+gui.button.hideDest.name=§7Verbergen
+gui.button.unhideDest.name=§7Tonen
+
+# CONTAINERS
+container.cargoloader.name=§7Cargo Loader
+container.cargounloader.name=§7Cargo Unloader
+container.fuelloader.name=§7Brandstof lader
+container.oxygencollector.name=§7Zuurstof Collector
+container.oxygencompressor.name=§7Zuurstof Compressor
+container.oxygendistributor.name=§7Zuurstof Verdeler
+container.oxygensealer.name=§7Zuurstof Afluiter
+container.parachest.name=§7Para-chest
+container.refinery.name=§7Refinery
+container.treasurechest.name=§7Schat Kist
+container.lander.name=§7Space Lander
+container.spaceship.name=§7Tier 1 Rocket
+container.solarbasic.name=§7Normale- Zonnepanneel
+container.solaradvanced.name=§7Geavanceerde Zonnepaneel
+container.oxygendecompressor.name=§7Zuurstof Decompressor
+
+gui.checkbox.redstoneSignal.name=§7Opent met Redstone Signaal
+gui.checkbox.playerWithin.name=§7Speler is binnen
+gui.checkbox.playerName.name=§7Spelers naam is
+gui.checkbox.invert.name=§7Selectie Omkeren
+gui.checkbox.horizontal.name=§7Horizontale Mode
+
+tile.machine.0.name=§7Kool Generator
+tile.machine.1.name=§7Energie Opslag Module
+tile.machine.2.name=§7Elektrische Oven
+tile.machine.3.name=§7Compressor
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Elektrische Compressor
+tile.machine2.5.name=§7Omloop Fabricator
+tile.machine2.6.name=§7Zuurstof Opslag Module
+tile.machine.7.name=§7Elektrische Vlamboogoven
+tile.machine.8.name=§7Energie Opslag Bundel
+
+gui.maxOutput.desc=§7Maximale Uitgang
+gui.oxygenUse.desc=§7Zuurstof Gebruik
+
+gui.message.generating.name=§7Genereren
+
+gui.status.collecting.name=§7Verzamelen
+gui.status.generating.name=§7Genereren
+gui.status.notGenerating.name=§7Niet Genereren
+gui.status.hullHeat.name=§7Romp Warmte
+
+gui.title.airLock.name=§7%s's Luchtsluis Controleur
+
+gui.status.unknown.name=§dOnbekend
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Alien Dorpeling
+entity.GalacticraftCore.Buggy.name=§7Buggy
+entity.GalacticraftCore.EvolvedCreeper.name=§7Geëvolueerde Creeper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Geëvolueerde Skeleton
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Geëvolueerde Skeleton Boss
+entity.GalacticraftCore.EvolvedSpider.name=§7Geëvolueerde Spin
+entity.GalacticraftCore.EvolvedZombie.name=§7Geëvolueerde Zombie
+entity.GalacticraftCore.Flag.name=§7Vlag
+entity.GalacticraftCore.GCFlag.name=§7Vlag
+entity.GalacticraftCore.GravityArrow.name=§7Pijl
+entity.GalacticraftCore.Lander.name=§7Ruimte Lander
+entity.GalacticraftCore.Meteor.name=§7Meteoor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteoor Brokstuk
+entity.GalacticraftCore.OxygenBubble.name=§7Zuurstof Bel
+entity.GalacticraftCore.ParaChest.name=§7Parakist
+entity.GalacticraftCore.Spaceship.name=§7Raket

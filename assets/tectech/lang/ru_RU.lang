@@ -1,0 +1,29 @@
+gt.blockmachines.multimachine.FOG.modulestatus=§7Статус:
+gt.blockmachines.multimachine.FOG.expectedinputs=§7Expected Inputs
+gt.blockmachines.multimachine.FOG.possibleinputsqgp=§7Possible Input Materials for QGP
+gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=§7Possible Input Materials for Magmatter
+gt.blockmachines.multimachine.FOG.fuelconsumption=§7Stellar Fuel Consumption Factor
+gt.blockmachines.multimachine.FOG.fueltype=§7Click to Select Fuel Type
+gt.blockmachines.multimachine.FOG.fuelusage=§7Потребление топлива
+gt.blockmachines.multimachine.FOG.voltageinfo=§7Установите вольтаж обработки
+gt.blockmachines.multimachine.FOG.plasmarecipetier=§7Fusion Tier
+gt.blockmachines.multimachine.FOG.plasmamultistep=§7Многоступенчатая плазма
+
+fog.cosmetics.applycolor=§7Применить
+fog.cosmetics.addcolor=§7Добавить
+fog.cosmetics.resetcolor=§7Сброс
+fog.cosmetics.savecolors=§7Сохранить
+fog.cosmetics.deletecolors=§7Удалить
+fog.cosmetics.importcolors=§7Импорт
+fog.cosmetics.exportcolors=§7Экспорт
+
+fog.upgrade.confirm=§7Построить
+gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§7Click to consume upgrade materials
+
+tt.wirelessInputData.config.text=§7Настройте объём вычислений, извлекаемых из беспроводной сети
+
+GT5U.gui.text.total_line=§7Total: %s EU
+GT5U.gui.text.usage_line=§7Usage: %s EU/t
+GT5U.gui.text.time_line=§7Time: %s secs
+GT5U.gui.text.time_line_with_ticks=§7Time: %s secs (%d ticks)
+GT5U.gui.text.at_eu_transferred=§7EU Transferred:

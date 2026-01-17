@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Montazni stroj na voziky
+gui.SC2:basicAssembleInstruction=§7Ke startu sestavovani voziku, pridejte telo voziku dle vaseho vyberu do slotu na tela voziku.
+gui.SC2:invalidHullError=§7Telo voziku pridane do slotu na tela voziku neni platne. To je dukaz toho ze jste udelali neco divne!
+gui.SC2:hullCapacity=§7Kapacita tela voziku
+gui.SC2:complexityCap=§7Hranice slozitosti
+gui.SC2:totalCost=§7Celkove naklady
+gui.SC2:totalTime=§7Celkovy cas
+gui.SC2:readyMessage=§7Pripraveno pro montaz voziku!
+gui.SC2:assembleProgress=§7Pokrok
+gui.SC2:timeLeft=§7Zbyvajici cas
+gui.SC2:idleAssemblerMessage=§7Stoj na montaz voziku nyni nepracuje
+gui.SC2:modifyCart=§7Upravit vozik
+gui.SC2:assembleCart=§7Sestavit vozik
+gui.SC2:fuelLevel=§7Hladina paliva
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Nemas zadne telo voziku
+gui.SC2:invalidHullErrorShort=§7Telo voziku, ktere si sem dal neni telo voziku!
+gui.SC2:busyAssemblerError=§7Montazni stroj na voziky je zaneprazdnen!
+gui.SC2:departureBayError=§7Vozik je v odjezdove zatoce.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7manazer
+gui.SC2:currentSetting=§7V soucasne dobe
+gui.SC2:changeTransferDirection=§7Zmenit smer prenosu
+gui.SC2:directionToCart=§7Do voziku
+gui.SC2:directionFromCart=§7Z voziku
+gui.SC2:changeTurnBack=§7Zmenit nastaveni nazpet
+gui.SC2:turnBackDisabled=§7Zadna strana neni zvolena
+gui.SC2:turnBack=§7Jet zpatky po prenosu
+gui.SC2:continueForward=§7Jet dal po prenosu
+gui.SC2:changeTransferSize=§7Zmenit velikost prenosu
+gui.SC2:changeSide=§7Zmenit barva
+gui.SC2:currentSide=§7Aktualni barva
+gui.SC2:sideRed=§7Cervena
+gui.SC2:sideBlue=§7Modra
+gui.SC2:sideYellow=§7Zluta
+gui.SC2:sideGreen=§7Zelena
+gui.SC2:sideDisabled=§7Zadna
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Nakladni
+gui.SC2:changeSlotLayout=§7Zmenit rozlozeni slotu
+gui.SC2:layoutShared=§7Vsechny strany nyni sdili vsechny sloty
+gui.SC2:layoutSide=§7Kazda strana ma sve vlastni sloty
+gui.SC2:layoutColor=§7Kazda barva ma sve vlastni sloty
+gui.SC2:transferAll=§7Prenyst co nejvic to de.
+gui.SC2:transferItems=§7Prenyst nejvic [%1] [%2:vec|veci]
+gui.SC2:transferStacks=§7Prenyst nejvic [%1] [%2:stack|stacky]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7vec/i
+gui.SC2:transferStacksShort=§7stack/u
+gui.SC2:changeTransferCartArea=§7Zmenit cast voziku
+gui.SC2:unknownAreaMessage=§7Nezname nastaveni
+gui.SC2:cartAreaAll=§7Vsechny sloty
+gui.SC2:cartAreaEngine=§7Motory
+gui.SC2:cartAreaRailer=§7Pokladace koleji
+gui.SC2:cartAreaStorage=§7Sloty na skladovani
+gui.SC2:cartAreaTorches=§7Louce
+gui.SC2:cartAreaExplosives=§7Vybusniny
+gui.SC2:cartAreaArrows=§7Sipy
+gui.SC2:cartAreaBridge=§7Material na mosty
+gui.SC2:cartAreaSeeds=§7Seminka
+gui.SC2:cartAreaFertilizer=§7Hnojivo
+gui.SC2:cartAreaSaplings=§7Sazenicky
+gui.SC2:cartAreaFirework=§7Ohnostroje
+gui.SC2:cartAreaBuckets=§7Kybliky (pro mlikovace)
+gui.SC2:cartAreaCakes=§7Dorty
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Tekutinovy
+gui.SC2:changeTankLayout=§7Zmenit rozvrzeni nadrzi
+gui.SC2:layoutSharedTanks=§7Kazda nadrz ma sdilene vsechny strany
+gui.SC2:layoutSidedTanks=§7Kazda strana ma svoji vlastni nadrz
+gui.SC2:layoutColorTanks=§7Kazda barva ma svoji vlastni nadrz
+gui.SC2:transferAllLiquid=§7Prenest co nejvic to de
+gui.SC2:transferBuckets=§7Prenyst nejvice [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7Kyblik/u
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Prepinac modulu
+gui.SC2:optionDrill=§7Vrtak
+gui.SC2:optionShield=§7Stit
+gui.SC2:optionInvisibility=§7Neviditelnost
+gui.SC2:optionChunk=§7Nacitani chunku
+gui.SC2:optionCageAuto=§7Automaticky zvedat klece
+gui.SC2:optionCage=§7Zvednout klec
+gui.SC2:settingDisabled=§7Zrusit
+gui.SC2:settingOrange=§7Oranzova strana
+gui.SC2:settingBlue=§7Modra strana
+gui.SC2:stateActivate=§7Aktivovat
+gui.SC2:stateDeactivate=§7Deaktivovat
+gui.SC2:stateToggle=§7Premenit
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Externi distributor
+gui.SC2:distributorNotConnected=§7Nepripojen k zadnemu manazeru
+gui.SC2:sideName=§7[%1] strana
+gui.SC2:dropInstruction=§7Vyhodit zde pro zvoleni tohoto nastaveni
+gui.SC2:removeInstruction=§7Klikni pravym pro odstraneni
+gui.SC2:distributorAll=§7Vsechny
+gui.SC2:distributorRed=§7Cervena
+gui.SC2:distributorBlue=§7Modra
+gui.SC2:distributorYellow=§7Zluta
+gui.SC2:distributorGreen=§7Zelena
+gui.SC2:distributorTopLeft=§7Vlevo nahore
+gui.SC2:distributorTopRight=§7Vpravo nahore
+gui.SC2:distributorBottomLeft=§7Vlevo dole
+gui.SC2:distributorBottomRight=§7Vpravo dole
+gui.SC2:distributorToCart=§7Do voziku
+gui.SC2:distributorFromCart=§7Z voziku
+gui.SC2:managerTop=§7Z vrsku manazeru
+gui.SC2:managerBot=§7Ze spodu manazeru
+gui.SC2:distributorSideOrange=§7Oranzova
+gui.SC2:distributorSidePurple=§7Fialova
+gui.SC2:distributorSideYellow=§7Zluta
+gui.SC2:distributorSideGreen=§7Zelena
+gui.SC2:distributorSideBlue=§7Modra
+gui.SC2:distributorSideRed=§7Cervena
+gui.SC2:sideToolTip=§7Strana: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7Vystup (OUTPUT)
+gui.SC2:operatorAnd=§7A (AND)
+gui.SC2:operatorOr=§7Nebo (OR)
+gui.SC2:operatorNot=§7Negace (NOT)
+gui.SC2:operatorXor=§7To nebo to (XOR)
+gui.SC2:operatorTopUnit=§7Vrchni jednotka
+gui.SC2:operatorBotUnit=§7Spodni jednotka
+gui.SC2:operatorNorthUnit=§7Severni jednotka
+gui.SC2:operatorWestUnit=§7Zapadni jednotka
+gui.SC2:operatorSouthUnit=§7Jizni jednotka
+gui.SC2:operatorEastUnit=§7Vychodni jednotka
+gui.SC2:operatorRedstone=§7Vztup ruditu
+gui.SC2:operatorRedstoneTop=§7Vrchni ruditovy vstup
+gui.SC2:operatorRedstoneBot=§7Spodni ruditovy vstup
+gui.SC2:operatorRedstoneNorth=§7Severni ruditovy vstup
+gui.SC2:operatorRedstoneWest=§7Zapadni ruditovy vstup
+gui.SC2:operatorRedstoneSouth=§7Jizni ruditovy vstup
+gui.SC2:operatorRedstoneEast=§7Vychodni ruditovy vstup
+gui.SC2:stateRails=§7Zasoba koleji
+gui.SC2:stateTorches=§7Zasoba louci
+gui.SC2:stateSaplings=§7Zasoba sazenicek
+gui.SC2:sateSeeds=§7Zasoba seminek
+gui.SC2:stateBridge=§7Zasoba materialu na mosty
+gui.SC2:stateProjectiles=§7Zasoba projektilu
+gui.SC2:stateFertilizing=§7Zasoba hnojiva
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Stit je aktivovan
+gui.SC2:stateChunk=§7Nacitac chunku je aktivovan
+gui.SC2:stateInvisibility=§7Neviditelnost je aktivovana
+gui.SC2:stateDrill=§7Vrtak je aktivni
+gui.SC2:stateCage=§7Automaticke zvedani veci je aktivovano
+gui.SC2:stateStorageFull=§7Skladiste je plne
+gui.SC2:stateStorageEmpty=§7Skladiste je prazdne
+gui.SC2:statePassenger=§7Ma cestujiciho
+gui.SC2:stateAnimal=§7Ma zvireciho cestujiciho
+gui.SC2:stateTameable=§7Ma zkrotitelneho cestujiciho (Vlk a ocelot)
+gui.SC2:stateBreedable=§7Ma rozmnozitelneho cestujiciho
+gui.SC2:stateHostile=§7Ma nepratelskeho cestujiciho
+gui.SC2:stateCreeper=§7Ma jako cestujiciho sycaka
+gui.SC2:stateSkeleton=§7Ma jako cestujiciho kostlivce
+gui.SC2:stateSpider=§7Ma jako cestujiciho pavouka
+gui.SC2:stateZombie=§7Ma jako cestujiciho Zombii
+gui.SC2:stateZombiePigMan=§7Ma jako cestujiciho Praseci zombii
+gui.SC2:stateSilverFish=§7Ma jako cestujiciho rybenku
+gui.SC2:stateBlaze=§7Ma jako cestujiciho blaze
+gui.SC2:stateBat=§7Ma jako cestujiciho netopyra
+gui.SC2:stateWitch=§7Ma jako cestujici carodejnici
+gui.SC2:statePig=§7Ma jako cestujiciho prase
+gui.SC2:stateSheep=§7Ma jako cestujiciho ovci
+gui.SC2:stateCow=§7Ma jako cestujiciho kravu
+gui.SC2:stateMooshroom=§7Ma jako cestujiciho kravomurku
+gui.SC2:stateChicken=§7Ma jako cestujici slepici
+gui.SC2:stateWolf=§7Ma jako cestujiciho vlka
+gui.SC2:stateSnowGolem=§7Ma jako cestujiciho snehulaka
+gui.SC2:stateOcelot=§7Ma jako cestujiciho ocelota
+gui.SC2:stateVillager=§7Ma jako cestujiciho vesnicana
+gui.SC2:statePlayer=§7Ma jako cestujiciho hrace
+gui.SC2:stateZombieVillager=§7Ma jako cestujiciho infikovaneho vesnicana
+gui.SC2:stateChild=§7Ma jako cestujiciho dite
+gui.SC2:stateTamed=§7Ma jako cestujiciho ochoceny zvire
+gui.SC2:statePowerRed=§7Je sila pozorovatele[Cervena] aktivni
+gui.SC2:statePowerBlue=§7Je sila pozorovatele[Modra] aktivni
+gui.SC2:statePowerGreen=§7Je sila pozorovatele[Zelena] aktivni
+gui.SC2:statePowerYellow=§7Je sila pozorovatele[Zluta] aktivni
+gui.SC2:stateTanksFull=§7Vsechny nadrze jsou plne
+gui.SC2:stateTanksEmpty=§7Vsechny nadrze jsou prazdne
+gui.SC2:stateTankEmpty=§7Alespon jedna nadrz je prazdna

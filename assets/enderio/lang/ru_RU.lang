@@ -1,0 +1,325 @@
+#------GUI
+
+enderio.gui.simple.in=§7Макс. вход:
+enderio.gui.simple.out=§7Макс. выход:
+
+enderio.gui.available=§7Доступно
+enderio.gui.disabled=§fВыключено
+enderio.gui.enabled=§fВключено
+enderio.gui.max=§fМакс:
+enderio.gui.progress=§7Прогресс {0,number}%
+enderio.gui.receive=§7Получать
+enderio.gui.send=§7Отправлять
+enderio.gui.sendReceive=§7Отправлять и получать
+
+#Redstone controls
+enderio.gui.tooltip.redstoneControlMode=§fРежим красного камня
+enderio.gui.tooltip.redstoneControlMode.ignore=§7Всегда активен
+enderio.gui.tooltip.redstoneControlMode.on=§7Активен по сигналу
+enderio.gui.tooltip.redstoneControlMode.off=§7Активен без сигнала
+enderio.gui.tooltip.redstoneControlMode.never=§7Всегда выключен
+
+enderio.gui.machine.button.storelevel=§fОтдать 1
+enderio.gui.machine.tooltip.storelevel=§fуровень опыта игрока
+enderio.gui.machine.button.storelevels=§fОтдать 10
+enderio.gui.machine.tooltip.storelevels=§fуровней опыта игрока
+enderio.gui.machine.button.storeall=§fОтдать весь
+enderio.gui.machine.tooltip.storeall=§fопыт игрока
+
+enderio.gui.machine.button.retrievelevel=§fЗабрать 1
+enderio.gui.machine.tooltip.retrievelevel=§fуровень опыта игрока
+enderio.gui.machine.button.retrievelevels=§fЗабрать 10
+enderio.gui.machine.tooltip.retrievelevels=§fуровней опыта игрока
+enderio.gui.machine.button.retrieveall=§fЗабрать все
+enderio.gui.machine.tooltip.retrieveall=§fуровни опыта игрока
+
+enderio.gui.machine.ioMode.overlay.tooltip=§fНастроить вход/выход
+enderio.gui.machine.ioMode.overlay.tooltip.visible.line1=§7Shift-клик, чтобы сбросить все стороны
+enderio.gui.machine.ioMode.overlay.tooltip.visible.line2=§7на настройки по-умолчанию
+enderio.gui.machine.ioMode.none=§7Нет
+enderio.gui.machine.ioMode.pull=§7Тянуть
+enderio.gui.machine.ioMode.push=§7Толкать
+enderio.gui.machine.ioMode.disabled=§7Отключен
+enderio.gui.machine.ioMode.pullPush=§7Толкать/Тянуть
+enderio.gui.machine.ioMode.pullPush.colored=§7%sТолкать %s/ %sТянуть
+enderio.gui.machine.ioMode=§7Режим: %s
+enderio.gui.machine.poweredspawner.capture=§7Захватить
+enderio.gui.machine.poweredspawner.spawn=§7Призывать
+enderio.gui.machine.receivefilter=§7Фильтр приёма
+enderio.gui.machine.sendfilter=§7Фильтр отправки
+enderio.gui.machine.sendReceivebuffer=§fБуфер отправки/приёма
+enderio.gui.machine.localbuffer=§fМестный буфер
+enderio.gui.machine.upkeep=§fUpkeep:
+enderio.gui.machine.bufferingstacks=§fБуферизация стаков
+enderio.gui.machine.bufferingsingle=§fБуферизация одиночных предметов
+enderio.gui.machine.percraft=§7за создание
+enderio.gui.machine.side=§7Сторона: %s
+enderio.gui.machine.side.north=§7Север
+enderio.gui.machine.side.south=§7Юг
+enderio.gui.machine.side.west=§7Запад
+enderio.gui.machine.side.east=§7Восток
+enderio.gui.machine.side.up=§7Верх
+enderio.gui.machine.side.down=§7Низ
+
+
+#Power Monitor
+enderio.gui.powerMonitor.engineControl=§7Управление двигателем
+enderio.gui.powerMonitor.emit=§7Подавать сигнал
+enderio.gui.powerMonitor.engineSection1=§7Подать сигнал, если хранилище заполнено меньше
+enderio.gui.powerMonitor.engineSection2=§7чем на
+enderio.gui.powerMonitor.engineSection3=§7%.
+enderio.gui.powerMonitor.engineSection4=§7 Остановиться, если хранилище заполнено более
+enderio.gui.powerMonitor.engineSection5=§7или точно
+enderio.gui.powerMonitor.of=§7на
+enderio.gui.powerMonitor.monHeading1=§7Энергия в трубе
+enderio.gui.powerMonitor.monHeading2=§7Энергия в блоке конденсаторов
+enderio.gui.powerMonitor.monHeading3=§7Энергия в механизме
+enderio.gui.powerMonitor.monHeading4=§7Средний выход за 5 секунд
+enderio.gui.powerMonitor.monHeading5=§7Средний вход за 5 секунд
+enderio.gui.powerMonitor.noNetworkError=§7Нет соединения с сетью. Индикатор мощности должен быть подключён к сети для считывания информации.
+
+#MJ Reader
+enderio.gui.mjReader.networkHeading=§7Силовая сеть
+enderio.gui.mjReader.conduitBuffer=§7Встроенный буфер
+enderio.gui.mjReader.requestRange=§7Диапазон запросов за тик
+enderio.gui.mjReader.currentRequest=§7Текущее потребление
+enderio.gui.mjReader.itemHeading=§7Предметная труба
+enderio.gui.mjReader.itemNoConnections=§7не имеет внешних соединений
+enderio.gui.mjReader.noPowerFromSide=§7не может получать энергию с этой стороны
+enderio.gui.mjReader.connectionDir=§7соединение с
+enderio.gui.mjReader.extractedItems=§7Экспортируемые предметы
+enderio.gui.mjReader.extractedItem=§7Предмет
+enderio.gui.mjReader.noOutputs=§7нет доступных выходов
+enderio.gui.mjReader.insertedInto=§7будет направлен:
+enderio.gui.mjReader.noItems=§7Не получает предметов.
+enderio.gui.mjReader.noItem=§7Не может получать
+enderio.gui.mjReader.receiveItems=§7Может получать предметы от:
+enderio.gui.mjReader.receiveItem1=§7Может получать
+enderio.gui.mjReader.receiveItem2=§7от:
+
+#CapactorBank
+enderio.gui.capBank.inputRs=§fРежим красного камня на входе
+enderio.gui.capBank.outputRs=§fРежим красного камня на выходе
+enderio.gui.capBank.maxIo=§fМакс. вход/выход
+enderio.gui.capBank.maxInput=§7Макс. вход
+enderio.gui.capBank.maxOutput=§7Макс. выход
+enderio.gui.capBank.inputMode=§7Вход
+enderio.gui.capBank.outputMode=§7Выход
+
+#Transceiver
+enderio.gui.trans.publicChannel=§fОбщедоступный канал
+enderio.gui.trans.privateChannel=§fЧастный канал
+enderio.gui.trans.addChannel=§fДобавить канал
+enderio.gui.trans.deleteChannel=§fУдалить канал
+enderio.gui.trans.activateChannel=§fАктивировать канал
+enderio.gui.trans.powerMode=§fРежим энергии
+enderio.gui.trans.fluidMode=§fРежим жидкости
+enderio.gui.trans.itemMode=§fРежим предметов
+enderio.gui.trans.publicHeading=§fОбщедоступный
+enderio.gui.trans.privateHeading=§fЧастный
+
+#Alloy Smelter
+enderio.gui.alloy.mode.heading=§fРежим печи
+enderio.gui.alloy.mode.all=§7Выплавка всех материалов
+enderio.gui.alloy.mode.alloy=§7Только сплавы
+enderio.gui.alloy.mode.furnace=§7Только обычные рецепты
+
+#Vacuum chest
+enderio.gui.vacuum.range=§fСила всасывания
+enderio.gui.vacuum.header.chest=§7Вакуумный сундук
+enderio.gui.vacuum.header.filter=§7Предметный фильтр
+enderio.gui.vacuum.header.range=§7Дальность
+
+#Vat
+enderio.vat.outputTank=§fВыход чана
+enderio.vat.inputTank=§fВход чана
+enderio.gui.machine.vat.dump.1=§fСбросить резервуар входа
+enderio.gui.machine.vat.dump.2=§fСбросить резервуар выхода
+
+#Combustion Gen
+enderio.combustionGenerator.coolantTank=§7Охладитель
+enderio.combustionGenerator.fuelTank=§fТопливо
+enderio.combustionGenerator.output=§7Генерирует:
+
+#Stirling Gen
+enderio.stirlingGenerator.output=§7Генерирование:
+enderio.stirlingGenerator.burnRate=§7Скорость сгорания:
+enderio.stirlingGenerator.upgradeslot=§fСлот улучшения
+enderio.stirlingGenerator.upgrades=§7{0} даёт {2}{1,number,#.#}x{3} эффективности
+enderio.stirlingGenerator.remaining=§7Осталось {0,number,percent}|{1,choice,0#|0<{1}m }{2,number}s|{3,number,#,###} RF
+
+#Travel Blocks
+enderio.gui.travelAccessable.privateBlock1=§7Только
+enderio.gui.travelAccessable.privateBlock2=§7может управлять настройками этого блока.
+enderio.gui.travelAccessable.public=§7Общедоступный
+enderio.gui.travelAccessable.private=§7Частный
+enderio.gui.travelAccessable.protected=§7Защищённый
+enderio.gui.travelAccessable.unauthorised=§7Вам запрещён доступ к этому блоку.
+enderio.gui.travelAccessable.enterCode=§7Требуется код доступа
+enderio.gui.travelAccessable.ok=§7Авторизироваться
+enderio.gui.travelAccessable.skipLocked=§7Закрытый якорь пропущен, используйте целевую телепортацию.
+enderio.gui.travelAccessable.skipObstructed=§7Заблокированный якорь пропущен.
+enderio.gui.travelAccessable.skipPrivate=§7Личный якорь пропущен.
+enderio.gui.travelAccessable.tooltip.visible=§fVisibility
+enderio.gui.travelAccessable.tooltip.visible.desc1=§7When off, you cannot see this block through other blocks.
+enderio.gui.travelAccessable.tooltip.visible.desc2=§7Handy for use as elevators.
+
+enderio.gui.telepad.configure.travel=§7Настройки путешествий
+enderio.gui.telepad.configure.telepad=§7Настройки телепорта
+enderio.gui.telepad.blocked=§7Телепорт заблокирован!
+
+#Spawn Gurad [sic]
+enderio.gui.spawnGurad.showRange=§fПоказать дальность
+enderio.gui.spawnGurad.hideRange=§fСпрятать дальность
+enderio.gui.spawnGurad.range=§7Дальность:
+
+# Filters
+enderio.gui.item_filter.damage.disabled=§7Ignore Damage
+enderio.gui.item_filter.damage.damage_00_25=§7Up to 25% Damaged
+enderio.gui.item_filter.damage.damage_25_00=§7More than 25% Damaged
+enderio.gui.item_filter.damage.damage_00_50=§7Up to 50% Damaged
+enderio.gui.item_filter.damage.damage_50_00=§7More than 50% Damaged
+enderio.gui.item_filter.damage.damage_00_75=§7Up to 75% Damaged
+enderio.gui.item_filter.damage.damage_75_00=§7More than 75% Damaged
+enderio.gui.item_filter.damage.damage_00_00=§7Not Damaged
+enderio.gui.item_filter.damage.damage_01_00=§7Damaged
+enderio.gui.item_filter.damage.damage_yes=§7Can be Damaged
+enderio.gui.item_filter.damage.damage_not=§7Cannot be Damaged
+
+enderio.gui.edit_item_filter=§7Edit Filter Settings
+enderio.gui.item_filter.close=§7Close Filter
+enderio.gui.item_filter.close2=§7Go back to previous inventory
+
+enderio.gui.item_filter.whitelist=§fWhitelist
+enderio.gui.item_filter.blacklist=§fBlacklist
+enderio.gui.item_filter.match_meta=§fMatch Metadata
+enderio.gui.item_filter.ignore_meta=§fIgnore Metadata
+enderio.gui.item_filter.sticky_enabled=§fSticky Mode Enabled
+enderio.gui.item_filter.sticky_enabled2=§7Selected items will only be sent to this or other sticky outputs
+enderio.gui.item_filter.sticky_disabled=§fSticky Mode Disabled
+enderio.gui.item_filter.ore_dic_enabled=§fOre Dictionary Enabled
+enderio.gui.item_filter.ore_dic_disabled=f7Ore Dictionary Disabled
+enderio.gui.item_filter.match_nbt=§fMatch NBT
+enderio.gui.item_filter.ignore_nbt=§fIgnore NBT
+
+enderio.gui.existing.item_filter.snapshot=§7Snapshot
+enderio.gui.existing.item_filter.merge=§7Merge
+enderio.gui.existing.item_filter.clear=§7Clear
+enderio.gui.existing.item_filter.show=§7Show
+enderio.gui.existing.item_filter.snapshot2=§7Optional: If no snapshot is set, the inventory content will be used as filter
+enderio.gui.existing.item_filter.merge2=§7Merge the current snapshot with a new one
+enderio.gui.existing.item_filter.clear2=§7Clear the snapshot
+enderio.gui.existing.item_filter.show2=§7Show the current snapshot
+enderio.item.item_existing_item_filter.filter_not_updated=§7Filter not updated
+enderio.item.item_existing_item_filter.filter_updated=§7Filter updated
+
+enderio.gui.basic_item_filter=§7Basic Item Filter
+enderio.gui.advanced_item_filter=§7Advanced Item Filter
+enderio.gui.limited_item_filter=§7Limited Item Filter
+enderio.gui.big_item_filter=§7Big Item Filter
+# Note big_advanced_item_filter doesn't have enough space for the full name
+enderio.gui.big_advanced_item_filter=§7Filter
+enderio.gui.existing_item_filter=§7Existing Item Filter
+enderio.gui.mod_item_filter=§7Mod Item Filter
+enderio.gui.power_item_filter=§7Power Item Filter
+enderio.gui.species_item_filter=§7Species Item Filter
+enderio.gui.soul_filter_normal=§7Soul Item Filter
+enderio.gui.soul_filter_big=§7Big Soul Item Filter
+enderio.gui.enchantment_filter_normal=§7Enchantment Item Filter
+enderio.gui.enchantment_filter_big=§7Big Enchantment Item Filter
+
+enderio.gui.fluid_filter=§7Basic Fluid Filter
+
+enderio.gui.redstone_filter.and=§7Redstone AND Filter
+enderio.gui.redstone_filter.or=§7Redstone OR Filter
+enderio.gui.redstone_filter.nor=§7Redstone NOR Filter
+enderio.gui.redstone_filter.nand=§7Redstone NAND Filter
+enderio.gui.redstone_filter.xor=§7Redstone XOR Filter
+enderio.gui.redstone_filter.xnor=§7Redstone XNOR Filter
+enderio.gui.redstone_filter.counting=§7Redstone Counting Filter
+enderio.gui.redstone_filter.timer=§7Redstone Timer Filter
+
+enderio.gui.mod.item_filter.delete=§7Delete
+enderio.gui.mod.item_filter.slot=§7Input Slot
+
+enderio.gui.power.item_filter.compare=§7Comparison Mode
+enderio.gui.power.item_filter.percent=§7Power Percentage
+
+enderio.gui.redstone_filter.signal_color=§7Redstone Signal Color
+enderio.gui.redstone_filter.input_signal=§7Input Signal
+enderio.gui.redstone_filter.count=§7Count
+enderio.gui.redstone_filter.time=§7Time
+
+#conduits
+enderio.gui.conduit.ioMode=§7Режим
+enderio.gui.conduit.ioMode.inOut=§7Вход / Выход
+enderio.gui.conduit.ioMode.input=§7Извлекать
+enderio.gui.conduit.ioMode.output=§7Помещать
+enderio.gui.conduit.ioMode.disabled=§7Отключен
+enderio.gui.conduit.ioMode.notSet=§7По-умолчанию
+tile.blockConduitBundle.name=§7Коннектор для труб
+
+enderio.gui.conduit.button.clear=§7Очистить
+enderio.gui.conduit.button.merge=§7Соединить
+enderio.gui.conduit.button.show=§7Показать
+enderio.gui.conduit.button.snap=§7Снимок
+enderio.gui.conduit.item.insertionFilter=§7Помещение
+enderio.gui.conduit.item.extractionFilter=§7Извлечение
+enderio.gui.conduit.item.sigCol=§7Цвет сигнала
+enderio.gui.conduit.item.channel=§7Канал
+enderio.gui.conduit.item.ignoreMetaData=§7Игнорировать метаданные
+enderio.gui.conduit.item.matchMetaData=§7Соблюдать метаданные
+enderio.gui.conduit.item.whitelist=§7Белый список
+enderio.gui.conduit.item.whitelist.tooltip.0=§7Если список предметов пуст, то ни один
+enderio.gui.conduit.item.whitelist.tooltip.1=§7предмет не будет принят
+enderio.gui.conduit.item.blacklist=§7Чёрный список
+enderio.gui.conduit.item.blacklist.tooltip.0=§7Если список предметов пуст, то
+enderio.gui.conduit.item.blacklist.tooltip.1=§7все предметы будут приняты
+enderio.gui.conduit.item.stickyEnabled=§7Включён "липкий" режим|Выбранные предметы будут|отправляться только на этот|или другие "липкие" выходы.
+enderio.gui.conduit.item.stickyDisbaled=§7"Липкий" режим выключен
+enderio.gui.conduit.item.ignoreNBT=§7Игнорировать NBT
+enderio.gui.conduit.item.matchNBT=§7Соблюдать NBT
+enderio.gui.conduit.item.oreDicEnabled=§7Использовать словарь руд
+enderio.gui.conduit.item.oreDicDisabled=§7Игнорировать словарь руд
+enderio.gui.conduit.item.selfFeedEnabled=§7Авто-подача активна
+enderio.gui.conduit.item.selfFeedDisabled=§7Авто-подача отключена
+enderio.gui.conduit.item.roundRobinEnabled=§7Цикл включён
+enderio.gui.conduit.item.roundRobinDisabled=§7Цикл отключен
+enderio.gui.conduit.item.priority=§7Приоритет
+
+enderio.gui.conduit.item.fuzzy.disabled=§fСравнение повреждения: Отключено
+enderio.gui.conduit.item.fuzzy.fuzzy_25=§fСравнение повреждения: Повреждено на 25% или более
+enderio.gui.conduit.item.fuzzy.fuzzy_50=§fСравнение повреждения: Повреждено на 50% или более
+enderio.gui.conduit.item.fuzzy.fuzzy_75=§fСравнение повреждения: Повреждено на 75% или более
+enderio.gui.conduit.item.fuzzy.fuzzy_99=§fСравнение повреждения: Повреждено хотя бы раз
+enderio.gui.conduit.item.fuzzy.tooltip.0=§7Может работать без предметов в фильтре
+enderio.gui.conduit.item.fuzzy.tooltip.1=§7В таком случае логика его работы
+enderio.gui.conduit.item.fuzzy.tooltip.2=§7контролируется кнопкой %s
+
+enderio.gui.conduit.item.filterupgrade=§7Вставить предметный фильтр
+enderio.gui.conduit.item.speedupgrade=§7Вставить улучшения скорости/понижение скорости
+enderio.gui.conduit.item.speedupgrade2=§7Макс. кол-во улучшений 15; Макс. кол-во понижений 1
+enderio.gui.conduit.item.functionupgrade.line1=§7Возможные функциональные улучшения:
+
+enderio.gui.conduit.redstone.signalColor=§7Цвет сигнала
+enderio.gui.conduit.redstone.color=§7Цвет
+enderio.gui.conduit.redstone.signalStrengh=§7Сильный сигнал
+enderio.gui.conduit.redstone.signalStrengh.tooltip=§7Испускает сильный сигнал красного камня
+
+enderio.gui.conduit.fluid.autoExtract=§7Авто-извлечение
+enderio.gui.conduit.fluid.filter=§7Фильтр
+enderio.gui.conduit.fluid.whitelist=§7Белый список
+enderio.gui.conduit.fluid.blacklist=§7Чёрный список
+
+enderio.gui.conduit.gas.autoExtract=§7Авто-извлечение
+
+#Weather
+enderio.gui.weather.task.clear=§7Ясная погода
+enderio.gui.weather.task.rain=§7Дождливая погода
+enderio.gui.weather.task.storm=§7Гроза
+enderio.gui.weather.requiredfluid=§7Требуется жидкость: %s L
+enderio.weatherObelisk.fuelTank=§7Barometric Flux Tank
+
+enderio.gui.inventorypanel.header.crafting=§7Сетка создания
+enderio.gui.inventorypanel.header.return=§7Return area
+enderio.gui.inventorypanel.header.storage=§7Storage area

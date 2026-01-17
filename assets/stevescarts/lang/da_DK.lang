@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Vogn Samler
+gui.SC2:basicAssembleInstruction=§7For at starte med at lave en vogn, tilføj et Vognskrog af eget valg til Skrogfeltet.
+gui.SC2:invalidHullError=§7Det tilføjede Vognskrog er ikke et gyldigt Skrog. Dette skulle ikke være muligt så du har lavet noget mærkeligt.
+gui.SC2:hullCapacity=§7Skrogkapacitet
+gui.SC2:complexityCap=§7Kompleksitetsgrænse
+gui.SC2:totalCost=§7Samlede omkostninger
+gui.SC2:totalTime=§7Samlet tid
+gui.SC2:readyMessage=§7Klar til samling af vogn
+gui.SC2:assembleProgress=§7Fremskidt
+gui.SC2:timeLeft=§7Tid tilbage
+gui.SC2:idleAssemblerMessage=§7Samleren er i øjeblikket ubenyttet
+gui.SC2:modifyCart=§7Modificer vogn
+gui.SC2:assembleCart=§7Saml vogn
+gui.SC2:fuelLevel=§7Brændstofniveau
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Du har intet skrog
+gui.SC2:invalidHullErrorShort=§7Det tilføjede skrog er intet skrog!
+gui.SC2:busyAssemblerError=§7Samleren har travl!
+gui.SC2:departureBayError=§7Der er en vogn i Afgangsfeltet.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Bestyrer
+gui.SC2:currentSetting=§7Nuværende
+gui.SC2:changeTransferDirection=§7Ændr overførselsretning
+gui.SC2:directionToCart=§7Til vognen
+gui.SC2:directionFromCart=§7Fra vognen
+gui.SC2:changeTurnBack=§7Ændr tilbagevændingsinstilling
+gui.SC2:turnBackDisabled=§7Ingen side valgt
+gui.SC2:turnBack=§7Vænd tilbage efter overførsel
+gui.SC2:continueForward=§7Fortsæt efter overførsel
+gui.SC2:changeTransferSize=§7Ændr overførselsstørrelse
+gui.SC2:changeSide=§7Ændr side
+gui.SC2:currentSide=§7Nuværende side
+gui.SC2:sideRed=§7Rød
+gui.SC2:sideBlue=§7Blå
+gui.SC2:sideYellow=§7Gul
+gui.SC2:sideGreen=§7Grøn
+gui.SC2:sideDisabled=§7Deaktiveret
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Last
+gui.SC2:changeSlotLayout=§7Ændr feltinddeling
+gui.SC2:layoutShared=§7Alle felter er delt på alle sider
+gui.SC2:layoutSide=§7Hver side har sit eget felt
+gui.SC2:layoutColor=§7Hver farve har sit eget felt
+gui.SC2:transferAll=§7Overfør så meget som muligt
+gui.SC2:transferItems=§7Overfør maks [%1] [%2:ting|ting]
+gui.SC2:transferStacks=§7Overfør maks [%1] [%2:stak|stakke]
+gui.SC2:transferAllShort=§7MAKS
+gui.SC2:transferItemsShort=§7T
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Ændr del af vognen
+gui.SC2:unknownAreaMessage=§7Ukendt mulighed
+gui.SC2:cartAreaAll=§7All felter
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Sporudlæggere
+gui.SC2:cartAreaStorage=§7Lagerfelter
+gui.SC2:cartAreaTorches=§7Fakler
+gui.SC2:cartAreaExplosives=§7Eksplosive
+gui.SC2:cartAreaArrows=§7Pile
+gui.SC2:cartAreaBridge=§7Bromateriale
+gui.SC2:cartAreaSeeds=§7Frø
+gui.SC2:cartAreaFertilizer=§7Gødning
+gui.SC2:cartAreaSaplings=§7Planter
+gui.SC2:cartAreaFirework=§7Fyrværkeri
+gui.SC2:cartAreaBuckets=§7Spande (til malker)
+gui.SC2:cartAreaCakes=§7Kager
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Væske
+gui.SC2:changeTankLayout=§7Ændr tankinddeling
+gui.SC2:layoutSharedTanks=§7Alle tanke er delt på alle sider
+gui.SC2:layoutSidedTanks=§7Hver side har sin egen tank
+gui.SC2:layoutColorTanks=§7Hver farve har sin(e) egen/egne tank(e)
+gui.SC2:transferAllLiquid=§7Overfør så meget som muligt
+gui.SC2:transferBuckets=§7Overfør maks [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Modulskifter
+gui.SC2:optionDrill=§7Bor
+gui.SC2:optionShield=§7Skjold
+gui.SC2:optionInvisibility=§7Usynlighed
+gui.SC2:optionChunk=§7Chunk indlæsning
+gui.SC2:optionCageAuto=§7Bur auto-opsamling
+gui.SC2:optionCage=§7Bur opsamling
+gui.SC2:settingDisabled=§7Deaktiveret
+gui.SC2:settingOrange=§7Orange retning
+gui.SC2:settingBlue=§7Blå retning
+gui.SC2:stateActivate=§7Aktiver
+gui.SC2:stateDeactivate=§7Deaktiver
+gui.SC2:stateToggle=§7Skifter
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Ekstern Fordeler
+gui.SC2:distributorNotConnected=§7Ikke forbundet til nogle Bestyrere!
+gui.SC2:sideName=§7[%1] side
+gui.SC2:dropInstruction=§7Slip her for at tilføje denne instilling
+gui.SC2:removeInstruction=§7Højreklik for at fjerne
+gui.SC2:distributorAll=§7Alle
+gui.SC2:distributorRed=§7Rød
+gui.SC2:distributorBlue=§7Blå
+gui.SC2:distributorYellow=§7Gul
+gui.SC2:distributorGreen=§7Grøn
+gui.SC2:distributorTopLeft=§7Øverst til venstre
+gui.SC2:distributorTopRight=§7Øverst til højre
+gui.SC2:distributorBottomLeft=§7Nederst til venstre
+gui.SC2:distributorBottomRight=§7Nederst til højre
+gui.SC2:distributorToCart=§7Til Vogn
+gui.SC2:distributorFromCart=§7Fra Vogn
+gui.SC2:managerTop=§7Øverste Bestyrer
+gui.SC2:managerBot=§7Nederste Bestyrer
+gui.SC2:distributorSideOrange=§7Orange
+gui.SC2:distributorSidePurple=§7Lilla
+gui.SC2:distributorSideYellow=§7Gul
+gui.SC2:distributorSideGreen=§7Grøn
+gui.SC2:distributorSideBlue=§7Blå
+gui.SC2:distributorSideRed=§7Rød
+gui.SC2:sideToolTip=§7Side: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7OUTPUT
+gui.SC2:operatorAnd=§7AND
+gui.SC2:operatorOr=§7OR
+gui.SC2:operatorNot=§7NOT
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Øverste Enhed
+gui.SC2:operatorBotUnit=§7Nederste Enhed
+gui.SC2:operatorNorthUnit=§7Nordlige Enhed
+gui.SC2:operatorWestUnit=§7Vestlige Enhed
+gui.SC2:operatorSouthUnit=§7Sydlige Enhed
+gui.SC2:operatorEastUnit=§7Østlige Enhed
+gui.SC2:operatorRedstone=§7Rødsstensinput
+gui.SC2:operatorRedstoneTop=§7Øverste Rødsstensinput
+gui.SC2:operatorRedstoneBot=§7Nederste Rødsstensinput
+gui.SC2:operatorRedstoneNorth=§7Nordlige Rødsstensinput
+gui.SC2:operatorRedstoneWest=§7Vestlige Rødsstensinput
+gui.SC2:operatorRedstoneSouth=§7Sydlige Rødsstensinput
+gui.SC2:operatorRedstoneEast=§7Østlige Rødsstensinput
+gui.SC2:stateRails=§7Har sporforsyninger
+gui.SC2:stateTorches=§7Har fakkelforsyninger
+gui.SC2:stateSaplings=§7Har planteforsyninger
+gui.SC2:sateSeeds=§7Har frøforsyninger
+gui.SC2:stateBridge=§7Har broforsyninger
+gui.SC2:stateProjectiles=§7Har projektilforsyninger
+gui.SC2:stateFertilizing=§7Har gødningsforsyninger
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Skjold er aktiv
+gui.SC2:stateChunk=§7Chunkindlæser
+gui.SC2:stateInvisibility=§7Usynlighedskerne er aktiv
+gui.SC2:stateDrill=§7Bor er aktiv
+gui.SC2:stateCage=§7Auto-opsamling er aktiv
+gui.SC2:stateStorageFull=§7Lager er helt fyldt
+gui.SC2:stateStorageEmpty=§7Lager er helt tomt
+gui.SC2:statePassenger=§7Har passager
+gui.SC2:stateAnimal=§7Har dyr som passager
+gui.SC2:stateTameable=§7Har passager, der kan tæmmes
+gui.SC2:stateBreedable=§7Har passager, der kan få unger
+gui.SC2:stateHostile=§7Har fjentlig passager
+gui.SC2:stateCreeper=§7Har creeper som passager
+gui.SC2:stateSkeleton=§7Har skelet som passager
+gui.SC2:stateSpider=§7Har edderkop som passager
+gui.SC2:stateZombie=§7Har zombie som passager
+gui.SC2:stateZombiePigMan=§7Har zombie mutantgris som passager
+gui.SC2:stateSilverFish=§7Har sølvfisk som passager
+gui.SC2:stateBlaze=§7Har blaze som passager
+gui.SC2:stateBat=§7Har flagermus som passager
+gui.SC2:stateWitch=§7Har heks som passager
+gui.SC2:statePig=§7Har gris som passager
+gui.SC2:stateSheep=§7Har får som passager
+gui.SC2:stateCow=§7Har ko som passager
+gui.SC2:stateMooshroom=§7Har muhsvamp som passager
+gui.SC2:stateChicken=§7Har kylling som passager
+gui.SC2:stateWolf=§7Har ulv som passager
+gui.SC2:stateSnowGolem=§7Har snemand som passager
+gui.SC2:stateOcelot=§7Har ozelot som passager
+gui.SC2:stateVillager=§7Har landsbyboer som passager
+gui.SC2:statePlayer=§7Har spiller som passager
+gui.SC2:stateZombieVillager=§7Har zombielandsbyboer som passager
+gui.SC2:stateChild=§7Har barn som passager
+gui.SC2:stateTamed=§7Har en tæmmet passager
+gui.SC2:statePowerRed=§7Er Energiovervåger[Rød] aktiv
+gui.SC2:statePowerBlue=§7Er Energiovervåger[Blå] aktiv
+gui.SC2:statePowerGreen=§7Er Energiovervåger[Grøn] aktiv
+gui.SC2:statePowerYellow=§7Er Energiovervåger[Gul] aktiv
+gui.SC2:stateTanksFull=§7Er tankene helt fyldte
+gui.SC2:stateTanksEmpty=§7Er tankene helt tomme
+gui.SC2:stateTankEmpty=§7Er der nogle helt tomme tanke

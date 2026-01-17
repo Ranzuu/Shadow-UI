@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7จรวดขนส่ง
+entity.GalacticraftMars.CreeperBoss.name=§7บอสคริปเปอร์อวกาศ
+entity.GalacticraftMars.LandingBalloons.name=§7ยานลงจอดบอลลูน
+entity.GalacticraftMars.Slimeling.name=§7สไลม์ลิ่ง
+entity.GalacticraftMars.Sludgeling.name=§7หนอนแบคทีเรีย
+entity.GalacticraftMars.SpaceshipT2.name=§7จรวด เทียร์ 2
+
+# CONTAINERS
+container.launchcontroller.name=§7เครื่องควบคุมการปล่อยจรวด
+container.tileTerraformer.name=§7เทอราฟอร์มเมอร์
+container.marsLander.name=§7ยานลงจอดบอลลูน

@@ -1,0 +1,111 @@
+#This file is a translation file for Mobs Info
+
+#NEI
+mobsinfo.mobhandler.normal_drops=§7Нормальная добыча
+mobsinfo.mobhandler.rare_drops=§7Редкая добыча
+mobsinfo.mobhandler.additional_drops=§7Дополнительная добыча
+mobsinfo.mobhandler.infernal_drops=§7Адская добыча
+mobsinfo.mobhandler.infernal_cannot=§7Не может появится инфернальным
+mobsinfo.mobhandler.infernal_can=§6Может появится инфернальным
+mobsinfo.mobhandler.infernal_always=§4Всегда появляется инфернальным
+mobsinfo.mobhandler.mod=§7Мод: 
+mobsinfo.mobhandler.max_health=§7Максимальное здоровье: 
+mobsinfo.mobhandler.boss=§6§lБОСС
+mobsinfo.mobhandler.cannot_use_vial=§7Не может быть в сосуде с душой
+mobsinfo.mobhandler.chance=§7Шанс: %.2f%%
+mobsinfo.mobhandler.average_reminder=§7Пожалуйста, помните, что это средние показатели.
+mobsinfo.mobhandler.lootable=§7Зачарование "Добыча" применяется
+mobsinfo.mobhandler.player_only=§4Только игрок
+mobsinfo.mobhandler.peaceful_allowed=§2Может появится на мирной сложности
+mobsinfo.mobhandler.locked=§7Чтобы разблокировать больше информации,
+mobsinfo.mobhandler.locked_1=§7вы должны убить этого моба!
+mobsinfo.mobhandler.unlocked=§7Вы разблокировали новую информацию о мобе!
+mobsinfo.mobhandler.extended_info=§7Пожалуйста, помните, что вероятность выпадения и размеры являются
+mobsinfo.mobhandler.extended_info_1=§7средними, исходя из всех возможностей.
+mobsinfo.mobhandler.extended_info_2=§7Это означает, что 100% не всегда означает, что оно всегда будет выпадать!
+mobsinfo.mobhandler.extended_info_3=§7Например, это может означать, что есть
+mobsinfo.mobhandler.extended_info_4=§7равные шансы выбросить 0, 1 или 2 предмета,
+mobsinfo.mobhandler.extended_info_5=§7что в среднем составляет 1 выпадение каждый раз (100%).
+mobsinfo.mobhandler.spawns_everywhere=§7Появляется везде
+mobsinfo.mobhandler.spawns_in=§7§nПоявляется в %d местах(е)...
+mobsinfo.mobhandler.spawns_not_in=§7§nПоявляется везде, кроме %d мест(а)...
+mobsinfo.mobhandler.wither_skeleton_name=§7Wither Skeleton
+
+mobsinfo.villagertradeshandler.name=§7Имя: 
+mobsinfo.villagertradeshandler.mod=§7Мод: 
+mobsinfo.villagertradeshandler.chance=§7Шанс: %.2f%%
+mobsinfo.villagertradeshandler.real_chance=§7Шанс за повышение уровня: %.2f%%
+
+mobsinfo.mobhandlerinfernal.title=§7Infernal Mobs - Таблица добычи
+mobsinfo.mobhandlerinfernal.format=§7Формат:
+mobsinfo.mobhandlerinfernal.format_1=§7Название таблицы добычи - x% (y%)
+mobsinfo.mobhandlerinfernal.format_2=§7x - Шанс получить
+mobsinfo.mobhandlerinfernal.format_3=§7y - Шанс получить, когда моб
+mobsinfo.mobhandlerinfernal.format_4=§4всегда появляется инфернальным
+mobsinfo.mobhandlerinfernal.elite=§7Добыча элитного моба - %.2f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.ultra=§7Добыча ультра моба - %.3f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.inferno=§7Добыча инферно - %.3f%% (%.3f%%)
+mobsinfo.mobhandlerinfernal.tooltip_chance=§7Общий шанс получить:  %.4f%%
+mobsinfo.mobhandlerinfernal.tooltip_chance_always=§7Общий шанс получить, когда всегда инфернальным: %.4f%%
+
+#Extras (compatibility)
+mobsinfo.extras.minecraft_slime=§6Выпадает только тогда, когда слизень имеет малый размер
+mobsinfo.extras.minecraft_magma_cube=§6Выпадает только тогда, когда адский слизень НЕ имеет малый размер
+mobsinfo.extras.chance=§7Шанс: %.2f%%
+mobsinfo.extras.base_chance=§7Базовый шанс: %.2f%%
+mobsinfo.extras.variable_chance=§7Переменный шанс
+mobsinfo.extras.drops_only_using=§6Выпадает только при убийстве с помощью %s
+mobsinfo.extras.drops_only_in_dimension=§6Выпадает только в измерении %s
+mobsinfo.extras.drops_only_with_weakness=§6Выпадает только тогда, когда на моба наложен эффект слабости.
+mobsinfo.extras.drops_only_with_weakness_2=§6Drops only when the mob has weakness potion (II or higher) effect applied
+mobsinfo.extras.drops_only_with_enchant=§6Выпадает только при применении зачарования %s
+mobsinfo.extras.each_level_of_gives=§7Каждый уровень %s дает %s
+mobsinfo.extras.or_biome=§7Или %.2f%% в биоме %s
+mobsinfo.extras.or_using=§7или %.2f%% при убийстве с помощью %s
+mobsinfo.extras.halloween_only=§7Выпадает только на Хэллоуин
+mobsinfo.extras.yuletide_only=§7Выпадает только во время Cвяток
+mobsinfo.extras.yuletide_day_only=§7Выпадает только в день Cвяток
+
+mobsinfo.extras.avaritia_skull_sword=§6Выпадает только при убийстве с помощью меча огненного черепа, и никакие другие черепа не выпадают.
+mobsinfo.extras.draconic_evolution_mob_soul=НА ОСНОВЕ УРОВНЯ ЗАЧАРОВАНИЯ И ОРУЖИЯ |
+mobsinfo.extras.draconic_evolution_mob_soul_1=УРОВЕНЬ             |  НЕТ |   |   I  |    |  II  |     |  III  |    |  IV  |     |  V   |          
+mobsinfo.extras.draconic_evolution_mob_soul_2=Любой/Нет           | %.2f%% |  | %.2f%% |    | %.2f%% |   | %.2f%% |    | %.2f%% |     | %.2f%% |
+mobsinfo.extras.draconic_evolution_mob_soul_3=Меч виверны/Лук     | %.2f%% |  | %.2f%% |    | %.2f%% |   | %.2f%% |    | %.2f%% |     | %.2f%% |
+mobsinfo.extras.draconic_evolution_mob_soul_4=Драконий меч/лук    | %.2f%% |  | %.2f%% |    | %.2f%% |   | %.2f%% |    | %.2f%% |     | %.2f%% |
+mobsinfo.extras.draconic_evolution_mob_soul_5=Драконий посох силы | %.2f%% |  | %.2f%% |    | %.2f%% |   | %.2f%% |    | %.2f%% |     | %.2f%% |
+mobsinfo.extras.powered_creeper=§6Выпадает только если крипер заряжен
+mobsinfo.extras.forbidden_magic_non_player=§6Выпадает только при убийстве не игроком
+mobsinfo.extras.open_blocks_small_chance=§7Шанс: малый
+mobsinfo.extras.tinkers_construct_beheading=§7Каждый уровень обезглавливания на вашем оружии дает дополнительные %.2f%%
+mobsinfo.extras.tinkers_construct_beheading_1=§7Если вы используете тесак, он дает еще %.2f%%
+mobsinfo.extras.witchery_vampire_book=§6Выпадает только если у игрока есть книга вампиров
+mobsinfo.extras.witchery_warewolf=§6Только когда убийца - оборотень
+mobsinfo.extras.bloodmagic_demon_shards=§6Выпадает только при создании с помощью демонического портала или при ударе кинжалом жертвоприношения.
+mobsinfo.extras.bloodmagic_demon_placer=§6НЕ Выпадает при создании с помощью демонического портала или при ударе кинжалом жертвоприношения.
+mobsinfo.extras.etfuturum_powered_creeper=§6Выпадает только при убийстве заряженным крипером.
+mobsinfo.extras.etfuturum_wither_rose=§6Выпадает или размещается* только при убийстве иссушителем.
+mobsinfo.extras.etfuturum_wither_rose_1=§7*Размещается на земле (вместо моба) только если это возможно.
+mobsinfo.extras.lycanites_mobs_or_on_yuletide_day=§7Или %.2f%% в день Cвяток
+
+#Spawn info
+mobsinfo.spawninfo.biome=§7Биом: 
+mobsinfo.spawninfo.structure=§7Структура: 
+mobsinfo.spawninfo.event=§7Событие: 
+
+#Commands
+mobsinfo.commandhandler.invalid=§cНедопустимое использование ! Правильное использование этой команды /%s
+mobsinfo.commandhandler.cant_find=§cНе удается найти параметр команды %s
+mobsinfo.commandhandler.generic_help=§cВы также можете использовать "/mobsinfo help" для получения возможных команд
+mobsinfo.commandhandler.usage=<параметр>
+mobsinfo.command.help.possible_commands=Возможные команды:
+mobsinfo.command.help.usage=- Показывает все возможные команды
+mobsinfo.command.config.invalid_option=§cНеверный вариант ! Возможные варианты: перезагрузить
+mobsinfo.command.config.success=§aКонфигурация успешно перезагружена!
+mobsinfo.command.config.usage=<параметр>
+mobsinfo.command.hidden.usage=<игрок> <unlock/lock/reset/unlockall> [имя моба]
+mobsinfo.command.hidden.invalid_mob=§cНедопустимое имя моба!
+mobsinfo.command.hidden.lock_error=§cМоб не разблокирован для игрока или неверное имя!
+mobsinfo.command.hidden.success=§aУспех!
+mobsinfo.command.hidden.invalid=§cНедопустимые параметры! Правильное использование: %s
+
+mobsinfo.mobhandler.wither_skeleton_name=§7Wither Skeleton

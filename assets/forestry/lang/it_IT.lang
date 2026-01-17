@@ -1,0 +1,54 @@
+tile.for.engine.0.name=§7Electrical Engine
+tile.for.engine.1.name=§7Peat-fired Engine
+tile.for.engine.2.name=§7Biogas Engine
+tile.for.engine.3.name=§7Bio Generator
+tile.for.engine.4.name=§7Clockwork Engine
+
+tile.for.factory.0.name=§7Bottler
+tile.for.factory.1.name=§7Carpenter
+tile.for.factory.2.name=§7Centrifuge
+tile.for.factory.3.name=§7Fermenter
+tile.for.factory.4.name=§7Moistener
+tile.for.factory.5.name=§7Squeezer
+tile.for.factory.6.name=§7Still
+tile.for.factory.7.name=§7Rainmaker
+tile.for.factory2.0.name=§7Thermionic Fabricator
+tile.for.factory2.1.name=§7Raintank
+tile.for.factory2.2.name=§7Worktable
+
+tile.for.mail.0.name=§7Mailbox
+tile.for.mail.1.name=§7Trade Station
+tile.for.mail.2.name=§7Stamp Collector
+
+tile.for.core.name=§7Analyzer / Escritoire
+tile.for.analyzer.name=§7Analyzer
+tile.for.escritoire.name=§7Escritoire
+
+tile.for.engine_electrical.name=§7Electrical Engine
+tile.for.engine_peat.name=§7Peat-fired Engine
+tile.for.engine_biogas.name=§7Biogas Engine
+tile.for.engine_generator.name=§7Bio Generator
+tile.for.engine_clockwork.name=§7Clockwork Engine
+
+tile.for.bottler.name=§7Bottler
+tile.for.carpenter.name=§7Carpenter
+tile.for.centrifuge.name=§7Centrifuge
+tile.for.fermenter.name=§7Fermenter
+tile.for.moistener.name=§7Moistener
+tile.for.squeezer.name=§7Squeezer
+tile.for.still.name=§7Still
+tile.for.rainmaker.name=§7Rainmaker
+tile.for.fabricator.name=§7Thermionic Fabricator
+tile.for.raintank.name=§7Rain Tank
+tile.for.worktable.name=§7Worktable
+
+tile.for.mailbox.name=§7Mailbox
+tile.for.trade_station.name=§7Trade Station
+tile.for.stamp_collector.name=§7Stamp Collector
+
+tile.for.apiculture.name=§7Apiary
+tile.for.apiculture.0.name=§7Apiary
+tile.for.apiculture.2.name=§7Bee House
+tile.for.alveary.0.name=§7Alveary
+
+for.gui.page=§7Page
