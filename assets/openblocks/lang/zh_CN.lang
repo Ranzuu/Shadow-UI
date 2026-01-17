@@ -1,0 +1,31 @@
+openblocks.gui.blocks=§7方块
+openblocks.gui.items=§7物品
+openblocks.gui.misc=§7杂项
+openblocks.gui.changelogs=§7更新日志
+
+openblocks.gui.features=§7特性更新
+openblocks.gui.bugfixes=§7Bug 修复
+openblocks.gui.tweaks=§7调整优化
+
+openblocks.gui.luggage=§7行李箱
+openblocks.gui.sprinkler=§7洒水器
+openblocks.gui.vacuumhopper=§7虚空漏斗
+openblocks.gui.bigbutton=§7大型按钮
+openblocks.gui.xpbottler=§7经验装瓶器
+openblocks.gui.autoanvil=§7自动铁砧
+openblocks.gui.autoeject=§7自动输出成品
+openblocks.gui.autoextract=§7自动输入物品
+openblocks.gui.autodrink=§7自动填充经验
+openblocks.gui.autoenchantmenttable=§7自动附魔台
+openblocks.gui.donationstation=§7捐助站
+openblocks.gui.itemdropper=§7物品投掷器
+openblocks.gui.blockplacer=§7方块放置器
+openblocks.gui.paintmixer=§7调色器
+openblocks.gui.drawingtable=§7绘图桌
+openblocks.gui.digitalfuse=§7游标
+openblocks.gui.xp_outputs=§7输出经验
+openblocks.gui.item_outputs=§7输出物品
+openblocks.gui.max_level=§7最高附魔等级: %d
+openblocks.gui.save_folder=§7打开存档文件夹
+
+tile.openblocks.trophy.entity.name=%s战利品

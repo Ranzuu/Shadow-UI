@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7출력
+gui.message.in.name=§7입력
+gui.message.status.name=§7상태
+gui.message.oxoutput.name=§7산소 출력
+gui.message.oxinput.name=§7산소 입력
+gui.message.fuel.name=§7연료
+gui.message.full.name=§7가득참
+gui.message.page.name=§7페이지
+gui.message.addnewsch.name=§7새로운 설계도
+gui.message.generating.name=§7생성중
+gui.message.environment.name=§7환경 부스터
+gui.message.oil.name=§7기름
+gui.message.catalog.name=§7카탈로그
+gui.message.back.name=§7뒤로
+gui.message.daynightcycle.name=§7밤낮 길이
+gui.message.surfacegravity.name=§7표면 중력
+gui.message.surfacecomposition.name=§7표면 구성요소
+gui.message.atmosphere.name=§7대기
+gui.message.meansurfacetemp.name=§7평균 표면 온도
+gui.message.energy=§7에너지
+gui.message.maxEnergy=§7최대 에너지
+gui.message.bubbleVisible.name=§7기포 보임
+gui.message.launch.name=§7발사
+gui.message.clickAgain.0.name=§7클릭하여 확대 (달 & 위성)
+gui.message.clickAgain.1.name=§7클릭하여 확대 (달)
+gui.message.clickAgain.2.name=§7클릭하여 확대 (위성)
+gui.message.clickAgain.3.name=§7클릭하여 확대
+gui.message.exit.name=§7나가기
+gui.message.tier.name=§7%d티어
+gui.message.canCreateSpaceStation.name=§7이곳에 우주정거장 생성가능!
+gui.message.cannotCreateSpaceStation.name=§7이곳에 우주정거장 생성불가능!
+gui.message.createSS.name=§7생성
+gui.message.selectSS.name=§7우주정거장을 선택하십시오
+gui.message.ssOwner.name=§7주인:
+gui.message.apply.name=§7적용
+gui.message.cancel.name=§7취소
+gui.message.assignName.name=§7이름을 정하십시오
+gui.message.rename.name=§7이름 바꾸기
+gui.message.unnamed.name=§7이름 미정
+gui.message.grow.name=§7성장
+gui.message.breed.name=§7교배
+gui.message.strengthen.name=§7강화
+gui.message.heal.name=§7치료
+gui.message.of.name=§7of
+gui.message.help1=§7Galacticraft 도움말
+gui.message.help1a=§7이 메시지를 다시 보시려면, 다음 키워드를 치십시오:
+gui.message.help2=§7우주 여행에 대한 가이드
+gui.message.help3=§7기름에 대한 도움말
+gui.message.prelaunch=§7발사전 체크리스트
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7열 제어
+
+gui.button.enableseal.name=§7밀봉 가동하기
+gui.button.disableseal.name=§7밀봉 파기하기
+gui.button.loaditems.name=§7아이템 적재하기
+gui.button.stoploading.name=§7적재 멈추기
+gui.button.unloaditems.name=§7아이템 적하하기
+gui.button.stopunloading.name=§7적하 멈추기
+gui.button.createsstation.name=§7우주정거장 만들기
+gui.button.sendtodim.name=§7해당 세계로 보내기
+gui.button.rename.name=§7이름 바꾸기
+gui.button.loadfuel.name=§7연료 채우기
+gui.button.refine.name=§7정제하기
+gui.button.back.name=§7뒤로
+gui.button.next.name=§7다음
+gui.button.unlockschematic.name=§7설계도 잠금해제
+gui.button.stoprefine.name=§7정제 멈추기
+gui.button.enable.name=§7가동하기
+gui.button.disable.name=§7멈추기
+gui.button.hideDest.name=§7숨기기
+gui.button.unhideDest.name=§7보이기
+
+# CONTAINERS
+container.cargoloader.name=§7화물 적재기
+container.cargounloader.name=§7화물 적하기
+container.fuelloader.name=§7연료 적재기
+container.oxygencollector.name=§7산소 수집기
+container.oxygencompressor.name=§7산소 압축기
+container.oxygendistributor.name=§7산소 배급기
+container.oxygensealer.name=§7산소 밀봉기
+container.parachest.name=§7낙하상자
+container.refinery.name=§7정제기
+container.treasurechest.name=§7보물상자
+container.lander.name=§7착륙기
+container.spaceship.name=§71티어 로켓
+container.solarbasic.name=§7기초 태양광 전지판
+container.solaradvanced.name=§7고급 태양광 전지판
+container.oxygendecompressor.name=§7산소 감압기
+
+gui.checkbox.redstoneSignal.name=§7레드스톤 신호시 열림
+gui.checkbox.playerWithin.name=§7플레이어와의 거리
+gui.checkbox.playerName.name=§7플레이어 이름
+gui.checkbox.invert.name=§7선택 반전시키기
+gui.checkbox.horizontal.name=§7가로 모드
+
+tile.machine.0.name=§7석탄 발전기
+tile.machine.1.name=§7에너지 저장 모듈
+tile.machine.2.name=§7전기 화로
+tile.machine.3.name=§7압축기
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7전기 압축기
+tile.machine2.5.name=§7회로 조립기
+tile.machine2.6.name=§7산소 저장 모듈
+tile.machine.7.name=§7전기 아크 화로
+tile.machine.8.name=§7에너지 저장 클러스터
+
+gui.maxOutput.desc=§7최대 출력
+gui.oxygenUse.desc=§7산소 사용
+
+gui.message.generating.name=§7생성중
+
+gui.status.collecting.name=§7충전 중
+gui.status.generating.name=§7생산중
+gui.status.notGenerating.name=§7생산중이 아님
+gui.status.hullHeat.name=§7선체 온도
+
+gui.title.airLock.name=§7%s's 에어락 제어기
+
+gui.status.unknown.name=§d확인불가
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7외계주민
+entity.GalacticraftCore.Buggy.name=§7버기
+entity.GalacticraftCore.EvolvedCreeper.name=§7진화한 크리퍼
+entity.GalacticraftCore.EvolvedSkeleton.name=§7진화한 스켈레톤
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7진화한 스켈레톤 보스
+entity.GalacticraftCore.EvolvedSpider.name=§7진화한 거미
+entity.GalacticraftCore.EvolvedZombie.name=§7진화한 좀비
+entity.GalacticraftCore.Flag.name=§7깃발
+entity.GalacticraftCore.GCFlag.name=§7깃발
+entity.GalacticraftCore.GravityArrow.name=§7화살
+entity.GalacticraftCore.Lander.name=§7착륙기
+entity.GalacticraftCore.Meteor.name=§7운석
+entity.GalacticraftCore.MeteorChunk.name=§7운석 덩어리
+entity.GalacticraftCore.OxygenBubble.name=§7산소 기포
+entity.GalacticraftCore.ParaChest.name=§7낙하상자
+entity.GalacticraftCore.Spaceship.name=§71티어 로켓

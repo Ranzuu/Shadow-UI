@@ -1,0 +1,14 @@
+tile.gendustry.mutagen_producer.name=§7Мутагенный производитель
+tile.gendustry.mutatron.name=§7Мутатрон
+tile.gendustry.mutatron_adv.name=§7Продвинутый мутатрон
+tile.gendustry.apiary.name=§7Промышленная пасека
+tile.gendustry.imprinter.name=§7Генетический импринтер
+tile.gendustry.sampler.name=§7Генетический пробоотборник
+tile.gendustry.extractor.name=§7Экстрактор ДНК
+tile.gendustry.liquifier.name=§7Протеиновый разжижитель
+tile.gendustry.replicator.name=§7Генетический репликатор
+tile.gendustry.transposer.name=§7Генетический транспозер
+
+gendustry.label.select=§7Выбрать:
+
+

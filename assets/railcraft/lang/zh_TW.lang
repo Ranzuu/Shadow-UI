@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7鋼製蓄水槽
+railcraft.gui.tank.water=§7水塔
+railcraft.gui.steam.boiler=§7 蒸氣鍋爐
+railcraft.gui.blast.furnace=§7 鼓風爐
+railcraft.gui.coke.oven=§7焦炭爐
+railcraft.gui.steam.oven=§7蒸氣爐
+railcraft.gui.turbine.output=§7輸出: @d%%
+railcraft.gui.turbine.rotor=§7轉子:
+railcraft.gui.turbine=§7蒸氣渦輪
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7速率: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7導火線
+railcraft.gui.cart.track.relayer.pattern=§7樣式
+railcraft.gui.cart.track.relayer.stock=§7存量
+railcraft.gui.cart.undercutter.pattern=§7樣式
+railcraft.gui.cart.undercutter.sides=§7側邊
+railcraft.gui.cart.undercutter.stock=§7存量
+railcraft.gui.cart.undercutter.under=§7底下
+
+railcraft.gui.feed.station.feed=§7飼料
+railcraft.gui.filter=§7篩選
+railcraft.gui.filters.carts=§7車種
+railcraft.gui.filters=§7篩選
+railcraft.gui.item.loader.buffer=§7緩衝
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7滾壓機
+tile.railcraft.machine.alpha.feed.station.name=§7自動餵食機
+tile.railcraft.machine.alpha.trade.station.name=§7交易站
+tile.railcraft.machine.alpha.anchor.admin.name=§7管理錨
+tile.railcraft.machine.alpha.anchor.passive.name=§7被動錨
+tile.railcraft.machine.alpha.anchor.personal.name=§7私人錨
+tile.railcraft.machine.alpha.anchor.world.name=§7世界錨
+railcraft.gui.anchor.fuel.remaining=§7@.2f小時
+railcraft.gui.anchor.fuel=§7終界珍珠
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7高壓鍋爐
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7低壓鍋爐
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7業餘蒸氣引擎
+tile.railcraft.machine.beta.engine.steam.low.name=§7商業用蒸氣引擎
+tile.railcraft.machine.beta.engine.steam.high.name=§7工業用蒸氣引擎
+tile.railcraft.machine.beta.chest.void.name=§7虛無箱
+tile.railcraft.machine.beta.chest.metals.name=§7金屬箱
+
+railcraft.gui.box.aspect.action=§7輸出條件
+
+railcraft.gui.detector.item.analog=§7類比
+railcraft.gui.detector.item.anything=§7隨意
+railcraft.gui.detector.item.at_least=§7至少
+railcraft.gui.detector.item.at_most=§7最多
+railcraft.gui.detector.item.empty=§7空車
+railcraft.gui.detector.item.exactly=§7剛好
+railcraft.gui.detector.item.filtered=§7篩選
+railcraft.gui.detector.item.full=§7滿載
+railcraft.gui.detector.item.greater_than=§7多於
+railcraft.gui.detector.item.less_than=§7少於
+railcraft.gui.detector.item.not_empty=§7有物品
+railcraft.gui.detector.loco.primary=§7車身顏色
+railcraft.gui.detector.loco.secondary=§7底盤顏色
+railcraft.gui.detector.tank.tip.analog=§7根據水箱車的液體多寡\n輸出類比訊號
+railcraft.gui.detector.tank.tip.empty=§7偵測空的蓄水車
+railcraft.gui.detector.tank.tip.full=§7偵測滿載的蓄水車
+railcraft.gui.detector.tank.tip.half=§7偵測液體多於一半的蓄水車
+railcraft.gui.detector.tank.tip.less.than.full=§7偵測沒有裝滿的蓄水車
+railcraft.gui.detector.tank.tip.less.than.half=§7偵測液體低於一半的蓄水車
+railcraft.gui.detector.tank.tip.less.than.most=§7偵測液體低於3/4的蓄水車
+railcraft.gui.detector.tank.tip.less.than.quarter=§7偵測液體低於4/1的蓄水車
+railcraft.gui.detector.tank.tip.most=§7偵測液體多於3/4的蓄水車
+railcraft.gui.detector.tank.tip.not.empty=§7偵測任何有液體的蓄水車
+railcraft.gui.detector.tank.tip.quarter=§7偵測液體多於4/1的蓄水車
+railcraft.gui.detector.tank.tip.void=§7偵測任意容量
+railcraft.gui.detector.train.size=§7列車長度 = @d
+railcraft.gui.detector.villager.any=§7任意
+railcraft.gui.detector.villager.equals=§7相同
+railcraft.gui.detector.villager.none=§7皆非
+railcraft.gui.detector.villager.not=§7不同
+
+tile.railcraft.machine.gamma.loader.item.name=§7物品裝載機
+tile.railcraft.machine.gamma.unloader.item.name=§7物品卸載機
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7進階物品裝載機
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7進階物品卸載機
+tile.railcraft.machine.gamma.loader.liquid.name=§7液體裝載機
+tile.railcraft.machine.gamma.unloader.liquid.name=§7液體卸載機
+tile.railcraft.machine.gamma.loader.energy.name=§7能量裝載機
+tile.railcraft.machine.gamma.unloader.energy.name=§7能量卸載機
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux 裝載機
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux 卸載機
+tile.railcraft.machine.gamma.dispenser.cart.name=§7礦車發車器
+tile.railcraft.machine.gamma.dispenser.train.name=§7列車發車器

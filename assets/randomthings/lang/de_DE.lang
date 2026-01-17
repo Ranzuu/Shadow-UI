@@ -1,0 +1,20 @@
+tile.playerinterface.name=§7Spieler-Interface
+tile.creativePlayerInterface.name=§7Creative Player Interface
+text.miscellaneous.connectedTo=§7Connected to
+
+tile.advancedItemCollector.name=§7Fortgeschrittener Item-Sammler
+tile.onlineDetector.name=§7Online-Detektor
+text.onlineDetector.detectingNobody=§7Detecting Nobody
+text.onlineDetector.detecting=§7"Detecting %s"
+tile.dyeingMachine.name=§7Dyeing Machine
+tile.energyDistributor.name=§7Energy Distributor
+tile.enderEnergyDistributor.name=§7Ender Energy Distributor
+tile.imbuingStation.name=§7Imbuing Station
+
+item.dropFilter.name=§7Drop Filter
+item.dropFilterVoiding.name=§7Voiding Drop Filter
+item.filterItem.name=§7Item-Filter
+item.voidStone.name=§7Void Stone
+
+entity.RandomThings.spirit.name=§7Spirit
+entity.bloodmoonCircle.name=§7Bloodmoon Circle

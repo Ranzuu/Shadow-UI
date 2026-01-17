@@ -1,0 +1,54 @@
+tile.for.engine.0.name=§7電動引擎
+tile.for.engine.1.name=§7泥炭引擎
+tile.for.engine.2.name=§7生物燃油引擎
+tile.for.engine.3.name=§7生物質引擎
+tile.for.engine.4.name=§7發條引擎
+
+tile.for.factory.0.name=§7裝瓶機
+tile.for.factory.1.name=§7木工機
+tile.for.factory.2.name=§7離心機
+tile.for.factory.3.name=§7發酵機
+tile.for.factory.4.name=§7加濕器
+tile.for.factory.5.name=§7榨汁機
+tile.for.factory.6.name=§7蒸餾器
+tile.for.factory.7.name=§7造雨機
+tile.for.factory2.0.name=§7熱電子加工台
+tile.for.factory2.1.name=§7集雨蓄水槽
+tile.for.factory2.2.name=§7工作台
+
+tile.for.mail.0.name=§7信箱
+tile.for.mail.1.name=§7貿易站
+tile.for.mail.2.name=§7集郵箱
+
+tile.for.core.name=§7Analyzer / Escritoire
+tile.for.analyzer.name=§7Analyzer
+tile.for.escritoire.name=§7Escritoire
+
+tile.for.engine_electrical.name=§7Electrical Engine
+tile.for.engine_peat.name=§7Peat-fired Engine
+tile.for.engine_biogas.name=§7Biogas Engine
+tile.for.engine_generator.name=§7Bio Generator
+tile.for.engine_clockwork.name=§7Clockwork Engine
+
+tile.for.bottler.name=§7Bottler
+tile.for.carpenter.name=§7Carpenter
+tile.for.centrifuge.name=§7Centrifuge
+tile.for.fermenter.name=§7Fermenter
+tile.for.moistener.name=§7Moistener
+tile.for.squeezer.name=§7Squeezer
+tile.for.still.name=§7Still
+tile.for.rainmaker.name=§7Rainmaker
+tile.for.fabricator.name=§7Thermionic Fabricator
+tile.for.raintank.name=§7Rain Tank
+tile.for.worktable.name=§7Worktable
+
+tile.for.mailbox.name=§7Mailbox
+tile.for.trade_station.name=§7Trade Station
+tile.for.stamp_collector.name=§7Stamp Collector
+
+tile.for.apiculture.name=§7Apiary
+tile.for.apiculture.0.name=§7蜂箱
+tile.for.apiculture.2.name=§7簡易蜂房
+tile.for.alveary.0.name=§7蜂箱組
+
+for.gui.page=§7頁面

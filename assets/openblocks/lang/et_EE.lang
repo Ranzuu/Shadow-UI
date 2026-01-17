@@ -1,0 +1,31 @@
+openblocks.gui.blocks=§7Plokid
+openblocks.gui.items=§7Asjad
+openblocks.gui.misc=§7Muu
+openblocks.gui.changelogs=§7Changelogs
+
+openblocks.gui.features=§7Features
+openblocks.gui.bugfixes=§7Bugfixes
+openblocks.gui.tweaks=§7Tweaks
+
+openblocks.gui.luggage=§7Kohver
+openblocks.gui.sprinkler=§7Vihmuti
+openblocks.gui.vacuumhopper=§7Vaakum Püüdja
+openblocks.gui.bigbutton=§7Suur Nupp
+openblocks.gui.xpbottler=§7XP Pudeldaja
+openblocks.gui.autoanvil=§7Automaatne Alasi
+openblocks.gui.autoeject=§7Automaatne väljastamine
+openblocks.gui.autoextract=§7Automaatne väljavõtmine
+openblocks.gui.autodrink=§7Automaat joo
+openblocks.gui.autoenchantmenttable=§7Automaatne Loitsimislaud
+openblocks.gui.donationstation=§7Annetus Jaam
+openblocks.gui.itemdropper=§7Asjade Heitja
+openblocks.gui.blockplacer=§7Ploki Asetaja
+openblocks.gui.paintmixer=§7Värvi Segaja
+openblocks.gui.drawingtable=§7Joonistus Laud
+openblocks.gui.digitalfuse=§7Digital Fuse
+openblocks.gui.xp_outputs=§7XP Outputs
+openblocks.gui.item_outputs=§7Item Outputs
+openblocks.gui.max_level=§7Max. Level: %d
+openblocks.gui.save_folder=§7Save folder
+
+tile.openblocks.trophy.entity.name=%s §9Trophy

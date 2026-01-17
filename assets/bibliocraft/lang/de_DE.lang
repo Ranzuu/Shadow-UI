@@ -1,0 +1,48 @@
+FramedChest.name=§7Eingerahmte Truhe
+
+gui.painting.showFrame=§7Rahmen zeigen
+gui.painting.hideFrame=§7Rahmen verstecken
+gui.painting.scale=§7Größe
+gui.painting.resolution=§7Auflösung
+gui.painting.aspectRatio=§7Seitenverhältnis
+gui.painting.size=§7Gemäldegröße
+gui.painting.rotation=§7Drehung
+gui.painting.corner=§7Stützecke
+
+gui.paintpress.page=§7Seite
+gui.paintpress.of=§7von
+
+gui.paintpress.transfer=§7Transfer
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Spezifisch
+
+gui.sign.scale=§7Schriftgröße
+gui.sign.format=§7Formatierung
+gui.sign.linenum=§7Zeilen#
+
+gui.sign.left=§7Links
+gui.sign.center=§7Mitte
+gui.sign.right=§7Rechts
+
+gui.sign.tooltip1=§7Klicke auf eine Box oder drücke Tab, um ein Bearbeitungspanel auszuwählen. Tab wird durch die Panels rotieren.
+
+gui.fancyworkbench=§7Schicke Werkbank
+
+gui.armorstand=§7Rüstungsstand
+gui.bookcase=§7Bücherschrank
+gui.cookiejar=§7Keksglas
+gui.shelf=§7Regal
+gui.label=§7Schildchen
+gui.potionshelf=§7Trankregal
+gui.table=§7Tisch
+gui.case=§7Schaukasten
+gui.toolrack=§7Werkzeugregal
+gui.desk=§7Schreibtisch
+gui.mapWaypoint.accept=§7Annehmen
+gui.mapWaypoint.remove=§7Entfernen
+gui.mapWaypoint.cancel=§7Abbrechen
+gui.mapWaypoint.waypoint=§7Wegpunkt
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Teller
+gui.discRack=§7Plattenregal

@@ -1,0 +1,34 @@
+oc:gui.Assembler.Collect=§7Toma el robot
+oc:gui.Assembler.Complexity=§7Complejidad: %s/%s
+oc:gui.Assembler.InsertCase=§7Inserta un gabinete o una carcasa
+oc:gui.Assembler.InsertCPU=§7Inserta una CPU
+oc:gui.Assembler.InsertRAM=§7Inserta algo de RAM
+oc:gui.Assembler.Progress=§7Progreso: %s%% (%s)
+
+oc:gui.Rack.Back=§7Atrás
+oc:gui.Rack.Bottom=§7Abajo
+oc:gui.Rack.Left=§7Izquierda
+oc:gui.Rack.None=§7Ninguno
+oc:gui.Rack.Right=§7Derecha
+oc:gui.Rack.Enabled=§7Habilitado
+oc:gui.Rack.Disabled=§4Deshabilitado
+oc:gui.Rack.Top=§7Arriba
+
+oc:gui.Switch.TransferRate=§7Tasa de ciclos
+oc:gui.Switch.PacketsPerCycle=§7Paquetes / ciclo
+oc:gui.Switch.QueueSize=§7Tamaño de la cola
+
+# Containers
+oc:container.AccessPoint=§7Access Point
+oc:container.Adapter=§7Adapter
+oc:container.Case=§7Computer
+oc:container.Charger=§7Charger
+oc:container.Disassembler=§7Disassembler
+oc:container.DiskDrive=§7Disk Drive
+oc:container.Printer=§7Printer
+oc:container.Raid=§7Raid
+oc:container.Relay=§7Relay
+oc:container.Server=§7Server
+oc:container.Rack=§7Rack
+oc:container.Switch=§7Switch
+oc:container.TabletWrapper=§7Tablet

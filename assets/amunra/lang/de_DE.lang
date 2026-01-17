@@ -1,0 +1,30 @@
+tile.gravity.name=§7Gravitationsgenerator
+tile.machines1.0.name=§7Radioisotope Generator
+tile.isotopeGeneratorBasic.name=§7Radioisotopengenerator
+tile.isotopeGeneratorAdvanced.name=§7Verbesserter Radioisotopengenerator
+
+tile.hydroponics.name=§7Hydrokultur-Einheit
+tile.hydroponics.plant=§7Sähen
+tile.hydroponics.harvest=§7Ernten
+tile.hydroponics.fertilize=§7Düngen
+tile.hydroponics.noplant=§7Keine Pflanze
+tile.hydroponics.plantstatus=§7Pflanzenstatus
+
+tile.aluChest.name=§7Aluminiumtruhe
+tile.steelChest.name=§7Stahltruhe
+
+gui.message.mothership.status.name=§7Status
+tile.shuttleDock.name=§7Shuttle-Dock
+
+gui.checkbox.show_visual_guide=§7Gebiet zeigen
+gui.checkbox.invert_force=§7Nach oben
+gui.message.force.strength=§7Stärke
+gui.message.energy_usage=§7Energieverbrauch
+
+entity.robotVillager.name=§7Roboter-Dorfbewohner
+entity.porcodon.name=§7Porcodon
+entity.sentryRobot.name=§7Sentry
+entity.osirisBoss.name=§7Untoter Pharaoh
+entity.alienVillagerAR.name=§7Alien-Dorfbewohner
+entity.alienBug.name=§7Pincer Bug
+entity.GalacticraftAmunRa.Shuttle.name=§7Shuttle Rocket

@@ -1,0 +1,16 @@
+text.backpack.rename=§7重命名你的背包
+text.backpack.new_name=§7新名称:
+text.backpack.backpack_slot=§7背包的格子
+text.backpack.update_available=§7更多背包Mod的新版本:%s 已经更新
+text.backpack.up_to_date=§7当前的更多背包Mod是最新版本
+text.backpack.allowed_backpacks=§7你的物品栏里不可以有超过%s个背包
+text.backpack.dropped_backpacks=§7有%s个在你的物品栏里的背包被清理丢在了地上
+text.backpack.autopickup=§7自动捡取:
+text.backpack.recipes=§7配方
+text.backpack.configuration=§7更多背包 配置文件
+
+button.backpack.ok=§7确认
+button.backpack.cancel=§7取消
+
+key.personalBackpack=§7打开背包
+key.categories.backpack=§7背包

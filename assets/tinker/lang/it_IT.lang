@@ -1,0 +1,56 @@
+crafters.ToolStation=§7T.d. attrezzi
+crafters.ToolForge=§7Forgia
+crafters.TinkerTable=§7Tavolo dell'armeggiatore
+crafters.PartBuilder=§7Costruttrice di parti
+crafters.PatternShaper=§7Tavolo dei modelli
+crafters.CraftingStation=§7Tavolo da lavoro
+crafters.Smeltery=§7Fonderia
+
+inventory.PatternChest=§7Baule per modelli
+
+gui.partcrafter1=§7Costruire parti
+gui.partcrafter2=§7Costruire parti
+gui.partcrafter3=§7Per incominciare metti un modello e un materiale sulla sinistra.
+gui.partcrafter4=§7Durabilità base: 
+gui.partcrafter5=§7Modifica del manico: 
+gui.partcrafter6=§7Velocità di scavo: 
+gui.partcrafter7=§7Livello di scavo: 
+gui.partcrafter8=§7 Cuore
+gui.partcrafter9=§7 Cuori
+gui.partcrafter10=§7Attacco: 
+gui.partcrafter11=§7Durabilità totale: 
+gui.stenciltable1=§7Modello seguente
+gui.stenciltable2=§7Modello precedente
+gui.toolforge1=§7Riparare e modificare
+gui.toolforge2=§7Qui puoi riparare o modificare i tuoi attrezzi. Per incominciare metti un attrezzo e un materiale sulla sinistra.
+gui.toolstation1=§7Durabilità: 
+gui.toolstation2=§7Durabilità: 
+gui.toolstation3=§7Attacco: 
+gui.toolstation4=§7Bonus: 
+gui.toolstation5=§7Perdità: 
+gui.toolstation6=§7Velocità di tensione: 
+gui.toolstation7=§7Velocità della freccia: 
+gui.toolstation8=§7Peso: 
+gui.toolstation9=§7Precisione: 
+gui.toolstation10=§7Danno base: 
+gui.toolstation11=§7Danno con arco corto: 
+gui.toolstation12=§7Velocità di scavo: 
+gui.toolstation13=§7Livello di mietitura: 
+gui.toolstation14=§7Velocità di scavo: 
+gui.toolstation15=§7Livello di scavo: 
+gui.toolstation16=§7Velocità dell'uso: 
+gui.toolstation17=§7Modificatori
+gui.toolstation18=§7Modificatori rimanenti: 
+gui.toolstation19=§7Riduzione danno: 
+gui.toolstation20=§7Protezione: 
+gui.toolstation21=§7Munizioni: 
+gui.toolstation22=§7Possib. rottura: 
+gui.toolstation23=§7Danno max: 
+
+entity.TConstruct.EdibleSlime.name=§7Gelatina blu
+entity.TConstruct.KingSlime.name=§7Re gelatina
+entity.TConstruct.Gardeslime.name=§7Gelatina guardiano
+entity.TConstruct.MiniGardy.name=§7Gelatina guardiano
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

@@ -1,0 +1,14 @@
+tile.gendustry.mutagen_producer.name=§7뮤타젠 생성기
+tile.gendustry.mutatron.name=§7뮤타트론
+tile.gendustry.mutatron_adv.name=§7고급 뮤타트론
+tile.gendustry.apiary.name=§7산업 양봉기
+tile.gendustry.imprinter.name=§7유전자 각인기
+tile.gendustry.sampler.name=§7유전자 샘플 추출기
+tile.gendustry.extractor.name=§7DNA 추출기
+tile.gendustry.liquifier.name=§7단백질 액화장치
+tile.gendustry.replicator.name=§7유전자 복제기
+tile.gendustry.transposer.name=§7유전자 전환기
+
+gendustry.label.select=§7Select:
+
+

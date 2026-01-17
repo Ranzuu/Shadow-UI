@@ -1,0 +1,144 @@
+genetics.machine.machine.isolator=§7基因分离器
+genetics.machine.machine.sequencer=§7测序仪
+genetics.machine.machine.polymeriser=§7PCR 仪
+genetics.machine.machine.inoculator=§7基因注射器
+genetics.machine.labMachine.analyser=§7分析仪
+genetics.machine.labMachine.incubator=§7恒温箱
+genetics.machine.labMachine.genepool=§7基因池
+genetics.machine.labMachine.acclimatiser=§7适应性调整器
+genetics.machine.advMachine.splicer=§7基因拼接器
+
+genetics.gui.geneBank=§7基因数据库
+
+genetics.machine.sequencer.gui.sequensedBy=§7该基因将由 %s 完成序列化
+genetics.machine.sequencer.gui.willNotSave=§7无用序列，将直接丢弃
+
+genetics.gui.geneBank=§7基因数据库
+genetics.gui.geneBank.info=§7信息
+genetics.gui.geneBank.stats=§7状态
+genetics.gui.geneBank.ranking=§7评级
+genetics.gui.geneBank.project=§7全基因组计划
+genetics.gui.geneBank.sequencedGenes=§7已测序 %d/%d 基因
+genetics.gui.geneBank.sequencedGenes.short=§7%d/%d 基因
+
+genetics.gui.analyst.info=§7将蜜蜂、树苗、花或蝴蝶等样本放置于左上格子中。若样本还未经分析过，则还需要添加 DNA 染料。本设备还可将原版树苗转化成可供杂交的树苗。
+genetics.gui.analyst.registry=§7图鉴
+genetics.gui.analyst.page.hours=§7%s 小时
+genetics.gui.analyst.page.minutes=§7%s 分钟
+genetics.gui.analyst.page.seconds=§7%s 秒
+genetics.gui.analyst.chromosome.active=§7活跃：%s
+genetics.gui.analyst.chromosome.inactive=§7非活跃：%s
+genetics.gui.analyst.karyogram=§7核型
+genetics.gui.analyst.specimen=§7样本
+
+genetics.gui.analyst.appearance=§7外观
+genetics.gui.analyst.appearance.primaryColor=§7主要花色
+genetics.gui.analyst.appearance.secondColor=§7次要花色
+genetics.gui.analyst.appearance.stemColor=§7茎色
+
+genetics.gui.analyst.behaviour=§7行为
+genetics.gui.analyst.behaviour.effect=§7效果：%s
+genetics.gui.analyst.behaviour.pollinatesNearby=§7授粉对象：
+genetics.gui.analyst.behaviour.withinBlocks=§7授粉范围：%d 方块
+genetics.gui.analyst.behaviour.everyTime=§7授粉频率：每 %s
+genetics.gui.analyst.behaviour.territory=§7活动范围：%dx%dx%d
+genetics.gui.analyst.behaviour.metabolism=§7代谢：%s
+
+genetics.gui.analyst.biology=§7生物学指征
+genetics.gui.analyst.biology.allDay=§7全天活动
+genetics.gui.analyst.biology.night=§7夜间活动
+genetics.gui.analyst.biology.day=§7白天活动
+genetics.gui.analyst.biology.notRain=§7不耐雨
+genetics.gui.analyst.biology.rain=§7耐雨
+genetics.gui.analyst.biology.underground=§7可在地下活动
+genetics.gui.analyst.biology.notUnderground=§7不能在地下活动
+genetics.gui.analyst.biology.flammable=§7可燃
+genetics.gui.analyst.biology.nonflammable=§7抗燃
+genetics.gui.analyst.biology.sappiness=§7多汁：%s
+genetics.gui.analyst.biology.fertility.drones=§7每个蜂巢产出 %d 工蜂
+genetics.gui.analyst.biology.fertility.drone=§7每个蜂巢产出 1 工蜂
+genetics.gui.analyst.biology.fertility.moths=§7死亡前产出 %d 只幼虫
+genetics.gui.analyst.biology.fertility.moth=§7死亡前产出 1 只幼虫
+genetics.gui.analyst.biology.fertility.leaves=§7每 %d 个树叶掉落 1 树苗
+genetics.gui.analyst.biology.fertility.leaf=§7每 1 个树叶掉落 1 树苗
+genetics.gui.analyst.biology.caterpillarGestation=§7幼虫妊娠
+genetics.gui.analyst.biology.flightSpeed=§7飞行速度
+genetics.gui.analyst.biology.blocksPerSec=§7%d 方块每秒
+genetics.gui.analyst.biology.mothSpawn.perLeaf=§7蝴蝶生成频率\n每个树叶 %s
+genetics.gui.analyst.biology.mothSpawn=§7蝴蝶生成频率\n%s
+genetics.gui.analyst.biology.plantTypes=§7植物类型
+genetics.gui.analyst.biology.averageLifespan=§7平均寿命
+genetics.gui.analyst.biology.pollination=§7授粉
+genetics.gui.analyst.biology.seedDispersal=§7种子传播
+genetics.gui.analyst.biology.perLifetime=§7%d／每个生命周期
+genetics.gui.analyst.biology.mcDays=§7%s MC日
+
+genetics.gui.analyst.climate=§7气候
+genetics.gui.analyst.climate.biomes=§7生物群系
+genetics.gui.analyst.climate.humidity=§7湿度耐受
+genetics.gui.analyst.climate.temperature=§7温度耐受
+
+genetics.gui.analyst.soil=§7土壤
+genetics.gui.analyst.soil.moistureTolerance=§7湿度耐受
+genetics.gui.analyst.soil.pHTolerance=§7酸碱度耐受
+genetics.gui.analyst.soil.recommendedSoil=§7推荐土壤
+genetics.gui.analyst.soil.otherSoils=§7其他土壤
+
+genetics.gui.analyst.genome.active=§7活跃基因
+genetics.gui.analyst.genome.inactive=§7非活跃基因
+
+genetics.gui.analyst.growth=§7生长
+genetics.gui.analyst.growth.mature=§7生长时间：
+genetics.gui.analyst.growth.height=§7高度：%s
+genetics.gui.analyst.growth.girth=§7干围：%s
+genetics.gui.analyst.growth.conditions=§7生长条件
+
+genetics.gui.analyst.mutations=§7突变
+genetics.gui.analyst.mutations.habitat=§7发现地
+genetics.gui.analyst.mutations.habitat.any=§7野外蜂巢
+genetics.gui.analyst.mutations.habitat.villagers=§7村民处购买
+genetics.gui.analyst.mutations.habitat.chest=§7地牢箱子
+genetics.gui.analyst.mutations.resultantMutations=§7导向突变
+genetics.gui.analyst.mutations.furtherMutations=§7次代突变
+genetics.gui.analyst.mutations.chance=§7%d%% 概率
+genetics.gui.analyst.mutations.chance.current=§7（当前为 %d%%）
+genetics.gui.analyst.mutations.unknownMutation=§7未知突变
+genetics.gui.analyst.mutations.unknown=§7未知
+
+genetics.gui.analyst.description=§7描述
+genetics.gui.analyst.description.unknown=§7<未知>
+genetics.gui.analyst.description.discoveredBy=§7由 %s 发现
+genetics.gui.analyst.description.complexity=§7基因复杂度：%s
+
+genetics.gui.analyst.produce=§7产物
+genetics.gui.analyst.produce.rate=§7概率：%s
+genetics.gui.analyst.produce.natural=§7自然产物
+genetics.gui.analyst.produce.speciality=§7特殊产物
+genetics.gui.analyst.produce.refined=§7精加工产物
+genetics.gui.analyst.produce.centrifuge=§7离心后可获得：
+genetics.gui.analyst.produce.squeezes=§7压榨后可获得：
+genetics.gui.analyst.produce.everyTime=§7每 %s
+
+genetics.gui.analyst.fruit=§7果实
+genetics.gui.analyst.fruit.yield=§7产量：%s
+genetics.gui.analyst.fruit.natural=§7自然产物
+genetics.gui.analyst.fruit.speciality=§7特殊产物
+genetics.gui.analyst.fruit.refined=§7精加工产物
+genetics.gui.analyst.fruit.possible=§7可能的果实
+genetics.gui.analyst.fruit.none=§7这种树不结果实
+
+genetics.gui.analyst.wood=§7木材
+genetics.gui.analyst.wood.fireproof=§7防火
+genetics.gui.analyst.wood.flammable=§7可燃
+genetics.gui.analyst.wood.logs=§7原木
+genetics.gui.analyst.wood.products=§7精加工产物
+genetics.gui.analyst.wood.noFruits=§7这种树不结果实
+
+genetics.nei.tip.loss=§7损耗:
+genetics.nei.tip.noConsume=§7不被消耗
+genetics.nei.tip.effect=§7效果: %s
+genetics.nei.tip.temperature=§7温度
+genetics.nei.tip.humidity=§7湿度
+genetics.nei.tip.processSpeed=§7%dx 处理速度
+genetics.nei.tip.rf=§7%dx 处理速度
+genetics.nei.tip.databaseDesc=§7打开数据库并拿起一个空血清瓶. 点击已测序的血清以应用.

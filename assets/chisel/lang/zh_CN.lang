@@ -1,0 +1,9 @@
+#Container
+container.chisel=§7凿子
+container.chisel.title=§7雕刻方块
+container.chisel.titleShort=§7雕刻
+container.chisel.mode=§7模式:
+container.chisel.mode.single=§7单个雕刻
+container.chisel.mode.panel=§7范围雕刻
+container.chisel.mode.column=§7竖向雕刻
+container.chisel.mode.row=§7横向雕刻

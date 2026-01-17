@@ -1,0 +1,54 @@
+tile.for.engine.0.name=§7전기 엔진
+tile.for.engine.1.name=§7토탄 엔진
+tile.for.engine.2.name=§7바이오가스 엔진
+tile.for.engine.3.name=§7바이오연료 발전기
+tile.for.engine.4.name=§7시계태엽 엔진
+
+tile.for.factory.0.name=§7보틀러
+tile.for.factory.1.name=§7카펜터
+tile.for.factory.2.name=§7원심분리기
+tile.for.factory.3.name=§7발효기
+tile.for.factory.4.name=§7습윤기
+tile.for.factory.5.name=§7압착기
+tile.for.factory.6.name=§7증류기
+tile.for.factory.7.name=§7기후 제어기
+tile.for.factory2.0.name=§7열이온 세공기
+tile.for.factory2.1.name=§7빗물저류조
+tile.for.factory2.2.name=§7목공 작업대
+
+tile.for.mail.0.name=§7편지함
+tile.for.mail.1.name=§7거래소
+tile.for.mail.2.name=§7스탬프 콜랙션
+
+tile.for.core.name=§7Analyzer / Escritoire
+tile.for.analyzer.name=§7Analyzer
+tile.for.escritoire.name=§7Escritoire
+
+tile.for.engine_electrical.name=§7Electrical Engine
+tile.for.engine_peat.name=§7Peat-fired Engine
+tile.for.engine_biogas.name=§7Biogas Engine
+tile.for.engine_generator.name=§7Bio Generator
+tile.for.engine_clockwork.name=§7Clockwork Engine
+
+tile.for.bottler.name=§7Bottler
+tile.for.carpenter.name=§7Carpenter
+tile.for.centrifuge.name=§7Centrifuge
+tile.for.fermenter.name=§7Fermenter
+tile.for.moistener.name=§7Moistener
+tile.for.squeezer.name=§7Squeezer
+tile.for.still.name=§7Still
+tile.for.rainmaker.name=§7Rainmaker
+tile.for.fabricator.name=§7Thermionic Fabricator
+tile.for.raintank.name=§7Rain Tank
+tile.for.worktable.name=§7Worktable
+
+tile.for.mailbox.name=§7Mailbox
+tile.for.trade_station.name=§7Trade Station
+tile.for.stamp_collector.name=§7Stamp Collector
+
+tile.for.apiculture.name=§7Apiary
+tile.for.apiculture.0.name=§7양봉기
+tile.for.apiculture.2.name=§7비 하우스
+tile.for.alveary.0.name=§7알베어리
+
+for.gui.page=§7페이지

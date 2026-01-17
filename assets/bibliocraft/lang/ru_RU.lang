@@ -1,0 +1,48 @@
+FramedChest.name=§7Каркасный сундук
+
+gui.painting.showFrame=§7Показать рамку
+gui.painting.hideFrame=§7Спрятать рамку
+gui.painting.scale=§7Размер
+gui.painting.resolution=§7Разрешение
+gui.painting.aspectRatio=§7Соотношение сторон
+gui.painting.size=§7Размер картины
+gui.painting.rotation=§7Поворот
+gui.painting.corner=§7Главный угол
+
+gui.paintpress.page=§7Стр.
+gui.paintpress.of=§7из
+
+gui.paintpress.transfer=§7Напечатать
+gui.paintpress.vanilla=§7Внутриигровые
+gui.paintpress.custom=§7Другие
+
+gui.sign.scale=§7Размер текста
+gui.sign.format=§7Форматир.
+gui.sign.linenum=§7Строка#
+
+gui.sign.left=§7Влево
+gui.sign.center=§7По центру
+gui.sign.right=§7Вправо
+
+gui.sign.tooltip1=§7Установите флажок или нажмите tab, чтобы выбрать панель редактирования. Tab прокручивает панели.
+
+gui.fancyworkbench=§7Красивый верстак
+
+gui.armorstand=§7Стойка для брони
+gui.bookcase=§7Книжный шкаф
+gui.cookiejar=§7Банка для печенья
+gui.shelf=§7Деревянная полка
+gui.label=§7Деревянная бирка
+gui.potionshelf=§7Полка для зелий
+gui.table=§7Деревянный стол
+gui.case=§7Витрина
+gui.toolrack=§7Стеллаж для инструментов
+gui.desk=§7Деревянный письменный стол
+gui.mapWaypoint.accept=§7Подтвердить
+gui.mapWaypoint.remove=§7Удалить
+gui.mapWaypoint.cancel=§7Отмена
+gui.mapWaypoint.waypoint=§7Метка
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Обеденная тарелка
+gui.discRack=§7Стойка для пластинок

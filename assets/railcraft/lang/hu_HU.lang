@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7Acél tartály
+railcraft.gui.tank.water=§7Víztartály
+railcraft.gui.steam.boiler=§7 Gőzkazán
+railcraft.gui.blast.furnace=§7 Nagy olvasztókemence
+railcraft.gui.coke.oven=§7Kokszolókemence
+railcraft.gui.steam.oven=§7Gőzsütő
+railcraft.gui.turbine.output=§7Kimenet: @d%%
+railcraft.gui.turbine.rotor=§7Rotor:
+railcraft.gui.turbine=§7Gőzturbina
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Arány: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7Biztosíték
+railcraft.gui.cart.track.relayer.pattern=§7Mintázat
+railcraft.gui.cart.track.relayer.stock=§7Készlet
+railcraft.gui.cart.undercutter.pattern=§7Mintázat
+railcraft.gui.cart.undercutter.sides=§7Oldalsó elemek
+railcraft.gui.cart.undercutter.stock=§7Készlet
+railcraft.gui.cart.undercutter.under=§7Alulra helyezendő elem
+
+railcraft.gui.feed.station.feed=§7Étel
+railcraft.gui.filter=§7Szűrő
+railcraft.gui.filters.carts=§7Csillék
+railcraft.gui.filters=§7Szűrők
+railcraft.gui.item.loader.buffer=§7Buffer
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7Rolling Machine
+tile.railcraft.machine.alpha.feed.station.name=§7Feed Station
+tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
+tile.railcraft.machine.alpha.anchor.admin.name=§7Admin Anchor
+tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7Personal Anchor
+tile.railcraft.machine.alpha.anchor.world.name=§7World Anchor
+railcraft.gui.anchor.fuel.remaining=§7@.2f óra
+railcraft.gui.anchor.fuel=§7Végzet gyöngye
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7High Pressure Boiler Tank
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Low Pressure Boiler Tank
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Hobbyist's Steam Engine
+tile.railcraft.machine.beta.engine.steam.low.name=§7Commercial Steam Engine
+tile.railcraft.machine.beta.engine.steam.high.name=§7Industrial Steam Engine
+tile.railcraft.machine.beta.chest.void.name=§7Void Chest
+tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
+
+railcraft.gui.box.aspect.action=§7Vöröskőjel kibocsátása aspektus szerint
+
+railcraft.gui.detector.item.analog=§7Analóg
+railcraft.gui.detector.item.anything=§7Akármi
+railcraft.gui.detector.item.at_least=§7Legalább
+railcraft.gui.detector.item.at_most=§7Legfeljebb
+railcraft.gui.detector.item.empty=§7Üres
+railcraft.gui.detector.item.exactly=§7Pontosan
+railcraft.gui.detector.item.filtered=§7Szűrt
+railcraft.gui.detector.item.full=§7Telített
+railcraft.gui.detector.item.greater_than=§7Nagyobb mint
+railcraft.gui.detector.item.less_than=§7Kisebb mint
+railcraft.gui.detector.item.not_empty=§7Nem üres
+railcraft.gui.detector.loco.primary=§7Elsődleges szín
+railcraft.gui.detector.loco.secondary=§7Másodlagos szín
+railcraft.gui.detector.tank.tip.analog=§7Analóg vöröskőjel kibocsátása\n a tankban lévő mennyiség alapján
+railcraft.gui.detector.tank.tip.empty=§7Üres a tank
+railcraft.gui.detector.tank.tip.full=§7Teli a tank
+railcraft.gui.detector.tank.tip.half=§7Több mint félig teli a tank
+railcraft.gui.detector.tank.tip.less.than.full=§7Kevesebb, mint teli a tank
+railcraft.gui.detector.tank.tip.less.than.half=§7Kevesebb, mint félig teli a tank
+railcraft.gui.detector.tank.tip.less.than.most=§7Kevesebb, mint 3/4-ig teli a tank
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Kevesebb, mint negyedig teli a tank
+railcraft.gui.detector.tank.tip.most=§7Több, mint teli a tank
+railcraft.gui.detector.tank.tip.not.empty=§7Nem üres a tank
+railcraft.gui.detector.tank.tip.quarter=§7Több, mint negyedig teli a tank
+railcraft.gui.detector.tank.tip.void=§7Bármilyen mennyiség is van a tankban
+railcraft.gui.detector.train.size=§7Vonat mérete = @d
+railcraft.gui.detector.villager.any=§7Bármi
+railcraft.gui.detector.villager.equals=§7Egyenlő
+railcraft.gui.detector.villager.none=§7Semmi
+railcraft.gui.detector.villager.not=§7Nem
+
+tile.railcraft.machine.gamma.loader.item.name=§7Item Loader
+tile.railcraft.machine.gamma.unloader.item.name=§7Item Unloader
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Adv. Item Loader
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Adv. Item Unloader
+tile.railcraft.machine.gamma.loader.liquid.name=§7Fluid Loader
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Fluid Unloader
+tile.railcraft.machine.gamma.loader.energy.name=§7Energy Loader
+tile.railcraft.machine.gamma.unloader.energy.name=§7Energy Unloader
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Cart Dispenser
+tile.railcraft.machine.gamma.dispenser.train.name=§7Train Dispenser

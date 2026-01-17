@@ -1,0 +1,195 @@
+## ARGB Hex Colors: Name and value
+## gui.color.appliedenergistics2 + enum GuiColors
+## https://github.com/gaogao-qwq/Applied-Energistics-2-Unofficial/blob/e8c89344472b306d10987ebf555eedfe086e1e76/src/main/java/appeng/core/localization/GuiColors.java
+
+## ShadowUI AE2 colors
+# Text: 0xFFABAAAA
+# Main Background: 0xFF4A4948
+# Button icon color inactive: 0xFF8B8B8B
+# Button icon color pressed: 0xFF6A6A6A
+
+# Button background color inactive: 0xFF434241
+# Button background color pressed: 0xFF3C3B3A
+# Button background color hovered: 0xFF555452
+
+# Color Blue Light: 0xFF2A63C1
+# Color Blue Dark: 0xFF2344A1
+# Color Orange Light: 0xFFC46632
+# Color Orange Dark: 0XFFAB502C
+# Color Green Light: 0xFF7AC25F
+# Color Green Dark: 0XFF4E8F46k
+# Color Yellow Light: 0xFFFFF70F
+# Color Yellow Dark: 0XFFD6CF0C
+# Color Red Light: 0xFFB13E53
+# Color Red Dark: 0XFF68353F
+
+# Transparency%  0 10 20 30 40 50 60 70 80 90 100
+# Alpha         FF E6 CC B3 99 80 66 4D 33 1A 00
+
+gui.color.appliedenergistics2.SearchboxFocused=6E000000
+gui.color.appliedenergistics2.SearchboxUnfocused=00000000
+
+gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=80000000
+gui.color.appliedenergistics2.ItemSlotOverlayInvalid=66C46632
+
+gui.color.appliedenergistics2.CraftConfirmMissingItem=33B13E53
+
+gui.color.appliedenergistics2.CraftingCPUActive=4D7AC25F
+gui.color.appliedenergistics2.CraftingCPUInactive=4DFFF70F
+
+gui.color.appliedenergistics2.InterfaceTerminalMatch=667AC25F
+
+gui.color.appliedenergistics2.SearchboxText=FFABAAAA
+
+gui.color.appliedenergistics2.CraftingCPUTitle=FFABAAAA
+gui.color.appliedenergistics2.CraftingCPUStored=FFABAAAA
+gui.color.appliedenergistics2.CraftingCPUAmount=FFABAAAA
+gui.color.appliedenergistics2.CraftingCPUScheduled=FFABAAAA
+
+gui.color.appliedenergistics2.CraftingStatusCPUName=FFABAAAA
+gui.color.appliedenergistics2.CraftingStatusCPUStorage=FFABAAAA
+gui.color.appliedenergistics2.CraftingStatusCPUAmount=FFABAAAA
+
+gui.color.appliedenergistics2.CraftAmountToCraft=FFABAAAA
+gui.color.appliedenergistics2.CraftAmountSelectAmount=FFABAAAA
+
+gui.color.appliedenergistics2.LevelEmitterValue=FFABAAAA
+
+gui.color.appliedenergistics2.PriorityTitle=FFABAAAA
+gui.color.appliedenergistics2.PriorityValue=FFABAAAA
+
+gui.color.appliedenergistics2.ChestTitle=FFABAAAA
+gui.color.appliedenergistics2.ChestInventory=FFABAAAA
+
+gui.color.appliedenergistics2.CondenserTitle=FFABAAAA
+gui.color.appliedenergistics2.CondenserInventory=FFABAAAA
+
+gui.color.appliedenergistics2.CraftConfirmCraftingPlan=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmSimulation=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmFromStorage=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmPercent25=FF2A63C1
+gui.color.appliedenergistics2.CraftConfirmPercent50=FF7AC25F
+gui.color.appliedenergistics2.CraftConfirmPercent75=FFC46632
+gui.color.appliedenergistics2.CraftConfirmPercent100=FFB13E53
+gui.color.appliedenergistics2.CraftConfirmMissing=FFABAAAA
+gui.color.appliedenergistics2.CraftConfirmToCraft=FFABAAAA
+
+gui.color.appliedenergistics2.CraftingTerminalTitle=FFABAAAA
+
+gui.color.appliedenergistics2.DriveTitle=FFABAAAA
+gui.color.appliedenergistics2.DriveInventory=FFABAAAA
+
+gui.color.appliedenergistics2.FormationPlaneTitle=FFABAAAA
+gui.color.appliedenergistics2.FormationPlaneInventory=FFABAAAA
+
+gui.color.appliedenergistics2.GrindStoneTitle=FFABAAAA
+gui.color.appliedenergistics2.GrindStoneInventory=FFABAAAA
+
+gui.color.appliedenergistics2.InscriberTitle=FFABAAAA
+gui.color.appliedenergistics2.InscriberInventory=FFABAAAA
+
+gui.color.appliedenergistics2.InterfaceTitle=FFABAAAA
+
+gui.color.appliedenergistics2.InterfaceTerminalTitle=FFABAAAA
+gui.color.appliedenergistics2.InterfaceTerminalInventory=FFABAAAA
+gui.color.appliedenergistics2.InterfaceTerminalName=FFABAAAA
+
+gui.color.appliedenergistics2.IOPortTitle=FFABAAAA
+gui.color.appliedenergistics2.IOPortInventory=FFABAAAA
+
+gui.color.appliedenergistics2.NetworkStatusDetails=FFABAAAA
+gui.color.appliedenergistics2.NetworkBytesDetails=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusStoredPower=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusMaxPower=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusPowerInputRate=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusPowerUsageRate=FFABAAAA
+gui.color.appliedenergistics2.NetworkStatusItemCount=FFABAAAA
+
+gui.color.appliedenergistics2.NetworkToolTitle=FFABAAAA
+gui.color.appliedenergistics2.AdvancedNetworkToolTitle=FFABAAAA
+gui.color.appliedenergistics2.NetworkToolInventory=FFABAAAA
+gui.color.appliedenergistics2.AdvancedNetworkToolInventory=FFABAAAA
+
+gui.color.appliedenergistics2.OreFilterLabel=FFABAAAA
+gui.color.appliedenergistics2.OreFilterTextLength=FFABAAAA
+gui.color.appliedenergistics2.OreFilterTextLengthFull=FFB13E53
+
+gui.color.appliedenergistics2.PatternTerminalTitle=FFABAAAA
+gui.color.appliedenergistics2.PatternTerminalEx=FFABAAAA
+
+gui.color.appliedenergistics2.QuantumLinkChamberTitle=FFABAAAA
+gui.color.appliedenergistics2.QuantumLinkChamberInventory=FFABAAAA
+
+gui.color.appliedenergistics2.QuartzCuttingKnifeTitle=FFABAAAA
+gui.color.appliedenergistics2.QuartzCuttingKnifeInventory=FFABAAAA
+
+gui.color.appliedenergistics2.RenamerTitle=FFABAAAA
+
+gui.color.appliedenergistics2.SecurityCardEditorTitle=FFABAAAA
+
+gui.color.appliedenergistics2.SkyChestTitle=FFABAAAA
+gui.color.appliedenergistics2.SkyChestInventory=FFABAAAA
+
+gui.color.appliedenergistics2.SpatialIOTitle=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOInventory=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOStoredPower=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOMaxPower=FFABAAAA
+gui.color.appliedenergistics2.SpatialIORequiredPower=FFABAAAA
+gui.color.appliedenergistics2.SpatialIOEfficiency=FFABAAAA
+
+gui.color.appliedenergistics2.StorageBusTitle=FFABAAAA
+gui.color.appliedenergistics2.StorageBusInventory=FFABAAAA
+
+gui.color.appliedenergistics2.UpgradableTitle=FFABAAAA
+gui.color.appliedenergistics2.UpgradableInventory=FFABAAAA
+
+gui.color.appliedenergistics2.VibrationChamberTitle=FFABAAAA
+gui.color.appliedenergistics2.VibrationChamberInventory=FFABAAAA
+
+gui.color.appliedenergistics2.WirelessTitle=FFABAAAA
+gui.color.appliedenergistics2.WirelessInventory=FFABAAAA
+gui.color.appliedenergistics2.WirelessRange=FFABAAAA
+gui.color.appliedenergistics2.WirelessPowerUsageRate=FFABAAAA
+
+gui.color.appliedenergistics2.NEIGrindstoneRecipeChance=FFABAAAA
+gui.color.appliedenergistics2.NEIGrindstoneNoSecondOutput=FFABAAAA
+
+gui.color.appliedenergistics2.MEMonitorableTitle=FFABAAAA
+gui.color.appliedenergistics2.MEMonitorableInventory=FFABAAAA
+gui.color.appliedenergistics2.DefaultBlack=FFABAAAA
+
+gui.color.appliedenergistics2.CellStatusOrange=FFC46632
+gui.color.appliedenergistics2.CellStatusRed=FFB13E53
+gui.color.appliedenergistics2.CellStatusBlue=2A63C1
+gui.color.appliedenergistics2.CellStatusGreen=7AC25F
+
+gui.color.appliedenergistics2.SearchHighlight=FFC46632
+gui.color.appliedenergistics2.SearchGoToHighlight=FFC46632
+
+gui.color.appliedenergistics2.ProcessBarStartColor=CCB13E53
+gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
+gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
+
+ae2fc.gui.color.StateIdle=FF7AC25F
+ae2fc.gui.color.StateCraft=FFFFF70F
+ae2fc.gui.color.StateExport=FF2A63C1
+ae2fc.gui.color.StateError=FFB13E53
+
+#Additions
+gui.appliedenergistics2.CPUs=§7Процессор
+gui.appliedenergistics2.NoCraftingJobs=§7Немає активного завдання на створення
+gui.appliedenergistics2.NoCraftingCPUs=§7Процесори для створення не доступні
+gui.appliedenergistics2.CraftingCPU=§7Створення процесора
+gui.appliedenergistics2.StartWithFollow=§7Start With Follow
+gui.appliedenergistics2.ToFollow=§7Follow
+gui.appliedenergistics2.ToUnfollow=§7Unfollow
+gui.appliedenergistics2.Start=§7Почати
+gui.appliedenergistics2.Next=§7Далі
+gui.appliedenergistics2.Suspend=§7Suspend
+gui.appliedenergistics2.Resume=§7Resume
+gui.appliedenergistics2.Cancel=§7Скасувати
+gui.appliedenergistics2.Terminal=§7Термінал
+gui.appliedenergistics2.Set=§7Встановити
+gui.appliedenergistics2.IncreaseAmount=§7+%s
+gui.appliedenergistics2.DecreaseAmount=§7-%s
+gui.appliedenergistics2.AddToBookmark=§7Bookmark

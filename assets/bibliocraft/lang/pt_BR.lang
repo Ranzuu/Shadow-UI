@@ -1,0 +1,48 @@
+FramedChest.name=§7Baú Encaixilhado
+
+gui.painting.showFrame=§7Mostrar Borda
+gui.painting.hideFrame=§7Esconder Borda
+gui.painting.scale=§7Escala
+gui.painting.resolution=§7Resolução
+gui.painting.aspectRatio=§7Proporção
+gui.painting.size=§7Tamanho da Tela
+gui.painting.rotation=§7Giro
+gui.painting.corner=§7Ancoragem
+
+gui.paintpress.page=§7Página
+gui.paintpress.of=§7de
+
+gui.paintpress.transfer=§7Transferir
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Personalizado
+
+gui.sign.scale=§7Tamanho do Texto
+gui.sign.format=§7Formato
+gui.sign.linenum=§7Linha número
+
+gui.sign.left=§7Esquerda
+gui.sign.center=§7Centro
+gui.sign.right=§7Direita
+
+gui.sign.tooltip1=§7Clique numa caixa ou pressione Tab para selecionar um painel de edição. Tab alternará entre paineis.
+
+gui.fancyworkbench=§7Bancada de Trabalho Sofisticada
+
+gui.armorstand=§7Suporte de Armadura
+gui.bookcase=§7Estante de Livros
+gui.cookiejar=§7Pote de Biscoitos
+gui.shelf=§7Estante de Madeira
+gui.label=§7Rótulo de Madeira
+gui.potionshelf=§7Estante de Poções
+gui.table=§7Mesa de Madeira
+gui.case=§7Estojo
+gui.toolrack=§7Porta-Ferramentas
+gui.desk=§7Escrivaninha de Madeira
+gui.mapWaypoint.accept=§7Aceitar
+gui.mapWaypoint.remove=§7Remover
+gui.mapWaypoint.cancel=§7Cancelar
+gui.mapWaypoint.waypoint=§7Marcador
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Prato
+gui.discRack=§7Porta-Discos

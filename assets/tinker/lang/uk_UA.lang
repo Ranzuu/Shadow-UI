@@ -1,0 +1,56 @@
+crafters.ToolStation=§7Інженерна станція
+crafters.ToolForge=§7Інженерна кузня
+crafters.TinkerTable=§7Стіл інженера
+crafters.PartBuilder=§7Конструктор деталей
+crafters.PatternShaper=§7Стіл для вирізки шаблонів
+crafters.CraftingStation=§7Верстак інженера
+crafters.Smeltery=§7Плавильня
+
+inventory.PatternChest=§7Скриня для шаблонів
+
+gui.partcrafter1=§7Створення частин
+gui.partcrafter2=§7Збір частин
+gui.partcrafter3=§7Помістіть шаблон і матеріал зліва, щоб почати.
+gui.partcrafter4=§7Базова міцність: 
+gui.partcrafter5=§7Модифікатор руків'я: 
+gui.partcrafter6=§7Швидкість видобутку: 
+gui.partcrafter7=§7Рівень видобутку: 
+gui.partcrafter8=§7 Серце
+gui.partcrafter9=§7 Серця
+gui.partcrafter10=§7Attack: 
+gui.partcrafter11=§7Повна міцність: 
+gui.stenciltable1=§7Наст. шаблон
+gui.stenciltable2=§7Попер. шаблон
+gui.toolforge1=§7Ремонт і модифікація
+gui.toolforge2=§7Основний спосіб відремонтувати або змінити інструменти. Покладіть інструмент і матеріал зліва, щоб почати.
+gui.toolstation1=§7Міцність:
+gui.toolstation2=§7Міцність: 
+gui.toolstation3=§7Шкода: 
+gui.toolstation4=§7Бонус: 
+gui.toolstation5=§7Втрати: 
+gui.toolstation6=§7Швидкість натягування: 
+gui.toolstation7=§7Швидкість стріли: 
+gui.toolstation8=§7Вага: 
+gui.toolstation9=§7Точність: 
+gui.toolstation10=§7Базова шкода:
+gui.toolstation11=§7Шкода короткого лука:
+gui.toolstation12=§7Швидкості видобутку: 
+gui.toolstation13=§7Рівні збору:
+gui.toolstation14=§7Швидкість видобутку: 
+gui.toolstation15=§7Рівень видобутку 
+gui.toolstation16=§7Швидкість використання: 
+gui.toolstation17=§7Модифікатори
+gui.toolstation18=§7Залишилися модифікатори: 
+gui.toolstation19=§7Зменшення шкоди: 
+gui.toolstation20=§7Захист: 
+gui.toolstation21=§7Боєзапас: 
+gui.toolstation22=§7Шанс поломки: 
+gui.toolstation23=§7Макс. шкода: 
+
+entity.TConstruct.EdibleSlime.name=§7Блакитний слиз
+entity.TConstruct.KingSlime.name=§7Король слизнів
+entity.TConstruct.Gardeslime.name=§7Слиз-охоронець
+entity.TConstruct.MiniGardy.name=§7Малий слиз-охоронець
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

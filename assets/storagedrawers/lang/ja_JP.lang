@@ -1,0 +1,8 @@
+storageDrawers.container.drawers=§7ひきだし
+storageDrawers.container.compDrawers=§7変換ひきだし
+storageDrawers.container.upgrades=§7アップグレード
+storageDrawers.container.controller=§7ひきだしコントローラ
+storageDrawers.container.unboundSlave=§7孤立している
+storageDrawers.container.framingTable=§7Framing Table
+
+storagedrawers.msg.maxUpgrades=§7このひきだしはこれ以上機能を追加できません

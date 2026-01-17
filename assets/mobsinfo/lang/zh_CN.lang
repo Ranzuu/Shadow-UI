@@ -1,0 +1,111 @@
+#This file is a translation file for Mobs Info
+
+#NEI
+mobsinfo.mobhandler.normal_drops=§7常规掉落
+mobsinfo.mobhandler.rare_drops=§7稀有掉落
+mobsinfo.mobhandler.additional_drops=§7额外掉落
+mobsinfo.mobhandler.infernal_drops=§7精英掉落
+mobsinfo.mobhandler.infernal_cannot=§7无法生成精英怪
+mobsinfo.mobhandler.infernal_can=§6可以生成精英怪
+mobsinfo.mobhandler.infernal_always=§4总是生成精英怪
+mobsinfo.mobhandler.mod=§7来自于: 
+mobsinfo.mobhandler.max_health=§7最大生命值：
+mobsinfo.mobhandler.boss=§6§lBoss生物
+mobsinfo.mobhandler.cannot_use_vial=§7不能被灵魂瓶捕捉。
+mobsinfo.mobhandler.chance=§7几率： %.2f%%
+mobsinfo.mobhandler.average_reminder=§7请注意，这些是掉落物的大概的平均值！
+mobsinfo.mobhandler.lootable=§7掠夺附魔生效时。
+mobsinfo.mobhandler.player_only=§4Hard player-only
+mobsinfo.mobhandler.peaceful_allowed=§2可在和平模式下生成。
+mobsinfo.mobhandler.locked=§7To unlock more information,
+mobsinfo.mobhandler.locked_1=§7you have to kill the mob!
+mobsinfo.mobhandler.unlocked=§7You have unlocked new mob information!
+mobsinfo.mobhandler.extended_info=§7Please remember that drop chances and sizes are
+mobsinfo.mobhandler.extended_info_1=§7average based on all possibilities
+mobsinfo.mobhandler.extended_info_2=§7That means that 100% doesn't always mean that it will always drop!
+mobsinfo.mobhandler.extended_info_3=§7As for example it could mean that there is
+mobsinfo.mobhandler.extended_info_4=§7equal chances to drop 0 or 1 or 2 items,
+mobsinfo.mobhandler.extended_info_5=§7which averages at 1 drop every time (100%)
+mobsinfo.mobhandler.spawns_everywhere=§7Spawns everywhere
+mobsinfo.mobhandler.spawns_in=§7§nSpawns in %d places...
+mobsinfo.mobhandler.spawns_not_in=§7§nSpawns everywhere but %d places...
+mobsinfo.mobhandler.wither_skeleton_name=§7Wither Skeleton
+
+mobsinfo.villagertradeshandler.name=§7Name: 
+mobsinfo.villagertradeshandler.mod=§7Mod: 
+mobsinfo.villagertradeshandler.chance=§7Chance: %.2f%%
+mobsinfo.villagertradeshandler.real_chance=§7Chance per level up: %.2f%%
+
+mobsinfo.mobhandlerinfernal.title=§7精英怪战利品一览表
+mobsinfo.mobhandlerinfernal.format=§7类型:
+mobsinfo.mobhandlerinfernal.format_1=§7战利品名称 - x% (y%)
+mobsinfo.mobhandlerinfernal.format_2=§7x-获得几率
+mobsinfo.mobhandlerinfernal.format_3=§7y-获得几率-当生物被
+mobsinfo.mobhandlerinfernal.format_4=§4总是以精英怪形式生成。
+mobsinfo.mobhandlerinfernal.elite=§7精英掉落 - %.2f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.ultra=§7超级掉落 - %.3f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.inferno=§7究极掉落 - %.3f%% (%.3f%%)
+mobsinfo.mobhandlerinfernal.tooltip_chance=§7总体有%.4f%%的几率掉落。
+mobsinfo.mobhandlerinfernal.tooltip_chance_always=§7当总为精英怪时，总体有%.4f%%的几率掉落。
+
+#Extras (compatibility)
+mobsinfo.extras.minecraft_slime=§6仅在史莱姆是最小的时候掉落
+mobsinfo.extras.minecraft_magma_cube=§6仅在岩浆怪不是最小的时候掉落
+mobsinfo.extras.chance=§7几率: %.2f%%
+mobsinfo.extras.base_chance=§7基础几率: %.2f%%
+mobsinfo.extras.variable_chance=§7可变化的几率
+mobsinfo.extras.drops_only_using=§6当被%s干掉时，才会掉落。
+mobsinfo.extras.drops_only_in_dimension=§6只在以下几个维度掉落：%s
+mobsinfo.extras.drops_only_with_weakness=§6当且仅当干掉的生物身上带有虚弱I效果时，才会掉落。
+mobsinfo.extras.drops_only_with_weakness_2=§6Drops only when the mob has weakness potion (II or higher) effect applied
+mobsinfo.extras.drops_only_with_enchant=§6当且仅当生物被附魔有%s的武器干掉时，才会掉落。
+mobsinfo.extras.each_level_of_gives=§7%s每增加一级给%s
+mobsinfo.extras.or_biome=§7或者%.2f%%在%s生物群系
+mobsinfo.extras.or_using=§7抑或当使用%s来干掉%.2f%%
+mobsinfo.extras.halloween_only=§7Drops only on Halloween
+mobsinfo.extras.yuletide_only=§7Drops only in Yuletide
+mobsinfo.extras.yuletide_day_only=§7Drops only on Yuletide day
+
+mobsinfo.extras.avaritia_skull_sword=§6当且仅当在使用烈焰之啄颅剑干掉它时才只掉落这个头颅
+mobsinfo.extras.draconic_evolution_mob_soul=§4基于收割者附魔等级以及武器 |
+mobsinfo.extras.draconic_evolution_mob_soul_1=等级 |  无  | I | II | III | IV | V
+mobsinfo.extras.draconic_evolution_mob_soul_2=任意/没有 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_3=双足飞龙剑/双足飞龙弓 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_4=神龙剑/神龙弓 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_5=神龙物品的能力 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.powered_creeper=§6当且仅当被苦力怕炸飞时，才会掉落。
+mobsinfo.extras.forbidden_magic_non_player=§6当且仅当被非玩家实体干掉时候，才会掉落。
+mobsinfo.extras.open_blocks_small_chance=§7几率：小
+mobsinfo.extras.tinkers_construct_beheading=§7每一级斩首强化都会增加%.2f%%的几率。
+mobsinfo.extras.tinkers_construct_beheading_1=§7如果你使用劈刀干掉它，它还会额外增加%.2f%%的几率。
+mobsinfo.extras.witchery_vampire_book=§6当且仅当玩家手中有吸血鬼之书时，才会掉落。
+mobsinfo.extras.witchery_warewolf=§6当且仅当被狼人撕碎时。
+mobsinfo.extras.bloodmagic_demon_shards=§6Drops only when spawned using Demon Portal or hit with dagger of sacrifice
+mobsinfo.extras.bloodmagic_demon_placer=§6Drops only when NOT spawned using Demon Portal and NOT hit with dagger of sacrifice
+mobsinfo.extras.etfuturum_powered_creeper=§6Drops only when killed by powered creeper
+mobsinfo.extras.etfuturum_wither_rose=§6Dropped or placed* only when killed by the Wither
+mobsinfo.extras.etfuturum_wither_rose_1=§7*Placed on the ground (in place of the mob) only if it is possible
+mobsinfo.extras.lycanites_mobs_or_on_yuletide_day=§7Or %.2f%% on Yuletide day
+
+#Spawn info
+mobsinfo.spawninfo.biome=§7Biome: 
+mobsinfo.spawninfo.structure=§7Structure: 
+mobsinfo.spawninfo.event=§7Event: 
+
+#Commands
+mobsinfo.commandhandler.invalid=§c无效使用 ! 该指令的正确使用是 /%s
+mobsinfo.commandhandler.cant_find=§c找不到指令选项 %s
+mobsinfo.commandhandler.generic_help=§c你还可以用 "/mobsinfo help" 获取可能的指令
+mobsinfo.commandhandler.usage=<选项>
+mobsinfo.command.help.possible_commands=可能的指令：
+mobsinfo.command.help.usage=- 显示所有可能的指令
+mobsinfo.command.config.invalid_option=§c无效选项 ! 可能的选项：reload
+mobsinfo.command.config.success=§a配置(Config)重新加载成功 !
+mobsinfo.command.config.usage=<选项>
+mobsinfo.command.hidden.usage=<player> <unlock/lock/reset/unlockall> [mob name]
+mobsinfo.command.hidden.invalid_mob=§cInvalid mob name!
+mobsinfo.command.hidden.lock_error=§cMob isn't unlocked for the player or the name is invalid!
+mobsinfo.command.hidden.success=§aSuccess!
+mobsinfo.command.hidden.invalid=§cInvalid options! The correct usage is: %s
+
+mobsinfo.mobhandler.wither_skeleton_name=§7Wither Skeleton

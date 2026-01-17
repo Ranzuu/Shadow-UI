@@ -1,0 +1,33 @@
+#English (US)
+tile.SolarWindPanel.name=§7Панель Солнечного Ветра
+tile.StorageModuleT3.0.name=§7Advanced Energy Cluster
+tile.StorageModuleT3_4.name=§7Advanced Energy Cluster
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2_4.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.name=§7Улучшенное Хранилище Кислорода
+tile.SolarPanel.name=§7Гибридная Солнечная Панель
+tile.GeothermalGenerator.name=§7Геотермальный Генератор
+tile.FuelGenerator.name=§7Топливный Генератор
+tile.AssemblyMachine.name=§7Сборочный Цех
+tile.ConverterSurface.name=§7Преобразователь Грунта
+
+entity.GalacticraftCore.Crawler.name=§7Волнэскор
+entity.GalacticraftCore.EvolvedBlaze.name=§7Эволюционировавший Ифрит
+entity.GalacticraftCore.EvolvedBossBlaze.name=§7Эволюционировавший Босс Ифрит
+entity.GalacticraftCore.EvolvedBossGhast.name=§7Эволюционировавший Босс Гаст
+entity.GalacticraftCore.EvolvedBossSlime.name=§7Эволюционировавший Босс Слизень
+entity.GalacticraftCore.EvolvedBossWolf.name=§7Эволюционировавший Босс Волк
+entity.GalacticraftCore.EvolvedColdBlaze.name=§7Эволюционировавший Замерший Ифрит
+entity.GalacticraftCore.EvolvedCrystalBoss.name=§7Эволюционировавший Кристалльный Босс
+entity.GalacticraftCore.EvolvedEnderman.name=§7Эволюционировавший Странник Края
+entity.GalacticraftCore.EvolvedFireCreeper.name=§7Эволюционировавший Огненный Крипер
+entity.GalacticraftCore.EvolvedFireSkeleton.name=§7Эволюционировавший Огненный Скелет
+entity.GalacticraftCore.EvolvedFireSpider.name=§7Эволюционировавший Огненный Паук
+entity.GalacticraftCore.EvolvedGuardian.name=§7Эволюционировавший Страж Вод
+entity.GalacticraftCore.SpaceshipT4.name=§7Ракета 4-го уровня
+entity.GalacticraftCore.SpaceshipT5.name=§7Ракета 5-го уровня
+entity.GalacticraftCore.SpaceshipT6.name=§7Ракета 6-го уровня
+entity.GalacticraftCore.SpaceshipT7.name=§7Ракета 7-го уровня
+entity.GalacticraftCore.SpaceshipT8.name=§7Ракета 8-го уровня
+entity.GalacticraftCore.Tentacles.name=§7Природное Щупальце

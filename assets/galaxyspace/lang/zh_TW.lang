@@ -1,0 +1,33 @@
+#English (US)
+tile.SolarWindPanel.name=§7Solar Wind Panel
+tile.StorageModuleT3.0.name=§7Advanced Energy Cluster
+tile.StorageModuleT3_4.name=§7Advanced Energy Cluster
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2_4.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.name=§7Advanced Oxygen Module
+tile.SolarPanel.name=§7Hybrid Solar Panel
+tile.GeothermalGenerator.name=§7岩漿發電機
+tile.FuelGenerator.name=§7Fuel Generator
+tile.AssemblyMachine.name=§7熔合機
+tile.ConverterSurface.name=§7Surface Converter
+
+entity.GalacticraftCore.Crawler.name=§7飛魚座爬行蛇
+entity.GalacticraftCore.EvolvedBlaze.name=§7烈焰人(進化體)
+entity.GalacticraftCore.EvolvedBossBlaze.name=§7烈焰人之王(進化體)
+entity.GalacticraftCore.EvolvedBossGhast.name=§7惡魂之王(進化體)
+entity.GalacticraftCore.EvolvedBossSlime.name=§7史萊姆之王(進化體)
+entity.GalacticraftCore.EvolvedBossWolf.name=§7狼之王(進化體)
+entity.GalacticraftCore.EvolvedColdBlaze.name=§7寒冰烈焰人(進化體)
+entity.GalacticraftCore.EvolvedCrystalBoss.name=§7水晶之王(進化體)
+entity.GalacticraftCore.EvolvedEnderman.name=§7末影人(進化體)
+entity.GalacticraftCore.EvolvedFireCreeper.name=§7火焰爬行者(進化體)
+entity.GalacticraftCore.EvolvedFireSkeleton.name=§7火焰骷髏(進化體)
+entity.GalacticraftCore.EvolvedFireSpider.name=§7火焰蜘蛛(進化體)
+entity.GalacticraftCore.EvolvedGuardian.name=§7守護者(進化體)
+entity.GalacticraftCore.SpaceshipT4.name=§74階火箭
+entity.GalacticraftCore.SpaceshipT5.name=§75階火箭
+entity.GalacticraftCore.SpaceshipT6.name=§76階火箭
+entity.GalacticraftCore.SpaceshipT7.name=§77階火箭
+entity.GalacticraftCore.SpaceshipT8.name=§78階火箭
+entity.GalacticraftCore.Tentacles.name=§7自然之手

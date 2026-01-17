@@ -1,0 +1,107 @@
+#Internal Blocks
+tile.blockThermalMonitor.name=§7Датчик температуры
+tile.blockIndustrialAlarm.name=§7Промышленная сирена
+tile.blockHowlerAlarm.name=§7Сирена «Ревун»
+tile.blockRemoteThermo.name=§7Дистанционный датчик температуры
+tile.blockInfoPanel.name=§7Промышленная информационная панель
+tile.blockInfoPanelExtender.name=§7Расширитель информационной панели
+tile.blockAdvancedInfoPanel.name=§7Продвинутая информационная панель
+tile.blockAdvancedInfoPanelExtender.name=§7Расширитель продвинутой информационной панели
+tile.nclight0.name=§7Белый светильник
+tile.nclight1.name=§7Белый светильник
+tile.nclight2.name=§7Оранжевый светильник
+tile.nclight3.name=§7Оранжевый светильник
+tile.blockEnergyCounter.name=§7Энергосчётчик
+tile.blockAverageCounter.name=§7Стационарный энергосчётчик
+tile.blockRangeTrigger.name=§7Дистанционный триггер
+
+#Integration Blocks
+tile.blockBRPart.name=§7Реакторный монитор
+tile.NetworkLink.name=§7Монитор ME-сети
+
+#Original Screen Messages
+msg.nc.HowlerAlarmSoundRange=§7Дальность звука: %s
+msg.nc.HowlerAlarmSound=§7Звук
+msg.nc.ThermalMonitorSave=§7Сохранить настройки
+msg.nc.ThermalMonitorSignalAt=§7Сигнал на %s тепла
+msg.nc.Thermo=§7Темп. корпуса: %s
+msg.nc.ThermoDigital=§7Темп. корпуса: %s (Вода испаряется при: %s / плавится: %s)
+msg.nc.SensorKit=§7Дистанционный датчик установлен, карта-датчик получена
+
+msg.nc.InfoPanelOutOfRange=§7Вне диапазона
+msg.nc.InfoPanelInvalidCard=§7Недействительная карта
+msg.nc.InfoPanelNoTarget=§7Цель не найдена
+
+msg.nc.InfoPanelOn=§7Включена
+msg.nc.InfoPanelOff=§7Выключена
+msg.nc.InfoPanelHeat=§7Т: %s
+msg.nc.InfoPanelMaxHeat=§7Макс. нагрев: %s
+msg.nc.InfoPanelMelting=§7Плавление: %s
+msg.nc.InfoPanelOutput=§7Выход: %sEU/т
+msg.nc.InfoPanelOutputMJ=§7Выход: %sMJ/т
+msg.nc.InfoPanelOutputSteam=§7Выход: %smB/т
+msg.nc.InfoPanelTimeRemaining=§7Осталось: %s
+
+msg.nc.InfoPanelEnergyCounter=§7Энергия: %sEU
+msg.nc.InfoPanelEnergyCounterMJ=§7Энергия: %s RF
+
+msg.nc.InfoPanelEnergy=§7Энергия: %s
+msg.nc.InfoPanelEnergyFree=§7Свободно: %s
+msg.nc.InfoPanelEnergyStorage=§7Хранится: %s
+msg.nc.InfoPanelEnergyPercentage=§7Заполнено: %s%%
+
+msg.nc.cbInfoPanelLiquidName=§7Название жидкости
+msg.nc.cbInfoPanelLiquidAmount=§7Количество
+msg.nc.cbInfoPanelLiquidCapacity=§7Ёмкость
+msg.nc.cbInfoPanelLiquidFree=§7Свободно
+msg.nc.cbInfoPanelLiquidPercentage=§7Процент заполнения
+
+msg.nc.InfoPanelLiquidName=§7Название: %s
+msg.nc.InfoPanelLiquidAmount=§7Количество: %s
+msg.nc.InfoPanelLiquidCapacity=§7Ёмкость: %s
+msg.nc.InfoPanelLiquidFree=§7Свободно: %s
+msg.nc.InfoPanelLiquidPercentage=§7Заполнено: %s%%
+
+msg.nc.InfoPanelNotFoundN=§7#%d Не найдено
+msg.nc.InfoPanelOutOfRangeN=§7#%d Вне диапазона
+msg.nc.InfoPanelEnergyN=§7#%d Энергия: %s
+msg.nc.InfoPanelEnergyFreeN=§7#%d Свободно: %s
+msg.nc.InfoPanelEnergyStorageN=§7#%d Хранилище: %s
+msg.nc.InfoPanelEnergyPercentageN=§7#%d Заполнено: %s%%
+msg.nc.InfoPanelLiquidNameN=§7#%d Название: %s
+msg.nc.InfoPanelLiquidN=§7#%d Количество: %s
+msg.nc.InfoPanelLiquidFreeN=§7#%d Свободно: %s
+msg.nc.InfoPanelLiquidCapacityN=§7#%d Ёмкость: %s
+msg.nc.InfoPanelLiquidPercentageN=§7#%d Заполнено: %s%%
+
+msg.nc.InfoPanelTime=§7Время: %s
+
+msg.nc.cbInfoPanelOnOff=§7Вкл./Выкл. Состояние
+msg.nc.cbInfoPanelHeat=§7Уровень Нагрева
+msg.nc.cbInfoPanelMaxHeat=§7Макс. Нагрев
+msg.nc.cbInfoPanelMelting=§7Температура Плавления
+msg.nc.cbInfoPanelOutput=§7Выход (EU/т)
+msg.nc.cbInfoPanelTimeRemaining=§7Время до окончания цикла
+msg.nc.cb24h=§724-часовой режим
+
+msg.nc.cbInfoPanelEnergyCurrent=§7Энергия
+msg.nc.cbInfoPanelEnergyStorage=§7Хранилище
+msg.nc.cbInfoPanelEnergyFree=§7Свободно
+msg.nc.cbInfoPanelEnergyEach=§7Информация по каждой карте
+msg.nc.cbInfoPanelEnergyTotal=§7Суммарно
+msg.nc.cbInfoPanelEnergyPercentage=§7Процент заполнения
+msg.nc.EnergyCardQuantity=§7Количество карт: %d
+msg.nc.AverageCounterPeriod=§7Период: %sсек.
+
+msg.nc.LiquidCardQuantity=§7Количество карт: %d
+
+msg.nc.cbInfoPanelLiquidEach=§7Информация по каждой карте
+msg.nc.cbInfoPanelLiquidTotal=§7Суммарно
+
+msg.nc.Reset=§7Сброс
+msg.nc.ScreenColor=§7Цветной экран
+msg.nc.TextColor=§7Цветной текст
+msg.nc.None=§7N/A
+nc.msg.notValid=§7Эта карта не может быть совместима
+nc.msg.notValid2=§7с дистанционным датчиком
+nc.msg.notValid3=§7Попробуйте открыть интерфейс заново

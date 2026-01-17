@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§7Näring
+gui.nutrition:close=§7Avsluta
+gui.nutrition:updating=§7Uppdaterar...
+
+# Nutrients
+nutrient.nutrition:grain=§7Spannmål
+nutrient.nutrition:fruit=§7Frukt
+nutrient.nutrition:vegetable=§7Grönsaker
+nutrient.nutrition:protein=§7Protein
+nutrient.nutrition:dairy=§7Mejeri

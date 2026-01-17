@@ -1,0 +1,107 @@
+#Internal Blocks
+tile.blockThermalMonitor.name=§7Monitor de Temperatura
+tile.blockIndustrialAlarm.name=§7Alarme Industrial
+tile.blockHowlerAlarm.name=§7Alarme Vibrador
+tile.blockRemoteThermo.name=§7Monitor de Temperatura Remoto
+tile.blockInfoPanel.name=§7Painel de Informação Industrial
+tile.blockInfoPanelExtender.name=§7Extendedor do Painel de Informação
+tile.blockAdvancedInfoPanel.name=§7Painel de Informação Avançado
+tile.blockAdvancedInfoPanelExtender.name=§7Extendedor do Painel Avançado
+tile.nclight0.name=§7Lâmpada Branca
+tile.nclight1.name=§7Lâmpada Branca
+tile.nclight2.name=§7Orange Lamp
+tile.nclight3.name=§7Orange Lamp
+tile.blockEnergyCounter.name=§7Contador de Energia
+tile.blockAverageCounter.name=§7Contador da Média
+tile.blockRangeTrigger.name=§7Gatilho de Alcance
+
+#Integration Blocks
+tile.blockBRPart.name=§7Reactor Monitor
+tile.NetworkLink.name=§7ME Network Monitor
+
+#Original Screen Messages
+msg.nc.HowlerAlarmSoundRange=§7Alcance do Som: %s
+msg.nc.HowlerAlarmSound=§7Som
+msg.nc.ThermalMonitorSave=§7Salvar Configuração
+msg.nc.ThermalMonitorSignalAt=§7Sinal a %s de Temp
+msg.nc.Thermo=§7Temp do Casco: %s
+msg.nc.ThermoDigital=§7Temp do Casco: %s (Água Evapora em: %s / Derrete em: %s)
+msg.nc.SensorKit=§7Sensor Remoto Montado, Cartão de Local do Sensor Recebido
+
+msg.nc.InfoPanelOutOfRange=§7Fora do Alcance
+msg.nc.InfoPanelInvalidCard=§7Cartão Inválido
+msg.nc.InfoPanelNoTarget=§7Alvo não Encontrado
+
+msg.nc.InfoPanelOn=§7On
+msg.nc.InfoPanelOff=§7Off
+msg.nc.InfoPanelHeat=§7Temp: %s
+msg.nc.InfoPanelMaxHeat=§7Temp Max: %s
+msg.nc.InfoPanelMelting=§7Derretimento: %s
+msg.nc.InfoPanelOutput=§7Saída: %sEU/t
+msg.nc.InfoPanelOutputMJ=§7Saída: %sMJ/t
+msg.nc.InfoPanelOutputSteam=§7Saída: %smB/t
+msg.nc.InfoPanelTimeRemaining=§7Restando: %s
+
+msg.nc.InfoPanelEnergyCounter=§7Energia: %sEU
+msg.nc.InfoPanelEnergyCounterMJ=§7Energia: %sMJ
+
+msg.nc.InfoPanelEnergy=§7Armazenado: %s
+msg.nc.InfoPanelEnergyFree=§7Livre: %s
+msg.nc.InfoPanelEnergyStorage=§7Capacidade: %s
+msg.nc.InfoPanelEnergyPercentage=§7Porcentagem: %s%%
+
+msg.nc.cbInfoPanelLiquidName=§7Nome
+msg.nc.cbInfoPanelLiquidAmount=§7Armazenado
+msg.nc.cbInfoPanelLiquidCapacity=§7Capacidade
+msg.nc.cbInfoPanelLiquidFree=§7Livre
+msg.nc.cbInfoPanelLiquidPercentage=§7Porcentagem
+
+msg.nc.InfoPanelLiquidName=§7Nome: %s
+msg.nc.InfoPanelLiquidAmount=§7Armazenado: %s
+msg.nc.InfoPanelLiquidCapacity=§7Capacidade: %s
+msg.nc.InfoPanelLiquidFree=§7Livre: %s
+msg.nc.InfoPanelLiquidPercentage=§7Porcentagem: %s%%
+
+msg.nc.InfoPanelNotFoundN=§7#%d Não Encontrado
+msg.nc.InfoPanelOutOfRangeN=§7#%d Fora de Alcance
+msg.nc.InfoPanelEnergyN=§7#%d Armazenado: %s
+msg.nc.InfoPanelEnergyFreeN=§7#%d Livre: %s
+msg.nc.InfoPanelEnergyStorageN=§7#%d Capacidade: %s
+msg.nc.InfoPanelEnergyPercentageN=§7#%d Porcentagem: %s%%
+msg.nc.InfoPanelLiquidNameN=§7#%d Nome: %s
+msg.nc.InfoPanelLiquidN=§7#%d Armazenado: %s
+msg.nc.InfoPanelLiquidFreeN=§7#%d Livre: %s
+msg.nc.InfoPanelLiquidCapacityN=§7#%d Capacidade: %s
+msg.nc.InfoPanelLiquidPercentageN=§7#%d Porcentagem: %s%%
+
+msg.nc.InfoPanelTime=§7Hora: %s
+
+msg.nc.cbInfoPanelOnOff=§7Estado On/Off
+msg.nc.cbInfoPanelHeat=§7Temp
+msg.nc.cbInfoPanelMaxHeat=§7MTemp Max
+msg.nc.cbInfoPanelMelting=§7Temp de Derretimento
+msg.nc.cbInfoPanelOutput=§7Saída (EU/t)
+msg.nc.cbInfoPanelTimeRemaining=§7Tempo Para Terminar o Ciclo
+msg.nc.cb24h=§7Modo 24h
+
+msg.nc.cbInfoPanelEnergyCurrent=§7Energia
+msg.nc.cbInfoPanelEnergyStorage=§7Capacidade
+msg.nc.cbInfoPanelEnergyFree=§7Livre
+msg.nc.cbInfoPanelEnergyEach=§7Cada Informação dos Cartões
+msg.nc.cbInfoPanelEnergyTotal=§7Sumário
+msg.nc.cbInfoPanelEnergyPercentage=§7Porcentagem
+msg.nc.EnergyCardQuantity=§7Quantidade de Cartões: %d
+msg.nc.AverageCounterPeriod=§7Período: %ssec
+
+msg.nc.LiquidCardQuantity=§7Quantidade de cartões: %d
+
+msg.nc.cbInfoPanelLiquidEach=§7Cada Informação dos Cartões
+msg.nc.cbInfoPanelLiquidTotal=§7Sumário
+
+msg.nc.Reset=§7Resetar
+msg.nc.ScreenColor=§7Cor da Tela
+msg.nc.TextColor=§7Cor do Texto
+msg.nc.None=§7N/A
+nc.msg.notValid=§7This Card may not be compatible
+nc.msg.notValid2=§7with the Remote Monitor
+nc.msg.notValid3=§7Try reopening the GUI

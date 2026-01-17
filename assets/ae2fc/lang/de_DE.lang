@@ -1,0 +1,50 @@
+ae2fc.tooltip.invalid_fluid=§7Unzulüssige Flüssigkeit!
+ae2fc.tooltip.encode_pattern=§fSchablone kodieren
+ae2fc.tooltip.fluid_packet=§7Benutz einen Flüssigkeitspaketdekodierer\n um hieraus wieder Flüssigkeit zu machen.
+ae2fc.tooltip.empty=§fLeer
+ae2fc.tooltip.dump_tank=§fTank ausleeren
+ae2fc.tooltip.switch_fluid_interface=§fME-Dualkonsolenansicht umschalten
+ae2fc.tooltip.not_combine=§fItems vereinigen
+ae2fc.tooltip.not_combine.hint=§7Aus
+ae2fc.tooltip.combine=§fItems vereinigen
+ae2fc.tooltip.combine.hint=§7An
+
+ae2fc.tooltip.not_prio=§fFlüssigkeiten dürfen zuerst platziert werden
+ae2fc.tooltip.not_prio.hint=§7Aus
+ae2fc.tooltip.prio=§fFlüssigkeiten dürfen zuerst platziert werden
+ae2fc.tooltip.prio.hint=§7An
+
+item.part_fluid_pattern_terminal.name=§fME-Flüssigkeitsschablonenkonsole
+item.part_fluid_pattern_terminal_ex.name=§fME-Flüssigkeitsverarbeitungsschablonenkonsole
+ae2fc.gui.fluid_packet_decoder=§fME-Flüssigkeitspaketdekodierer
+
+ae2fc.gui.part_fluid_pattern_terminal=§7Flüssigkeitsschablonenkonsole
+ae2fc.gui.part_fluid_pattern_terminal_ex=§7Flüssigkeitsverarbeitungsschablonenkonsole
+ae2fc.gui.part_level_terminal=§7Füllstand-Konsole
+ae2fc.gui.fluid_pattern_encoder=§7Flüssigkeitsschablonenkodierer
+ae2fc.gui.fluid_packet_decoder=§7ME-Flüssigkeitspaketdekodierer
+ae2fc.gui.ingredient_buffer=§7Eduktpuffer
+ae2fc.gui.large_ingredient_buffer=§7Großer Eduktpuffer
+ae2fc.gui.fluid_interface=§7ME-Dualschnittstelle
+ae2fc.gui.level_maintainer=§7ME-Pegelhalter
+ae2fc.gui.fluid_interface.0=§7U
+ae2fc.gui.fluid_interface.1=§7H
+ae2fc.gui.fluid_interface.2=§7N
+ae2fc.gui.fluid_interface.3=§7S
+ae2fc.gui.fluid_interface.4=§7W
+ae2fc.gui.fluid_interface.5=§7O
+ae2fc.gui.oc_pattern_editor=§7OC-Schabloneneditor
+ae2fc.gui.button.set=§7Setzen
+ae2fc.gui.part_fluid_level_emitter=§7ME-Flüssigkeitsfüllstandsemitter
+ae2fc.gui.part_fluid_import=§7ME-Flüssigkeits-Importbus
+ae2fc.gui.part_fluid_export=§7ME-Flüssigkeits-Exportbus
+ae2fc.gui.part_fluid_terminal=§7ME-Flüssigkeitskonsole
+ae2fc.gui.part_fluid_storage_bus=§7ME-Flüssigkeitsspeicherbus
+ae2fc.gui.fluid_auto_filler=§7ME-Flüssigkeits-Füllautomat
+
+ae2fc.gui.magnet=§7Magnetfilter
+ae2fc.gui.magnet.nbt=§7NBT-Daten ignorieren
+ae2fc.gui.magnet.meta=§7Metadaten ignorieren
+ae2fc.gui.magnet.ore=§7Ore Dictionary benutzen
+ae2fc.gui.magnet.whitelist=§7Whitelist
+ae2fc.gui.magnet.blacklist=§7Blacklist

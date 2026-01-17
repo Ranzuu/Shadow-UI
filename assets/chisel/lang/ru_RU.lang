@@ -1,0 +1,9 @@
+#Container
+container.chisel=§7Стамеска
+container.chisel.title=§7Обработка блоков
+container.chisel.titleShort=§7Обработка
+container.chisel.mode=§7Режим:
+container.chisel.mode.single=§7Одиночный
+container.chisel.mode.panel=§7Панель
+container.chisel.mode.column=§7Колонна
+container.chisel.mode.row=§7Ряд

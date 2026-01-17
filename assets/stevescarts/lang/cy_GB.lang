@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Cydosodydd Cert
+gui.SC2:basicAssembleInstruction=§7I dechrau creu'r cert, dewiswch plisgyn cert a rhowch yn y slot plisgyn os gwelwch yn dda.
+gui.SC2:invalidHullError=§7Nid yw'r plisgyn cert cafodd ei ychwanegu i'r slot plisgyn yn blisgyn dilys. Dyle fod hyn ddim yn bosib felly mae'n rhaid eich fod wedi wneud rhywbeth od.
+gui.SC2:hullCapacity=§7Cynhwysedd plisgyn
+gui.SC2:complexityCap=§7Uchafswm cymlethdod
+gui.SC2:totalCost=§7Pris cyfanswm
+gui.SC2:totalTime=§7Amser cyfanswm
+gui.SC2:readyMessage=§7Barod i cydosod y cert.
+gui.SC2:assembleProgress=§7Cynydd
+gui.SC2:timeLeft=§7Amer ar ôl
+gui.SC2:idleAssemblerMessage=§7Mae'r cydosodydd yn segur ar y foment.
+gui.SC2:modifyCart=§7Addasu'r cert
+gui.SC2:assembleCart=§7Cydosodwch y cert
+gui.SC2:fuelLevel=§7Lefel tanwydd
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Does gennych chi ddim plisgyn!
+gui.SC2:invalidHullErrorShort=§7Nid yw'r plisgyn cafodd ei ychwanegu yn plisgyn!
+gui.SC2:busyAssemblerError=§7Mae'r cydosodydd yn brysur!
+gui.SC2:departureBayError=§7Mae yna cert yn y bae ymadael.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Rheolwr
+gui.SC2:currentSetting=§7Ar hyn o bryd
+gui.SC2:changeTransferDirection=§7Newid cyfeiriad trosglwyddo
+gui.SC2:directionToCart=§7I’r cert
+gui.SC2:directionFromCart=§7O’r cert
+gui.SC2:changeTurnBack=§7Newid gosodiadau troi nôl
+gui.SC2:turnBackDisabled=§7Dim ochr wedi’i dewis
+gui.SC2:turnBack=§7Troi nôl ar ôl trosglwyddo
+gui.SC2:continueForward=§7Parhau ar ôl trosglwyddo
+gui.SC2:changeTransferSize=§7Newid maint trosglwyddo
+gui.SC2:changeSide=§7Newid ochr
+gui.SC2:currentSide=§7Ochr presennol
+gui.SC2:sideRed=§7Coch
+gui.SC2:sideBlue=§7Glas
+gui.SC2:sideYellow=§7Melyn
+gui.SC2:sideGreen=§7Gwyrdd
+gui.SC2:sideDisabled=§7Wedi’i analluogi
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Llwyth
+gui.SC2:changeSlotLayout=§7Newid cynllun slotiau
+gui.SC2:layoutShared=§7Mae lob slot yn cael eu rhannu gan bob ochr
+gui.SC2:layoutSide=§7Mae gan lob ochr slotiau ei hun
+gui.SC2:layoutColor=§7Mae gan pob lliw slotiau ei hun
+gui.SC2:transferAll=§7Trosglwyddo gymaint sy’n bosib
+gui.SC2:transferItems=§7Trosglwyddo uchafswm o [%1] [%2:item|items]
+gui.SC2:transferStacks=§7Trosglwyddo uchafswm o [%1] [%2:stack|stacks]
+gui.SC2:transferAllShort=§7UCHAF
+gui.SC2:transferItemsShort=§7E
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Newid rhan o’r cert
+gui.SC2:unknownAreaMessage=§7Dewis anhysbus
+gui.SC2:cartAreaAll=§7Pob slot
+gui.SC2:cartAreaEngine=§7Injân
+gui.SC2:cartAreaRailer=§7Rheilenwr
+gui.SC2:cartAreaStorage=§7Slot storfa
+gui.SC2:cartAreaTorches=§7Tortshis
+gui.SC2:cartAreaExplosives=§7Ffrwydron
+gui.SC2:cartAreaArrows=§7Saethau
+gui.SC2:cartAreaBridge=§7Deunydd bont
+gui.SC2:cartAreaSeeds=§7Hadau
+gui.SC2:cartAreaFertilizer=§7Gwrtaith
+gui.SC2:cartAreaSaplings=§7Glasbrennau
+gui.SC2:cartAreaFirework=§7Tân Gwyllt
+gui.SC2:cartAreaBuckets=§7Bwcedi (am godro)
+gui.SC2:cartAreaCakes=§7Cacennau
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Hylif
+gui.SC2:changeTankLayout=§7Newid trefniant tanc
+gui.SC2:layoutSharedTanks=§7Pob tanc yn cael ei rhannu â phob ochr
+gui.SC2:layoutSidedTanks=§7Pob ochr yn cael tanc ei hun
+gui.SC2:layoutColorTanks=§7Pob lliw yn cael tanc(iau) ei hun
+gui.SC2:transferAllLiquid=§7Trosglwyddo gymaint sy’n bosib
+gui.SC2:transferBuckets=§7Trosglwyddo uchafswm o [%1]
+gui.SC2:transferAllLiquidShort=§7UCHAF
+gui.SC2:transferBucketShort=§7B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Toglwr modiwl
+gui.SC2:optionDrill=§7Dril
+gui.SC2:optionShield=§7Tarian
+gui.SC2:optionInvisibility=§7Anweledigrwydd
+gui.SC2:optionChunk=§7Llwytho darn
+gui.SC2:optionCageAuto=§7Casglu cawell yn awtomatig
+gui.SC2:optionCage=§7Casglu cawell
+gui.SC2:settingDisabled=§7Wedi’i ananalluogiablu
+gui.SC2:settingOrange=§7Cyfeiriad oren
+gui.SC2:settingBlue=§7Cyfeiriad glas
+gui.SC2:stateActivate=§7Actifadu
+gui.SC2:stateDeactivate=§7Dadactifadu
+gui.SC2:stateToggle=§7Togl
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Dosbarthwr allanol
+gui.SC2:distributorNotConnected=§7Heb ei cysylltu i unrhyw rheolwyr!
+gui.SC2:sideName=§7Ochr [%1]
+gui.SC2:dropInstruction=§7Gollwng yma i’w ychwanegu i’r dewis
+gui.SC2:removeInstruction=§7Right click to remove Dde cliciwch i diddymu
+gui.SC2:distributorAll=§7Pob un
+gui.SC2:distributorRed=§7Coch
+gui.SC2:distributorBlue=§7Glas
+gui.SC2:distributorYellow=§7Melyn
+gui.SC2:distributorGreen=§7Gwyrdd
+gui.SC2:distributorTopLeft=§7Chwith Top
+gui.SC2:distributorTopRight=§7De Top
+gui.SC2:distributorBottomLeft=§7Chwith Gwaelod
+gui.SC2:distributorBottomRight=§7De Gwaelod
+gui.SC2:distributorToCart=§7I’r cert
+gui.SC2:distributorFromCart=§7O’r cert
+gui.SC2:managerTop=§7Rheolowr Top
+gui.SC2:managerBot=§7Rheolwr Robot
+gui.SC2:distributorSideOrange=§7Oren
+gui.SC2:distributorSidePurple=§7Porffor
+gui.SC2:distributorSideYellow=§7Melyn
+gui.SC2:distributorSideGreen=§7Gwyrdd
+gui.SC2:distributorSideBlue=§7Glas
+gui.SC2:distributorSideRed=§7Coch
+gui.SC2:sideToolTip=§7Ochr: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7ALLBWN
+gui.SC2:operatorAnd=§7AND
+gui.SC2:operatorOr=§7OR
+gui.SC2:operatorNot=§7NOT
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Uned Top
+gui.SC2:operatorBotUnit=§7Uned Gwaelod
+gui.SC2:operatorNorthUnit=§7Uned Gogledd
+gui.SC2:operatorWestUnit=§7Uned Gorllewin
+gui.SC2:operatorSouthUnit=§7Uned De
+gui.SC2:operatorEastUnit=§7Uned Dwyrain
+gui.SC2:operatorRedstone=§7Mewnbwn Carregcoch
+gui.SC2:operatorRedstoneTop=§7Mewnbwn Carregcoch Top
+gui.SC2:operatorRedstoneBot=§7Mewnbwn Carregcoch Gwaelod
+gui.SC2:operatorRedstoneNorth=§7Mewnbwn Carregcoch Gogledd
+gui.SC2:operatorRedstoneWest=§7Mewnbwn Carregcoch Gorllewin
+gui.SC2:operatorRedstoneSouth=§7Mewnbwn Carregcoch De
+gui.SC2:operatorRedstoneEast=§7Mewnbwn Carregcoch Dwyrain
+gui.SC2:stateRails=§7Gyda cyflenwadau rheiliau
+gui.SC2:stateTorches=§7Gyda cyflenwadau tortshis
+gui.SC2:stateSaplings=§7Gyda cyflenwadau glasbrennau
+gui.SC2:sateSeeds=§7Gyda cyflenwadau hadau
+gui.SC2:stateBridge=§7Gyda cyflenwadau bont
+gui.SC2:stateProjectiles=§7Gyda cyflenwadau taflegryn
+gui.SC2:stateFertilizing=§7Gyda cyflenwadau ffrwythlonni
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Ydy’r tarian yn actif
+gui.SC2:stateChunk=§7Ydy’r llwythwr darn yn actif
+gui.SC2:stateInvisibility=§7Ydy’r craidd anweledigrwydd yn actif
+gui.SC2:stateDrill=§7Ydy’r dril yn actif
+gui.SC2:stateCage=§7Ydy caglu cawell yn awtomatig yn actif
+gui.SC2:stateStorageFull=§7Ydy’r storfa yn gwbl llawn
+gui.SC2:stateStorageEmpty=§7Ydy’r storfa yn gwbl gwag
+gui.SC2:statePassenger=§7Gyda teithwr
+gui.SC2:stateAnimal=§7Gyda anifail fel teithwr
+gui.SC2:stateTameable=§7Gyda gallu ddofi fel teithwr
+gui.SC2:stateBreedable=§7Gyda bridiwr fel teithwr
+gui.SC2:stateHostile=§7Gyda gelyn fel teithwr
+gui.SC2:stateCreeper=§7Gyda cripwyr fel teithwr
+gui.SC2:stateSkeleton=§7Gyda sgerbwd fel teithwr
+gui.SC2:stateSpider=§7Gyda pry copyn fel teithwr
+gui.SC2:stateZombie=§7Gyda sombi fel teithwr
+gui.SC2:stateZombiePigMan=§7Gyda den mochyn sombi fel teithwr
+gui.SC2:stateSilverFish=§7Gyda pysgodarian fel teithwr
+gui.SC2:stateBlaze=§7Gyda tânfwystfil fel teithwr
+gui.SC2:stateBat=§7Gyda ystlum fel teithwr
+gui.SC2:stateWitch=§7Gyda gwrach fel teithwr
+gui.SC2:statePig=§7Gyda mochyn fel teithwr
+gui.SC2:stateSheep=§7Gyda dafad fel teithwr
+gui.SC2:stateCow=§7Gyda buwch fel teithwr
+gui.SC2:stateMooshroom=§7Gyda moodarch fel teithwr
+gui.SC2:stateChicken=§7Gyda iâr fel teithwr
+gui.SC2:stateWolf=§7Gyda blaidd fel teithwr
+gui.SC2:stateSnowGolem=§7Gyda golem eira fel teithwr
+gui.SC2:stateOcelot=§7Gyda catch wyllt fel teithwr
+gui.SC2:stateVillager=§7Gyda pentrefwr fel teithwr
+gui.SC2:statePlayer=§7Gyda chwaraewr fel teithwr
+gui.SC2:stateZombieVillager=§7Gyda pentrefwr sombi fel teithwr
+gui.SC2:stateChild=§7Gyda plentyn fel teithwr
+gui.SC2:stateTamed=§7Gyda wedi ddofi fel teithwr
+gui.SC2:statePowerRed=§7Ydy’r sylwedydd pwer[Coch] yn actif
+gui.SC2:statePowerBlue=§7Ydy’r sylwedydd pwer[Glas] yn actif
+gui.SC2:statePowerGreen=§7Ydy’r sylwedydd pwer[Gwyrdd] yn actif
+gui.SC2:statePowerYellow=§7Ydy’r sylwedydd pwer[Melyn] yn actif
+gui.SC2:stateTanksFull=§7Ydy’r tanciau yn gwbl llawn
+gui.SC2:stateTanksEmpty=§7Ydy’r tanciau yn gwbl gwag
+gui.SC2:stateTankEmpty=§7§§Oes yna unrhyw tanciau gwbl gwag

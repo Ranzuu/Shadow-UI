@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7出
+gui.message.in.name=§7入
+gui.message.status.name=§7ステータス
+gui.message.oxoutput.name=§7酸素搬出口
+gui.message.oxinput.name=§7酸素搬入口
+gui.message.fuel.name=§7燃料
+gui.message.full.name=§7いっぱい
+gui.message.page.name=§7ページ
+gui.message.addnewsch.name=§7新しい図解を追加する
+gui.message.generating.name=§7生成中
+gui.message.environment.name=§7環境ブースト
+gui.message.oil.name=§7燃油
+gui.message.catalog.name=§7カタログ
+gui.message.back.name=§7戻る
+gui.message.daynightcycle.name=§7昼-夜 サイクル
+gui.message.surfacegravity.name=§7表面重力
+gui.message.surfacecomposition.name=§7表面構成
+gui.message.atmosphere.name=§7大気
+gui.message.meansurfacetemp.name=§7平均表面温度
+gui.message.energy=§7エネルギー
+gui.message.maxEnergy=§7最大エネルギー
+gui.message.bubbleVisible.name=§7バブルが見える
+gui.message.launch.name=§7スタート
+gui.message.clickAgain.0.name=§7もう一度クリックするとズームする (月と衛星)
+gui.message.clickAgain.1.name=§7もう一度クリックするとズームする (月) 
+gui.message.clickAgain.2.name=§7もう一度クリックするとズームする (衛星)
+gui.message.clickAgain.3.name=§7もう一度クリックするとズームする
+gui.message.exit.name=§7退出
+gui.message.tier.name=§7レベル%d
+gui.message.canCreateSpaceStation.name=§7ここに宇宙ステーションを作成できる
+gui.message.cannotCreateSpaceStation.name=§7ここでは宇宙ステーションを作成できない
+gui.message.createSS.name=§7作成
+gui.message.selectSS.name=§7宇宙ステーションを選択
+gui.message.ssOwner.name=§7オーナー:
+gui.message.apply.name=§7適応
+gui.message.cancel.name=§7キャンセル
+gui.message.assignName.name=§7名前の割り当て
+gui.message.rename.name=§7名前の変更
+gui.message.unnamed.name=§7無名
+gui.message.grow.name=§7成長
+gui.message.breed.name=§7繁殖
+gui.message.strengthen.name=§7増強
+gui.message.heal.name=§7回復
+gui.message.of.name=§7の
+gui.message.help1=§7Galacticraftのヘルプ
+gui.message.help1a=§7再びこのメッセージを表示するには, タイプ　
+gui.message.help2=§7宇宙計画のガイダンス
+gui.message.help3=§7オイルのヘルプ
+gui.message.prelaunch=§7起動前のチェックリスト
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7熱コントローラ
+
+gui.button.enableseal.name=§7密封を有効
+gui.button.disableseal.name=§7密封を無効
+gui.button.loaditems.name=§7アイテムを積み込む
+gui.button.stoploading.name=§7積み込みを停止
+gui.button.unloaditems.name=§7アイテムを取り出す
+gui.button.stopunloading.name=§7アンロードを停止
+gui.button.createsstation.name=§7スペースステーションを作成
+gui.button.sendtodim.name=§7ディメンションに送信
+gui.button.rename.name=§7名前変更
+gui.button.loadfuel.name=§7燃料を給油
+gui.button.refine.name=§7製錬
+gui.button.back.name=§7戻る
+gui.button.next.name=§7次へ
+gui.button.unlockschematic.name=§7回路図をアンロック
+gui.button.stoprefine.name=§7製錬を停止
+gui.button.enable.name=§7有効
+gui.button.disable.name=§7無効
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
+container.cargoloader.name=§7貨物積み込み機
+container.cargounloader.name=§7貨物取り出し機
+container.fuelloader.name=§7燃料給油機
+container.oxygencollector.name=§7酸素収集機
+container.oxygencompressor.name=§7酸素圧縮機
+container.oxygendistributor.name=§7酸素拡散機
+container.oxygensealer.name=§7酸素密封機
+container.parachest.name=§7パラシュートチェスト
+container.refinery.name=§7精製所
+container.treasurechest.name=§7宝物箱
+container.lander.name=§7ランダー
+container.spaceship.name=§7レベル 1 宇宙機
+container.solarbasic.name=§7ソーラーパネル
+container.solaradvanced.name=§7強化ソーラーパネル
+container.oxygendecompressor.name=§7酸素減圧装置
+
+gui.checkbox.redstoneSignal.name=§7Opens on Redstone Signal
+gui.checkbox.playerWithin.name=§7プレイヤーが入っている
+gui.checkbox.playerName.name=§7プレイヤーの名前は
+gui.checkbox.invert.name=§7Invert Selection
+gui.checkbox.horizontal.name=§7Horizontal Mode
+
+tile.machine.0.name=§7火力発電機
+tile.machine.1.name=§7エネルギー蓄積モジュール
+tile.machine.2.name=§7電気ファーネス
+tile.machine.3.name=§7圧縮機
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7電気圧縮機
+tile.machine2.5.name=§7回路製作機
+tile.machine2.6.name=§7酸素蓄積モジュール
+tile.machine.7.name=§7電気アークファーネス
+tile.machine.8.name=§7エネルギー蓄積クラスター
+
+gui.maxOutput.desc=§7Max Output
+gui.oxygenUse.desc=§7Oxygen Use
+
+gui.message.generating.name=§7生成中
+
+gui.status.collecting.name=§7収集中
+gui.status.generating.name=§7発電中
+gui.status.notGenerating.name=§7発電していない
+gui.status.hullHeat.name=§7船体温度
+
+gui.title.airLock.name=§7%s's Air Lock Controller
+
+gui.status.unknown.name=§d不明
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7宇宙の村人
+entity.GalacticraftCore.Buggy.name=§7バギー
+entity.GalacticraftCore.EvolvedCreeper.name=§7宇宙のクリーパー
+entity.GalacticraftCore.EvolvedSkeleton.name=§7宇宙のスケルトン
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7スケルトンキング
+entity.GalacticraftCore.EvolvedSpider.name=§7宇宙のクモ
+entity.GalacticraftCore.EvolvedZombie.name=§7宇宙のゾンビ
+entity.GalacticraftCore.Flag.name=§7旗
+entity.GalacticraftCore.GCFlag.name=§7旗
+entity.GalacticraftCore.GravityArrow.name=§7矢
+entity.GalacticraftCore.Lander.name=§7ランダー
+entity.GalacticraftCore.Meteor.name=§7流星
+entity.GalacticraftCore.MeteorChunk.name=§7流星チャンク
+entity.GalacticraftCore.OxygenBubble.name=§7酸素バブル
+entity.GalacticraftCore.ParaChest.name=§7パラシュートチェスト
+entity.GalacticraftCore.Spaceship.name=§7レベル 1 ロケット

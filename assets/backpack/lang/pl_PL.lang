@@ -1,0 +1,16 @@
+text.backpack.rename=§7Zmień nazwę swojego plecaka
+text.backpack.new_name=§7Nowa nazwa:
+text.backpack.backpack_slot=§7Slot plecaka
+text.backpack.update_available=§7Wersja %s Backpack Mod jest dostępna!
+text.backpack.up_to_date=§7Backpack Mod jest aktualny
+text.backpack.allowed_backpacks=§7Nie możesz mieć więcej niż %s plecaków w swoim ekwipunku.
+text.backpack.dropped_backpacks=§7%s plecaków zostało usuniętych z twojego ekwipunku. Popatrz na ziemię.
+text.backpack.autopickup=§7Podnieś automatycznie:
+text.backpack.recipes=§7Receptury
+text.backpack.configuration=§7Konfiguracja plecaka
+
+button.backpack.ok=§7OK
+button.backpack.cancel=§7Anuluj
+
+key.personalBackpack=§7Otwórz plecak
+key.categories.backpack=§7Plecaki

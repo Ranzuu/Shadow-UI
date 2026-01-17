@@ -1,0 +1,33 @@
+#English (US)
+tile.SolarWindPanel.name=§7Sonnenwindmodul
+tile.StorageModuleT3.0.name=§7Advanced Energy Cluster
+tile.StorageModuleT3_4.name=§7Advanced Energy Cluster
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2_4.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.0.name=§7Advanced Oxygen Module
+tile.OxygenStorageModuleT2.name=§7Fortgeschrittenes Sauerstoff-Speichermodul
+tile.SolarPanel.name=§7Hybrides Solarmodul
+tile.GeothermalGenerator.name=§7Geothermalgenerator
+tile.FuelGenerator.name=§7Treibstoffgenerator
+tile.AssemblyMachine.name=§7Montagemachine
+tile.ConverterSurface.name=§7Oberflächenkonverter
+
+entity.GalacticraftCore.Crawler.name=§7Wolneskor
+entity.GalacticraftCore.EvolvedBlaze.name=§7Entwickelte Lohe
+entity.GalacticraftCore.EvolvedBossBlaze.name=§7Entwickelter Lohen-Boss
+entity.GalacticraftCore.EvolvedBossGhast.name=§7Entwickelter Ghastboss
+entity.GalacticraftCore.EvolvedBossSlime.name=§7Entwickelter Schleimboss
+entity.GalacticraftCore.EvolvedBossWolf.name=§7Entwickelter Wolfsboss
+entity.GalacticraftCore.EvolvedColdBlaze.name=§7Entwickelte Kältelohe
+entity.GalacticraftCore.EvolvedCrystalBoss.name=§7Entwickelter Kristallboss
+entity.GalacticraftCore.EvolvedEnderman.name=§7Entwickelter Enderman
+entity.GalacticraftCore.EvolvedFireCreeper.name=§7Entwickelter Feuercreeper
+entity.GalacticraftCore.EvolvedFireSkeleton.name=§7Entwickeltes Feuerskelett
+entity.GalacticraftCore.EvolvedFireSpider.name=§7Entwickelte Feuerspinne
+entity.GalacticraftCore.EvolvedGuardian.name=§7Entwickelter Wasserwächter
+entity.GalacticraftCore.SpaceshipT4.name=§7Rakete (Stufe 4)
+entity.GalacticraftCore.SpaceshipT5.name=§7Rakete (Stufe 5)
+entity.GalacticraftCore.SpaceshipT6.name=§7Rakete (Stufe 6)
+entity.GalacticraftCore.SpaceshipT7.name=§7Rakete (Stufe 7)
+entity.GalacticraftCore.SpaceshipT8.name=§7Rakete (Stufe 8)
+entity.GalacticraftCore.Tentacles.name=§7Naturtentakel

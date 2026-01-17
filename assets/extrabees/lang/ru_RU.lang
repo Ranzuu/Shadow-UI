@@ -1,0 +1,45 @@
+extrabees.machine.alveay.hatchery=§7§7Инкубатор личинок улья
+extrabees.machine.alveay.stimulator=§7§7Электростимулятор улья
+extrabees.machine.alveay.frame=§7§7Хранитель рамок улья
+extrabees.machine.alveay.mutator=§7§7Мутатор улья
+
+extrabees.machine.alveay.mutator.mutagens=§7Возможные мутагены:
+
+
+extrabees.gui.database=§7База данных
+extrabees.gui.database.tab.species.overview=§7Обзор
+extrabees.gui.database.tab.species.classification=§7Классификация
+
+extrabees.gui.database.tab.species.genome=§7Генотип
+extrabees.gui.database.tab.species.genome.speed=§7Скорость:
+extrabees.gui.database.tab.species.genome.lifespan=§7Жизнь:
+extrabees.gui.database.tab.species.genome.fertility=§7Потомство:
+extrabees.gui.database.tab.species.genome.flowering=§7Опыление:
+extrabees.gui.database.tab.species.genome.territory=§7Территория:
+extrabees.gui.database.tab.species.genome.behavior=§7Поведение:
+extrabees.gui.database.tab.species.genome.sunlight=§7Дневной свет:
+extrabees.gui.database.tab.species.genome.rain=§7Дождь:
+extrabees.gui.database.tab.species.genome.flower=§7Цветы:
+extrabees.gui.database.tab.species.genome.effect=§7Эффект:
+extrabees.gui.database.tab.species.genome.tolerated=§7Терпимо
+extrabees.gui.database.tab.species.genome.daytime=§7Дневное
+extrabees.gui.database.tab.species.genome.nighttime=§7Ночное
+extrabees.gui.database.tab.species.genome.allDay=§7Все время
+extrabees.gui.database.tab.species.genome.children=§7%d
+extrabees.gui.database.tab.species.genome.notNeeded=§7Не требуется
+extrabees.gui.database.tab.species.genome.required=§7Обязательно
+
+extrabees.gui.database.tab.species.products=§7Продукция
+extrabees.gui.database.tab.species.products.everyHours=§7Каждые %s ч.
+extrabees.gui.database.tab.species.products.everyMins=§7Каждые %s м.
+extrabees.gui.database.tab.species.products.everySecs=§7Каждые %s с.
+
+extrabees.gui.database.tab.species.climate=§7Климат
+extrabees.gui.database.tab.species.biomes=§7Биомы
+extrabees.gui.database.tab.species.specialties=§7Специальность
+extrabees.gui.database.tab.species.resultant=§7Произведённые мутации
+extrabees.gui.database.tab.species.further=§7Дальнейшие возможные мутации
+
+extrabees.gui.database.tab.branches.overview=§7Обзор
+extrabees.gui.database.tab.branches.species=§7Виды
+extrabees.gui.database.tab.breeder=§7Селекция

@@ -1,0 +1,19 @@
+﻿#GUI
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7奥术终端
+thaumicenergistics.gui.essentia.cell.title=§7源质元件
+thaumicenergistics.gui.selected.amount=§7数量
+thaumicenergistics.gui.selected.aspect=§7要素
+thaumicenergistics.gui.digivis.source.name=§7数位魔力源
+thaumicenergistics.gui.essentia.cell.workbench.title=§7源质元件工作台
+thaumicenergistics.gui.arcane.assembler.title=§7奥术装配室
+thaumicenergistics.gui.vibration.chamber.stored=存储：%d %s
+thaumicenergistics.gui.vibration.chamber.processing=§7正在处理：%s
+
+thaumicenergistics.aeparts.essentia.terminal.name=§7源质终端
+thaumicenergistics.item.wireless.essentia.terminal.name=§7无线源质终端
+thaumicenergistics.aeparts.essentia.StorageBus.name=§7源质存储总线
+thaumicenergistics.aeparts.essentia.levelemitter.name=§7源质发信器
+thaumicenergistics.aeparts.essentia.ImportBus.name=§7源质输入总线
+thaumicenergistics.aeparts.essentia.ExportBus.name=§7源质输出总线
+thaumicenergistics.block.knowledge.inscriber.name=§7知识记录仪
+thaumicenergistics.block.distillation.encoder.name=§7蒸馏编码台

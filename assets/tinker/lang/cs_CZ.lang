@@ -1,0 +1,56 @@
+crafters.ToolStation=§7Výrobní stanice
+crafters.ToolForge=§7Kovací stůl
+crafters.TinkerTable=§7Kovářův stůl
+crafters.PartBuilder=§7Tvořič částí
+crafters.PatternShaper=§7Tvořič šablon
+crafters.CraftingStation=§7Výrobní stanice
+crafters.Smeltery=§7Tavírna
+
+inventory.PatternChest=§7Truhla na šablony
+
+gui.partcrafter1=§7Vyrábění částí nástrojů
+gui.partcrafter2=§7Vyrábění částí nástrojů
+gui.partcrafter3=§7Polož šablonu a materiál nalevo. Potom dostaneš to co potřebuješ.
+gui.partcrafter4=§7Základní trvanlivost: 
+gui.partcrafter5=§7Modifikace rukojeti: 
+gui.partcrafter6=§7Rychlost těžení: 
+gui.partcrafter7=§7Úroveň těžení: 
+gui.partcrafter8=§7 Srdce
+gui.partcrafter9=§7 Srdce
+gui.partcrafter10=§7Útok: 
+gui.partcrafter11=§7Plná trvanlivost: 
+gui.stenciltable1=§7Další šablona
+gui.stenciltable2=§7Předchozí šablona
+gui.toolforge1=§7Opravování a modifikace
+gui.toolforge2=§7Hlavní cesta k sestavení, opravování a modifikování vašeho nástroje. Položte nástroj, materiál na opravu nebo materiál na modifikání nalevo.
+gui.toolstation1=§7Trvanlivost:
+gui.toolstation2=§7Trvanlivost: 
+gui.toolstation3=§7Útok: 
+gui.toolstation4=§7Bonus: 
+gui.toolstation5=§7Ztráta: 
+gui.toolstation6=§7Rychlost natáhnutí: 
+gui.toolstation7=§7Rychlost šípu: 
+gui.toolstation8=§7Váha: 
+gui.toolstation9=§7Přesnost: 
+gui.toolstation10=§7Základní útok:
+gui.toolstation11=§7Útok krátkého luku:
+gui.toolstation12=§7Rychlosti těžení: 
+gui.toolstation13=§7Úroveň sklizně:
+gui.toolstation14=§7Rychlost těžení: 
+gui.toolstation15=§7Úroveň těžení: 
+gui.toolstation16=§7Využití rychlosti: 
+gui.toolstation17=§7Modifikace
+gui.toolstation18=§7Modifikací zbývá:
+gui.toolstation19=§7Omezení poškození: 
+gui.toolstation20=§7Ochrana: 
+gui.toolstation21=§7Munice: 
+gui.toolstation22=§7Šance zničení: 
+gui.toolstation23=§7Maximální útok: 
+
+entity.TConstruct.EdibleSlime.name=§7Modrý sliz
+entity.TConstruct.KingSlime.name=§7Král slizu
+entity.TConstruct.Gardeslime.name=§7Strážník slizu 
+entity.TConstruct.MiniGardy.name=§7Strážník slizu 
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

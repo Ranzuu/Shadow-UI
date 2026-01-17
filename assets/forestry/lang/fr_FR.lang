@@ -1,0 +1,54 @@
+tile.for.engine.0.name=§7Moteur électrique
+tile.for.engine.1.name=§7Moteur tourbe
+tile.for.engine.2.name=§7Moteur biogaz
+tile.for.engine.3.name=§7Générator Bio
+tile.for.engine.4.name=§7Moteur de précision
+
+tile.for.factory.0.name=§7Embouteilleur
+tile.for.factory.1.name=§7Menuisier
+tile.for.factory.2.name=§7Centrifugeuse
+tile.for.factory.3.name=§7Fermenteur
+tile.for.factory.4.name=§7Humidifieur
+tile.for.factory.5.name=§7Presse
+tile.for.factory.6.name=§7Reposeur
+tile.for.factory.7.name=§7Faiseur de pluie
+tile.for.factory2.0.name=§7Fabricateur thermique
+tile.for.factory2.1.name=§7Réservoir de pluie
+tile.for.factory2.2.name=§7Table de travail
+
+tile.for.mail.0.name=§7Boîte aux lettres
+tile.for.mail.1.name=§7Commerce
+tile.for.mail.2.name=§7Collectionneur de timbre
+
+tile.for.core.name=§7Analyzer / Escritoire
+tile.for.analyzer.name=§7Analyzer
+tile.for.escritoire.name=§7Escritoire
+
+tile.for.engine_electrical.name=§7Electrical Engine
+tile.for.engine_peat.name=§7Peat-fired Engine
+tile.for.engine_biogas.name=§7Biogas Engine
+tile.for.engine_generator.name=§7Bio Generator
+tile.for.engine_clockwork.name=§7Clockwork Engine
+
+tile.for.bottler.name=§7Bottler
+tile.for.carpenter.name=§7Carpenter
+tile.for.centrifuge.name=§7Centrifuge
+tile.for.fermenter.name=§7Fermenter
+tile.for.moistener.name=§7Moistener
+tile.for.squeezer.name=§7Squeezer
+tile.for.still.name=§7Still
+tile.for.rainmaker.name=§7Rainmaker
+tile.for.fabricator.name=§7Thermionic Fabricator
+tile.for.raintank.name=§7Rain Tank
+tile.for.worktable.name=§7Worktable
+
+tile.for.mailbox.name=§7Mailbox
+tile.for.trade_station.name=§7Trade Station
+tile.for.stamp_collector.name=§7Stamp Collector
+
+tile.for.apiculture.name=§7Apiary
+tile.for.apiculture.0.name=§7Rucher
+tile.for.apiculture.2.name=§7Abri pour abeilles
+tile.for.alveary.0.name=§7Ruche
+
+for.gui.page=§7Page

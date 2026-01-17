@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Teretna Raketa
+entity.GalacticraftMars.CreeperBoss.name=§7Evoulirani Šef Kripera
+entity.GalacticraftMars.LandingBalloons.name=§7Baloni za sletanje
+entity.GalacticraftMars.Slimeling.name=§7Slimeling
+entity.GalacticraftMars.Sludgeling.name=§7Sludgeling
+entity.GalacticraftMars.SpaceshipT2.name=§7Raketa Ranga 2
+
+# CONTAINERS
+container.launchcontroller.name=§7Kontroler Lansiranja
+container.tileTerraformer.name=§7Teraformer
+container.marsLander.name=§7Baloni sa slijetanje
