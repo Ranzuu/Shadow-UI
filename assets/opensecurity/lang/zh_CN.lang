@@ -1,0 +1,8 @@
+gui.string.cardwriter=§7卡片读写器
+gui.string.cardslot=§7卡槽
+gui.string.kvm=§7KVM切换控制器
+gui.string.energyturret=§7充能炮塔
+gui.string.energyturret.damagemod=§7+伤害
+gui.string.energyturret.movementmod=§7+移动速度
+gui.string.energyturret.cooldownmod=§7-冷却时间
+gui.string.energyturret.energymod=§7-能量

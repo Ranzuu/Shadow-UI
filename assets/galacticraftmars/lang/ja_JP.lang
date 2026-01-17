@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7宇宙機
+entity.GalacticraftMars.CreeperBoss.name=§7宇宙のクリーパーキング
+entity.GalacticraftMars.LandingBalloons.name=§7着陸風船
+entity.GalacticraftMars.Slimeling.name=§7スライム子
+entity.GalacticraftMars.Sludgeling.name=§7汚泥子
+entity.GalacticraftMars.SpaceshipT2.name=§7レベル2の宇宙機
+
+# CONTAINERS
+container.launchcontroller.name=§7打ち上げコントローラー
+container.tileTerraformer.name=§7造園機
+container.marsLander.name=§7着陸風船

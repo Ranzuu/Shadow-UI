@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Show Frame
+gui.painting.hideFrame=§7Hide Frame
+gui.painting.scale=§7Scale
+gui.painting.resolution=§7Resolution
+gui.painting.aspectRatio=§7Aspect Ratio
+gui.painting.size=§7Painting Size
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Master Corner
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7of
+
+gui.paintpress.transfer=§7Transfer
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Custom
+
+gui.sign.scale=§7Escala del texto
+gui.sign.format=§7Formato
+gui.sign.linenum=§7Línea#
+
+gui.sign.left=§7اليسار
+gui.sign.center=§7المركز
+gui.sign.right=§7اليمين
+
+gui.sign.tooltip1=§7Haz click en un cuadro para seleccionar un panel de edición. Tab rota entre paneles. 
+
+gui.fancyworkbench=§7Mesa de Trabajo Elegante
+
+gui.armorstand=§7Perchero
+gui.bookcase=§7Librería
+gui.cookiejar=§7Tarro de Galletitas
+gui.shelf=§7Estantería de Madera
+gui.label=§7Rótulo de Madera
+gui.potionshelf=§7Estantería de Pociones
+gui.table=§7Mesa de Madera
+gui.case=§7Vitrina
+gui.toolrack=§7Perchero para Herramientas
+gui.desk=§7Escritorio de Madera
+gui.mapWaypoint.accept=§7Aceptar
+gui.mapWaypoint.remove=§7Borrar
+gui.mapWaypoint.cancel=§7Cancelar
+gui.mapWaypoint.waypoint=§7Marcador
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Plato
+gui.discRack=§7Estantería de Discos

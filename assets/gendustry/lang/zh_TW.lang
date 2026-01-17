@@ -1,0 +1,14 @@
+tile.gendustry.mutagen_producer.name=§7誘變劑制造機
+tile.gendustry.mutatron.name=§7突變方塊
+tile.gendustry.mutatron_adv.name=§7高級突變方塊
+tile.gendustry.apiary.name=§7工業蜂箱
+tile.gendustry.imprinter.name=§7基因復制機
+tile.gendustry.sampler.name=§7基因拓模機
+tile.gendustry.extractor.name=§7DNA Extractor
+tile.gendustry.liquifier.name=§7Protein Liquifier
+tile.gendustry.replicator.name=§7Genetic Replicator
+tile.gendustry.transposer.name=§7Genetic Transposer
+
+gendustry.label.select=§7選擇:
+
+

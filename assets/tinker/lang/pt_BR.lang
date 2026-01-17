@@ -1,0 +1,56 @@
+crafters.ToolStation=§7Estação de Ferramenta
+crafters.ToolForge=§7Forja de Ferramentas
+crafters.TinkerTable=§7Mesa de Funilaria
+crafters.PartBuilder=§7Construtor de Partes
+crafters.PatternShaper=§7Mesa de Estênceis
+crafters.CraftingStation=§7Estação de Trabalho
+crafters.Smeltery=§7Oficina de Fundição
+
+inventory.PatternChest=§7Baú de Moldes
+
+gui.partcrafter1=§7Criação de Partes de Ferramentas
+gui.partcrafter2=§7Construção de Partes de Ferramentas
+gui.partcrafter3=§7Coloque uma Estêncil e um material à esquerda para começar.
+gui.partcrafter4=§7Durabilidade Base:
+gui.partcrafter5=§7Modificador do Cabo:
+gui.partcrafter6=§7Velocidade de Mineração: 
+gui.partcrafter7=§7Nível de Mineração: 
+gui.partcrafter8=§7 Coração
+gui.partcrafter9=§7 Corações
+gui.partcrafter10=§7Ataque: 
+gui.partcrafter11=§7Durabilidade Total: 
+gui.stenciltable1=§7Próxima Estêncil
+gui.stenciltable2=§7Estêncil Anterior
+gui.toolforge1=§7Reparo e Modificação
+gui.toolforge2=§7A principal forma de reparar ou modificar as suas ferramentas. Coloque uma ferramenta e um material à esquerda para começar.
+gui.toolstation1=§7Durabilidade:
+gui.toolstation2=§7Durabilidade: 
+gui.toolstation3=§7Ataque: 
+gui.toolstation4=§7Bônus: 
+gui.toolstation5=§7Perda: 
+gui.toolstation6=§7Velocidade de Saque: 
+gui.toolstation7=§7Velocidade de Tiro: 
+gui.toolstation8=§7Peso: 
+gui.toolstation9=§7Precisão: 
+gui.toolstation10=§7Dano Base:
+gui.toolstation11=§7Ataque do Arco Curto:
+gui.toolstation12=§7Velocidade de Mineração: 
+gui.toolstation13=§7Nível de Mineração:
+gui.toolstation14=§7Velocidade de Mineração: 
+gui.toolstation15=§7Nível de Mineração: 
+gui.toolstation16=§7Velocidade de Uso: 
+gui.toolstation17=§7Modificadores
+gui.toolstation18=§7Modificadores Restante: 
+gui.toolstation19=§7Redução de Dano: 
+gui.toolstation20=§7Proteção: 
+gui.toolstation21=§7Munição: 
+gui.toolstation22=§7Chance de quebra: 
+gui.toolstation23=§7Ataque Máximo: 
+
+entity.TConstruct.EdibleSlime.name=§7Slime-Azul
+entity.TConstruct.KingSlime.name=§7Slime Rei
+entity.TConstruct.Gardeslime.name=§7Slime-de-Jardim
+entity.TConstruct.MiniGardy.name=§7Slime-de-Jardim
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

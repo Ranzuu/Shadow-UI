@@ -1,0 +1,16 @@
+text.backpack.rename=§7Benenne deinen Rucksack um
+text.backpack.new_name=§7Neuer name:
+text.backpack.backpack_slot=§7Rucksack Slot
+text.backpack.update_available=§7Version %s der Backpack Mod ist jetzt verfügbar!
+text.backpack.up_to_date=§7Backpack Mod ist aktuell
+text.backpack.allowed_backpacks=§7Du darfst nicht mehr als %s Rucksäcke im Inventar haben.
+text.backpack.dropped_backpacks=§7%s Rucksäcke wurden aus deinem Inventar entfernt. Guck auf den Boden.
+text.backpack.autopickup=§7Nimm automatisch auf:
+text.backpack.recipes=§7Rezepte
+text.backpack.configuration=§7Backpack Konfiguration
+
+button.backpack.ok=§7OK
+button.backpack.cancel=§7Abbrechen
+
+key.personalBackpack=§7Rucksack öffnen
+key.categories.backpack=§7Rucksäcke

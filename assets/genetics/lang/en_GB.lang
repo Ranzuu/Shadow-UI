@@ -1,0 +1,144 @@
+genetics.machine.machine.isolator=§7Isolator
+genetics.machine.machine.sequencer=§7Sequencer
+genetics.machine.machine.polymeriser=§7Polymeriser
+genetics.machine.machine.inoculator=§7Inoculator
+genetics.machine.labMachine.analyser=§7Analyser
+genetics.machine.labMachine.incubator=§7Incubator
+genetics.machine.labMachine.genepool=§7Genepool
+genetics.machine.labMachine.acclimatiser=§7Acclimatiser
+genetics.machine.advMachine.splicer=§7Splicer
+
+genetics.gui.geneBank=§7Gene Bank
+
+genetics.machine.sequencer.gui.sequensedBy=§7Genes will be sequenced by %s
+genetics.machine.sequencer.gui.willNotSave=§7Userless. Will not save sequences
+
+genetics.gui.geneBank=§7Gene Bank
+genetics.gui.geneBank.info=§7Info
+genetics.gui.geneBank.stats=§7Stats
+genetics.gui.geneBank.ranking=§7Ranking
+genetics.gui.geneBank.project=§7Full Genome Project
+genetics.gui.geneBank.sequencedGenes=§7Sequenced %d/%d Genes
+genetics.gui.geneBank.sequencedGenes.short=§7%d/%d Genes
+
+genetics.gui.analyst.info=§7Add a bee, tree, flower or butterfly to the top left slot. DNA Dye is required if it has not been analysed yet. This dye can also convert vanilla items to breedable individuals.
+genetics.gui.analyst.registry=§7Registry
+genetics.gui.analyst.page.hours=§7%s hours.
+genetics.gui.analyst.page.minutes=§7%s min.
+genetics.gui.analyst.page.seconds=§7%s sec.
+genetics.gui.analyst.chromosome.active=§7Active: %s
+genetics.gui.analyst.chromosome.inactive=§7Inactive: %s
+genetics.gui.analyst.karyogram=§7Karyogram
+genetics.gui.analyst.specimen=§7Specimen
+
+genetics.gui.analyst.appearance=§7Appearance
+genetics.gui.analyst.appearance.primaryColor=§7Primary Petal Colour
+genetics.gui.analyst.appearance.secondColor=§7Secondary Petal Colour
+genetics.gui.analyst.appearance.stemColor=§7Stem Colour
+
+genetics.gui.analyst.behaviour=§7Behaviour
+genetics.gui.analyst.behaviour.effect=§7Effect: %s
+genetics.gui.analyst.behaviour.pollinatesNearby=§7Pollinates nearby
+genetics.gui.analyst.behaviour.withinBlocks=§7Within %d blocks
+genetics.gui.analyst.behaviour.everyTime=§7Every %s
+genetics.gui.analyst.behaviour.territory=§7Territory: %dx%dx%d
+genetics.gui.analyst.behaviour.metabolism=§7Metabolism: %s
+
+genetics.gui.analyst.biology=§7Biology
+genetics.gui.analyst.biology.allDay=§7Active all day and night
+genetics.gui.analyst.biology.night=§7Active at night
+genetics.gui.analyst.biology.day=§7Active during the day
+genetics.gui.analyst.biology.notRain=§7Cannot work during rain
+genetics.gui.analyst.biology.rain=§7Can work during rain
+genetics.gui.analyst.biology.underground=§7Can work underground
+genetics.gui.analyst.biology.notUnderground=§7Cannot work underground
+genetics.gui.analyst.biology.flammable=§7Flammable
+genetics.gui.analyst.biology.nonflammable=§7Nonflammable
+genetics.gui.analyst.biology.sappiness=§7Sappiness: %s
+genetics.gui.analyst.biology.fertility.drones=§7%d drones per hive
+genetics.gui.analyst.biology.fertility.drone=§71 drone per hive
+genetics.gui.analyst.biology.fertility.moths=§7Lays %d caterpillars before dying
+genetics.gui.analyst.biology.fertility.moth=§7Lays 1 caterpillar before dying
+genetics.gui.analyst.biology.fertility.leaves=§71 Sapling per %d leaves
+genetics.gui.analyst.biology.fertility.leaf=§71 Sapling per 1 leaf
+genetics.gui.analyst.biology.caterpillarGestation=§7Caterpillar Gestation
+genetics.gui.analyst.biology.flightSpeed=§7Flight Speed
+genetics.gui.analyst.biology.blocksPerSec=§7%d blocks per second
+genetics.gui.analyst.biology.mothSpawn.perLeaf=§7Butterflies spawn every\n%s per leaf
+genetics.gui.analyst.biology.mothSpawn=§7Butterflies spawn every\n%s
+genetics.gui.analyst.biology.plantTypes=§7Plant Types
+genetics.gui.analyst.biology.averageLifespan=§7Average Lifespan
+genetics.gui.analyst.biology.pollination=§7Pollination
+genetics.gui.analyst.biology.seedDispersal=§7Seed Dispersal
+genetics.gui.analyst.biology.perLifetime=§7%d per lifetime
+genetics.gui.analyst.biology.mcDays=§7%s MC days
+
+genetics.gui.analyst.climate=§7Climate
+genetics.gui.analyst.climate.biomes=§7Biomes
+genetics.gui.analyst.climate.humidity=§7Humidity Tolerance
+genetics.gui.analyst.climate.temperature=§7Temp. Tolerance
+
+genetics.gui.analyst.soil=§7Soil
+genetics.gui.analyst.soil.moistureTolerance=§7Moisture Tolerance
+genetics.gui.analyst.soil.pHTolerance=§7pH Tolerance
+genetics.gui.analyst.soil.recommendedSoil=§7Recommended Soil
+genetics.gui.analyst.soil.otherSoils=§7Other Soils
+
+genetics.gui.analyst.genome.active=§7Active Genome
+genetics.gui.analyst.genome.inactive=§7Inactive Genome
+
+genetics.gui.analyst.growth=§7Growth
+genetics.gui.analyst.growth.mature=§7Saplings mature in
+genetics.gui.analyst.growth.height=§7Height: %s
+genetics.gui.analyst.growth.girth=§7Girth: %s
+genetics.gui.analyst.growth.conditions=§7Growth Conditions
+
+genetics.gui.analyst.mutations=§7Mutations
+genetics.gui.analyst.mutations.habitat=§7Natural Habitat
+genetics.gui.analyst.mutations.habitat.any=§7Found in any Hive
+genetics.gui.analyst.mutations.habitat.villagers=§7Bought from Villagers
+genetics.gui.analyst.mutations.habitat.chest=§7Dungeon Chests
+genetics.gui.analyst.mutations.resultantMutations=§7Resultant Mutations
+genetics.gui.analyst.mutations.furtherMutations=§7Further Mutations
+genetics.gui.analyst.mutations.chance=§7%d%% Chance
+genetics.gui.analyst.mutations.chance.current=§7(%d%% currently)
+genetics.gui.analyst.mutations.unknownMutation=§7Unknown Mutation
+genetics.gui.analyst.mutations.unknown=§7UNKNOWN
+
+genetics.gui.analyst.description=§7Description
+genetics.gui.analyst.description.unknown=§7<Unknown>
+genetics.gui.analyst.description.discoveredBy=§7Discovered by %s
+genetics.gui.analyst.description.complexity=§7Genetic Complexity: %s
+
+genetics.gui.analyst.produce=§7Produce
+genetics.gui.analyst.produce.rate=§7Rate: %s
+genetics.gui.analyst.produce.natural=§7Natural Products
+genetics.gui.analyst.produce.speciality=§7Specialty Products
+genetics.gui.analyst.produce.refined=§7Refined Products
+genetics.gui.analyst.produce.centrifuge=§7Centrifuges to give:
+genetics.gui.analyst.produce.squeezes=§7Squeezes to give:
+genetics.gui.analyst.produce.everyTime=§7Every %s
+
+genetics.gui.analyst.fruit=§7Fruit
+genetics.gui.analyst.fruit.yield=§7Yield: %s
+genetics.gui.analyst.fruit.natural=§7Natural Fruit
+genetics.gui.analyst.fruit.speciality=§7Speciality Fruit
+genetics.gui.analyst.fruit.refined=§7Refined Products
+genetics.gui.analyst.fruit.possible=§7Possible Fruits
+genetics.gui.analyst.fruit.none=§7This tree has no\nfruits or nuts
+
+genetics.gui.analyst.wood=§7Wood
+genetics.gui.analyst.wood.fireproof=§7Fireproof
+genetics.gui.analyst.wood.flammable=§7Flammable
+genetics.gui.analyst.wood.logs=§7Logs
+genetics.gui.analyst.wood.products=§7Refined Products
+genetics.gui.analyst.wood.noFruits=§7This tree has no\nfruits or nuts
+
+genetics.nei.tip.loss=§7Loss:
+genetics.nei.tip.noConsume=§7Not Be Consumed
+genetics.nei.tip.effect=§7Effect: %s
+genetics.nei.tip.temperature=§7Temperature
+genetics.nei.tip.humidity=§7Humidity
+genetics.nei.tip.processSpeed=§7%dx Processing Speed
+genetics.nei.tip.rf=§7%dx Processing Speed
+genetics.nei.tip.databaseDesc=§7Open the database and pick up an empty serum. Click the serum on Sequenced gene to apply.

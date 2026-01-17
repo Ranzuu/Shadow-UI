@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Show Frame
+gui.painting.hideFrame=§7Hide Frame
+gui.painting.scale=§7Scale
+gui.painting.resolution=§7Resolution
+gui.painting.aspectRatio=§7Aspect Ratio
+gui.painting.size=§7Painting Size
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Master Corner
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7of
+
+gui.paintpress.transfer=§7Transfer
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Custom
+
+gui.sign.scale=§7Lettergrootte
+gui.sign.format=§7Ontwerp
+gui.sign.linenum=§7Regel#
+
+gui.sign.left=§7Links
+gui.sign.center=§7Midden
+gui.sign.right=§7Rechts
+
+gui.sign.tooltip1=§7Klik op een vak of druk op tab om een bewerkingspaneel te selecteren. Door op tab te drukken wissel je tussen panelen
+
+gui.fancyworkbench=§7Chique werkbank
+
+gui.armorstand=§7Harnashouder
+gui.bookcase=§7Boekenkast
+gui.cookiejar=§7Koektrommel
+gui.shelf=§7Schap
+gui.label=§7Houten etiket
+gui.potionshelf=§7Drankjesschap
+gui.table=§7Houten tafel
+gui.case=§7Vitrine
+gui.toolrack=§7Gereedschapsrek
+gui.desk=§7Houten bureau
+gui.mapWaypoint.accept=§7Accepteer
+gui.mapWaypoint.remove=§7Verwijderen
+gui.mapWaypoint.cancel=§7Annuleer
+gui.mapWaypoint.waypoint=§7Coordinatenpunt
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Bord
+gui.discRack=§7CD-rek

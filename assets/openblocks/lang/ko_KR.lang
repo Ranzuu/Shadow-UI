@@ -1,0 +1,31 @@
+openblocks.gui.blocks=§7블럭
+openblocks.gui.items=§7아이템
+openblocks.gui.misc=§7기타
+openblocks.gui.changelogs=§7변경사항
+
+openblocks.gui.features=§7특징
+openblocks.gui.bugfixes=§7버그수정
+openblocks.gui.tweaks=§7수정
+
+openblocks.gui.luggage=§7여행가방
+openblocks.gui.sprinkler=§7스프링쿨러
+openblocks.gui.vacuumhopper=§7진공 깔때기
+openblocks.gui.bigbutton=§7큰 버튼
+openblocks.gui.xpbottler=§7경험치병 제조기
+openblocks.gui.autoanvil=§7자동 모루
+openblocks.gui.autoeject=§7자동 입출력
+openblocks.gui.autoextract=§7자동 추출
+openblocks.gui.autodrink=§7자동 입력
+openblocks.gui.autoenchantmenttable=§7자동 인첸트테이블
+openblocks.gui.donationstation=§7Donation Station
+openblocks.gui.itemdropper=§7Item Dropper
+openblocks.gui.blockplacer=§7블럭 설치기
+openblocks.gui.paintmixer=§7페인트 믹서
+openblocks.gui.drawingtable=§7Drawing Table
+openblocks.gui.digitalfuse=§7Digital Fuse
+openblocks.gui.xp_outputs=§7경험치 추출
+openblocks.gui.item_outputs=§7아이템 추출
+openblocks.gui.max_level=§7최대 레벨: %d
+openblocks.gui.save_folder=§7Save folder
+
+tile.openblocks.trophy.entity.name=%s §9Trophy

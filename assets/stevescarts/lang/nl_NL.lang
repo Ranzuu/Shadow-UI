@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Kar Assemblage
+gui.SC2:basicAssembleInstruction=§7Om de assemblage te starten plaats je de Kar Frame in het Kar Frame Slot.
+gui.SC2:invalidHullError=§7De ingevoerde Kar Frame is niet geldig. Dit zou niet mogelijk moeten zijn dus je hebt waarschijnlijk iets fout gedaan.
+gui.SC2:hullCapacity=§7Frame capaciteit
+gui.SC2:complexityCap=§7Complexiteit cap
+gui.SC2:totalCost=§7Totale kosten
+gui.SC2:totalTime=§7Totale Tijd
+gui.SC2:readyMessage=§7Klaar om de assemblage te starten!
+gui.SC2:assembleProgress=§7Voortgang
+gui.SC2:timeLeft=§7Tijd resterend
+gui.SC2:idleAssemblerMessage=§7De Kar Assemblage staat te wachten
+gui.SC2:modifyCart=§7Modificeer kar
+gui.SC2:assembleCart=§7Assembleer kar
+gui.SC2:fuelLevel=§7Hoeveelheid brandstof
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Je hebt geen Frame
+gui.SC2:invalidHullErrorShort=§7Ingevoerde Frame is geen Frame!
+gui.SC2:busyAssemblerError=§7De Assemblage is bezig!
+gui.SC2:departureBayError=§7Er staat een Kar in het Vertrek ruim.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Beheerder
+gui.SC2:currentSetting=§7Huidig
+gui.SC2:changeTransferDirection=§7Verander overdracht richting
+gui.SC2:directionToCart=§7Naar de kar
+gui.SC2:directionFromCart=§7Van de kar
+gui.SC2:changeTurnBack=§7Verander terug komst instellingen
+gui.SC2:turnBackDisabled=§7Geen zijde geselecteerd
+gui.SC2:turnBack=§7Kom terug na overdracht
+gui.SC2:continueForward=§7Ga verder na overdracht
+gui.SC2:changeTransferSize=§7Verander overdracht zijde
+gui.SC2:changeSide=§7Verander zijde
+gui.SC2:currentSide=§7Huidig
+gui.SC2:sideRed=§7Rood
+gui.SC2:sideBlue=§7Blauw
+gui.SC2:sideYellow=§7Geel
+gui.SC2:sideGreen=§7Groen
+gui.SC2:sideDisabled=§7Uitgeschakeld
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Vracht
+gui.SC2:changeSlotLayout=§7Verander slot indeling
+gui.SC2:layoutShared=§7Alle slots worden gedeeld door alle zijdes
+gui.SC2:layoutSide=§7Elke zijde heeft zijn eigen slots
+gui.SC2:layoutColor=§7Elke kleur heeft zijn eigen slots
+gui.SC2:transferAll=§7Zo veel mogelijk overdragen
+gui.SC2:transferItems=§7Maximaal [%1] [%2:item|items] overdragen
+gui.SC2:transferStacks=§7Maximaal [%1] [%2:stack|stacks] overdragen
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Verander de module van de kar
+gui.SC2:unknownAreaMessage=§7Niet bekende instelling
+gui.SC2:cartAreaAll=§7Alle sloten
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Spoor legger
+gui.SC2:cartAreaStorage=§7Opslag slot
+gui.SC2:cartAreaTorches=§7Fakkels
+gui.SC2:cartAreaExplosives=§7Explosieven
+gui.SC2:cartAreaArrows=§7Pijlen
+gui.SC2:cartAreaBridge=§7Brug materiaal
+gui.SC2:cartAreaSeeds=§7Zaden
+gui.SC2:cartAreaFertilizer=§7Bemesting
+gui.SC2:cartAreaSaplings=§7Kiemplant
+gui.SC2:cartAreaFirework=§7Vuurwerk
+gui.SC2:cartAreaBuckets=§7Emmers (for melker)
+gui.SC2:cartAreaCakes=§7Taarten
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Vloeistof
+gui.SC2:changeTankLayout=§7Verander reservoir indeling
+gui.SC2:layoutSharedTanks=§7Alle reservoir worden gedeeld door alle zijdes
+gui.SC2:layoutSidedTanks=§7Elke zijde heeft zijn eigen reservoir
+gui.SC2:layoutColorTanks=§7Elke kleur heeft zijn eigen reservoir(s)
+gui.SC2:transferAllLiquid=§7Zo veel mogelijk overdragen
+gui.SC2:transferBuckets=§7Maximaal [%1] overdragen
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Module schakelaar
+gui.SC2:optionDrill=§7Boor
+gui.SC2:optionShield=§7Schild
+gui.SC2:optionInvisibility=§7Onzichtbaarheid
+gui.SC2:optionChunk=§7Chunk laden
+gui.SC2:optionCageAuto=§7Pak kooi automatisch op
+gui.SC2:optionCage=§7Pak kooi op
+gui.SC2:settingDisabled=§7Uitgeschakeld
+gui.SC2:settingOrange=§7Richting oranje
+gui.SC2:settingBlue=§7Richting blauw
+gui.SC2:stateActivate=§7Activeer
+gui.SC2:stateDeactivate=§7Deactiveer
+gui.SC2:stateToggle=§7Schakel
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Externe Verdeler
+gui.SC2:distributorNotConnected=§7Niet verbonden aan een Beheerder!
+gui.SC2:sideName=§7[%1] zijde
+gui.SC2:dropInstruction=§7Hier neer zetten om instelling toe te voegen
+gui.SC2:removeInstruction=§7Klik rechts om te verwijderen
+gui.SC2:distributorAll=§7Alles
+gui.SC2:distributorRed=§7Rood
+gui.SC2:distributorBlue=§7Blauw
+gui.SC2:distributorYellow=§7Geel
+gui.SC2:distributorGreen=§7Groen
+gui.SC2:distributorTopLeft=§7Links Boven
+gui.SC2:distributorTopRight=§7Rechts Boven
+gui.SC2:distributorBottomLeft=§7Links Onder
+gui.SC2:distributorBottomRight=§7Rechts Onder
+gui.SC2:distributorToCart=§7Naar Kar
+gui.SC2:distributorFromCart=§7Van Kar
+gui.SC2:managerTop=§7Beheerder Boven
+gui.SC2:managerBot=§7Beheerder Onder
+gui.SC2:distributorSideOrange=§7Oranje
+gui.SC2:distributorSidePurple=§7Paars
+gui.SC2:distributorSideYellow=§7Geel
+gui.SC2:distributorSideGreen=§7Groen
+gui.SC2:distributorSideBlue=§7Blauw
+gui.SC2:distributorSideRed=§7Rood
+gui.SC2:sideToolTip=§7Zijde: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7UITVOER
+gui.SC2:operatorAnd=§7AND
+gui.SC2:operatorOr=§7OR
+gui.SC2:operatorNot=§7NOT
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Eenheid Boven
+gui.SC2:operatorBotUnit=§7Eenheid Onder
+gui.SC2:operatorNorthUnit=§7Eenheid Noord
+gui.SC2:operatorWestUnit=§7Eenheid West
+gui.SC2:operatorSouthUnit=§7Eenheid Zuid
+gui.SC2:operatorEastUnit=§7Eenheid Oost
+gui.SC2:operatorRedstone=§7Redstone Invoer
+gui.SC2:operatorRedstoneTop=§7Redstone Invoer Boven
+gui.SC2:operatorRedstoneBot=§7Redstone Invoer Onder
+gui.SC2:operatorRedstoneNorth=§7Redstone Invoer Noord
+gui.SC2:operatorRedstoneWest=§7Redstone Invoer West
+gui.SC2:operatorRedstoneSouth=§7Redstone Invoer Zuid
+gui.SC2:operatorRedstoneEast=§7Redstone Invoer Oost
+gui.SC2:stateRails=§7Heeft spoor benodigdheden
+gui.SC2:stateTorches=§7Heeft fakkel benodigdheden
+gui.SC2:stateSaplings=§7Heeft kiemplant benodigdheden
+gui.SC2:sateSeeds=§7Heeft zaad benodigdheden
+gui.SC2:stateBridge=§7Heeft brug benodigdheden
+gui.SC2:stateProjectiles=§7Heeft projectiel benodigdheden
+gui.SC2:stateFertilizing=§7Heeft bemesting benodigdheden
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Is schild actief
+gui.SC2:stateChunk=§7Is chunk lader actief
+gui.SC2:stateInvisibility=§7Is onzichtbaarheids kern actief
+gui.SC2:stateDrill=§7Is boor actief
+gui.SC2:stateCage=§7Is automatisch oppakken actief
+gui.SC2:stateStorageFull=§7Is opslag compleet vol
+gui.SC2:stateStorageEmpty=§7Is opslag compleet leeg
+gui.SC2:statePassenger=§7Heeft passagier
+gui.SC2:stateAnimal=§7Heeft dierlijke passagier
+gui.SC2:stateTameable=§7Heeft tembare passagier
+gui.SC2:stateBreedable=§7Heeft broedbare passagier
+gui.SC2:stateHostile=§7Heeft vijandige passagier
+gui.SC2:stateCreeper=§7Heeft creeper als passagier
+gui.SC2:stateSkeleton=§7Heeft skelet als passagier
+gui.SC2:stateSpider=§7Heeft spin als passagier
+gui.SC2:stateZombie=§7Heeft zombie als passagier
+gui.SC2:stateZombiePigMan=§7Heeft zombievarken als passagier
+gui.SC2:stateSilverFish=§7Heeft zilvervis als passagier
+gui.SC2:stateBlaze=§7Heeft blaze als passagier
+gui.SC2:stateBat=§7Heeft vleermuis als passagier
+gui.SC2:stateWitch=§7Heeft heks als passagier
+gui.SC2:statePig=§7Heeft varken als passagier
+gui.SC2:stateSheep=§7Heeft schaap als passagier
+gui.SC2:stateCow=§7Heeft koe als passagier
+gui.SC2:stateMooshroom=§7Heeft loeizwam als passagier
+gui.SC2:stateChicken=§7Heeft kip als passagier
+gui.SC2:stateWolf=§7Heeft wolf als passagier
+gui.SC2:stateSnowGolem=§7Heeft sneeuwman als passagier
+gui.SC2:stateOcelot=§7Heeft ocelot als passagier
+gui.SC2:stateVillager=§7Heeft dorpeling als passagier
+gui.SC2:statePlayer=§7Heeft speler als passagier
+gui.SC2:stateZombieVillager=§7Heeft zombie dorpeling als passagier
+gui.SC2:stateChild=§7Heeft kind als passagier
+gui.SC2:stateTamed=§7Heeft tamme passagier
+gui.SC2:statePowerRed=§7Is Kracht Waarnemer[Rood] actief
+gui.SC2:statePowerBlue=§7Is Kracht Waarnemer[Blauw] actief
+gui.SC2:statePowerGreen=§7Is Kracht Waarnemer[Groen] actief
+gui.SC2:statePowerYellow=§7Is Kracht Waarnemer[Geel] actief
+gui.SC2:stateTanksFull=§7Zijn de reservoirs volledig vol
+gui.SC2:stateTanksEmpty=§7Zijn de reservoirs volledig leeg
+gui.SC2:stateTankEmpty=§7Is er een volledig lege reservoir

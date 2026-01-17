@@ -1,0 +1,34 @@
+botany.gui.controls.colorMixSymbol.chance=§7Текущий шанс - %f%%
+botany.gui.controls.pageSpeciesFurtherTitle=§7Результат
+botany.gui.controls.pageColorFurtherTitle=§7Дополнительные смеси
+
+botany.gui.database.name=§7База данных цветов
+botany.gui.database.tab.colour=§7Цвет
+botany.gui.database.tab.species.overview=§7Обзор
+
+botany.gui.database.tab.genome=§7Генотип
+botany.gui.database.tab.genome.temp=§7Темп. :
+botany.gui.database.tab.genome.moist=§7Влажн. :
+botany.gui.database.tab.genome.ph=§7pH. :
+botany.gui.database.tab.genome.fertility=§7Плодовитость :
+botany.gui.database.tab.genome.lifespan=§7Жизнь :
+botany.gui.database.tab.genome.lifespan.value=§7%s дней
+botany.gui.database.tab.genome.nectar=§7Нектар :
+botany.gui.database.tab.genome.varieties=§7Сорта :
+
+botany.gui.database.tab.species.classification=§7Классификация
+botany.gui.database.tab.species.resultant=§7Произведённые мутации
+botany.gui.database.tab.species.further=§7Дальнейшие возможные мутации
+botany.gui.database.tab.branches.overview=§7Обзор
+botany.gui.database.tab.branches.species=§7Виды
+botany.gui.database.tab.breeder=§7Селекция
+
+botany.gui.database.tab.colour.resultant=§7Произведённые смешивания
+botany.gui.database.tab.colour.further=§7Дальнейшие возможные смешивания
+
+botany.design.category.designsEmblems=§7Дизайны и эмблемы
+botany.design.category.squaresStripes=§7Квадраты и полосы
+botany.design.category.edges=§7Окантовки
+botany.design.category.bars=§7Решетки
+botany.design.category.letters=§7Буквы
+botany.design.category.diagonals=§7Диагонали

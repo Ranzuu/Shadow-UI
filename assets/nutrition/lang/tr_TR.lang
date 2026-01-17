@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§7Beslenme
+gui.nutrition:close=§7Kapat
+gui.nutrition:updating=§7Güncelleniyor...
+
+# Nutrients
+nutrient.nutrition:grain=§7Tahıl Ürünleri
+nutrient.nutrition:fruit=§7Meyve
+nutrient.nutrition:vegetable=§7Sebze
+nutrient.nutrition:protein=§7Protein
+nutrient.nutrition:dairy=§7Süt Ürünleri

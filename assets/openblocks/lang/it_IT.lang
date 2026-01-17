@@ -1,0 +1,31 @@
+openblocks.gui.blocks=§7Blocchi
+openblocks.gui.items=§7Oggetti
+openblocks.gui.misc=§7Miscellanea
+openblocks.gui.changelogs=§7Changelog
+
+openblocks.gui.features=§7Contenuti
+openblocks.gui.bugfixes=§7Sistemazioni di bug
+openblocks.gui.tweaks=§7Modifiche
+
+openblocks.gui.luggage=§7Valigia
+openblocks.gui.sprinkler=§7Irrigatore
+openblocks.gui.vacuumhopper=§7Tramoggia a Vuoto
+openblocks.gui.bigbutton=§7Grande Pulsante
+openblocks.gui.xpbottler=§7Imbottigliatore di Punti Esperienza
+openblocks.gui.autoanvil=§7Incudine Automatica
+openblocks.gui.autoeject=§7Espulsione automatica
+openblocks.gui.autoextract=§7Estrazione automatica
+openblocks.gui.autodrink=§7Aspirazione liquidi automatica
+openblocks.gui.autoenchantmenttable=§7Tavolo da Incantamento Automatico
+openblocks.gui.donationstation=§7Postazione Donazioni
+openblocks.gui.itemdropper=§7Gettatore di Oggetti
+openblocks.gui.blockplacer=§7Piazzatore di Blocchi
+openblocks.gui.paintmixer=§7Miscelatore di Pittura
+openblocks.gui.drawingtable=§7Tavolo da Disegno
+openblocks.gui.digitalfuse=§7Innesco digitale
+openblocks.gui.xp_outputs=§7Emissione di Punti Esperienza
+openblocks.gui.item_outputs=§7Emissione di Oggetti
+openblocks.gui.max_level=§7Livello massimo: %d
+openblocks.gui.save_folder=§7Cartella di salvataggio
+
+tile.openblocks.trophy.entity.name=Trofeo di %s

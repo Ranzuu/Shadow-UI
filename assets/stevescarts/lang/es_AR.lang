@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Ensamblador de carros
+gui.SC2:basicAssembleInstruction=§7Para comenzar a hacer un carro, añade un casco de carro en el espacio para cascos.
+gui.SC2:invalidHullError=§7El casco en el espacio para cascos no es válido. Esto no debería ser posible, probablemente has hecho algo extraño.
+gui.SC2:hullCapacity=§7Capacidad del casco
+gui.SC2:complexityCap=§7Tope de complejidad
+gui.SC2:totalCost=§7Costo total
+gui.SC2:totalTime=§7Tiempo total
+gui.SC2:readyMessage=§7Listo para ensamblar el carro!
+gui.SC2:assembleProgress=§7Progreso
+gui.SC2:timeLeft=§7Tiempo restante
+gui.SC2:idleAssemblerMessage=§7El ensamblador esta actualmente en reposo
+gui.SC2:modifyCart=§7Modificar carro
+gui.SC2:assembleCart=§7Ensamblar carro
+gui.SC2:fuelLevel=§7Nivel de combustible
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7You have no hull
+gui.SC2:invalidHullErrorShort=§7The hull added is not a hull!
+gui.SC2:busyAssemblerError=§7The Assembler is busy!
+gui.SC2:departureBayError=§7There's a Cart in the Departure Bay.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Manager
+gui.SC2:currentSetting=§7Actualmente
+gui.SC2:changeTransferDirection=§7Cambiar dirección de transferencia
+gui.SC2:directionToCart=§7Al carro
+gui.SC2:directionFromCart=§7Desde el carro
+gui.SC2:changeTurnBack=§7Cambiar ajustes de vuelta
+gui.SC2:turnBackDisabled=§7Ningún lado seleccionado
+gui.SC2:turnBack=§7Dar la vuelta luego de la transferencia
+gui.SC2:continueForward=§7Continuar luego de la transferencia
+gui.SC2:changeTransferSize=§7Cambiar lado de transferencia
+gui.SC2:changeSide=§7Cambiar lado
+gui.SC2:currentSide=§7Lado actual
+gui.SC2:sideRed=§7Rojo
+gui.SC2:sideBlue=§7Azul
+gui.SC2:sideYellow=§7Amarillo
+gui.SC2:sideGreen=§7Verde
+gui.SC2:sideDisabled=§7Inactivo
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Cargamento
+gui.SC2:changeSlotLayout=§7Cambiar dispocisión de espacios
+gui.SC2:layoutShared=§7Todos los espacios son compartidos por todos los lados
+gui.SC2:layoutSide=§7Cada lado tiene su espacio
+gui.SC2:layoutColor=§7Cada color tiene su espacio
+gui.SC2:transferAll=§7Transferir tanto como se pueda
+gui.SC2:transferItems=§7Transferir un máximo de [%1] [%2:item|items]
+gui.SC2:transferStacks=§7Transferir un máximo de [%1] [%2:stack|stacks]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Cambiar parte del carro
+gui.SC2:unknownAreaMessage=§7Opción desconocida
+gui.SC2:cartAreaAll=§7Todos los espacios
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Colocadores de vías
+gui.SC2:cartAreaStorage=§7Espacios de almacenamiento
+gui.SC2:cartAreaTorches=§7Antorchas
+gui.SC2:cartAreaExplosives=§7Explosivos
+gui.SC2:cartAreaArrows=§7Flechas
+gui.SC2:cartAreaBridge=§7Material para puentes
+gui.SC2:cartAreaSeeds=§7Semillas
+gui.SC2:cartAreaFertilizer=§7Fertilizante
+gui.SC2:cartAreaSaplings=§7Brotes
+gui.SC2:cartAreaFirework=§7Fuegos artificiales
+gui.SC2:cartAreaBuckets=§7Baldes (para la ordeñadora)
+gui.SC2:cartAreaCakes=§7Tortas
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Liquido
+gui.SC2:changeTankLayout=§7Cambiar dispocisión del tanque
+gui.SC2:layoutSharedTanks=§7Todos los tanques son compartidos por todos los lados
+gui.SC2:layoutSidedTanks=§7Cada lado tiene su tanque
+gui.SC2:layoutColorTanks=§7Cada color tiene su(s) tanque(s)
+gui.SC2:transferAllLiquid=§7Transferir la mayor cantidad posible
+gui.SC2:transferBuckets=§7Transferir un máximo de [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Interruptor de módulos
+gui.SC2:optionDrill=§7Taladro
+gui.SC2:optionShield=§7Escudo
+gui.SC2:optionInvisibility=§7Invisibilidad
+gui.SC2:optionChunk=§7Carga de chunks
+gui.SC2:optionCageAuto=§7Jaula auto-recogedora
+gui.SC2:optionCage=§7Jaula recogedora
+gui.SC2:settingDisabled=§7Inhabilitado
+gui.SC2:settingOrange=§7Dirección naranja
+gui.SC2:settingBlue=§7Dirección azul
+gui.SC2:stateActivate=§7Activar
+gui.SC2:stateDeactivate=§7Desactivar
+gui.SC2:stateToggle=§7Palanca
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Distribuidor externo
+gui.SC2:distributorNotConnected=§7No está conectado a ningún administrador de cargamento!
+gui.SC2:sideName=§7[%1] lado
+gui.SC2:dropInstruction=§7Poner aquí para añadir este ajuste
+gui.SC2:removeInstruction=§7Click derecho para remover
+gui.SC2:distributorAll=§7Todo
+gui.SC2:distributorRed=§7Rojo
+gui.SC2:distributorBlue=§7Azul
+gui.SC2:distributorYellow=§7Amarillo
+gui.SC2:distributorGreen=§7Verde
+gui.SC2:distributorTopLeft=§7Arriba a la izquierda
+gui.SC2:distributorTopRight=§7Arriba a la derecha
+gui.SC2:distributorBottomLeft=§7Debajo a la izquierda
+gui.SC2:distributorBottomRight=§7Debajo a la derecha
+gui.SC2:distributorToCart=§7Al carro
+gui.SC2:distributorFromCart=§7Desde el carro
+gui.SC2:managerTop=§7Administrador superior
+gui.SC2:managerBot=§7Administrador inferior
+gui.SC2:distributorSideOrange=§7Naranja
+gui.SC2:distributorSidePurple=§7Púrpura
+gui.SC2:distributorSideYellow=§7Amarillo
+gui.SC2:distributorSideGreen=§7Verde
+gui.SC2:distributorSideBlue=§7Azul
+gui.SC2:distributorSideRed=§7Rojo
+gui.SC2:sideToolTip=§7Side: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7SALIDA
+gui.SC2:operatorAnd=§7Y
+gui.SC2:operatorOr=§7O
+gui.SC2:operatorNot=§7NO
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Unidad superior
+gui.SC2:operatorBotUnit=§7Unidad inferior
+gui.SC2:operatorNorthUnit=§7Unidad del norte
+gui.SC2:operatorWestUnit=§7Unidad del oeste
+gui.SC2:operatorSouthUnit=§7Unidad del sur
+gui.SC2:operatorEastUnit=§7Unidad del este
+gui.SC2:operatorRedstone=§7Corriente de Redstone
+gui.SC2:operatorRedstoneTop=§7Corriente de Redstone arriba
+gui.SC2:operatorRedstoneBot=§7Corriente de Redstone debajo
+gui.SC2:operatorRedstoneNorth=§7Corriente de Redstone del lado norte
+gui.SC2:operatorRedstoneWest=§7Corriente de Redstone del lado oeste
+gui.SC2:operatorRedstoneSouth=§7Corriente de Redstone del lado sur
+gui.SC2:operatorRedstoneEast=§7Corriente de Redstone del lado este
+gui.SC2:stateRails=§7Tiene suministro de vías
+gui.SC2:stateTorches=§7Tiene suministro de antorchas
+gui.SC2:stateSaplings=§7Tiene suministro de brotes
+gui.SC2:sateSeeds=§7Tiene suministro de semillas
+gui.SC2:stateBridge=§7Tiene suministros para hacer un puente 
+gui.SC2:stateProjectiles=§7Tiene suministro de proyectiles
+gui.SC2:stateFertilizing=§7Tiene suministro de fertilizante
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Está activo es escudo
+gui.SC2:stateChunk=§7Está activo el cargador de chunks
+gui.SC2:stateInvisibility=§7Está activo el núcleo de invisibilidad
+gui.SC2:stateDrill=§7Está activo el taladro
+gui.SC2:stateCage=§7Está activo el auto-recogedor
+gui.SC2:stateStorageFull=§7El almacenamiento está completamente lleno
+gui.SC2:stateStorageEmpty=§7El almacenamiento está completamente vacío
+gui.SC2:statePassenger=§7Tiene pasajero
+gui.SC2:stateAnimal=§7Tiene pasajero animal
+gui.SC2:stateTameable=§7Tiene pasajero domable
+gui.SC2:stateBreedable=§7Tiene pasajero reproducible
+gui.SC2:stateHostile=§7Tiene pasajero hostil
+gui.SC2:stateCreeper=§7Tiene de pasajero a un creeper
+gui.SC2:stateSkeleton=§7Tiene de pasajero a un esqueleto
+gui.SC2:stateSpider=§7Tiene de pasajero a una araña
+gui.SC2:stateZombie=§7Tiene de pasajero a un zombi
+gui.SC2:stateZombiePigMan=§7Tiene de pasajero a un cerdo-zombi
+gui.SC2:stateSilverFish=§7Tiene de pasajero a unpez de plata
+gui.SC2:stateBlaze=§7Tiene de pasajero a un blaze
+gui.SC2:stateBat=§7Tiene de pasajero a un murciélago
+gui.SC2:stateWitch=§7Tiene de pasajero a una bruja
+gui.SC2:statePig=§7Tiene de pasajero a un cerdo
+gui.SC2:stateSheep=§7Tiene de pasajero a una oveja
+gui.SC2:stateCow=§7Tiene de pasajero a una vaca
+gui.SC2:stateMooshroom=§7Tiene de pasajero a un Vacongo
+gui.SC2:stateChicken=§7Tiene de pasajero a un pollo
+gui.SC2:stateWolf=§7Tiene de pasajero a un lobo
+gui.SC2:stateSnowGolem=§7Tiene de pasajero a un golem de nieve
+gui.SC2:stateOcelot=§7Tiene de pasajero a un ocelote
+gui.SC2:stateVillager=§7Tiene de pasajero a un aldeano
+gui.SC2:statePlayer=§7Tiene de pasajero a un jugador
+gui.SC2:stateZombieVillager=§7Tiene de pasajero a un aldeano zombie
+gui.SC2:stateChild=§7Tiene de pasajero a un niño
+gui.SC2:stateTamed=§7Tiene un pasajero domado
+gui.SC2:statePowerRed=§7El observador de enregía rojo está activo
+gui.SC2:statePowerBlue=§7El observador de enregía azul está activo
+gui.SC2:statePowerGreen=§7El observador de enregía verde está activo
+gui.SC2:statePowerYellow=§7El observador de enregía amarillo está activo
+gui.SC2:stateTanksFull=§7Los tanques están completamente llenos
+gui.SC2:stateTanksEmpty=§7Los tanques están completamente vacíos
+gui.SC2:stateTankEmpty=§7Hay algún tanque completamente vacío

@@ -1,0 +1,50 @@
+ae2fc.tooltip.invalid_fluid=§7Неверная жидкость!
+ae2fc.tooltip.encode_pattern=§fЗакодировать шаблон
+ae2fc.tooltip.fluid_packet=§7Используйте декодер жидкостных пакетов,\nчтобы преобразовать это обратно в жидкость.
+ae2fc.tooltip.empty=§fПусто
+ae2fc.tooltip.dump_tank=§fСлить содержимое резервуара
+ae2fc.tooltip.switch_fluid_interface=§fПереключить GUI МЭ двойного интерфейса
+ae2fc.tooltip.not_combine=§fОбъединять одинаковые предметы
+ae2fc.tooltip.not_combine.hint=§7Отключено
+ae2fc.tooltip.combine=§fОбъединять одинаковые предметы
+ae2fc.tooltip.combine.hint=§7Включено
+
+ae2fc.tooltip.not_prio=§fПомещать жидкость первой
+ae2fc.tooltip.not_prio.hint=§7Отключено
+ae2fc.tooltip.prio=§fПомещать жидкость первой
+ae2fc.tooltip.prio.hint=§7Включено
+
+item.part_fluid_pattern_terminal.name=§fМЭ жидкостный терминал шаблонов
+item.part_fluid_pattern_terminal_ex.name=§fМЭ жидкостный терминал шаблонов обработки
+ae2fc.gui.fluid_packet_decoder=§fМЭ декодер жидкостных пакетов
+
+ae2fc.gui.part_fluid_pattern_terminal=§7Жидкостный терминал шаблонов
+ae2fc.gui.part_fluid_pattern_terminal_ex=§7Жидкостный терминал шаблонов обработки
+ae2fc.gui.part_level_terminal=§7Терминал уровня
+ae2fc.gui.fluid_pattern_encoder=§7Кодировщик жидкостных шаблонов
+ae2fc.gui.fluid_packet_decoder=§7МЭ декодер жидкостных пакетов
+ae2fc.gui.ingredient_buffer=§7Буфер ингредиентов
+ae2fc.gui.large_ingredient_buffer=§7Большой буфер ингредиентов
+ae2fc.gui.fluid_interface=§7МЭ двойной интерфейс
+ae2fc.gui.level_maintainer=§7МЭ поддерживатель уровня
+ae2fc.gui.fluid_interface.0=§7Низ
+ae2fc.gui.fluid_interface.1=§7Вер
+ae2fc.gui.fluid_interface.2=§7Сев
+ae2fc.gui.fluid_interface.3=§7Юг
+ae2fc.gui.fluid_interface.4=§7Зап
+ae2fc.gui.fluid_interface.5=§7Вос
+ae2fc.gui.oc_pattern_editor=§7OC редактор шаблонов
+ae2fc.gui.button.set=§7Задать
+ae2fc.gui.part_fluid_level_emitter=§7МЭ жидкостный излучатель уровня
+ae2fc.gui.part_fluid_import=§7МЭ жидкостная шина импорта
+ae2fc.gui.part_fluid_export=§7МЭ жидкостная шина экспорта
+ae2fc.gui.part_fluid_terminal=§7МЭ жидкостный терминал
+ae2fc.gui.part_fluid_storage_bus=§7МЭ жидкостная шина хранения
+ae2fc.gui.fluid_auto_filler=§7МЭ жидкостный авто-заполнитель
+
+ae2fc.gui.magnet=§7Фильтр магнита
+ae2fc.gui.magnet.nbt=§7Игнорировать NBT
+ae2fc.gui.magnet.meta=§7Игнорировать метаданные
+ae2fc.gui.magnet.ore=§7Использовать словарь руд
+ae2fc.gui.magnet.whitelist=§7Белый список
+ae2fc.gui.magnet.blacklist=§7Чёрный список

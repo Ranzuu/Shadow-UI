@@ -1,0 +1,28 @@
+container.etfuturum.blast_furnace=§7Schmelzofen
+container.etfuturum.smoker=§7Räucherofen
+container.etfuturum.barrel=§7Fass
+container.etfuturum.shulker_box=§7Shulker-Kiste
+container.etfuturum.chest_boat=§7Truhenboot
+
+entity.etfuturum.endermite.name=§7Endermite
+entity.etfuturum.armor_stand.name=§7Rüstungsständer
+entity.etfuturum.rabbit.name=§7Kaninchen
+entity.etfuturum.villager_zombie.name=§7Zombiedorfbewohner
+entity.etfuturum.end_crystal.name=§7Enderkristall
+entity.etfuturum.ender_dragon.name=§7Enderdrache
+entity.etfuturum.snow_golem.name=§7Schneegolem
+entity.etfuturum.brown_mooshroom.name=§7Braune Mooshroom
+entity.etfuturum.shulker.name=§7Shulker
+entity.etfuturum.shulker_candy.name=§7Shulker-Geschoss
+entity.etfuturum.chest_boat.name=§7Truhenboot
+entity.etfuturum.new_boat.name=§7Boot
+
+entity.etfuturum.stray.name=§7Eiswanderer
+entity.etfuturum.husk.name=§7Wüstenzombie
+entity.etfuturum.guardian.name=§7Wächter
+entity.etfuturum.elder_guardian.name=§7Großer Wächter
+entity.etfuturum.polar_bear.name=§7Eisbär
+entity.etfuturum.bee.name=§7Biene
+entity.etfuturum.fox.name=§7Fox
+
+gui.smithing.upgrade=§7Ausrüstung aufwerten

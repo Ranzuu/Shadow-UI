@@ -1,0 +1,56 @@
+crafters.ToolStation=§7Tool Station
+crafters.ToolForge=§7Tool Forge
+crafters.TinkerTable=§7Tinker Table
+crafters.PartBuilder=§7Part Builder
+crafters.PatternShaper=§7Stencil Table
+crafters.CraftingStation=§7Crafting Station
+crafters.Smeltery=§7Smeltery
+
+inventory.PatternChest=§7Pattern Chest
+
+gui.partcrafter1=§7Tool Part Crafting
+gui.partcrafter2=§7Tool Part Building
+gui.partcrafter3=§7Place a pattern and a material on the left to get started.
+gui.partcrafter4=§7Base Durability: 
+gui.partcrafter5=§7Handle Modifier: 
+gui.partcrafter6=§7Mining Speed: 
+gui.partcrafter7=§7Mining Level: 
+gui.partcrafter8=§7 Heart
+gui.partcrafter9=§7 Hearts
+gui.partcrafter10=§7Attack: 
+gui.partcrafter11=§7Full Durability: 
+gui.stenciltable1=§7Next Pattern
+gui.stenciltable2=§7Previous Pattern
+gui.toolforge1=§7Repair and Modification
+gui.toolforge2=§7The main way to repair or change your tools. Place a tool and a material on the left to get started.
+gui.toolstation1=§7Durability:
+gui.toolstation2=§7Durability: 
+gui.toolstation3=§7Attack: 
+gui.toolstation4=§7Bonus: 
+gui.toolstation5=§7Loss: 
+gui.toolstation6=§7Draw Speed: 
+gui.toolstation7=§7Arrow Speed: 
+gui.toolstation8=§7Weight: 
+gui.toolstation9=§7Accuracy: 
+gui.toolstation10=§7Base Damage:
+gui.toolstation11=§7Shortbow Attack:
+gui.toolstation12=§7Mining Speeds: 
+gui.toolstation13=§7Harvest Levels:
+gui.toolstation14=§7Mining Speed: 
+gui.toolstation15=§7Mining Level: 
+gui.toolstation16=§7Usage Speed: 
+gui.toolstation17=§7Modifiers
+gui.toolstation18=§7Modifiers remaining: 
+gui.toolstation19=§7Damage Reduction: 
+gui.toolstation20=§7Protection: 
+gui.toolstation21=§7Ammo: 
+gui.toolstation22=§7Break Chance: 
+gui.toolstation23=§7Max. Attack: 
+
+entity.TConstruct.EdibleSlime.name=§7Blue Slime
+entity.TConstruct.KingSlime.name=§7King Slime
+entity.TConstruct.Gardeslime.name=§7Gardeslime
+entity.TConstruct.MiniGardy.name=§7Mini Gardeslime
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

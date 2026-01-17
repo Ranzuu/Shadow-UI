@@ -1,0 +1,56 @@
+crafters.ToolStation=§7Werkzeugstation
+crafters.ToolForge=§7Werkzeugesse
+crafters.TinkerTable=§7Basteltisch
+crafters.PartBuilder=§7Werkzeugteilbauer
+crafters.PatternShaper=§7Schablonenstanzer
+crafters.CraftingStation=§7Werkstation
+crafters.Smeltery=§7Schmelzerei
+
+inventory.PatternChest=§7Schablonenkiste
+
+gui.partcrafter1=§7Werkzeugteilbau
+gui.partcrafter2=§7Werkzeugteilbau
+gui.partcrafter3=§7Platziere eine Schablone und ein Material auf die linke Seite, um zu beginnen.
+gui.partcrafter4=§7Basis-Haltbarkeit:
+gui.partcrafter5=§7Griffmodifikator:
+gui.partcrafter6=§7Abbaugeschw.:
+gui.partcrafter7=§7Abbaulevel:
+gui.partcrafter8=§7 Herz
+gui.partcrafter9=§7 Herzen
+gui.partcrafter10=§7Angriff:
+gui.partcrafter11=§7Volle Haltbarkeit:
+gui.stenciltable1=§7Nächste Schablone
+gui.stenciltable2=§7Vorherige Schablone
+gui.toolforge1=§7Reparieren und Modifizieren
+gui.toolforge2=§7Der Hauptweg, um deine Werkzeuge zu reparieren und zu ändern. Platziere ein Werkzeug und ein Material auf die linke Seite, um zu beginnen.
+gui.toolstation1=§7Haltbarkeit:
+gui.toolstation2=§7Haltbarkeit:
+gui.toolstation3=§7Angriff:
+gui.toolstation4=§7Bonus:
+gui.toolstation5=§7Verlust:
+gui.toolstation6=§7Spanngeschw.:
+gui.toolstation7=§7Pfeilgeschw.:
+gui.toolstation8=§7Gewicht:
+gui.toolstation9=§7Genauigkeit:
+gui.toolstation10=§7Basis-Angriff:
+gui.toolstation11=§7Kurzbogen-Angriff:
+gui.toolstation12=§7Abbaugeschw.:
+gui.toolstation13=§7Erntelevel:
+gui.toolstation14=§7Abbaugeschw.:
+gui.toolstation15=§7Abbaulevel:
+gui.toolstation16=§7Nutzungsgeschw.:
+gui.toolstation17=§7Modifikatoren
+gui.toolstation18=§7Modifikatoren übrig:
+gui.toolstation19=§7Schaden reduzieren:
+gui.toolstation20=§7Schutz:
+gui.toolstation21=§7Munition:
+gui.toolstation22=§7Bruchchance:
+gui.toolstation23=§7Max. Angriff:
+
+entity.TConstruct.EdibleSlime.name=§7Blauschleim
+entity.TConstruct.KingSlime.name=§7Königsschleim
+entity.TConstruct.Gardeslime.name=§7Guardeschleim
+entity.TConstruct.MiniGardy.name=§7Guardeschleim
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

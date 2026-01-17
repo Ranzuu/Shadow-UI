@@ -1,0 +1,9 @@
+#Container
+container.chisel=§7Meißel
+container.chisel.title=§7Gemeißelter Block
+container.chisel.titleShort=§7Meißeln
+container.chisel.mode=§7Modus:
+container.chisel.mode.single=§7Einzel
+container.chisel.mode.panel=§7Feld
+container.chisel.mode.column=§7Spalte
+container.chisel.mode.row=§7Zeile

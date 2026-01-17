@@ -1,0 +1,56 @@
+crafters.ToolStation=§7Инженерная станция
+crafters.ToolForge=§7Инженерная кузня
+crafters.TinkerTable=§7Стол инженера
+crafters.PartBuilder=§7Конструктор деталей
+crafters.PatternShaper=§7Стол для вырезки схем
+crafters.CraftingStation=§7Верстак инженера
+crafters.Smeltery=§7Плавильня
+
+inventory.PatternChest=§7Сундук для схем
+
+gui.partcrafter1=§7Создание частей
+gui.partcrafter2=§7Сбор частей
+gui.partcrafter3=§7Поместите схему и материал слева, чтобы начать.
+gui.partcrafter4=§7Обычная прочность: 
+gui.partcrafter5=§7Модификатор ручки: 
+gui.partcrafter6=§7Скорость добычи: 
+gui.partcrafter7=§7Уровень добычи: 
+gui.partcrafter8=§7 сердце
+gui.partcrafter9=§7 сердца(-дец)
+gui.partcrafter10=§7Урон: 
+gui.partcrafter11=§7Полная прочность: 
+gui.stenciltable1=§7След. схема
+gui.stenciltable2=§7Пред. схема
+gui.toolforge1=§7Ремонт и модификация
+gui.toolforge2=§7Основной способ починить или изменить Ваши инструменты. Поместите инструмент и материал слева, чтобы начать.
+gui.toolstation1=§7Прочность: 
+gui.toolstation2=§7Прочность: 
+gui.toolstation3=§7Урон: 
+gui.toolstation4=§7Бонус: 
+gui.toolstation5=§7Потери: 
+gui.toolstation6=§7Скорость натяжения: 
+gui.toolstation7=§7Скорость стрелы: 
+gui.toolstation8=§7Вес: 
+gui.toolstation9=§7Точность: 
+gui.toolstation10=§7Обычный урон: 
+gui.toolstation11=§7Урон короткого лука: 
+gui.toolstation12=§7Скорости добычи: 
+gui.toolstation13=§7Уровни сбора: 
+gui.toolstation14=§7Скорость добычи: 
+gui.toolstation15=§7Уровень добычи: 
+gui.toolstation16=§7Скорость использования: 
+gui.toolstation17=§7Модификаторы
+gui.toolstation18=§7Модификаторов осталось: 
+gui.toolstation19=§7Снижение урона: 
+gui.toolstation20=§7Защита: 
+gui.toolstation21=§7Боеприпасы: 
+gui.toolstation22=§7Шанс поломки: 
+gui.toolstation23=§7Макс. урон: 
+
+entity.TConstruct.EdibleSlime.name=§7Синий слизень
+entity.TConstruct.KingSlime.name=§7Король слизней
+entity.TConstruct.Gardeslime.name=§7Слизень-охранник
+entity.TConstruct.MiniGardy.name=§7Малый слизень-охранник
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

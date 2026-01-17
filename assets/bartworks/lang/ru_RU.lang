@@ -1,0 +1,7 @@
+tooltip.tile.radhatch.3.name=§7Зиверт:
+tooltip.tile.radhatch.4.name=§7Масса:
+
+BW.NEI.display.radhatch.0=§7Зиверт: %s Sv
+BW.NEI.display.radhatch.1=§7Масса: %s кг
+BW.NEI.display.radhatch.2=§7Время: %s сек
+

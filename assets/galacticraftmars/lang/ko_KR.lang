@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7화물 로켓
+entity.GalacticraftMars.CreeperBoss.name=§7진화한 크리퍼 보스
+entity.GalacticraftMars.LandingBalloons.name=§7착륙 기구
+entity.GalacticraftMars.Slimeling.name=§7슬라임링
+entity.GalacticraftMars.Sludgeling.name=§7슬러지링
+entity.GalacticraftMars.SpaceshipT2.name=§72티어 로켓
+
+# CONTAINERS
+container.launchcontroller.name=§7발사 통제기
+container.tileTerraformer.name=§7테라포머
+container.marsLander.name=§7착륙 기구

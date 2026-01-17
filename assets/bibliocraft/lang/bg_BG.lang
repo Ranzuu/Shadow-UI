@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Show Frame
+gui.painting.hideFrame=§7Hide Frame
+gui.painting.scale=§7Скала
+gui.painting.resolution=§7Резолюция
+gui.painting.aspectRatio=§7Съотношение на Страните
+gui.painting.size=§7Размер на Картината
+gui.painting.rotation=§7Ротация
+gui.painting.corner=§7Главен Ъгъл
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7of
+
+gui.paintpress.transfer=§7Transfer
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Custom
+
+gui.sign.scale=§7Размер на текста
+gui.sign.format=§7Формат
+gui.sign.linenum=§7Ред#
+
+gui.sign.left=§7Ляво
+gui.sign.center=§7Посредата
+gui.sign.right=§7Дясно
+
+gui.sign.tooltip1=§7Щракнете върху някоя кутия или натиснете таб, за да изберете редакция панел. Таб ще циклира панелите.
+
+gui.fancyworkbench=§7Работна Маса
+
+gui.armorstand=§7Стойка за Броня
+gui.bookcase=§7Етажерка за Книги
+gui.cookiejar=§7Буркан за Бисквити
+gui.shelf=§7Дървен Рафт
+gui.label=§7Дървен Надпис
+gui.potionshelf=§7Етажерка за Отвари
+gui.table=§7Дървена Маса
+gui.case=§7Кутия за Изложба
+gui.toolrack=§7Стойка за Инструменти
+gui.desk=§7Дървено Бюро
+gui.mapWaypoint.accept=§7Приеми
+gui.mapWaypoint.remove=§7Откажи
+gui.mapWaypoint.cancel=§7Отказ
+gui.mapWaypoint.waypoint=§7Насочваща Точка
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Чиния
+gui.discRack=§7Стойка за Музикални Плочи

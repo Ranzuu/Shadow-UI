@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7강철 탱크
+railcraft.gui.tank.water=§7저수조
+railcraft.gui.steam.boiler=§7 증기 보일러
+railcraft.gui.blast.furnace=§7 고로
+railcraft.gui.coke.oven=§7코크스 오븐
+railcraft.gui.steam.oven=§7증기 오븐
+railcraft.gui.turbine.output=§7출력: @d%%
+railcraft.gui.turbine.rotor=§7로터:
+railcraft.gui.turbine=§7증기 터빈
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Rate: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7점화
+railcraft.gui.cart.track.relayer.pattern=§7패턴
+railcraft.gui.cart.track.relayer.stock=§7소지
+railcraft.gui.cart.undercutter.pattern=§7패턴
+railcraft.gui.cart.undercutter.sides=§7옆
+railcraft.gui.cart.undercutter.stock=§7소지
+railcraft.gui.cart.undercutter.under=§7아래
+
+railcraft.gui.feed.station.feed=§7먹이 주기
+railcraft.gui.filter=§7필터
+railcraft.gui.filters.carts=§7카트
+railcraft.gui.filters=§7필터
+railcraft.gui.item.loader.buffer=§7버퍼
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7압연기
+tile.railcraft.machine.alpha.feed.station.name=§7먹이통
+tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
+tile.railcraft.machine.alpha.anchor.admin.name=§7관리자 앵커
+tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7개인 앵커
+tile.railcraft.machine.alpha.anchor.world.name=§7세계 앵커
+railcraft.gui.anchor.fuel.remaining=§7@.2f 시간
+railcraft.gui.anchor.fuel=§7엔더 진주
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7고압 보일러
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7저압 보일러
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7개인용 증기 엔진
+tile.railcraft.machine.beta.engine.steam.low.name=§7상용 증기 엔진
+tile.railcraft.machine.beta.engine.steam.high.name=§7산업용 증기 엔진
+tile.railcraft.machine.beta.chest.void.name=§7쓰레기통
+tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
+
+railcraft.gui.box.aspect.action=§7이 상태에서 레드스톤 방출
+
+railcraft.gui.detector.item.analog=§7아날로그
+railcraft.gui.detector.item.anything=§7모두
+railcraft.gui.detector.item.at_least=§7최소한
+railcraft.gui.detector.item.at_most=§7최대한
+railcraft.gui.detector.item.empty=§7비어 있음
+railcraft.gui.detector.item.exactly=§7정확히
+railcraft.gui.detector.item.filtered=§7필터링
+railcraft.gui.detector.item.full=§7가득 차 있음
+railcraft.gui.detector.item.greater_than=§7Greater Than
+railcraft.gui.detector.item.less_than=§7Less Than
+railcraft.gui.detector.item.not_empty=§7비어 있지 않음
+railcraft.gui.detector.loco.primary=§7주 색상
+railcraft.gui.detector.loco.secondary=§7보조 색상
+railcraft.gui.detector.tank.tip.analog=§7탱크 용량에 따라\n레드스톤 신호 방출
+railcraft.gui.detector.tank.tip.empty=§7빈 탱크 일치
+railcraft.gui.detector.tank.tip.full=§7가득 찬 탱크 일치
+railcraft.gui.detector.tank.tip.half=§71/2 초과 탱크 일치
+railcraft.gui.detector.tank.tip.less.than.full=§7가득 차 있지 않은 탱크 일치
+railcraft.gui.detector.tank.tip.less.than.half=§71/2 미만 탱크 일치
+railcraft.gui.detector.tank.tip.less.than.most=§73/4 미만 탱크 일치
+railcraft.gui.detector.tank.tip.less.than.quarter=§71/4 미만 탱크 일치
+railcraft.gui.detector.tank.tip.most=§73/4 초과 탱크 일치
+railcraft.gui.detector.tank.tip.not.empty=§7비어 있지 않은 탱크 일치
+railcraft.gui.detector.tank.tip.quarter=§71/4 초과 탱크 일치
+railcraft.gui.detector.tank.tip.void=§7임의 개수 일치
+railcraft.gui.detector.train.size=§7Train Size =§7 @d
+railcraft.gui.detector.villager.any=§7모두
+railcraft.gui.detector.villager.equals=§7일치
+railcraft.gui.detector.villager.none=§7없음
+railcraft.gui.detector.villager.not=§7부정
+
+tile.railcraft.machine.gamma.loader.item.name=§7아이템 공급기
+tile.railcraft.machine.gamma.unloader.item.name=§7아이템 회수기
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7강화 아이템 공급기
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7강화 아이템 회수기
+tile.railcraft.machine.gamma.loader.liquid.name=§7액체 공급기
+tile.railcraft.machine.gamma.unloader.liquid.name=§7액체 회수기
+tile.railcraft.machine.gamma.loader.energy.name=§7에너지 공급기
+tile.railcraft.machine.gamma.unloader.energy.name=§7에너지 회수기
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7카트 발사기
+tile.railcraft.machine.gamma.dispenser.train.name=§7열차 발사기

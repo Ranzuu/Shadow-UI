@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Kifele
+gui.message.in.name=§7Befele
+gui.message.status.name=§7Állapot
+gui.message.oxoutput.name=§7Légkimenetel
+gui.message.oxinput.name=§7Légbemenetel
+gui.message.fuel.name=§7Üzemanyag
+gui.message.full.name=§7megtelve
+gui.message.page.name=§7Oldal
+gui.message.addnewsch.name=§7Új tervrajz
+gui.message.generating.name=§7Áramot Fejleszt
+gui.message.environment.name=§7Környezet hatása:
+gui.message.oil.name=§7Olaj
+gui.message.catalog.name=§7Katalógus
+gui.message.back.name=§7Vissza
+gui.message.daynightcycle.name=§7Napkörforgás
+gui.message.surfacegravity.name=§7Felszíni gravitáció
+gui.message.surfacecomposition.name=§7Felszín összetétele
+gui.message.atmosphere.name=§7Légkör
+gui.message.meansurfacetemp.name=§7Felszíni hőmérséklet
+gui.message.energy=§7Energia
+gui.message.maxEnergy=§7Maximális Energia
+gui.message.bubbleVisible.name=§7A Buborék Láthatósága
+gui.message.launch.name=§7Kilövés
+gui.message.clickAgain.0.name=§7Kattintson még egyszer a nagyításhoz (holdak és műholdak megtekintése)
+gui.message.clickAgain.1.name=§7Kattintson még egyszer a nagyításhoz (holdak megtekintése)
+gui.message.clickAgain.2.name=§7Kattintson még egyszer a nagyításhoz (műholdak megtekintése)
+gui.message.clickAgain.3.name=§7Kattintson még egyszer a nagyításhoz
+gui.message.exit.name=§7Kilépés
+gui.message.tier.name=§7%d -Es Szintű
+gui.message.canCreateSpaceStation.name=§7Itt lehet űrállomást létrehozni.
+gui.message.cannotCreateSpaceStation.name=§7Itt nem lehet űrállomást létrehozni.
+gui.message.createSS.name=§7Létrehozás
+gui.message.selectSS.name=§7Select a Space Station ##NEEDS TRANSLATE##
+gui.message.ssOwner.name=§7Owner: ##NEEDS TRANSLATE##
+gui.message.apply.name=§7Apply ##NEEDS TRANSLATE##
+gui.message.cancel.name=§7Cancel ##NEEDS TRANSLATE##
+gui.message.assignName.name=§7Assign Name ##NEEDS TRANSLATE##
+gui.message.rename.name=§7Rename ##NEEDS TRANSLATE##
+gui.message.unnamed.name=§7Unnamed ##NEEDS TRANSLATE##
+gui.message.grow.name=§7Grow ##NEEDS TRANSLATE##
+gui.message.breed.name=§7Breed ##NEEDS TRANSLATE##
+gui.message.strengthen.name=§7Strengthen ##NEEDS TRANSLATE##
+gui.message.heal.name=§7Heal ##NEEDS TRANSLATE##
+gui.message.of.name=§7of ##NEEDS TRANSLATE##
+gui.message.help1=§7For Galacticraft help ##NEEDS TRANSLATE##
+gui.message.help1a=§7To see this message again at any time, type ##NEEDS TRANSLATE##
+gui.message.help2=§7For Space Program guidance ##NEEDS TRANSLATE##
+gui.message.help3=§7For help with oil ##NEEDS TRANSLATE##
+gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
+
+gui.button.enableseal.name=§7Légnyomásfenntartás Indítása
+gui.button.disableseal.name=§7Légnyomásfenntartás Leállítása
+gui.button.loaditems.name=§7Eszközök Berakodása
+gui.button.stoploading.name=§7Berakodás Megszakítása
+gui.button.unloaditems.name=§7Kirakodás Megkezdése
+gui.button.stopunloading.name=§7KIrakodás Megszakítása
+gui.button.createsstation.name=§7Űrállomás létrehozása
+gui.button.sendtodim.name=§7Küldés A Világba
+gui.button.rename.name=§7Átnevezés
+gui.button.loadfuel.name=§7Üzemanyag Betöltése
+gui.button.refine.name=§7Finomítás
+gui.button.back.name=§7Vissza
+gui.button.next.name=§7Következő
+gui.button.unlockschematic.name=§7Tervrajz Feloldása
+gui.button.stoprefine.name=§7Finomítás Megszakítása
+gui.button.enable.name=§7Indítás
+gui.button.disable.name=§7Leállítás
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
+container.cargoloader.name=§7Teher-Berakodó
+container.cargounloader.name=§7Teher-Kirakodó
+container.fuelloader.name=§7Üzemanyag-Töltő
+container.oxygencollector.name=§7Légkiválasztó
+container.oxygencompressor.name=§7Légsűrítő
+container.oxygendistributor.name=§7Légbuborék-Fújó
+container.oxygensealer.name=§7Légnyomás-Fenntartó
+container.parachest.name=§7Utánpótlásszállító-Láda
+container.refinery.name=§7Finomító
+container.treasurechest.name=§7Kincsesláda
+container.lander.name=§7Leszállóegység
+container.spaceship.name=§71-Es Szintű rakéta
+container.solarbasic.name=§7Kezdetleges Naperőmű
+container.solaradvanced.name=§7Fejlett Naperőmű
+container.oxygendecompressor.name=§7Légritkító
+
+gui.checkbox.redstoneSignal.name=§7Nyitás Vöröskő-jelre
+gui.checkbox.playerWithin.name=§7Nyitás játékos közelségére
+gui.checkbox.playerName.name=§7Célpont játékos neve
+gui.checkbox.invert.name=§7Fordított mód
+gui.checkbox.horizontal.name=§7Vízszintes helyzet
+
+tile.machine.0.name=§7Szénerőmű
+tile.machine.1.name=§7Akkumlátor-Telep
+tile.machine.2.name=§7Elektromos Kemence
+tile.machine.3.name=§7Préselőgép
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Elektromos Préselőgép
+tile.machine2.5.name=§7Áramkör-Készítő
+tile.machine2.6.name=§7Légraktár
+tile.machine.7.name=§7Elektromos Duplázó-Kemence
+tile.machine.8.name=§7Nehéz Akkumlátortelep
+
+gui.maxOutput.desc=§7Max Output ##NEEDS TRANSLATE##
+gui.oxygenUse.desc=§7Elhasznált Levegő
+
+gui.message.generating.name=§7Áramot Fejleszt
+
+gui.status.collecting.name=§7Kiválasztás Folyamatban
+gui.status.generating.name=§7Energiát Termel
+gui.status.notGenerating.name=§7Nem Üzemel
+gui.status.hullHeat.name=§7Kazán Befűtése:
+
+gui.title.airLock.name=§7%s Légzsilip-Kezelőpultja.
+
+gui.status.unknown.name=§dIsmeretlen
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Idegen Falusi
+entity.GalacticraftCore.Buggy.name=§7Rover
+entity.GalacticraftCore.EvolvedCreeper.name=§7Fejlett Creeper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Fejlett Csontváz
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Fejlett Csontváz-Főgonosz
+entity.GalacticraftCore.EvolvedSpider.name=§7Fejlett Pók
+entity.GalacticraftCore.EvolvedZombie.name=§7Fejlett Zombi
+entity.GalacticraftCore.Flag.name=§7Zászló
+entity.GalacticraftCore.GCFlag.name=§7Zászló
+entity.GalacticraftCore.GravityArrow.name=§7Nyílvessző
+entity.GalacticraftCore.Lander.name=§7Leszállóegység
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteordarab
+entity.GalacticraftCore.OxygenBubble.name=§7Légbuborék
+entity.GalacticraftCore.ParaChest.name=§7Utánpótlás-Szállító Láda
+entity.GalacticraftCore.Spaceship.name=§71-Es Szintű Rakéta

@@ -1,0 +1,19 @@
+gui.EMT.config.title=§7Конфигурация Electro-Magic Tools
+gui.EMT.etherealMacerator.title=§7Эфирный обработчик
+gui.EMT.wandRecharge.title=§7Промышленная станция зарядки жезлов
+gui.EMT.inventory=§7Инвентарь
+gui.EMT.book.aspect.output.eu.title=§7Книга выхода эссенции
+gui.EMT.book.aspect.output.essentia.eu=§7Выход EU за эссенцию
+gui.EMT.key.unequip=§7Снять
+
+emt.Output=§7Выход:
+emt.Storage=§7Хранилище:
+emt.PressShift=§7<Нажмите SHIFT>
+emt.Generating=§7Генерирует:
+emt.Fuel=§7горючее
+emt.OutputMax=§7Output at Max:
+emt.remaining_second=§7Remaining seconds:
+
+entity.EMT.laser.name=§7Лазер
+entity.EMT.archer.name=§7Снеговик-хранитель
+entity.EMT.shield.name=§7Щит
