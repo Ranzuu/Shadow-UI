@@ -1,0 +1,95 @@
+# gui names
+gtnop.gui.veinStat.name=矿脉信息
+gtnop.gui.asteroidStat.name=小行星信息
+gtnop.gui.smallOreStat.name=贫瘠矿石信息
+gtnop.gui.undergroundFluid.name=地下流体信息
+gtnop.gui.ieVeinStat.name=IE虚拟矿脉信息
+gtnop.gui.bedrockOreStat.name=基岩矿脉信息
+
+gtnop.gui.nei.veinName=§7矿脉名称
+gtnop.gui.nei.primaryOre=§7上层矿石
+gtnop.gui.nei.secondaryOre=§7下层矿石
+gtnop.gui.nei.betweenOre=§7中层矿石
+gtnop.gui.nei.sporadicOre=§7散乱分布
+gtnop.gui.nei.genHeight=§7生成高度
+gtnop.gui.nei.weightedChance=§7生成几率
+gtnop.gui.nei.worldNames=§7生成世界
+gtnop.gui.nei.restrictBiome=§7生物群系限制
+gtnop.gui.nei.dimension=§7维度
+gtnop.gui.nei.chance=§7几率
+gtnop.gui.nei.fluidAmount=§7储量
+
+gtnop.gui.nei.asteroidPrimary=§7主要生成一
+gtnop.gui.nei.asteroidSecondary=§7主要生成二
+gtnop.gui.nei.asteroidBetween=§7次要生成一
+gtnop.gui.nei.asteroidSporadic=§7次要生成二
+
+gtnop.gui.nei.oreName=§7矿石名称
+gtnop.gui.nei.amount=§7每区块生成个数
+gtnop.gui.nei.chanceDrops=§7几率掉落
+
+gtnop.gui.nei.ieVeinComponent=§7矿脉构成
+gtnop.gui.nei.fromMod=§7来自模组
+
+gtnop.gui.nei.seeAll=§7查看全部
+gtnop.gui.nei.vein=§7矿脉
+gtnop.gui.nei.oreOthers=§7伴随生成
+gtnop.nei.genPosition=§7生成位置
+gtnop.nei.genPositionInfo=§7各个区块的正中心
+
+
+# world names
+gtnop.world.Overworld=§7主世界
+gtnop.world.Nether=§7下界
+gtnop.world.TheEnd=§7末地
+gtnop.world.Twilight=§7暮色森林
+gtnop.world.EndAsteroid=§7末地小行星
+gtnop.world.Vanilla EndAsteroids=§7原版末地小行星
+gtnop.world.Moon=§7月球
+gtnop.world.Mars=§7火星
+gtnop.world.Phobos=§7火卫一
+gtnop.world.Deimos=§7火卫二
+gtnop.world.Asteroids=§7小行星带
+gtnop.world.Ceres=§7谷神星
+gtnop.world.Europa=§7木卫二
+gtnop.world.Ganymede=§7木卫三
+gtnop.world.Callisto=§7木卫四
+gtnop.world.Ross128b=§7罗斯128b
+gtnop.world.Io=§7木卫一
+gtnop.world.Venus=§7金星
+gtnop.world.Mercury=§7水星
+gtnop.world.Enceladus=§7土卫二
+gtnop.world.Titan=§7土卫六
+gtnop.world.Ross128ba=§7罗斯128ba
+gtnop.world.Miranda=§7天卫五
+gtnop.world.Oberon=§7天卫四
+gtnop.world.Proteus=§7海卫八
+gtnop.world.Triton=§7海卫一
+gtnop.world.Pluto=§7冥王星
+gtnop.world.Kuiperbelt=§7柯伊伯带
+gtnop.world.Haumea=§7妊神星
+gtnop.world.MakeMake=§7鸟神星
+gtnop.world.CentauriA=§7半人马Bb
+gtnop.world.VegaB=§7织女B
+gtnop.world.BarnardC=§7巴纳德C
+gtnop.world.BarnardE=§7巴纳德E
+gtnop.world.BarnardF=§7巴纳德F
+gtnop.world.TcetiE=§7鲸鱼座T星E
+gtnop.world.Underdark=§7漆黑世界
+
+
+# biome names
+gtnop.biome.none.name=§7无
+
+
+# ore names extra
+gtnop.ore.null.name=§7无
+
+
+# vein types
+gtnop.ore.vein.name=§7矿脉
+gtnop.ore.asteroid.name=§7小行星
+gtnop.ore.custom.name=§7自定义
+
+# items
+itemGroup.gtneioreplugin=§7GT NEI 矿物插件

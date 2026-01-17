@@ -1,0 +1,28 @@
+container.etfuturum.blast_furnace=§7Плавильная печь
+container.etfuturum.smoker=§7Коптильня
+container.etfuturum.barrel=§7Бочка
+container.etfuturum.shulker_box=§7Шалкеровый ящик
+container.etfuturum.chest_boat=§7Лодка с сундуком
+
+entity.etfuturum.endermite.name=§7Чешуйница Края
+entity.etfuturum.armor_stand.name=§7Стойка для брони
+entity.etfuturum.rabbit.name=§7Кролик
+entity.etfuturum.villager_zombie.name=§7Зомби-житель
+entity.etfuturum.end_crystal.name=§7Кристалл Края
+entity.etfuturum.ender_dragon.name=§7Дракон Эндера
+entity.etfuturum.snow_golem.name=§7Снеговик
+entity.etfuturum.brown_mooshroom.name=§7Коричневый муухомор
+entity.etfuturum.shulker.name=§7Шалкер
+entity.etfuturum.shulker_candy.name=§7Снаряд шалкера
+entity.etfuturum.chest_boat.name=§7Лодка с сундуком
+entity.etfuturum.new_boat.name=§7Лодка
+
+entity.etfuturum.stray.name=§7Зимогор
+entity.etfuturum.husk.name=§7Кадавр
+entity.etfuturum.guardian.name=§7Страж
+entity.etfuturum.elder_guardian.name=§7Древний страж
+entity.etfuturum.polar_bear.name=§7Белый медведь
+entity.etfuturum.bee.name=§7Пчела
+entity.etfuturum.fox.name=§7Fox
+
+gui.smithing.upgrade=§7Улучшить снаряжение

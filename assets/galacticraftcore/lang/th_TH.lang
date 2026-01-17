@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7ออก
+gui.message.in.name=§7เข้า
+gui.message.status.name=§7สถานะ
+gui.message.oxoutput.name=§7ออกซิเจนที่ออกมา
+gui.message.oxinput.name=§7ออกซิเจนที่เข้ามา
+gui.message.fuel.name=§7เชื้อเพลิง
+gui.message.full.name=§7เต็ม
+gui.message.page.name=§7หน้า
+gui.message.addnewsch.name=§7เพิ่มแผนผังใหม่
+gui.message.generating.name=§7พลังงานที่ได้
+gui.message.environment.name=§7สภาวะแวดล้อมเอื้ออำนวย
+gui.message.oil.name=§7น้ำมัน
+gui.message.catalog.name=§7แคตตาล็อก
+gui.message.back.name=§7กลับ
+gui.message.daynightcycle.name=§7หมุนรอบตัว กลางวัน-กลางคืน
+gui.message.surfacegravity.name=§7แรงโน้มถ่วงบนพื้นผิว
+gui.message.surfacecomposition.name=§7องค์ประกอบพื้นผิว
+gui.message.atmosphere.name=§7ชั้นบรรยากาศ
+gui.message.meansurfacetemp.name=§7ค่าเฉลี่ยอุณหภูมิบนพื้นผิว
+gui.message.energy=§7พลังงาน
+gui.message.maxEnergy=§7พลังงานสูงสุด
+gui.message.bubbleVisible.name=§7มองเห็นฟองอากาศ
+gui.message.launch.name=§7ไปยังเป้าหมาย
+gui.message.clickAgain.0.name=§7คลิกอีกครั้งเพื่อขยาย (มุมมองของดวงจันทร์และดาวเทียม)
+gui.message.clickAgain.1.name=§7คลิกอีกครั้งเพื่อขยาย (มุมมองของดวงจันทร์)
+gui.message.clickAgain.2.name=§7คลิกอีกครั้งเพื่อขยาย (มุมมองของดาวเทียม)
+gui.message.clickAgain.3.name=§7คลิกอีกครั้งเพื่อขยาย
+gui.message.exit.name=§7ออก
+gui.message.tier.name=§7เทียร์ %d
+gui.message.canCreateSpaceStation.name=§7สามารถสร้างสถานีอวกาศได้ ที่นี่!
+gui.message.cannotCreateSpaceStation.name=§7ไม่สามารถสร้างสถานีอวกาศ ได้ที่นี่
+gui.message.createSS.name=§7สร้างสถานีอวกาศ
+gui.message.selectSS.name=§7เลือกสถานีอวกาศ
+gui.message.ssOwner.name=§7เจ้าของ:
+gui.message.apply.name=§7นำไปใช้
+gui.message.cancel.name=§7ยกเลิก
+gui.message.assignName.name=§7กำหนดชื่อ
+gui.message.rename.name=§7เปลี่ยนชื่อ
+gui.message.unnamed.name=§7ไม่มีชื่อ
+gui.message.grow.name=§7ทำให้โต
+gui.message.breed.name=§7ให้อาหาร
+gui.message.strengthen.name=§7เพิ่มพลัง
+gui.message.heal.name=§7เพิ่มเลือด
+gui.message.of.name=§7ของ
+gui.message.help1=§7สำหรับการช่วยเหลือของกาแลคติคคราฟ
+gui.message.help1a=§7เพื่อดูข้อความนี้อีกครั้งได้ตลอดเวลา ใช้
+gui.message.help2=§7สำหรับการแนะนำรายการเกี่ยวกับอวกาศ
+gui.message.help3=§7สำหรับช่วยเหลือเรื่องน้ำมัน
+gui.message.prelaunch=§7ตรวจสอบรายการก่อนปล่อย
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7สถานะเครื่องควบคุมอุณหภูมิ
+
+gui.button.enableseal.name=§7เปิดใช้งานการผนึก
+gui.button.disableseal.name=§7ปิดใช้งานการผนึก
+gui.button.loaditems.name=§7ขนส่งไอเท็ม
+gui.button.stoploading.name=§7หยุดเติม
+gui.button.unloaditems.name=§7ขนถ่ายสินค้า
+gui.button.stopunloading.name=§7หยุดขนถ่ายสินค้า
+gui.button.createsstation.name=§7สร้างสถานีอวกาศ
+gui.button.sendtodim.name=§7ส่งไปยังมิติ
+gui.button.rename.name=§7เปลี่ยนชื่อ
+gui.button.loadfuel.name=§7โหลดเชื้อเพลิง
+gui.button.refine.name=§7เริ่มกลั่น
+gui.button.back.name=§7กลับ
+gui.button.next.name=§7ต่อไป
+gui.button.unlockschematic.name=§7ปลดล็อคแผนผัง
+gui.button.stoprefine.name=§7หยุดกลั่น
+gui.button.enable.name=§7เปิดใช้งาน
+gui.button.disable.name=§7ปิดใช้งาน
+gui.button.hideDest.name=§7ซ่อน
+gui.button.unhideDest.name=§7เลิกซ่อน
+
+# CONTAINERS
+container.cargoloader.name=§7เครื่องขนส่งสินค้า
+container.cargounloader.name=§7เครื่องขนถ่ายสินค้า
+container.fuelloader.name=§7เครื่องเติมเชื้อเพลิง
+container.oxygencollector.name=§7เครื่องกักเก็บออกซิเจน
+container.oxygencompressor.name=§7เครื่องบีบอัดออกซิเจน
+container.oxygendistributor.name=§7เครื่องกระจายฟองออกซิเจน
+container.oxygensealer.name=§7เครื่องผนึกออกซิเจน
+container.parachest.name=§7กล่องสัมภาระ
+container.refinery.name=§7เครื่องกลั่นน้ำมัน
+container.treasurechest.name=§7กล่องสมบัติ
+container.lander.name=§7ยานลงจอด
+container.spaceship.name=§7จรวด เทียร์ 1
+container.solarbasic.name=§7แผงโซลาร์
+container.solaradvanced.name=§7แผงโซลาร์ขั้นสูง
+container.oxygendecompressor.name=§7เครื่องลดความดันออกซิเจน
+
+gui.checkbox.redstoneSignal.name=§7เปิดแอร์ล็อคโดยใช้สัญญาณเรดสโตน
+gui.checkbox.playerWithin.name=§7ผู้เล่นอยู่ภายใน
+gui.checkbox.playerName.name=§7ชื่อผู้เล่นคือ
+gui.checkbox.invert.name=§7สลับการทำงาน
+gui.checkbox.horizontal.name=§7โหมดแนวนอน
+
+tile.machine.0.name=§7เครื่องกำเนิดไฟฟ้าถ่านหิน
+tile.machine.1.name=§7โมดูลเก็บพลังงาน
+tile.machine.2.name=§7เตาไฟฟ้า
+tile.machine.3.name=§7เครื่องบีบอัด
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7เครื่องบีบอัดไฟฟ้า
+tile.machine2.5.name=§7เครื่องประดิษฐ์แผงวงจร
+tile.machine2.6.name=§7โมดูลเก็บออกซิเจน
+tile.machine.7.name=§7เตาอาร์คไฟฟ้า
+tile.machine.8.name=§7โมดูลเก็บพลังงานแบบคลัสเตอร์
+
+gui.maxOutput.desc=§7ส่งออกสูงสุด
+gui.oxygenUse.desc=§7ใช้ออกซิเจน
+
+gui.message.generating.name=§7พลังงานที่ได้
+
+gui.status.collecting.name=§7ออกซิเจนที่ได้
+gui.status.generating.name=§7สถานะ
+gui.status.notGenerating.name=§7ไม่ได้ทำงาน
+gui.status.hullHeat.name=§7ความร้อน
+
+gui.title.airLock.name=§7%s's เครื่องควบคุมแอร์ล็อค
+
+gui.status.unknown.name=§dไม่ทราบ
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7ชาวบ้านอวกาศ
+entity.GalacticraftCore.Buggy.name=§7บักกี้
+entity.GalacticraftCore.EvolvedCreeper.name=§7คริปเปอร์อวกาศ
+entity.GalacticraftCore.EvolvedSkeleton.name=§7โครงกระดูกอวกาศ
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7บอสโครงกระดูกอวกาศ
+entity.GalacticraftCore.EvolvedSpider.name=§7แมงมุมอวกาศ
+entity.GalacticraftCore.EvolvedZombie.name=§7ผีดิบอวกาศ
+entity.GalacticraftCore.Flag.name=§7ธง
+entity.GalacticraftCore.GCFlag.name=§7ธง
+entity.GalacticraftCore.GravityArrow.name=§7ธนู
+entity.GalacticraftCore.Lander.name=§7ยานลงจอด
+entity.GalacticraftCore.Meteor.name=§7อุกกาบาต
+entity.GalacticraftCore.MeteorChunk.name=§7เศษอุกกาบาต
+entity.GalacticraftCore.OxygenBubble.name=§7ฟองออกซิเจน
+entity.GalacticraftCore.ParaChest.name=§7กล่องสัมภาระ
+entity.GalacticraftCore.Spaceship.name=§7จรวด เทียร์ 1

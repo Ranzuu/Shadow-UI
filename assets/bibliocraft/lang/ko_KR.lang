@@ -1,0 +1,48 @@
+FramedChest.name=§7프레인 체스트
+
+gui.painting.showFrame=§7프레임 보이기
+gui.painting.hideFrame=§7프레임 숨기기
+gui.painting.scale=§7크기
+gui.painting.resolution=§7Resolution
+gui.painting.aspectRatio=§7Aspect Ratio
+gui.painting.size=§7그림의 크기
+gui.painting.rotation=§7각도
+gui.painting.corner=§7코너
+
+gui.paintpress.page=§7페이지
+gui.paintpress.of=§7중
+
+gui.paintpress.transfer=§7보내기
+gui.paintpress.vanilla=§7바닐라
+gui.paintpress.custom=§7사용자 지정
+
+gui.sign.scale=§7글자 크기
+gui.sign.format=§7포맷
+gui.sign.linenum=§7행 번호 :
+
+gui.sign.left=§7좌
+gui.sign.center=§7중
+gui.sign.right=§7우
+
+gui.sign.tooltip1=§7상자 혹은 Tab을 누르는 것으로 수정 패널을 선택합니다. Tab은 패널을 순환시킬 것입니다.
+
+gui.fancyworkbench=§7화려한 조합대
+
+gui.armorstand=§7갑옷 걸개
+gui.bookcase=§7책장
+gui.cookiejar=§7쿠키 단지
+gui.shelf=§7목재 선반
+gui.label=§7목재 이름표
+gui.potionshelf=§7포션 선반
+gui.table=§7목재 탁자
+gui.case=§7진열장
+gui.toolrack=§7도구 거치대
+gui.desk=§7목재 책상
+gui.mapWaypoint.accept=§7추가
+gui.mapWaypoint.remove=§7제거
+gui.mapWaypoint.cancel=§7취소
+gui.mapWaypoint.waypoint=§7웨이포인트
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7접시
+gui.discRack=§7레코드 선반

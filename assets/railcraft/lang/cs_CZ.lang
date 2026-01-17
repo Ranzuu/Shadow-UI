@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7Ocelová nádrž
+railcraft.gui.tank.water=§7Vodní nádrž
+railcraft.gui.steam.boiler=§7 Parní kotel
+railcraft.gui.blast.furnace=§7 Vysoká pec
+railcraft.gui.coke.oven=§7Koksovací pec
+railcraft.gui.steam.oven=§7Parní trouba
+railcraft.gui.turbine.output=§7Výstup: @d%%
+railcraft.gui.turbine.rotor=§7Rotor:
+railcraft.gui.turbine=§7Parní turbína:
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Výkon: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7Pojistka
+railcraft.gui.cart.track.relayer.pattern=§7Vzor
+railcraft.gui.cart.track.relayer.stock=§7Sklad
+railcraft.gui.cart.undercutter.pattern=§7Vzory
+railcraft.gui.cart.undercutter.sides=§7Strany
+railcraft.gui.cart.undercutter.stock=§7Sklad
+railcraft.gui.cart.undercutter.under=§7Pod
+
+railcraft.gui.feed.station.feed=§7Krmivo
+railcraft.gui.filter=§7Filtr
+railcraft.gui.filters.carts=§7Vozíky
+railcraft.gui.filters=§7Filtry
+railcraft.gui.item.loader.buffer=§7Nárazník
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7Válcovací mašina
+tile.railcraft.machine.alpha.feed.station.name=§7Krmná stanice
+tile.railcraft.machine.alpha.trade.station.name=§7Obchodní stanice
+tile.railcraft.machine.alpha.anchor.admin.name=§7Kotva správce
+tile.railcraft.machine.alpha.anchor.passive.name=§7Pasivní kotva
+tile.railcraft.machine.alpha.anchor.personal.name=§7Osobní kotva
+tile.railcraft.machine.alpha.anchor.world.name=§7Světová kotva
+railcraft.gui.anchor.fuel.remaining=§7@.2f hodiny
+railcraft.gui.anchor.fuel=§7Ender perly
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7Vysokotlaká nádrž boileru
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Nízkotlaká nádrž boileru
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Kutilův parní stroj
+tile.railcraft.machine.beta.engine.steam.low.name=§7Komerční parní stroj
+tile.railcraft.machine.beta.engine.steam.high.name=§7Průmyslový parní stroj
+tile.railcraft.machine.beta.chest.void.name=§7Void truhla prázdnoty
+tile.railcraft.machine.beta.chest.metals.name=§7Truhla kovů
+
+railcraft.gui.box.aspect.action=§7Emituje Rudit na Aspect
+
+railcraft.gui.detector.item.analog=§7Analogový
+railcraft.gui.detector.item.anything=§7Cokoliv
+railcraft.gui.detector.item.at_least=§7Alespoň
+railcraft.gui.detector.item.at_most=§7Nanejvýš
+railcraft.gui.detector.item.empty=§7Prázdný
+railcraft.gui.detector.item.exactly=§7Přesně
+railcraft.gui.detector.item.filtered=§7Filtrovaný
+railcraft.gui.detector.item.full=§7Plný
+railcraft.gui.detector.item.greater_than=§7Větší než
+railcraft.gui.detector.item.less_than=§7Menší než
+railcraft.gui.detector.item.not_empty=§7Není prázdný
+railcraft.gui.detector.loco.primary=§7Základní barva
+railcraft.gui.detector.loco.secondary=§7Sekundární barva
+railcraft.gui.detector.tank.tip.analog=§7Emituje analogový signál\n na základě množství v nádrži
+railcraft.gui.detector.tank.tip.empty=§7Srovná prázdné nádrže
+railcraft.gui.detector.tank.tip.full=§7Srovná plné nádrže
+railcraft.gui.detector.tank.tip.half=§7Srovná více než polovinu plné nádrže
+railcraft.gui.detector.tank.tip.less.than.full=§7Srovná méně než plné nádrže
+railcraft.gui.detector.tank.tip.less.than.half=§7Srovná méně než půlku plné nádrže
+railcraft.gui.detector.tank.tip.less.than.most=§7Srovná méně než 3/4tiny plné nádrže
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Srovná méně než čtvrtinu plné nádrže
+railcraft.gui.detector.tank.tip.most=§7Srovná více než 3/4tiny plné nádrže
+railcraft.gui.detector.tank.tip.not.empty=§7Srovná neprázdné nádrže
+railcraft.gui.detector.tank.tip.quarter=§7Srovná více než čtvrtinu plné nádrže
+railcraft.gui.detector.tank.tip.void=§7Srovná jakékoli množství
+railcraft.gui.detector.train.size=§7Velikost vlaku = @d
+railcraft.gui.detector.villager.any=§7Jakýkoliv
+railcraft.gui.detector.villager.equals=§7Rovno
+railcraft.gui.detector.villager.none=§7Nikdo
+railcraft.gui.detector.villager.not=§7Ne
+
+tile.railcraft.machine.gamma.loader.item.name=§7Nakládač předmětů
+tile.railcraft.machine.gamma.unloader.item.name=§7Vykládač předmětů
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Adv. nakládač předmětů
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Adv. vykládač předmětů
+tile.railcraft.machine.gamma.loader.liquid.name=§7Nakládač tekutin
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Vykládač tekutin
+tile.railcraft.machine.gamma.loader.energy.name=§7Nakládač energie
+tile.railcraft.machine.gamma.unloader.energy.name=§7Vykládač energie
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Vozíkový dávkovač
+tile.railcraft.machine.gamma.dispenser.train.name=§7Vlakový dávkovač

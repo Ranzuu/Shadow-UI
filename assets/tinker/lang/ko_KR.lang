@@ -1,0 +1,56 @@
+crafters.ToolStation=§7도구 조립대
+crafters.ToolForge=§7도구 대장간
+crafters.TinkerTable=§7대장장이의 탁자
+crafters.PartBuilder=§7부품 조합대
+crafters.PatternShaper=§7문양 제작 탁자
+crafters.CraftingStation=§7조합소
+crafters.Smeltery=§7제련소
+
+inventory.PatternChest=§7문양 상자
+
+gui.partcrafter1=§7도구 부품 조합
+gui.partcrafter2=§7도구 부품 제조
+gui.partcrafter3=§7패턴과 재료를 왼쪽에 놓아서 시작하세요
+gui.partcrafter4=§7기본 내구도: 
+gui.partcrafter5=§7자루 강화치: 
+gui.partcrafter6=§7채광 속도: 
+gui.partcrafter7=§7채광 수준: 
+gui.partcrafter8=§7 하트
+gui.partcrafter9=§7 하트
+gui.partcrafter10=§7공격력: 
+gui.partcrafter11=§7최대 내구도: 
+gui.stenciltable1=§7다음 문양
+gui.stenciltable2=§7이전 문양
+gui.toolforge1=§7수리와 업그레이드
+gui.toolforge2=§7당신의 도구를 보수하거나 업그레이드하기 위한 기본적인 방법입니다. 왼쪽에 도구와 재료를 두어 시작하세요.
+gui.toolstation1=§7내구도:
+gui.toolstation2=§7내구도: 
+gui.toolstation3=§7공격력: 
+gui.toolstation4=§7보너스: 
+gui.toolstation5=§7감소: 
+gui.toolstation6=§7장전 속도: 
+gui.toolstation7=§7화살 속도: 
+gui.toolstation8=§7무게: 
+gui.toolstation9=§7명중률: 
+gui.toolstation10=§7기본 공격력:
+gui.toolstation11=§7단궁 공격력:
+gui.toolstation12=§7채광 속도: 
+gui.toolstation13=§7채광 수준:
+gui.toolstation14=§7채광 속도: 
+gui.toolstation15=§7채광 수준: 
+gui.toolstation16=§7사용 속도: 
+gui.toolstation17=§7업그레이드
+gui.toolstation18=§7남은 업그레이드 횟수: 
+gui.toolstation19=§7공격력 감소: 
+gui.toolstation20=§7보호: 
+gui.toolstation21=§7갯수: 
+gui.toolstation22=§7부러질 확률: 
+gui.toolstation23=§7최대 공격력: 
+
+entity.TConstruct.EdibleSlime.name=§7푸른 슬라임
+entity.TConstruct.KingSlime.name=§7대왕 슬라임
+entity.TConstruct.Gardeslime.name=§7가드 슬라임 
+entity.TConstruct.MiniGardy.name=§7미니 가드 슬라임 
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

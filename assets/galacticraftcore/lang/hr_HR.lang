@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Van
+gui.message.in.name=§7U
+gui.message.status.name=§7Status
+gui.message.oxoutput.name=§7Izlaz
+gui.message.oxinput.name=§7Ulaz
+gui.message.fuel.name=§7Gorivo
+gui.message.full.name=§7Puno
+gui.message.page.name=§7Stranica
+gui.message.addnewsch.name=§7Dodaj novu Šemu
+gui.message.generating.name=§7Generiram
+gui.message.environment.name=§7Radim Okoliš
+gui.message.oil.name=§7Ulje
+gui.message.catalog.name=§7Katalog
+gui.message.back.name=§7Nazad
+gui.message.daynightcycle.name=§7Period Dana-Noći
+gui.message.surfacegravity.name=§7Gravitacija Tla
+gui.message.surfacecomposition.name=§7Kompozicija Tla
+gui.message.atmosphere.name=§7Atmosfera
+gui.message.meansurfacetemp.name=§7Temperatura Tla
+gui.message.energy=§7Energija
+gui.message.maxEnergy=§7Maksimalna Energija
+gui.message.bubbleVisible.name=§7Vidljivost Balona
+gui.message.launch.name=§7Lansiraj
+gui.message.clickAgain.0.name=§7Klikni opet za Zumiranje (Pogledaj Planetove Mjesece & Satelite)
+gui.message.clickAgain.1.name=§7Klikni opet za Zumiranje (Pogledaj Mjesec)
+gui.message.clickAgain.2.name=§7Klikni opet za Zumiranje (Pogledaj Satelit)
+gui.message.clickAgain.3.name=§7Klikni opet za Zumiranje
+gui.message.exit.name=§7Izlaz
+gui.message.tier.name=§7Rang %d
+gui.message.canCreateSpaceStation.name=§7Možeš Napraviti Svemirsku Stanicu!
+gui.message.cannotCreateSpaceStation.name=§7Svemirska stanica se ne može Stvoriti.
+gui.message.createSS.name=§7Stvori
+gui.message.selectSS.name=§7Odaberi Svemirsku Stanicu
+gui.message.ssOwner.name=§7Vlasnik:
+gui.message.apply.name=§7Primjeni 
+gui.message.cancel.name=§7Odbij 
+gui.message.assignName.name=§7Dodjela Imena
+gui.message.rename.name=§7Preimenuj
+gui.message.unnamed.name=§7Neimenovan
+gui.message.grow.name=§7Rasti
+gui.message.breed.name=§7Pari
+gui.message.strengthen.name=§7Ojačaj
+gui.message.heal.name=§7Izliječi
+gui.message.of.name=§7od
+gui.message.help1=§7Za GalactiCraft pomoć
+gui.message.help1a=§7Da vidiš poruku opet bilo koji put, upiši
+gui.message.help2=§7Za rukovanje svemirskim programom
+gui.message.help3=§7Za pomoć sa uljem
+gui.message.prelaunch=§7Popis prije-pokretanja
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
+
+gui.button.enableseal.name=§7Uključi Djeljenje Zraka
+gui.button.disableseal.name=§7Isključi Djeljenje Zraka
+gui.button.loaditems.name=§7Stavi Stvari
+gui.button.stoploading.name=§7Zaustavi
+gui.button.unloaditems.name=§7Uzmi Stvari
+gui.button.stopunloading.name=§7Zaustavi
+gui.button.createsstation.name=§7Svemirska Stanica
+gui.button.sendtodim.name=§7Pošalji u Dimenziju
+gui.button.rename.name=§7Preimenovati
+gui.button.loadfuel.name=§7Puni Gorivo
+gui.button.refine.name=§7Refiniraj
+gui.button.back.name=§7Nazad
+gui.button.next.name=§7Naprijed
+gui.button.unlockschematic.name=§7Otključaj Šemu
+gui.button.stoprefine.name=§7Prestani Refinirati
+gui.button.enable.name=§7Uključi
+gui.button.disable.name=§7Isključi
+gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
+gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
+
+# CONTAINERS
+container.cargoloader.name=§7Utovarivač Tereta
+container.cargounloader.name=§7Istovarivač Tereta
+container.fuelloader.name=§7Utovarivač Goriva
+container.oxygencollector.name=§7Kolektor Zraka
+container.oxygencompressor.name=§7Kompresor Zraka
+container.oxygendistributor.name=§7Distrubitor Zraka
+container.oxygensealer.name=§7Sealer Zraka
+container.parachest.name=§7Pado-Škrinja
+container.refinery.name=§7Refinerija
+container.treasurechest.name=§7Škrinja sa Blagom
+container.lander.name=§7Svemirski Slijetač
+container.spaceship.name=§7Tier 1 Raketa
+container.solarbasic.name=§7Normalni Solarni Panel
+container.solaradvanced.name=§7Napredni Solarni Panel
+container.oxygendecompressor.name=§7Dekompresor Zraka
+
+gui.checkbox.redstoneSignal.name=§7Otvara se na signalu crvenog praha
+gui.checkbox.playerWithin.name=§7Igrač je
+gui.checkbox.playerName.name=§7Ime Igrača je
+gui.checkbox.invert.name=§7Suprotno
+gui.checkbox.horizontal.name=§7Horizontalni Način
+
+tile.machine.0.name=§7Generator Ugljena
+tile.machine.1.name=§7Energijsko Skladište
+tile.machine.2.name=§7Električna Peć
+tile.machine.3.name=§7Kompresor
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Električni Kompresor
+tile.machine2.5.name=§7Strujni Krug
+tile.machine2.6.name=§7Zračno Skladište
+tile.machine.7.name=§7Električna Arc Peć
+tile.machine.8.name=§7Energijsko Skladište
+
+gui.maxOutput.desc=§7Maksimalni Izlaz
+gui.oxygenUse.desc=§7Kisik se koristi
+
+gui.message.generating.name=§7Generiram
+
+gui.status.collecting.name=§7Skupljam
+gui.status.generating.name=§7Generiram
+gui.status.notGenerating.name=§7Ne Generiram
+gui.status.hullHeat.name=§7Pregirjavanje
+
+gui.title.airLock.name=§7%s's Kontroler Zračne Komore
+
+gui.status.unknown.name=§dNepoznato
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Vanzemaljski Seljanin
+entity.GalacticraftCore.Buggy.name=§7Rover
+entity.GalacticraftCore.EvolvedCreeper.name=§7Evoulirani Kriper
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Evoulirani Kostur
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Evoulirani Kralj Kostura
+entity.GalacticraftCore.EvolvedSpider.name=§7Evoulirani Pauk
+entity.GalacticraftCore.EvolvedZombie.name=§7Evoulirani Zombi
+entity.GalacticraftCore.Flag.name=§7Zastava
+entity.GalacticraftCore.GCFlag.name=§7Zastava
+entity.GalacticraftCore.GravityArrow.name=§7Strijela
+entity.GalacticraftCore.Lander.name=§7Svemirski Slijetač
+entity.GalacticraftCore.Meteor.name=§7Meteor
+entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
+entity.GalacticraftCore.OxygenBubble.name=§7Zračni Balon
+entity.GalacticraftCore.ParaChest.name=§7PadoŠkrinja
+entity.GalacticraftCore.Spaceship.name=§7Raketa Ranga 1

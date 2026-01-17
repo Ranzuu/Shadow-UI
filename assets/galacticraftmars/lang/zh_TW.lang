@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7貨運火箭
+entity.GalacticraftMars.CreeperBoss.name=§7進化爬行者之王
+entity.GalacticraftMars.LandingBalloons.name=§7Landing Balloons ##NEEDS TRANSLATE##
+entity.GalacticraftMars.Slimeling.name=§7黏滑怪
+entity.GalacticraftMars.Sludgeling.name=§7泥漿怪
+entity.GalacticraftMars.SpaceshipT2.name=§7二階火箭
+
+# CONTAINERS
+container.launchcontroller.name=§7發射控制器
+container.tileTerraformer.name=§7地形改造機
+container.marsLander.name=§7Landing Balloons ##NEEDS TRANSLATE##

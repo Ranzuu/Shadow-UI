@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Avec cadre
+gui.painting.hideFrame=§7Sans cadre
+gui.painting.scale=§7Échelle
+gui.painting.resolution=§7Résolution
+gui.painting.aspectRatio=§7Format
+gui.painting.size=§7Taille
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Coin maître
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7de
+
+gui.paintpress.transfer=§7Transfert
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Perso.
+
+gui.sign.scale=§7Taille
+gui.sign.format=§7Format
+gui.sign.linenum=§7Ligne#
+
+gui.sign.left=§7Gauche
+gui.sign.center=§7Centre
+gui.sign.right=§7Droite
+
+gui.sign.tooltip1=§7Cliquez sur une boîte ou pressez "Tab" pour passer d'un panneau à l'autre.
+
+gui.fancyworkbench=§7Établi chic
+
+gui.armorstand=§7Porte-armure
+gui.bookcase=§7Bibliothèque
+gui.cookiejar=§7Bocal à biscuits
+gui.shelf=§7Étagère en bois
+gui.label=§7Écriteau en bois
+gui.potionshelf=§7Étagère à potions
+gui.table=§7Table en bois
+gui.case=§7Vitrine
+gui.toolrack=§7Rack à outils
+gui.desk=§7Bureau
+gui.mapWaypoint.accept=§7Accepter
+gui.mapWaypoint.remove=§7Enlever
+gui.mapWaypoint.cancel=§7Annuler
+gui.mapWaypoint.waypoint=§7Point de repère
+gui.compass.x=§7X :
+gui.compass.z=§7Z :
+gui.dinnerPlate=§7Assiette
+gui.discRack=§7Rack à disques

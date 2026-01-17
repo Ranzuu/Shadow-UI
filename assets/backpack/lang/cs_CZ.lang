@@ -1,0 +1,16 @@
+text.backpack.rename=§7Přejmenuj svůj batoh
+text.backpack.new_name=§7Nové jméno:
+text.backpack.backpack_slot=§7Slot batohu
+text.backpack.update_available=§7Nová verze %s Backpack módu je dostupná!
+text.backpack.up_to_date=§7Backpack mód je aktuální
+text.backpack.allowed_backpacks=§7Nemáš oprávnění mít více než %s batohů v inventáři.
+text.backpack.dropped_backpacks=§7%s batohů bylo vyhozeno z tvého inventáře. Podívej se na zem.
+text.backpack.autopickup=§7Automaticky sebrat:
+text.backpack.recipes=§7Recepty
+text.backpack.configuration=§7Nastavení batohu
+
+button.backpack.ok=§7OK
+button.backpack.cancel=§7Zrušit
+
+key.personalBackpack=§7Otevřít batoh
+key.categories.backpack=§7Batohy

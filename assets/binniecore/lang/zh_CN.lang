@@ -1,0 +1,65 @@
+compartbinniecore.gui.slot.slot=§7Slot
+binniecore.gui.slot.input=§7输入
+binniecore.gui.slot.process=§7加工
+binniecore.gui.slot.output=§7输出
+binniecore.gui.slot.frame=§7框架
+binniecore.gui.slot.mutator=§7突变器
+binniecore.gui.slot.hatchery=§7孵化格
+binniecore.gui.slot.circuit=§7电路板
+binniecore.gui.slot.grain=§7谷物粉
+binniecore.gui.slot.inventory=§7物品格
+binniecore.gui.slot.caterpillar=§7毛虫
+binniecore.gui.slot.polish=§7磨制格
+binniecore.gui.slot.wood=§7木材
+binniecore.gui.slot.acclimatiser=§7气候改造物品
+binniecore.gui.slot.analyse=§7分析
+binniecore.gui.slot.dye=§7染料
+binniecore.gui.slot.incubator=§7孵化
+binniecore.gui.slot.compartment=§7组合箱
+binniecore.gui.slot.ingredient=§7配料
+binniecore.gui.slot.byproduct=§7副产物
+binniecore.gui.slot.enzyme=§7酶
+binniecore.gui.slot.sequencervial=§7序列瓶
+binniecore.gui.slot.catalyst=§7催化剂
+binniecore.gui.slot.serum.input=§7输入血清
+binniecore.gui.slot.serum.output=§7输出血清
+binniecore.gui.slot.serum.active=§7活化血清
+binniecore.gui.slot.yeast=§7酵母
+binniecore.gui.slot.breedableIndividual=§7可杂交个体
+binniecore.gui.slot.pickupOnly=§7输出格
+binniecore.gui.slot.playerInventory=§7玩家背包
+binniecore.gui.slot.anyItem=§7任意物品
+binniecore.gui.slot.accepts=§7可接受：%s
+
+binniecore.gui.tank.input=§7输入罐
+binniecore.gui.tank.process=§7加工罐
+binniecore.gui.tank.output=§7输出罐
+
+binniecore.gui.side.any=§7任意
+binniecore.gui.side.none=§7无
+binniecore.gui.side.up=§7上
+binniecore.gui.side.down=§7下
+binniecore.gui.side.sides=§7侧面
+binniecore.gui.side.north=§7北
+binniecore.gui.side.east=§7东
+binniecore.gui.side.west=§7西
+binniecore.gui.side.south=§7南
+binniecore.gui.side.insertSide=§7输入面：%s
+binniecore.gui.side.extractSide=§7输出面：%s
+
+binniecore.gui.design=§7设计图案
+
+binniecore.gui.fieldKit=§7实地考察工具包
+binniecore.gui.tooltip.paper=§7纸
+binniecore.gui.tooltip.noPaper=§c没有纸！
+
+binniecore.machine.storage.compartment.title=§7Compartment
+binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
+binniecore.machine.storage.compartmentDiamond.title=§7Diamond Compartment
+binniecore.machine.storage.compartmentCopper.title=§7Copper Compartment
+binniecore.machine.storage.compartmentBronze.title=§7Bronze Compartment
+binniecore.machine.storage.compartmentGold.title=§7Gold Compartment
+
+binniecore.machine.storage.sort=§7字母顺序排序
+binniecore.machine.storage.filterItems=§7包括物品
+binniecore.machine.storage.filterBlocks=§7包括方块

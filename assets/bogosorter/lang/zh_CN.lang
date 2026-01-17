@@ -1,0 +1,72 @@
+bogosort.gui.title=§7§7整理配置
+bogosort.gui.tab.general.name=§7常规
+bogosort.gui.tab.profiles.name=§7配置文件
+bogosort.gui.tab.item_sort_rules.name=§7物品排序规则
+bogosort.gui.tab.nbt_sort_rules.name=§7NBT 排序规则
+bogosort.gui.available_sort_rules=§7可用的排序规则
+bogosort.gui.configured_sort_rules=§7已配置的排序规则
+bogosort.gui.enable_hotbarSort=§7Enable hotbar sorting
+bogosort.gui.enable_noguiSort=§7Enable sorting via keybind while no GUI is open
+bogosort.gui.enable_refill=§7启用快捷栏自动替换
+bogosort.gui.refill_comment=§7Quark is installed. If this option is disabled, theirs might still be enabled. You can find the config at 'Management' -> 'Automatic Tool Restock'.
+bogosort.gui.refill_threshold=§7自动替换耐久阈值
+bogosort.gui.ascending=§7升序
+bogosort.gui.descending=§7降序
+bogosort.gui.hotbar_scrolling=§7启用快捷栏纵列滚动
+bogosort.gui.hotbar_scrolling.tooltip=§7按住 ALT 键滚动选取物品栏对应列
+bogosort.gui.enabled=§7启用
+bogosort.gui.button.enabled=§7Enable sort and config buttons in GUI's
+bogosort.gui.dropoff_enable=§7Enable Dropoff
+bogosort.gui.button.color=§7Background color of sort buttons
+bogosort.gui.dropoffbutton_enable=§7Show Dropoff Button in Inventory
+bogosort.gui.dropoff_render=§7Show Dropoff Targets
+bogosort.gui.dropoff_chatmessage=§7Show Dropoff Chat Message
+bogosort.gui.usageticker_enable=§7Enable Usage Ticker
+bogosort.gui.usageticker_mainhand=§7Enable Usage Ticker Mainhand
+bogosort.gui.usageticker_offhand=§7Enable Usage Ticker Offhand
+bogosort.gui.usageticker_armor=§7Enable Usage Ticker Armor
+
+
+bogosort.command.config_relaod.success=§7重新加载排序配置
+
+bogosort.sortrules.item.mod.name=§7模组名称
+bogosort.sortrules.item.id.name=§7注册名称
+bogosort.sortrules.item.meta.name=§7元数据
+bogosort.sortrules.item.registry_order.name=§7注册顺序
+bogosort.sortrules.item.display_name.name=§7显示名称
+bogosort.sortrules.item.nbt_size.name=§7NBT 标签大小
+bogosort.sortrules.item.nbt_has.name=§7是否具有 NBT 标签
+bogosort.sortrules.item.nbt_rules.name=§7NBT 规则
+bogosort.sortrules.item.nbt_all_values.name=§7所有 NBT 值
+bogosort.sortrules.item.count.name=§7堆叠大小
+bogosort.sortrules.item.ore_dict.name=§7矿物词典
+bogosort.sortrules.item.material.name=§7材料
+bogosort.sortrules.item.ore_prefix.name=§7矿词前缀
+bogosort.sortrules.item.burn_time.name=§7燃烧时间
+bogosort.sortrules.item.block_type.name=§7方块类型
+bogosort.sortrules.item.hunger.name=§7饥饿值
+bogosort.sortrules.item.saturation.name=§7饱和度
+bogosort.sortrules.item.emc.name=§7EMC 值
+bogosort.sortrules.item.color.name=§7颜色
+
+bogosort.sortrules.item.mod.description=§7根据模组名称的字母顺序对物品排序
+bogosort.sortrules.item.id.description=§7根据注册名称的字母顺序对项目排序（不含模组）
+bogosort.sortrules.item.meta.description=§7根据元数据对物品排序
+bogosort.sortrules.item.registry_order.description=§7根据注册顺序对物品排序
+bogosort.sortrules.item.display_name.description=§7根据物品显示名称的字母顺序对物品排序
+bogosort.sortrules.item.nbt_size.description=§7根据元数据 NBT 标签大小对物品排序
+bogosort.sortrules.item.nbt_has.description=§7根据是否具有 NBT 标签对物品排序
+bogosort.sortrules.item.nbt_rules.description=§7根据已配置的 NBT 排序规则对物品排序
+bogosort.sortrules.item.nbt_all_values.description=§7尝试通过比较所有 NBT 标签和子标签对物品排序
+bogosort.sortrules.item.count.description=§7根据堆叠大小对物品排序
+bogosort.sortrules.item.ore_dict.description=§7根据矿物词典的数量和字母顺序对物品排序
+bogosort.sortrules.item.material.description=§7根据材料名称的字母顺序对物品排序（例如铁、金、铜等）
+bogosort.sortrules.item.ore_prefix.description=§7根据矿词前缀（例如锭，块，板，齿轮等）对物品排序
+bogosort.sortrules.item.burn_time.description=§7根据燃烧时间对物品排序
+bogosort.sortrules.item.block_type.description=§7根据方块类型对物品排序（例如完整方块、台阶、楼梯等）
+bogosort.sortrules.item.hunger.description=§7根据回复的饥饿值对物品排序
+bogosort.sortrules.item.saturation.description=§7根据回复的饱和度对物品排序
+bogosort.sortrules.item.emc.description=§7根据 EMC 值对物品排序
+bogosort.sortrules.item.color.description=§7根据颜色亮度值对物品排序
+
+

@@ -1,0 +1,14 @@
+tile.gendustry.mutagen_producer.name=§7诱变剂制造机
+tile.gendustry.mutatron.name=§7诱变机
+tile.gendustry.mutatron_adv.name=§7高级诱变机
+tile.gendustry.apiary.name=§7工业蜂箱
+tile.gendustry.imprinter.name=§7基因压印机
+tile.gendustry.sampler.name=§7基因采样机
+tile.gendustry.extractor.name=§7基因提取机
+tile.gendustry.liquifier.name=§7蛋白质液化机
+tile.gendustry.replicator.name=§7基因复制机
+tile.gendustry.transposer.name=§7基因转换机
+
+gendustry.label.select=§7选择品种:
+
+

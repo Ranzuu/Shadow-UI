@@ -1,0 +1,56 @@
+crafters.ToolStation=§7工具組裝台
+crafters.ToolForge=§7工具裝配台
+crafters.TinkerTable=§7工匠工作台
+crafters.PartBuilder=§7部件加工台
+crafters.PatternShaper=§7模具加工台
+crafters.CraftingStation=§7合成站
+crafters.Smeltery=§7冶煉爐
+
+inventory.PatternChest=§7模具箱
+
+gui.partcrafter1=§7合成工具部件
+gui.partcrafter2=§7鍛造工具
+gui.partcrafter3=§7將模具和材料放入左側以開始製作部件.
+gui.partcrafter4=§7基礎耐久:
+gui.partcrafter5=§7手柄係數:
+gui.partcrafter6=§7採掘速度:
+gui.partcrafter7=§7採掘等級:
+gui.partcrafter8=§7 心
+gui.partcrafter9=§7 心
+gui.partcrafter10=§7攻擊力:
+gui.partcrafter11=§7全耐久: 
+gui.stenciltable1=§7下一種模具
+gui.stenciltable2=§7上一種模具
+gui.toolforge1=§7修復和強化
+gui.toolforge2=§7修復或者強化工具的主要方式. 將工具和材料放入左側以開始.
+gui.toolstation1=§7耐久:
+gui.toolstation2=§7耐久:
+gui.toolstation3=§7攻擊力:
+gui.toolstation4=§7增益:
+gui.toolstation5=§7損失:
+gui.toolstation6=§7拉弓速度:
+gui.toolstation7=§7箭矢速度:
+gui.toolstation8=§7重量:
+gui.toolstation9=§7精準度:
+gui.toolstation10=§7基礎攻擊力:
+gui.toolstation11=§7短弓發射攻擊力:
+gui.toolstation12=§7採掘速度:
+gui.toolstation13=§7採掘等級:
+gui.toolstation14=§7採掘速度:
+gui.toolstation15=§7採掘等級:
+gui.toolstation16=§7使用速度:
+gui.toolstation17=§7強化次數
+gui.toolstation18=§7剩餘強化次數:
+gui.toolstation19=§7損傷減少: 
+gui.toolstation20=§7保護: 
+gui.toolstation21=§7Ammo: 
+gui.toolstation22=§7Break Chance: 
+gui.toolstation23=§7Max. Attack: 
+
+entity.TConstruct.EdibleSlime.name=§7藍色史萊姆
+entity.TConstruct.KingSlime.name=§7史萊姆王
+entity.TConstruct.Gardeslime.name=§7史萊姆護衛
+entity.TConstruct.MiniGardy.name=§7迷你史萊姆護衛
+entity.TConstruct.Crystal.name=§7Crystal
+
+tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)

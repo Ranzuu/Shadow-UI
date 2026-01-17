@@ -1,0 +1,34 @@
+oc:gui.Assembler.Collect=§7收集機器人
+oc:gui.Assembler.Complexity=§7複雜性：%s/%s
+oc:gui.Assembler.InsertCase=§7裝入電腦機殼（CASE）
+oc:gui.Assembler.InsertCPU=§7裝入中央處理器（CPU）
+oc:gui.Assembler.InsertRAM=§7裝入一些記憶體（RAM）
+oc:gui.Assembler.Progress=§7進度：%s%% (%s）
+
+oc:gui.Rack.Back=§7背面
+oc:gui.Rack.Bottom=§7底部
+oc:gui.Rack.Left=§7左
+oc:gui.Rack.None=§7無
+oc:gui.Rack.Right=§7右
+oc:gui.Rack.Enabled=§7啟用
+oc:gui.Rack.Disabled=§4禁用
+oc:gui.Rack.Top=§7上
+
+oc:gui.Switch.TransferRate=§7速率
+oc:gui.Switch.PacketsPerCycle=§7封包 / 週期
+oc:gui.Switch.QueueSize=§7隊列大小
+
+# Containers
+oc:container.AccessPoint=§7存取點
+oc:container.Adapter=§7配接器
+oc:container.Case=§7電腦
+oc:container.Charger=§7充電器
+oc:container.Disassembler=§7拆解機
+oc:container.DiskDrive=§7硬碟機
+oc:container.Printer=§7印表機
+oc:container.Raid=§7磁碟陣列機
+oc:container.Relay=§7中繼器
+oc:container.Server=§7伺服器
+oc:container.Rack=§7伺服器機架
+oc:container.Switch=§7交換機
+oc:container.TabletWrapper=§7平板電腦

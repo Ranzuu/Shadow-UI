@@ -1,0 +1,72 @@
+bogosort.gui.title=§7§7Конфигурация сортировки
+bogosort.gui.tab.general.name=§7Общие
+bogosort.gui.tab.profiles.name=§7Профили
+bogosort.gui.tab.item_sort_rules.name=§7Правила сортировки предметов
+bogosort.gui.tab.nbt_sort_rules.name=§7Правила сортировки NBT
+bogosort.gui.available_sort_rules=§7Доступные правила сортировки
+bogosort.gui.configured_sort_rules=§7Настроенные правила сортировки
+bogosort.gui.enable_hotbarSort=§7Enable hotbar sorting
+bogosort.gui.enable_noguiSort=§7Enable sorting via keybind while no GUI is open
+bogosort.gui.enable_refill=§7Включить автопополнение панели быстрого доступа
+bogosort.gui.refill_comment=§7Quark is installed. If this option is disabled, theirs might still be enabled. You can find the config at 'Management' -> 'Automatic Tool Restock'.
+bogosort.gui.refill_threshold=§7Порог урона автопополнения
+bogosort.gui.ascending=§7По возрастанию
+bogosort.gui.descending=§7По убыванию
+bogosort.gui.hotbar_scrolling=§7Включить прокрутку стобцов на панели быстрого доступа
+bogosort.gui.hotbar_scrolling.tooltip=§7Прокручивание стобцов инвентаря при зажатой клавише ALT
+bogosort.gui.enabled=§7Включено
+bogosort.gui.button.enabled=§7Enable sort and config buttons in GUI's
+bogosort.gui.dropoff_enable=§7Enable Dropoff
+bogosort.gui.button.color=§7Background color of sort buttons
+bogosort.gui.dropoffbutton_enable=§7Show Dropoff Button in Inventory
+bogosort.gui.dropoff_render=§7Show Dropoff Targets
+bogosort.gui.dropoff_chatmessage=§7Show Dropoff Chat Message
+bogosort.gui.usageticker_enable=§7Enable Usage Ticker
+bogosort.gui.usageticker_mainhand=§7Enable Usage Ticker Mainhand
+bogosort.gui.usageticker_offhand=§7Enable Usage Ticker Offhand
+bogosort.gui.usageticker_armor=§7Enable Usage Ticker Armor
+
+
+bogosort.command.config_relaod.success=§7Перезагружен конфиг сортировки
+
+bogosort.sortrules.item.mod.name=§7Имя мода
+bogosort.sortrules.item.id.name=§7Имя реестра
+bogosort.sortrules.item.meta.name=§7Мета-значение
+bogosort.sortrules.item.registry_order.name=§7Порядок реестра
+bogosort.sortrules.item.display_name.name=§7Отображаемое имя
+bogosort.sortrules.item.nbt_size.name=§7Размер тега NBT
+bogosort.sortrules.item.nbt_has.name=§7Имеет тег NBT
+bogosort.sortrules.item.nbt_rules.name=§7Правила NBT
+bogosort.sortrules.item.nbt_all_values.name=§7Все значения NBT
+bogosort.sortrules.item.count.name=§7Размер стека
+bogosort.sortrules.item.ore_dict.name=§7Рудный словарь
+bogosort.sortrules.item.material.name=§7Материал
+bogosort.sortrules.item.ore_prefix.name=§7Префикс руды
+bogosort.sortrules.item.burn_time.name=§7Время записи
+bogosort.sortrules.item.block_type.name=§7Тип блока
+bogosort.sortrules.item.hunger.name=§7Голод
+bogosort.sortrules.item.saturation.name=§7Насыщенность
+bogosort.sortrules.item.emc.name=§7Значение EMC
+bogosort.sortrules.item.color.name=§7Цвет
+
+bogosort.sortrules.item.mod.description=§7Сортирует предметы в алфавитном порядке по имени мода
+bogosort.sortrules.item.id.description=§7Сортирует элементы в алфавитном порядке по имени в реестре (без мода)
+bogosort.sortrules.item.meta.description=§7Сортирует элементы численно по их мета-значению
+bogosort.sortrules.item.registry_order.description=§7Сортирует элементы по порядку в реестре
+bogosort.sortrules.item.display_name.description=§7Сортирует элементы в алфавитном порядке по отображаемому имени
+bogosort.sortrules.item.nbt_size.description=§7Сортирует элементы численно по размеру мета-значения NBT-тега
+bogosort.sortrules.item.nbt_has.description=§7Сортирует предметы по признаку наличия или отсутствия тега NBT
+bogosort.sortrules.item.nbt_rules.description=§7Сортирует элементы на основе настроенных правил сортировки NBT
+bogosort.sortrules.item.nbt_all_values.description=§7Пытается отсортировать элементы, сравнивая все теги и подтеги nbt
+bogosort.sortrules.item.count.description=§7Сортирует предметы по размеру стопки
+bogosort.sortrules.item.ore_dict.description=§7Сортирует предметы в числовом и/или алфавитном порядке по их рудным словарям
+bogosort.sortrules.item.material.description=§7Сортирует предметы в алфавитном порядке по названию материала (например, железо, золото, медь...)
+bogosort.sortrules.item.ore_prefix.description=§7Сортирует предметы по их префиксу руды (например, слиток, самородок, пластина, снаряжение...)
+bogosort.sortrules.item.burn_time.description=§7Сортирует предметы по времени сжигания топлива
+bogosort.sortrules.item.block_type.description=§7Сортирует предметы на основе типа блока, к которому они относятся (например, полноценный блок, плита, ступеньки и т.д.)
+bogosort.sortrules.item.hunger.description=§7Сортирует предметы в числовом порядке по значению восполнения голода
+bogosort.sortrules.item.saturation.description=§7Сортирует предметы в числовом порядке по значению насыщения
+bogosort.sortrules.item.emc.description=§7=Сортировка элементов по их значению EMC
+bogosort.sortrules.item.color.description=§7=Сортирует элементы в числовом порядке по значению оттенка цвета
+
+

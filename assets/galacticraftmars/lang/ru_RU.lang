@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Грузовая ракета
+entity.GalacticraftMars.CreeperBoss.name=§7Эволюционировавший крипер-босс
+entity.GalacticraftMars.LandingBalloons.name=§7Посадочные шары
+entity.GalacticraftMars.Slimeling.name=§7Слаймлинг
+entity.GalacticraftMars.Sludgeling.name=§7Сладжлинг
+entity.GalacticraftMars.SpaceshipT2.name=§7Ракета 2-го уровня
+
+# CONTAINERS
+container.launchcontroller.name=§7Контроллер запуска
+container.tileTerraformer.name=§7Терраформер
+container.marsLander.name=§7Посадочные шары

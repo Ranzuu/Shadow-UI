@@ -1,0 +1,34 @@
+oc:gui.Assembler.Collect=§7Collect output
+oc:gui.Assembler.Complexity=§7Complexity: %s/%s
+oc:gui.Assembler.InsertCase=§7Insert a base part
+oc:gui.Assembler.InsertCPU=§7Insert a CPU
+oc:gui.Assembler.InsertRAM=§7Insert some RAM
+oc:gui.Assembler.Progress=§7Progress: %s%% (%s)
+
+oc:gui.Rack.Back=§7Back
+oc:gui.Rack.Bottom=§7Bottom
+oc:gui.Rack.Left=§7Left
+oc:gui.Rack.None=§7None
+oc:gui.Rack.Right=§7Right
+oc:gui.Rack.Enabled=§7Enabled
+oc:gui.Rack.Disabled=§4Disabled
+oc:gui.Rack.Top=§7Top
+
+oc:gui.Switch.TransferRate=§7Cycle rate
+oc:gui.Switch.PacketsPerCycle=§7Packets / cycle
+oc:gui.Switch.QueueSize=§7Queue size
+
+# Containers
+oc:container.AccessPoint=§7Access Point
+oc:container.Adapter=§7Adapter
+oc:container.Case=§7Computador
+oc:container.Charger=§7Carregador
+oc:container.Disassembler=§7Disassembler
+oc:container.DiskDrive=§7Drive de Disquetes
+oc:container.Printer=§7Printer
+oc:container.Raid=§7Raid
+oc:container.Relay=§7Relay
+oc:container.Server=§7Server
+oc:container.Rack=§7Rack
+oc:container.Switch=§7Roteador
+oc:container.TabletWrapper=§7Tablet

@@ -1,0 +1,28 @@
+container.etfuturum.blast_furnace=§7Blast Furnace
+container.etfuturum.smoker=§7Smoker
+container.etfuturum.barrel=§7Barrel
+container.etfuturum.shulker_box=§7Shulker Box
+container.etfuturum.chest_boat=§7Boat with Chest
+
+entity.etfuturum.endermite.name=§7Endermite
+entity.etfuturum.armor_stand.name=§7Armour Stand
+entity.etfuturum.rabbit.name=§7Rabbit
+entity.etfuturum.villager_zombie.name=§7Villager Zombie
+entity.etfuturum.end_crystal.name=§7End Crystal
+entity.etfuturum.ender_dragon.name=§7Ender Dragon
+entity.etfuturum.snow_golem.name=§7Snow Golem
+entity.etfuturum.brown_mooshroom.name=§7Brown Mooshroom
+entity.etfuturum.shulker.name=§7Shulker
+entity.etfuturum.shulker_candy.name=§7Shulker Bullet
+entity.etfuturum.chest_boat.name=§7Boat with Chest
+entity.etfuturum.new_boat.name=§7Boat
+
+entity.etfuturum.stray.name=§7Stray
+entity.etfuturum.husk.name=§7Husk
+entity.etfuturum.guardian.name=§7Guardian
+entity.etfuturum.elder_guardian.name=§7Elder Guardian
+entity.etfuturum.polar_bear.name=§7Polar Bear
+entity.etfuturum.bee.name=§7Bee
+entity.etfuturum.fox.name=§7Fox
+
+gui.smithing.upgrade=§7Upgrade Gear

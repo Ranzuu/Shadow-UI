@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Cargo Rocket
+entity.GalacticraftMars.CreeperBoss.name=§7Evolved Creeper Boss
+entity.GalacticraftMars.LandingBalloons.name=§7Landing Balloons
+entity.GalacticraftMars.Slimeling.name=§7Slimeling
+entity.GalacticraftMars.Sludgeling.name=§7Sludgeling
+entity.GalacticraftMars.SpaceshipT2.name=§7Tier 2 Rocket
+
+# CONTAINERS
+container.launchcontroller.name=§7Launch Controller
+container.tileTerraformer.name=§7Terraformer
+container.marsLander.name=§7Landing Balloons

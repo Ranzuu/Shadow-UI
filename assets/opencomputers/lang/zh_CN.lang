@@ -1,0 +1,34 @@
+oc:gui.Assembler.Collect=§7收集输出
+oc:gui.Assembler.Complexity=§7复杂度: %s/%s
+oc:gui.Assembler.InsertCase=§7需放入基础配件
+oc:gui.Assembler.InsertCPU=§7需放入CPU
+oc:gui.Assembler.InsertRAM=§7需放入内存条
+oc:gui.Assembler.Progress=§7进度: %s%% (%s)
+
+oc:gui.Rack.Back=§7背面
+oc:gui.Rack.Bottom=§7底面
+oc:gui.Rack.Left=§7左面
+oc:gui.Rack.None=§7无
+oc:gui.Rack.Right=§7右面
+oc:gui.Rack.Enabled=§7启用
+oc:gui.Rack.Disabled=§4禁用
+oc:gui.Rack.Top=§7顶面
+
+oc:gui.Switch.TransferRate=§7周期频率
+oc:gui.Switch.PacketsPerCycle=§7数据包 / 周期
+oc:gui.Switch.QueueSize=§7缓存队列大小
+
+# Containers
+oc:container.AccessPoint=§7无线接入点
+oc:container.Adapter=§7适配器
+oc:container.Case=§7电脑
+oc:container.Charger=§7充电机
+oc:container.Disassembler=§7分解机
+oc:container.DiskDrive=§7软盘驱动器
+oc:container.Printer=§7打印机
+oc:container.Raid=§7硬盘阵列柜
+oc:container.Relay=§7中继器
+oc:container.Server=§7服务器
+oc:container.Rack=§7机架
+oc:container.Switch=§7交换机
+oc:container.TabletWrapper=§7平板电脑

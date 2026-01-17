@@ -1,0 +1,95 @@
+# gui names
+gtnop.gui.veinStat.name=Сводка по жиле
+gtnop.gui.asteroidStat.name=Сводка по астероидам
+gtnop.gui.smallOreStat.name=Сводка по маленьким рудам
+gtnop.gui.undergroundFluid.name=Сводка по подземным жидкостям
+gtnop.gui.ieVeinStat.name=IE Сводка жилы
+gtnop.gui.bedrockOreStat.name=Сводка по бедроковым рудам
+
+gtnop.gui.nei.veinName=§7Название жилы
+gtnop.gui.nei.primaryOre=§7Основная
+gtnop.gui.nei.secondaryOre=§7Вторичная
+gtnop.gui.nei.betweenOre=§7Между
+gtnop.gui.nei.sporadicOre=§7Случайная
+gtnop.gui.nei.genHeight=§7Высота
+gtnop.gui.nei.weightedChance=§7Вес
+gtnop.gui.nei.worldNames=§7Генерируется в мире
+gtnop.gui.nei.restrictBiome=§7Ограниченный биом
+gtnop.gui.nei.dimension=§7Измерение
+gtnop.gui.nei.chance=§7Шанс
+gtnop.gui.nei.fluidAmount=§7Количество
+
+gtnop.gui.nei.asteroidPrimary=§7Основное поколение 1
+gtnop.gui.nei.asteroidSecondary=§7Основное поколение 2
+gtnop.gui.nei.asteroidBetween=§7Второстепенное поколение 1
+gtnop.gui.nei.asteroidSporadic=§7Второстепенное поколение 2
+
+gtnop.gui.nei.oreName=§7Имя руды
+gtnop.gui.nei.amount=§7Количество за чанк
+gtnop.gui.nei.chanceDrops=§7Добыча
+
+gtnop.gui.nei.ieVeinComponent=§7Компоненты жилы
+gtnop.gui.nei.fromMod=§7Из мода
+
+gtnop.gui.nei.seeAll=§7Смотреть все
+gtnop.gui.nei.vein=§7 
+gtnop.gui.nei.oreOthers=§7Другая руда
+gtnop.nei.genPosition=§7Позиция
+gtnop.nei.genPositionInfo=§7В центре каждого чанка
+
+
+# world names
+gtnop.world.Overworld=§7Обычный мир
+gtnop.world.Nether=§7Нижний мир
+gtnop.world.TheEnd=§7Энд
+gtnop.world.Twilight=§7Сумеречный лес
+gtnop.world.EndAsteroid=§7Далёкие астероиды Энда
+gtnop.world.Vanilla EndAsteroids=§7Астероиды ванильного Энда
+gtnop.world.Moon=§7Луна
+gtnop.world.Mars=§7Марс
+gtnop.world.Phobos=§7Фобос
+gtnop.world.Deimos=§7Деймос
+gtnop.world.Asteroids=§7Пояс Астероидов
+gtnop.world.Ceres=§7Церера
+gtnop.world.Europa=§7Европа
+gtnop.world.Ganymede=§7Ганимед
+gtnop.world.Callisto=§7Каллисто
+gtnop.world.Ross128b=§7Ross128b
+gtnop.world.Io=§7Ио
+gtnop.world.Venus=§7Венера
+gtnop.world.Mercury=§7Меркурий
+gtnop.world.Enceladus=§7Энцелад
+gtnop.world.Titan=§7Титан
+gtnop.world.Ross128ba=§7Ross128ba
+gtnop.world.Miranda=§7Миранда
+gtnop.world.Oberon=§7Оберон
+gtnop.world.Proteus=§7Протей
+gtnop.world.Triton=§7Тритон
+gtnop.world.Pluto=§7Плутон
+gtnop.world.Kuiperbelt=§7Пояс Койпера
+gtnop.world.Haumea=§7Хаумеа
+gtnop.world.MakeMake=§7Макемаке
+gtnop.world.CentauriA=§7α Центавра Bb
+gtnop.world.VegaB=§7Поверхность Веги Б
+gtnop.world.BarnardC=§7Барнарда C
+gtnop.world.BarnardE=§7Барнарда E
+gtnop.world.BarnardF=§7Барнарда F
+gtnop.world.TcetiE=§7Тау Кита E
+gtnop.world.Underdark=§7Deep Dark
+
+
+# biome names
+gtnop.biome.none.name=§7Нет
+
+
+# ore names extra
+gtnop.ore.null.name=§7Нет
+
+
+# vein types
+gtnop.ore.vein.name=§7Жила 
+gtnop.ore.asteroid.name=§7Астериод
+gtnop.ore.custom.name=§7Другие
+
+# items
+itemGroup.gtneioreplugin=§7GT NEI Ore Plugin

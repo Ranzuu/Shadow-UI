@@ -1,0 +1,19 @@
+gui.EMT.config.title=§7选项
+gui.EMT.etherealMacerator.title=§7天域加工机
+gui.EMT.wandRecharge.title=§7工业法杖充能站
+gui.EMT.inventory=§7物品栏
+gui.EMT.book.aspect.output.eu.title=§7源质发电机
+gui.EMT.book.aspect.output.essentia.eu=§7源质发电功率
+gui.EMT.key.unequip=§7卸下装备
+
+emt.Output=§7输出：
+emt.Storage=§7存储：
+emt.PressShift=§7<按下Shift>
+emt.Generating=§7发电：
+emt.Fuel=§7燃料
+emt.OutputMax=§7最大输出：
+emt.remaining_second=§7Remaining seconds:
+
+entity.EMT.laser.name=§7镭射器
+entity.EMT.archer.name=§7雪人守卫
+entity.EMT.shield.name=§7护盾

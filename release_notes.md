@@ -1,2 +1,3 @@
-- Text color fixes: BackpackMod, Binnies, EMT, Railcraft, StructureLib
-- Texture changes/fixes: Avaritia, Draconic Evolution, ExtraBees, Malisis Core, Malisis Doors, Steve Factory Manager, StructureLib
+- Added synces translation files (Text colors are changed via the English translation file, now it will include other translation files, so the text is also readable in other languages!!)
+- Updated GT Guis Tint colors
+- Updated Ae2 gui state colors

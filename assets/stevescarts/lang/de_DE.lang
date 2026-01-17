@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Lorenmonteur
+gui.SC2:basicAssembleInstruction=§7Um beginnen, eine Lore herzustellen, füge eine Hülle deiner Wahl in den Hüllenslot.
+gui.SC2:invalidHullError=§7Die Lorenhülle im Hüllenslot ist keine gültige Hülle. Das sollte nicht möglich sein, also hast du wahrscheinlich etwas seltsames gemacht.
+gui.SC2:hullCapacity=§7Hüllenkapazität
+gui.SC2:complexityCap=§7Maximale Komplexität
+gui.SC2:totalCost=§7Gesamtkosten
+gui.SC2:totalTime=§7Gesamtzeit
+gui.SC2:readyMessage=§7Bereit, die Lore herzustellen!
+gui.SC2:assembleProgress=§7Fortschritt
+gui.SC2:timeLeft=§7Restzeit
+gui.SC2:idleAssemblerMessage=§7Der Lorenmonteur ist derzeit im Leerlauf.
+gui.SC2:modifyCart=§7Lore modifizieren
+gui.SC2:assembleCart=§7Lore herstellen
+gui.SC2:fuelLevel=§7Kraftstoffstand
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Du hast keine Hülle!
+gui.SC2:invalidHullErrorShort=§7Die hinzugefügte Hülle ist keine Hülle!
+gui.SC2:busyAssemblerError=§7!Der Monteur ist beschäftigt!
+gui.SC2:departureBayError=§7Es befindet sich eine Lore im Abfahrtshafen.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Manager
+gui.SC2:currentSetting=§7Zur Zeit
+gui.SC2:changeTransferDirection=§7Verändere Übertragungsrichtung
+gui.SC2:directionToCart=§7Zur Lore
+gui.SC2:directionFromCart=§7Von der Lore
+gui.SC2:changeTurnBack=§7Umkehreinstellung
+gui.SC2:turnBackDisabled=§7Keine Seite ausgewählt
+gui.SC2:turnBack=§7Kehrt um nach Übertragung
+gui.SC2:continueForward=§7Setzt nach Übertragung fort
+gui.SC2:changeTransferSize=§7Ändert Übrteragungsgröße
+gui.SC2:changeSide=§7Gebundene Seite
+gui.SC2:currentSide=§7Aktuelle Seite
+gui.SC2:sideRed=§7Rot
+gui.SC2:sideBlue=§7Blau
+gui.SC2:sideYellow=§7Gelb
+gui.SC2:sideGreen=§7Grün
+gui.SC2:sideDisabled=§7Deaktiviert
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Cargo
+gui.SC2:changeSlotLayout=§7Ändert die Slotnutzung
+gui.SC2:layoutShared=§7Alle Slots werden von allen Seiten benutzt
+gui.SC2:layoutSide=§7Jede Seite hat ihre eigenen Slots
+gui.SC2:layoutColor=§7Jede Farbe hat ihren eigenen Slot
+gui.SC2:transferAll=§7Übertrage so viel wie möglich
+gui.SC2:transferItems=§7Übertrage maximal [%1] [%2:Item|Items]
+gui.SC2:transferStacks=§7Übertrage maximal [%1] [%2:Stack|Stacks]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Überträgt aus einem Teil der Lore
+gui.SC2:unknownAreaMessage=§7Unbekannte Option
+gui.SC2:cartAreaAll=§7Alle Slots
+gui.SC2:cartAreaEngine=§7Motoren
+gui.SC2:cartAreaRailer=§7Schienenleger
+gui.SC2:cartAreaStorage=§7Truhenslots
+gui.SC2:cartAreaTorches=§7Fackeln
+gui.SC2:cartAreaExplosives=§7Sprengstoff
+gui.SC2:cartAreaArrows=§7Pfeile
+gui.SC2:cartAreaBridge=§7Brückenmaterial
+gui.SC2:cartAreaSeeds=§7Samen
+gui.SC2:cartAreaFertilizer=§7Dünger
+gui.SC2:cartAreaSaplings=§7Setzlinge
+gui.SC2:cartAreaFirework=§7Feuerwerk
+gui.SC2:cartAreaBuckets=§7Eimer (für Melkmaschine)
+gui.SC2:cartAreaCakes=§7Kuchen
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Flüssigkeit
+gui.SC2:changeTankLayout=§7Ändere Tanknutzung
+gui.SC2:layoutSharedTanks=§7Alle Tanks werden von allen Seiten benutzt
+gui.SC2:layoutSidedTanks=§7Jede Seite hat ihren eigenen Slot
+gui.SC2:layoutColorTanks=§7Jede Farbe hat ihre(n) eigenen Tank(s)
+gui.SC2:transferAllLiquid=§7Übertrage so viel wie möglich
+gui.SC2:transferBuckets=§7Übertrage maximal [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7E
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Moduländerer
+gui.SC2:optionDrill=§7Bohrer
+gui.SC2:optionShield=§7Schild
+gui.SC2:optionInvisibility=§7Unsichtbarkeit
+gui.SC2:optionChunk=§7Chunk laden
+gui.SC2:optionCageAuto=§7Käfig sammelt automatisch auf
+gui.SC2:optionCage=§7Käfig aufsammeln
+gui.SC2:settingDisabled=§7Deaktiviert
+gui.SC2:settingOrange=§7Richtung Orange
+gui.SC2:settingBlue=§7Richtung Blau
+gui.SC2:stateActivate=§7Aktivieren
+gui.SC2:stateDeactivate=§7Deaktivieren
+gui.SC2:stateToggle=§7Ändern
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Externer Verteiler
+gui.SC2:distributorNotConnected=§7Nicht mit einen Manager verbunden!
+gui.SC2:sideName=§7[%1] Seite
+gui.SC2:dropInstruction=§7Hier hin, um diese Einstellung hinzuzufügen
+gui.SC2:removeInstruction=§7Rechtsklick um es zu löschen
+gui.SC2:distributorAll=§7Alle
+gui.SC2:distributorRed=§7Rot
+gui.SC2:distributorBlue=§7Blau
+gui.SC2:distributorYellow=§7Gelb
+gui.SC2:distributorGreen=§7Grün
+gui.SC2:distributorTopLeft=§7Oben Links
+gui.SC2:distributorTopRight=§7Oben Rechts
+gui.SC2:distributorBottomLeft=§7Unten Links
+gui.SC2:distributorBottomRight=§7Unten Rechts
+gui.SC2:distributorToCart=§7Zur Lore
+gui.SC2:distributorFromCart=§7Von der Lore
+gui.SC2:managerTop=§7Oberer Manager
+gui.SC2:managerBot=§7Unterer Manager
+gui.SC2:distributorSideOrange=§7Orange
+gui.SC2:distributorSidePurple=§7Violette
+gui.SC2:distributorSideYellow=§7Gelbe
+gui.SC2:distributorSideGreen=§7Grüne
+gui.SC2:distributorSideBlue=§7Blaue
+gui.SC2:distributorSideRed=§7Rot
+gui.SC2:sideToolTip=§7Side: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7OUTPUT
+gui.SC2:operatorAnd=§7AND
+gui.SC2:operatorOr=§7OR
+gui.SC2:operatorNot=§7NOT
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Obere Einheit
+gui.SC2:operatorBotUnit=§7Untere Einheit
+gui.SC2:operatorNorthUnit=§7Nördliche Einheit
+gui.SC2:operatorWestUnit=§7Westliche Einheit
+gui.SC2:operatorSouthUnit=§7Südliche Einheit
+gui.SC2:operatorEastUnit=§7Östliche Einheit
+gui.SC2:operatorRedstone=§7Redstone Input
+gui.SC2:operatorRedstoneTop=§7Oberer Redstone Input
+gui.SC2:operatorRedstoneBot=§7Unterer Redstone Input
+gui.SC2:operatorRedstoneNorth=§7Nördlicher Redstone Input
+gui.SC2:operatorRedstoneWest=§7Westlicher Redstone Input
+gui.SC2:operatorRedstoneSouth=§7Südlicher Redstone Input
+gui.SC2:operatorRedstoneEast=§7Östlicher Redstone Input
+gui.SC2:stateRails=§7Hat Schienenvorräte
+gui.SC2:stateTorches=§7Hat Fackelvorräte
+gui.SC2:stateSaplings=§7Hat Setzling
+gui.SC2:sateSeeds=§7Hat Samenvorräte
+gui.SC2:stateBridge=§7HatBrückenmaterial
+gui.SC2:stateProjectiles=§7Hat Projektilvorräte
+gui.SC2:stateFertilizing=§7Hat Düngervorräte
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Ist das Schild aktiv
+gui.SC2:stateChunk=§7Ist Chunklader aktiv
+gui.SC2:stateInvisibility=§7Ist Unsichtsbarkeitkern aktiv
+gui.SC2:stateDrill=§7Ist Bohrer aktiv
+gui.SC2:stateCage=§7Ist Autoaufsammeln aktiv
+gui.SC2:stateStorageFull=§7Ist Aufbewahrung komplett voll
+gui.SC2:stateStorageEmpty=§7Ist Aufbewahrung komlett leer
+gui.SC2:statePassenger=§7Hat Passagier
+gui.SC2:stateAnimal=§7Hat Tier als passagier
+gui.SC2:stateTameable=§7Hat zähmbaren Passagier
+gui.SC2:stateBreedable=§7Hat züchtbaren Passagier
+gui.SC2:stateHostile=§7Hat feindlichen Passagier
+gui.SC2:stateCreeper=§7Hat Creeper als Passagier
+gui.SC2:stateSkeleton=§7Hat Skelett als Passagier
+gui.SC2:stateSpider=§7Hat Spinne als Passagier
+gui.SC2:stateZombie=§7Hat Zombie als Passagier
+gui.SC2:stateZombiePigMan=§7Hat Zombie Pigman als Passagier
+gui.SC2:stateSilverFish=§7Hat Silberfisch als Passagier
+gui.SC2:stateBlaze=§7Hat Lohe als Passagier
+gui.SC2:stateBat=§7Hat Fledermaus als Passagier
+gui.SC2:stateWitch=§7Hat Hexe als Passagier
+gui.SC2:statePig=§7Hat Schwein als Passagier
+gui.SC2:stateSheep=§7Hat Schaf als Passagier
+gui.SC2:stateCow=§7Hat Kuh als Passagier
+gui.SC2:stateMooshroom=§7Hat Pilzkuh als Passagier
+gui.SC2:stateChicken=§7Hat Huhn als Passagier
+gui.SC2:stateWolf=§7Hat Wolf als Passagier
+gui.SC2:stateSnowGolem=§7Hat Schneegolem als passagier
+gui.SC2:stateOcelot=§7Hat Ozelot als Passagier
+gui.SC2:stateVillager=§7Hat Drofbewohner als Passagier
+gui.SC2:statePlayer=§7Hat Spieler als Passagier
+gui.SC2:stateZombieVillager=§7Hat Zombiedorfbewohner als Passagier
+gui.SC2:stateChild=§7Hat Baby als Passagier
+gui.SC2:stateTamed=§7Hat einen gezähmten Passagier
+gui.SC2:statePowerRed=§7Ist Kraftbeobachter[Rot] aktiv
+gui.SC2:statePowerBlue=§7Ist Kraftbeobachter [Blau] aktiv
+gui.SC2:statePowerGreen=§7Ist Kraftbeobachter [Grün] aktiv
+gui.SC2:statePowerYellow=§7Ist Kraftbeobachter [Gelb] aktiv
+gui.SC2:stateTanksFull=§7Sind die Tanks komplett voll
+gui.SC2:stateTanksEmpty=§7Sind die Tanks komplett leer
+gui.SC2:stateTankEmpty=§7Ist ein Tank komplett leer

@@ -1,0 +1,48 @@
+FramedChest.name=§7Framed Chest
+
+gui.painting.showFrame=§7Mostra cornice
+gui.painting.hideFrame=§7Nascondi cornice
+gui.painting.scale=§7Scala
+gui.painting.resolution=§7Risoluzione
+gui.painting.aspectRatio=§7Rapp. d'aspetto
+gui.painting.size=§7Grand. quadro
+gui.painting.rotation=§7Rotazione
+gui.painting.corner=§7Angoli
+
+gui.paintpress.page=§7Pagina
+gui.paintpress.of=§7di
+
+gui.paintpress.transfer=§7Trasferisci
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Personaliz.
+
+gui.sign.scale=§7Scala testo
+gui.sign.format=§7Formato
+gui.sign.linenum=§7Linea#
+
+gui.sign.left=§7 Sinistra
+gui.sign.center=§7Centro
+gui.sign.right=§7Destra
+
+gui.sign.tooltip1=§7Clicca un quadrato o premi tab e seleziona un pannello. Tab ciclerà tra i pannelli.
+
+gui.fancyworkbench=§7Banco da lavoro
+
+gui.armorstand=§7Manichino
+gui.bookcase=§7Libreria
+gui.cookiejar=§7Vaso per biscotti
+gui.shelf=§7Scaffale
+gui.label=§7Etichetta di legno
+gui.potionshelf=§7Scaffale per pozioni
+gui.table=§7Tavolo
+gui.case=§7Vetrina
+gui.toolrack=§7Scaffale per attrezzi
+gui.desk=§7Scrivania
+gui.mapWaypoint.accept=§7Accetta
+gui.mapWaypoint.remove=§7Rimuovi
+gui.mapWaypoint.cancel=§7Cancella
+gui.mapWaypoint.waypoint=§7Punto
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Piatto
+gui.discRack=§7Scaffale per dischi

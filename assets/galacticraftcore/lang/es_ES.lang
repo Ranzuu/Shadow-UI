@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Fuera
+gui.message.in.name=§7Dentro
+gui.message.status.name=§7Estado
+gui.message.oxoutput.name=§7Salida de oxígeno
+gui.message.oxinput.name=§7Entrada de oxígeno
+gui.message.fuel.name=§7Combustible
+gui.message.full.name=§7lleno
+gui.message.page.name=§7Página
+gui.message.addnewsch.name=§7Añadir nuevo plano
+gui.message.generating.name=§7Generando
+gui.message.environment.name=§7Impulso ambiental
+gui.message.oil.name=§7Petróleo
+gui.message.catalog.name=§7Catálogo
+gui.message.back.name=§7Volver
+gui.message.daynightcycle.name=§7Ciclo día-noche
+gui.message.surfacegravity.name=§7Gravedad de la superficie
+gui.message.surfacecomposition.name=§7Composición de la superficie
+gui.message.atmosphere.name=§7Atmósfera
+gui.message.meansurfacetemp.name=§7Temperatura media superficial
+gui.message.energy=§7Energía
+gui.message.maxEnergy=§7Energía máxima
+gui.message.bubbleVisible.name=§7Burbuja visible
+gui.message.launch.name=§7Lanzar
+gui.message.clickAgain.0.name=§7Click otra vez para hacer zoom (ver lunas y satélites)
+gui.message.clickAgain.1.name=§7Click otra vez para hacer zoom (ver lunas)
+gui.message.clickAgain.2.name=§7Click otra vez para hacer zoom (ver satélites)
+gui.message.clickAgain.3.name=§7Click otra vez para hacer zoom
+gui.message.exit.name=§7Salir
+gui.message.tier.name=§7Nivel %d
+gui.message.canCreateSpaceStation.name=§7La estación espacial se puede crear aquí
+gui.message.cannotCreateSpaceStation.name=§7La estación espacial no se puede crear aquí
+gui.message.createSS.name=§7Crear
+gui.message.selectSS.name=§7Selecciona una estación espacial
+gui.message.ssOwner.name=§7Propietario:
+gui.message.apply.name=§7Aplicar
+gui.message.cancel.name=§7Cancelar
+gui.message.assignName.name=§7Asignar nombre
+gui.message.rename.name=§7Renombrar
+gui.message.unnamed.name=§7Sin nombre
+gui.message.grow.name=§7Crecer
+gui.message.breed.name=§7Criar
+gui.message.strengthen.name=§7Fortalecer
+gui.message.heal.name=§7Curar
+gui.message.of.name=§7de
+gui.message.help1=§7Para ayuda de Galacticraft
+gui.message.help1a=§7Para ver este mensaje de nuevo en cualquier momento, escribe
+gui.message.help2=§7Para guía de programas espaciales
+gui.message.help3=§7Para ayuda con el petróleo
+gui.message.prelaunch=§7Lista de pre-lanzamiento
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Control térmico
+
+gui.button.enableseal.name=§7Activar sellado
+gui.button.disableseal.name=§7Desactivar sellado
+gui.button.loaditems.name=§7Cargar objetos
+gui.button.stoploading.name=§7Detener carga
+gui.button.unloaditems.name=§7Descargar objetos
+gui.button.stopunloading.name=§7Detener descarga
+gui.button.createsstation.name=§7Crear estación espacial
+gui.button.sendtodim.name=§7Enviar a dimensión
+gui.button.rename.name=§7Renombrar
+gui.button.loadfuel.name=§7Cargar combustible
+gui.button.refine.name=§7Refinar
+gui.button.back.name=§7Volver
+gui.button.next.name=§7Siguiente
+gui.button.unlockschematic.name=§7Desbloquear plano
+gui.button.stoprefine.name=§7Parar de refinar
+gui.button.enable.name=§7Activar
+gui.button.disable.name=§7Desactivar
+gui.button.hideDest.name=§7Ocultar
+gui.button.unhideDest.name=§7Mostrar
+
+# CONTAINERS
+container.cargoloader.name=§7Plataforma de carga
+container.cargounloader.name=§7Plataforma de descarga
+container.fuelloader.name=§7Cargador de combustible
+container.oxygencollector.name=§7Recolector de oxígeno
+container.oxygencompressor.name=§7Compresor de oxígeno
+container.oxygendistributor.name=§7Distribuidor de oxígeno
+container.oxygensealer.name=§7Sellador de oxígeno
+container.parachest.name=§7Cofre-paraca
+container.refinery.name=§7Refinería
+container.treasurechest.name=§7Cofre del tesoro
+container.lander.name=§7Aterrizador
+container.spaceship.name=§7Cohete nivel 1
+container.solarbasic.name=§7Panel solar básico
+container.solaradvanced.name=§7Panel solar avanzado
+container.oxygendecompressor.name=§7Descompresor de oxígeno
+
+gui.checkbox.redstoneSignal.name=§7Abrir con señal de redstone
+gui.checkbox.playerWithin.name=§7El jugador esta dentro de
+gui.checkbox.playerName.name=§7Nombre del jugador
+gui.checkbox.invert.name=§7Invertir selección
+gui.checkbox.horizontal.name=§7Modo horizontal
+
+tile.machine.0.name=§7Generador a carbón
+tile.machine.1.name=§7Módulo de almacenamiento de energía
+tile.machine.2.name=§7Horno eléctrico
+tile.machine.3.name=§7Compresor
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Compresor eléctrico
+tile.machine2.5.name=§7Fabricador de circuito
+tile.machine2.6.name=§7Módulo de almacenamiento de oxígeno
+tile.machine.7.name=§7Horno de arco eléctrico
+tile.machine.8.name=§7Cluster de almacenamiento de energía
+
+gui.maxOutput.desc=§7Salida máxima
+gui.oxygenUse.desc=§7Uso de oxígeno
+
+gui.message.generating.name=§7Generando
+
+gui.status.collecting.name=§7Recolectando
+gui.status.generating.name=§7Generando
+gui.status.notGenerating.name=§7No generando
+gui.status.hullHeat.name=§7Calor del casco
+
+gui.title.airLock.name=§7%s Controlador de la esclusa de aire
+
+gui.status.unknown.name=§dDesconocido
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Aldeano alien
+entity.GalacticraftCore.Buggy.name=§7Buggy
+entity.GalacticraftCore.EvolvedCreeper.name=§7Creeper evolucionado
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Esqueleto evolucionado
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Jefe esqueleto evolucionado
+entity.GalacticraftCore.EvolvedSpider.name=§7Araña evolucionada
+entity.GalacticraftCore.EvolvedZombie.name=§7Zombie evolucionado
+entity.GalacticraftCore.Flag.name=§7Bandera
+entity.GalacticraftCore.GCFlag.name=§7Bandera
+entity.GalacticraftCore.GravityArrow.name=§7Flecha
+entity.GalacticraftCore.Lander.name=§7Aterrizador
+entity.GalacticraftCore.Meteor.name=§7Meteorito
+entity.GalacticraftCore.MeteorChunk.name=§7Trozo de meteorito
+entity.GalacticraftCore.OxygenBubble.name=§7Burbuja de oxígeno
+entity.GalacticraftCore.ParaChest.name=§7Cofre-paraca
+entity.GalacticraftCore.Spaceship.name=§7Cohete nivel 1

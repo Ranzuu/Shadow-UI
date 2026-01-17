@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§7Iron Tank
+railcraft.gui.tank.steel=§7Steel Tank
+railcraft.gui.tank.water=§7Spremnik za Vodu
+railcraft.gui.steam.boiler=§7 Parni Bojler
+railcraft.gui.blast.furnace=§7 Ekslozivna Pećnica
+railcraft.gui.coke.oven=§7Koksna Peć
+railcraft.gui.steam.oven=§7Parna Peć
+railcraft.gui.turbine.output=§7Izlaz: @d%%
+railcraft.gui.turbine.rotor=§7Rotor:
+railcraft.gui.turbine=§7Parna Turbina
+
+railcraft.gui.tank.aluminium=§7Aluminium Tank
+railcraft.gui.tank.stainless=§7Stainless Steel Tank
+railcraft.gui.tank.titanium=§7Titanium Tank
+railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
+railcraft.gui.tank.palladium=§7Palladium Tank
+
+railcraft.gui.ic2.energy.rate=§7Rate: @d EU
+
+railcraft.gui.cart.tnt.fuse=§7Fitilj
+railcraft.gui.cart.track.relayer.pattern=§7Uzorak
+railcraft.gui.cart.track.relayer.stock=§7Zaliha
+railcraft.gui.cart.undercutter.pattern=§7Uzorci
+railcraft.gui.cart.undercutter.sides=§7Strane
+railcraft.gui.cart.undercutter.stock=§7Zaliha
+railcraft.gui.cart.undercutter.under=§7Ispod
+
+railcraft.gui.feed.station.feed=§7Utovar
+railcraft.gui.filter=§7Filter
+railcraft.gui.filters.carts=§7Vagoni
+railcraft.gui.filters=§7Filteri
+railcraft.gui.item.loader.buffer=§7Bufer
+
+tile.railcraft.machine.alpha.rolling.machine.name=§7Stroj za Valjanje
+tile.railcraft.machine.alpha.feed.station.name=§7Stanica za Utovar
+tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
+tile.railcraft.machine.alpha.anchor.admin.name=§7Adminovo Sidro
+tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7Osobno Sidro
+tile.railcraft.machine.alpha.anchor.world.name=§7Svijetsko Sidro
+railcraft.gui.anchor.fuel.remaining=§7@.2f sati
+railcraft.gui.anchor.fuel=§7Krajnji Biser
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7Bojler Visokog Pritiska
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Bojler Niskog Pritiska
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Hobijski Parni Motor
+tile.railcraft.machine.beta.engine.steam.low.name=§7Commercial Parni Motor
+tile.railcraft.machine.beta.engine.steam.high.name=§7Industrijski Parni Motor
+tile.railcraft.machine.beta.chest.void.name=§7Škrinja Praznine
+tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
+
+railcraft.gui.box.aspect.action=§7Emitiaj Crveni Kamen za Aspekt
+
+railcraft.gui.detector.item.analog=§7Analog
+railcraft.gui.detector.item.anything=§7Bilošto
+railcraft.gui.detector.item.at_least=§7Barem
+railcraft.gui.detector.item.at_most=§7Najviše
+railcraft.gui.detector.item.empty=§7Prazno
+railcraft.gui.detector.item.exactly=§7Točno
+railcraft.gui.detector.item.filtered=§7Filtrirano
+railcraft.gui.detector.item.full=§7Puno
+railcraft.gui.detector.item.greater_than=§7Greater Than
+railcraft.gui.detector.item.less_than=§7Less Than
+railcraft.gui.detector.item.not_empty=§7Ne Prazno
+railcraft.gui.detector.loco.primary=§7Primarna Boja
+railcraft.gui.detector.loco.secondary=§7Sekundarna Boja
+railcraft.gui.detector.tank.tip.analog=§7Emit Analog Redstone\n based on amount in tank
+railcraft.gui.detector.tank.tip.empty=§7Match empty tanks
+railcraft.gui.detector.tank.tip.full=§7Match full tanks
+railcraft.gui.detector.tank.tip.half=§7Match more than half full tanks
+railcraft.gui.detector.tank.tip.less.than.full=§7Match less than full tanks
+railcraft.gui.detector.tank.tip.less.than.half=§7Match less than half full tanks
+railcraft.gui.detector.tank.tip.less.than.most=§7Match less than 3/4th full tanks
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Match less than quarter full tanks
+railcraft.gui.detector.tank.tip.most=§7Match more than 3/4th full tanks
+railcraft.gui.detector.tank.tip.not.empty=§7Match non-empty tanks
+railcraft.gui.detector.tank.tip.quarter=§7Match more than quarter full tanks
+railcraft.gui.detector.tank.tip.void=§7Match any amount
+railcraft.gui.detector.train.size=§7Train Size =§7 @d
+railcraft.gui.detector.villager.any=§7Bilokoji
+railcraft.gui.detector.villager.equals=§7Jednako
+railcraft.gui.detector.villager.none=§7Nikoji
+railcraft.gui.detector.villager.not=§7Ne
+
+tile.railcraft.machine.gamma.loader.item.name=§7Utovarivač Stvari
+tile.railcraft.machine.gamma.unloader.item.name=§7Istovarivač Stvari
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Napredni Utovarivač Stvari
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Napredni Istovarivač Stvari
+tile.railcraft.machine.gamma.loader.liquid.name=§7Utovarivač Tekućina
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Istovarivač Tekućina
+tile.railcraft.machine.gamma.loader.energy.name=§7Utovarivač Energije
+tile.railcraft.machine.gamma.unloader.energy.name=§7Istovarivač
+tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Izbacivač Vagona
+tile.railcraft.machine.gamma.dispenser.train.name=§7Izbacivač Train

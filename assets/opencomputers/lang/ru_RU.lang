@@ -1,0 +1,34 @@
+oc:gui.Assembler.Collect=§7Заберите результат сборки
+oc:gui.Assembler.Complexity=§7Сложность: %s/%s
+oc:gui.Assembler.InsertCase=§7Вставьте системный блок
+oc:gui.Assembler.InsertCPU=§7Вставьте процессор
+oc:gui.Assembler.InsertRAM=§7Вставьте память
+oc:gui.Assembler.Progress=§7Прогресс: %s%% (%s)
+
+oc:gui.Rack.Back=§7Сзади
+oc:gui.Rack.Bottom=§7Снизу
+oc:gui.Rack.Left=§7Слева
+oc:gui.Rack.None=§7Нет
+oc:gui.Rack.Right=§7Справа
+oc:gui.Rack.Enabled=§7Включено
+oc:gui.Rack.Disabled=§4Выключено
+oc:gui.Rack.Top=§7Сверху
+
+oc:gui.Switch.TransferRate=§7Цикличность
+oc:gui.Switch.PacketsPerCycle=§7Пакеты / цикл
+oc:gui.Switch.QueueSize=§7Размер очереди
+
+# Containers
+oc:container.AccessPoint=§7Точка доступа
+oc:container.Adapter=§7Адаптер
+oc:container.Case=§7Компьютер
+oc:container.Charger=§7Зарядное устройство
+oc:container.Disassembler=§7Разборщик
+oc:container.DiskDrive=§7Дисковод
+oc:container.Printer=§7Принтер
+oc:container.Raid=§7RAID
+oc:container.Relay=§7Ретранслятор
+oc:container.Server=§7Сервер
+oc:container.Rack=§7Серверная стойка
+oc:container.Switch=§7Коммутатор
+oc:container.TabletWrapper=§7Планшет

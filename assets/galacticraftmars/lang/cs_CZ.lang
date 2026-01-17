@@ -1,0 +1,12 @@
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Nákladní raketa
+entity.GalacticraftMars.CreeperBoss.name=§7Vyvinutý creeper - Boss
+entity.GalacticraftMars.LandingBalloons.name=§7Přistávací balóny
+entity.GalacticraftMars.Slimeling.name=§7Slizoun
+entity.GalacticraftMars.Sludgeling.name=§7Bahenní vcela
+entity.GalacticraftMars.SpaceshipT2.name=§7Raketa typ 2
+
+# CONTAINERS
+container.launchcontroller.name=§7Odpalovací zarízení
+container.tileTerraformer.name=§7Terraformer
+container.marsLander.name=§7Přistávací balóny

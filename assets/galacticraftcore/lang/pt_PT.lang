@@ -1,0 +1,139 @@
+# Galacticraft Core Language File = UNITED STATES ENGLISH
+# GUI
+gui.message.out.name=§7Sai
+gui.message.in.name=§7Ent.
+gui.message.status.name=§7Status
+gui.message.oxoutput.name=§7Saída de Oxigénio
+gui.message.oxinput.name=§7Entrada de Oxigénio
+gui.message.fuel.name=§7Combustível
+gui.message.full.name=§7cheio
+gui.message.page.name=§7Página
+gui.message.addnewsch.name=§7Adicionar novo Esquemático
+gui.message.generating.name=§7Gerando
+gui.message.environment.name=§7Bónus Ambiental
+gui.message.oil.name=§7Petróleo
+gui.message.catalog.name=§7Catálogo
+gui.message.back.name=§7Voltar
+gui.message.daynightcycle.name=§7Ciclo Dia-e-Noite
+gui.message.surfacegravity.name=§7Gravidade Superficial
+gui.message.surfacecomposition.name=§7Composição Superficial
+gui.message.atmosphere.name=§7Atmosfera
+gui.message.meansurfacetemp.name=§7Temp. Superf. Média
+gui.message.energy=§7Energia
+gui.message.maxEnergy=§7Máx. Energia
+gui.message.bubbleVisible.name=§7Bolha Visível
+gui.message.launch.name=§7Lançar
+gui.message.clickAgain.0.name=§7Clica de novo para aproximar (ver luas e satélites)
+gui.message.clickAgain.1.name=§7Clica de novo para aproximar (ver luas)
+gui.message.clickAgain.2.name=§7Clica de novo para aproximar (ver satélites)
+gui.message.clickAgain.3.name=§7Clica de novo para aproximar
+gui.message.exit.name=§7Sair
+gui.message.tier.name=§7Nível %d
+gui.message.canCreateSpaceStation.name=§7Uma Estação Espacial pode ser criada aqui!
+gui.message.cannotCreateSpaceStation.name=§7Uma Estação Espacial não pode ser criada aqui!
+gui.message.createSS.name=§7Criar
+gui.message.selectSS.name=§7Selecionar uma Estação Espacial
+gui.message.ssOwner.name=§7Dono:
+gui.message.apply.name=§7Aplicar
+gui.message.cancel.name=§7Cancelar
+gui.message.assignName.name=§7Atribuir Nome
+gui.message.rename.name=§7Renomear
+gui.message.unnamed.name=§7Sem nome
+gui.message.grow.name=§7Crescer
+gui.message.breed.name=§7Procriar
+gui.message.strengthen.name=§7Fortalecer
+gui.message.heal.name=§7Curar
+gui.message.of.name=§7de
+gui.message.help1=§7Para ajuda do Galacticraft
+gui.message.help1a=§7Para ver esta mensagem de novo, digite
+gui.message.help2=§7Para guia do Programa Espacial
+gui.message.help3=§7Para ajuda com petróleo
+gui.message.prelaunch=§7Checklist de Pré-Lançamento
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Controle Térmico
+
+gui.button.enableseal.name=§7Habilitar
+gui.button.disableseal.name=§7Desabilitar
+gui.button.loaditems.name=§7Carregar
+gui.button.stoploading.name=§7Parar
+gui.button.unloaditems.name=§7Descarregar
+gui.button.stopunloading.name=§7Parar
+gui.button.createsstation.name=§7Criar Estação Espacial
+gui.button.sendtodim.name=§7Enviar para Dimensão
+gui.button.rename.name=§7Renomear
+gui.button.loadfuel.name=§7Carregar
+gui.button.refine.name=§7Refinar
+gui.button.back.name=§7Volta
+gui.button.next.name=§7Avança
+gui.button.unlockschematic.name=§7Destravar
+gui.button.stoprefine.name=§7Parar
+gui.button.enable.name=§7Habilitar
+gui.button.disable.name=§7Desabilitar
+gui.button.hideDest.name=§7Ocultar
+gui.button.unhideDest.name=§7Mostrar
+
+# CONTAINERS
+container.cargoloader.name=§7Carregador de Carga
+container.cargounloader.name=§7Descarregador de Carga
+container.fuelloader.name=§7Carregador de Combustível
+container.oxygencollector.name=§7Coletor de Oxigénio
+container.oxygencompressor.name=§7Compressor de Oxigénio
+container.oxygendistributor.name=§7Distribuidor de Oxigénio
+container.oxygensealer.name=§7Selador de Oxigénio
+container.parachest.name=§7Para-baú
+container.refinery.name=§7Refinaria
+container.treasurechest.name=§7Baú de Tesouro
+container.lander.name=§7Módulo Espacial
+container.spaceship.name=§7Foguetão Nível 1
+container.solarbasic.name=§7Painel Solar Básico
+container.solaradvanced.name=§7Painel Solar Avançado
+container.oxygendecompressor.name=§7Descompressor de Oxigénio
+
+gui.checkbox.redstoneSignal.name=§7Abre ao sinal de Redstone
+gui.checkbox.playerWithin.name=§7Jogador está a
+gui.checkbox.playerName.name=§7Nome do Jogador é
+gui.checkbox.invert.name=§7Inverte Seleção
+gui.checkbox.horizontal.name=§7Modo Horizontal
+
+tile.machine.0.name=§7Gerador a Carvão
+tile.machine.1.name=§7Módulo de Armazenamento de Energia
+tile.machine.2.name=§7Fornalha Elétrica
+tile.machine.3.name=§7Compressor
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Compressor Elétrico
+tile.machine2.5.name=§7Fabricador de Circuitos
+tile.machine2.6.name=§7Módulo de Armazenamento de Oxigénio
+tile.machine.7.name=§7Fornalha a Arco Voltaico
+tile.machine.8.name=§7Grupo de Armazenamento de Energia
+
+gui.maxOutput.desc=§7Saída Máx.
+gui.oxygenUse.desc=§7Uso de Oxigénio
+
+gui.message.generating.name=§7Gerando
+
+gui.status.collecting.name=§7Coletando
+gui.status.generating.name=§7Gerando
+gui.status.notGenerating.name=§7Não Gerando
+gui.status.hullHeat.name=§7Aquecendo
+
+gui.title.airLock.name=§7Controlo da Porta de %s
+
+gui.status.unknown.name=§dDesconhecido
+
+# ENTITIES
+entity.GalacticraftCore.AlienVillager.name=§7Aldeão Alienígena
+entity.GalacticraftCore.Buggy.name=§7Buggy
+entity.GalacticraftCore.EvolvedCreeper.name=§7Creeper Evoluído
+entity.GalacticraftCore.EvolvedSkeleton.name=§7Esqueleto Evoluído
+entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Esqueleto-Chefe Evoluído
+entity.GalacticraftCore.EvolvedSpider.name=§7Aranha Evoluída
+entity.GalacticraftCore.EvolvedZombie.name=§7Zumbi Evoluído
+entity.GalacticraftCore.Flag.name=§7Bandeira
+entity.GalacticraftCore.GCFlag.name=§7Bandeira
+entity.GalacticraftCore.GravityArrow.name=§7Flecha
+entity.GalacticraftCore.Lander.name=§7Módulo Espacial
+entity.GalacticraftCore.Meteor.name=§7Meteoro
+entity.GalacticraftCore.MeteorChunk.name=§7Pedaço de Meteoro
+entity.GalacticraftCore.OxygenBubble.name=§7Bolha de Oxigénio
+entity.GalacticraftCore.ParaChest.name=§7Para-baú
+entity.GalacticraftCore.Spaceship.name=§7Foguetão Nível 1

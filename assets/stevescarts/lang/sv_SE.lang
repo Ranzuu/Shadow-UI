@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Vagnsverkstad
+gui.SC2:basicAssembleInstruction=§7Var vänlig och placera valfritt vagnsskrov på skrovplatsen för att börja skapa en vagn.
+gui.SC2:invalidHullError=§7Vagnsskrovet som placerats på skrovplatsen är inte ett giltigt skrov. Detta ska inte ske så du har antagligen gjort något dumt.
+gui.SC2:hullCapacity=§7Skrovkapacitet
+gui.SC2:complexityCap=§7Komplexitetsgräns
+gui.SC2:totalCost=§7Total Kostnad
+gui.SC2:totalTime=§7Total Tid
+gui.SC2:readyMessage=§7Redo att konstruera vagnen!
+gui.SC2:assembleProgress=§7Färdigställande
+gui.SC2:timeLeft=§7Återstående tid
+gui.SC2:idleAssemblerMessage=§7Vagnverkstaden används inte just nu
+gui.SC2:modifyCart=§7Modifiera vagnen
+gui.SC2:assembleCart=§7Konstruera vagnen
+gui.SC2:fuelLevel=§7Bränslenivå
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Inget skrov!
+gui.SC2:invalidHullErrorShort=§7Skrovet du lagt i är inte ett riktigt skrov.
+gui.SC2:busyAssemblerError=§7Verkstaden jobbar redan!
+gui.SC2:departureBayError=§7Det finns en vagn i vagnsplaceraren.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Hanterare
+gui.SC2:currentSetting=§7Nuvarande
+gui.SC2:changeTransferDirection=§7Ändra riktning
+gui.SC2:directionToCart=§7Till vagn
+gui.SC2:directionFromCart=§7Från vagn
+gui.SC2:changeTurnBack=§7Ändra återvändningsinställning
+gui.SC2:turnBackDisabled=§7Ingen sida vald
+gui.SC2:turnBack=§7Återvänd efter överföring
+gui.SC2:continueForward=§7Fortsätt efter överföring
+gui.SC2:changeTransferSize=§7Ändra överföringsstorlek
+gui.SC2:changeSide=§7Ändra sida
+gui.SC2:currentSide=§7Nuvarande sida
+gui.SC2:sideRed=§7Röd
+gui.SC2:sideBlue=§7Blå
+gui.SC2:sideYellow=§7Gul
+gui.SC2:sideGreen=§7Grön
+gui.SC2:sideDisabled=§7Avstängd
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Last
+gui.SC2:changeSlotLayout=§7Ändra utrymmeslayout
+gui.SC2:layoutShared=§7Alla utrymmen delas av alla sidor
+gui.SC2:layoutSide=§7Varje sida har sitt eget utrymme
+gui.SC2:layoutColor=§7Varje färg har sina egna utrymmen
+gui.SC2:transferAll=§7Överför så mycket som möjligt
+gui.SC2:transferItems=§7Överför max [%1] [%2:sak|saker]
+gui.SC2:transferStacks=§7Överför max [%1] [%2:stack|stacks]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Ändra område i vagnen
+gui.SC2:unknownAreaMessage=§7Okänt område
+gui.SC2:cartAreaAll=§7Överallt
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Spårläggare
+gui.SC2:cartAreaStorage=§7Förrådsutrymmen
+gui.SC2:cartAreaTorches=§7Facklor
+gui.SC2:cartAreaExplosives=§7Sprängmedel
+gui.SC2:cartAreaArrows=§7Pilar
+gui.SC2:cartAreaBridge=§7Bromaterial
+gui.SC2:cartAreaSeeds=§7Frön
+gui.SC2:cartAreaFertilizer=§7Gödsel
+gui.SC2:cartAreaSaplings=§7Plantor
+gui.SC2:cartAreaFirework=§7Fyrverkerier
+gui.SC2:cartAreaBuckets=§7Hinkar (för mjölkare)
+gui.SC2:cartAreaCakes=§7Tårtor
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Vätska
+gui.SC2:changeTankLayout=§7Ändra tanklayout
+gui.SC2:layoutSharedTanks=§7Alla tankar delas av alla sidor
+gui.SC2:layoutSidedTanks=§7Varje sida har sin egna tank
+gui.SC2:layoutColorTanks=§7Varje färg har sin/sina egna tank/tanker
+gui.SC2:transferAllLiquid=§7Överför så mycket som möjligt
+gui.SC2:transferBuckets=§7Överför max [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7H
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Modul på/av
+gui.SC2:optionDrill=§7Borr
+gui.SC2:optionShield=§7Sköld
+gui.SC2:optionInvisibility=§7Osynlighet
+gui.SC2:optionChunk=§7Chunkladdare
+gui.SC2:optionCageAuto=§7Bur autoupplockning
+gui.SC2:optionCage=§7Bur upplockning
+gui.SC2:settingDisabled=§7Av
+gui.SC2:settingOrange=§7Orange riktning
+gui.SC2:settingBlue=§7Blå riktning
+gui.SC2:stateActivate=§7Aktivera
+gui.SC2:stateDeactivate=§7Deaktivera
+gui.SC2:stateToggle=§7Slå på/av
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Distributör
+gui.SC2:distributorNotConnected=§7Ej kopplad till någon distributör!
+gui.SC2:sideName=§7[%1] sida
+gui.SC2:dropInstruction=§7 Släpp här för att lägga till denna instruktion
+gui.SC2:removeInstruction=§7Högerklicka för att ta bort
+gui.SC2:distributorAll=§7Alla
+gui.SC2:distributorRed=§7Röd
+gui.SC2:distributorBlue=§7Blå
+gui.SC2:distributorYellow=§7Gul
+gui.SC2:distributorGreen=§7Grön
+gui.SC2:distributorTopLeft=§7Upp till vänster
+gui.SC2:distributorTopRight=§7Upp till höger
+gui.SC2:distributorBottomLeft=§7Ner till vänster
+gui.SC2:distributorBottomRight=§7Ner till höger
+gui.SC2:distributorToCart=§7Till vagn
+gui.SC2:distributorFromCart=§7Från vagn
+gui.SC2:managerTop=§7Övre distributör
+gui.SC2:managerBot=§7Nedre distributör
+gui.SC2:distributorSideOrange=§7Orange
+gui.SC2:distributorSidePurple=§7Lila
+gui.SC2:distributorSideYellow=§7Gul
+gui.SC2:distributorSideGreen=§7Grön
+gui.SC2:distributorSideBlue=§7Blå
+gui.SC2:distributorSideRed=§7Röd
+gui.SC2:sideToolTip=§7Sida: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7GE
+gui.SC2:operatorAnd=§7OCH
+gui.SC2:operatorOr=§7ELLER
+gui.SC2:operatorNot=§7INTE
+gui.SC2:operatorXor=§7ANTINGEN ELLER
+gui.SC2:operatorTopUnit=§7Toppenhet
+gui.SC2:operatorBotUnit=§7Bottenenhet
+gui.SC2:operatorNorthUnit=§7Norra enheten
+gui.SC2:operatorWestUnit=§7Västra enheten
+gui.SC2:operatorSouthUnit=§7Södra enheten
+gui.SC2:operatorEastUnit=§7Östra enheten
+gui.SC2:operatorRedstone=§7Rödsten in
+gui.SC2:operatorRedstoneTop=§7Topp rödsten in
+gui.SC2:operatorRedstoneBot=§7Botten rödsten in
+gui.SC2:operatorRedstoneNorth=§7Norr rödsten in
+gui.SC2:operatorRedstoneWest=§7Väst rödsten in
+gui.SC2:operatorRedstoneSouth=§7Syd rödsten in
+gui.SC2:operatorRedstoneEast=§7Öst rödsten in
+gui.SC2:stateRails=§7Har räls
+gui.SC2:stateTorches=§7Har facklor
+gui.SC2:stateSaplings=§7Har plantor
+gui.SC2:sateSeeds=§7Har frön
+gui.SC2:stateBridge=§7Har broblock
+gui.SC2:stateProjectiles=§7Har projektiler
+gui.SC2:stateFertilizing=§7Har gödsel
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Sköld aktiv
+gui.SC2:stateChunk=§7Chunkladdare aktiv
+gui.SC2:stateInvisibility=§7Osynlighetskärna aktiv
+gui.SC2:stateDrill=§7Borr aktiv
+gui.SC2:stateCage=§7Autoupplockning på
+gui.SC2:stateStorageFull=§7Förråd helt fulla
+gui.SC2:stateStorageEmpty=§7Förråd helt tomma
+gui.SC2:statePassenger=§7Har passagerare
+gui.SC2:stateAnimal=§7Har djurpassagerare
+gui.SC2:stateTameable=§7Har tämjbar passagerare
+gui.SC2:stateBreedable=§7Har uppfödbar passagerare
+gui.SC2:stateHostile=§7Har fientlig passagerare
+gui.SC2:stateCreeper=§7Har smygarpassagerare
+gui.SC2:stateSkeleton=§7Har skelettpassagerare
+gui.SC2:stateSpider=§7Has spindelpassagerare
+gui.SC2:stateZombie=§7Has zombiepassagerare
+gui.SC2:stateZombiePigMan=§7Har zombiegrispassagerare
+gui.SC2:stateSilverFish=§7Har silverfiskpassagerare
+gui.SC2:stateBlaze=§7Har brännarpassagerare
+gui.SC2:stateBat=§7Har fladdermuspassagerare
+gui.SC2:stateWitch=§7Har häxpassagerare
+gui.SC2:statePig=§7Har grispassagerare
+gui.SC2:stateSheep=§7Har fårpassagerare
+gui.SC2:stateCow=§7Har kopassagerare
+gui.SC2:stateMooshroom=§7Har svampkopassagerare
+gui.SC2:stateChicken=§7Har kycklingpassagerare
+gui.SC2:stateWolf=§7Har vargpassagerare
+gui.SC2:stateSnowGolem=§7Har snömanspassagerare
+gui.SC2:stateOcelot=§7Har ozelotpassagerare
+gui.SC2:stateVillager=§7Har bybopassagerare
+gui.SC2:statePlayer=§7Har spelarpassagerare
+gui.SC2:stateZombieVillager=§7Har zombiebybopassagerare
+gui.SC2:stateChild=§7Har barnpassagerare
+gui.SC2:stateTamed=§7Har tämjd passagerare
+gui.SC2:statePowerRed=§7Är energigövervakare[röd] aktiv
+gui.SC2:statePowerBlue=§7Är energigövervakare[blå] aktiv
+gui.SC2:statePowerGreen=§7Är energigövervakare[grön] aktiv
+gui.SC2:statePowerYellow=§7Är energigövervakare[gul] aktiv
+gui.SC2:stateTanksFull=§7Är tankarna helt fulla
+gui.SC2:stateTanksEmpty=§7Är tankarna helt tomma
+gui.SC2:stateTankEmpty=§7Finns det en tom tank

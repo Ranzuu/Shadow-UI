@@ -1,0 +1,19 @@
+﻿#GUI
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7아케인 조합 단말기
+thaumicenergistics.gui.essentia.cell.title=§7에센시아 셀
+thaumicenergistics.gui.selected.amount=§7양
+thaumicenergistics.gui.selected.aspect=§7위상
+thaumicenergistics.gui.digivis.source.name=§7디지센시아 소스
+thaumicenergistics.gui.essentia.cell.workbench.title=§7Essentia Cell Workbench
+thaumicenergistics.gui.arcane.assembler.title=§7Arcane Assembler
+thaumicenergistics.gui.vibration.chamber.stored=Stored:§7 %d %s
+thaumicenergistics.gui.vibration.chamber.processing=§7Processing: %s
+
+thaumicenergistics.aeparts.essentia.terminal.name=§7에센시아 단말기
+thaumicenergistics.item.wireless.essentia.terminal.name=§7무선 에센시아 단말기
+thaumicenergistics.aeparts.essentia.StorageBus.name=§7에센시아 저장 버스
+thaumicenergistics.aeparts.essentia.levelemitter.name=§7에센시아 레벨 방출기
+thaumicenergistics.aeparts.essentia.ImportBus.name=§7에센시아 입력 버스
+thaumicenergistics.aeparts.essentia.ExportBus.name=§7에센시아 출력 버스
+thaumicenergistics.block.knowledge.inscriber.name=§7Knowledge Inscriber
+thaumicenergistics.block.distillation.encoder.name=§7Distillation Pattern Encoder

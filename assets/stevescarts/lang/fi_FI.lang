@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Vaunun kokooja
+gui.SC2:basicAssembleInstruction=§7Jotta voit aloittaa vaunun kokoamisen, lisää valitsemasi Vaunun Runko rungolle varattuun kohtaan.
+gui.SC2:invalidHullError=§7Vaunun Runko rungolle varatussa kohdassa ei ole sopiva Runko. Tämän ei pitäisi olla mahdollista joten olet tehnyt jotain outoa.
+gui.SC2:hullCapacity=§7Rungon kapasiteetti
+gui.SC2:complexityCap=§7Monimutkaisuusraja
+gui.SC2:totalCost=§7Kokonaishinta
+gui.SC2:totalTime=§7Kokonaisaika
+gui.SC2:readyMessage=§7Vakmis kokoamaan vaunun!
+gui.SC2:assembleProgress=§7Edistyminen
+gui.SC2:timeLeft=§7Aikaa jäljellä
+gui.SC2:idleAssemblerMessage=§7Kokooja on toimeton
+gui.SC2:modifyCart=§7Muokkaa vaunua
+gui.SC2:assembleCart=§7Kokoa vaunu
+gui.SC2:fuelLevel=§7Polttoaineen määrä
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§7Sinulla ei ole runkoa!
+gui.SC2:invalidHullErrorShort=§7Lisätty runko ei ole runko!
+gui.SC2:busyAssemblerError=§7Kokooja on kiireinen!
+gui.SC2:departureBayError=§7Lähtölokerossa on vaunu.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Hallitsija
+gui.SC2:currentSetting=§7Tällä hetkellä
+gui.SC2:changeTransferDirection=§7Muuta siirtosuuntaa
+gui.SC2:directionToCart=§7Vaunuun
+gui.SC2:directionFromCart=§7Vaunusta
+gui.SC2:changeTurnBack=§7Muuta käänny takaisin asetusta
+gui.SC2:turnBackDisabled=§7Ei sivua valittuna
+gui.SC2:turnBack=§7Käänny takaisin siirron jälkeen
+gui.SC2:continueForward=§7Jatka eteenpäin siirron jälkeen
+gui.SC2:changeTransferSize=§7Vaihda siirtokokoa
+gui.SC2:changeSide=§7Vaihda puolta
+gui.SC2:currentSide=§7Tämänhetkinen puoli
+gui.SC2:sideRed=§7Punainen
+gui.SC2:sideBlue=§7Sininen
+gui.SC2:sideYellow=§7Keltainen
+gui.SC2:sideGreen=§7Vihreä
+gui.SC2:sideDisabled=§7Poista
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Lasti
+gui.SC2:changeSlotLayout=§7Vaihda kolojen asettelua
+gui.SC2:layoutShared=§7Kaikki kolot ovat jaettuna kaikkien sivujen kesken
+gui.SC2:layoutSide=§7Jokaisella sivulla on oma kolonsa
+gui.SC2:layoutColor=§7Jokaisella värillä on oma kolonsa
+gui.SC2:transferAll=§7Siirrä niin paljon kuin mahdollista
+gui.SC2:transferItems=§7Siirrä enintään [%1] [%2:esine|esinettä]
+gui.SC2:transferStacks=§7Siirrä enintään [%1] [%2:pino|pinoa]
+gui.SC2:transferAllShort=§7MAKSIMI
+gui.SC2:transferItemsShort=§7E
+gui.SC2:transferStacksShort=§7P
+gui.SC2:changeTransferCartArea=§7Muuta osaa vaunusta
+gui.SC2:unknownAreaMessage=§7Tuntematon valinta
+gui.SC2:cartAreaAll=§7Kaikki kolot
+gui.SC2:cartAreaEngine=§7Moottori
+gui.SC2:cartAreaRailer=§7Raiteet
+gui.SC2:cartAreaStorage=§7Varastotilat
+gui.SC2:cartAreaTorches=§7Soihdut
+gui.SC2:cartAreaExplosives=§7Räjähteet
+gui.SC2:cartAreaArrows=§7Nuolet
+gui.SC2:cartAreaBridge=§7Siltamateriaalit
+gui.SC2:cartAreaSeeds=§7Siemenet
+gui.SC2:cartAreaFertilizer=§7Lannoite
+gui.SC2:cartAreaSaplings=§7Taimet
+gui.SC2:cartAreaFirework=§7Ilotulitteet
+gui.SC2:cartAreaBuckets=§7Ämpärit (lypsäjälle)
+gui.SC2:cartAreaCakes=§7Kakut
+gui.SC2:cartAreaCropsticks=§7Cropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Neste
+gui.SC2:changeTankLayout=§7Muuta tankkien asettelua
+gui.SC2:layoutSharedTanks=§7Kaikki tankit ovat jaettuna kaikkien sivujen kesken
+gui.SC2:layoutSidedTanks=§7Jokaisella sivulla on oma kolonsa
+gui.SC2:layoutColorTanks=§7Jokaisella värillä on oma(t) tankkinsa
+gui.SC2:transferAllLiquid=§7Siirrä niin paljon kuin mahdollista
+gui.SC2:transferBuckets=§7Siirrä enintään [%1]
+gui.SC2:transferAllLiquidShort=§7MAKSIMI
+gui.SC2:transferBucketShort=§7Ä
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Moduulikytkin
+gui.SC2:optionDrill=§7Pora
+gui.SC2:optionShield=§7Kilpi
+gui.SC2:optionInvisibility=§7Näkymättömyys
+gui.SC2:optionChunk=§7Chunkkien lataaja
+gui.SC2:optionCageAuto=§7Häkin automaattinen poiminta
+gui.SC2:optionCage=§7Häkin poiminta
+gui.SC2:settingDisabled=§7Pois päältä
+gui.SC2:settingOrange=§7Oranssi suunta
+gui.SC2:settingBlue=§7Sininen suunta
+gui.SC2:stateActivate=§7Aktivoi
+gui.SC2:stateDeactivate=§7Deaktivoi
+gui.SC2:stateToggle=§7Kytke
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Ulkoinen jakelija
+gui.SC2:distributorNotConnected=§7Ei liitettynä yhteenkään Hallitsijaan!
+gui.SC2:sideName=§7[%1] sivu
+gui.SC2:dropInstruction=§7Tiputa tähän lisääksesi asetuksen
+gui.SC2:removeInstruction=§7Klikkaa oikealla poistaaksesi
+gui.SC2:distributorAll=§7Kaikki
+gui.SC2:distributorRed=§7Punainen
+gui.SC2:distributorBlue=§7Sininen
+gui.SC2:distributorYellow=§7Keltainen
+gui.SC2:distributorGreen=§7Vihreä
+gui.SC2:distributorTopLeft=§7Vasen Yläkulma
+gui.SC2:distributorTopRight=§7Oikea Yläkulma
+gui.SC2:distributorBottomLeft=§7Vasen Alakulma
+gui.SC2:distributorBottomRight=§7Oikea Alakulma
+gui.SC2:distributorToCart=§7Vaunuun
+gui.SC2:distributorFromCart=§7Vaunusta
+gui.SC2:managerTop=§7Ylähallitsija
+gui.SC2:managerBot=§7Alahallitsija
+gui.SC2:distributorSideOrange=§7Oranssi
+gui.SC2:distributorSidePurple=§7Violetti
+gui.SC2:distributorSideYellow=§7Keltainen
+gui.SC2:distributorSideGreen=§7Vihreä
+gui.SC2:distributorSideBlue=§7Sininen
+gui.SC2:distributorSideRed=§7Punainen
+gui.SC2:sideToolTip=§7Side: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7ULOSTULO
+gui.SC2:operatorAnd=§7JA
+gui.SC2:operatorOr=§7TAI
+gui.SC2:operatorNot=§7EI
+gui.SC2:operatorXor=§7ERI
+gui.SC2:operatorTopUnit=§7Yläyksikkö
+gui.SC2:operatorBotUnit=§7Alayksikkö
+gui.SC2:operatorNorthUnit=§7Pohjoisyksikkö
+gui.SC2:operatorWestUnit=§7Länsiyksikkö
+gui.SC2:operatorSouthUnit=§7Eteläyksikkö
+gui.SC2:operatorEastUnit=§7Itäyksikkö
+gui.SC2:operatorRedstone=§7Punakivisisääntulo
+gui.SC2:operatorRedstoneTop=§7Ylä punakivisisääntulo
+gui.SC2:operatorRedstoneBot=§7Ala punakivisisääntulo
+gui.SC2:operatorRedstoneNorth=§7Pohjois punakivisisääntulo
+gui.SC2:operatorRedstoneWest=§7Länsi punakivisisääntulo
+gui.SC2:operatorRedstoneSouth=§7Etelä punakivisisääntulo
+gui.SC2:operatorRedstoneEast=§7Itä punakivisisääntulo
+gui.SC2:stateRails=§7Sisältää raidetarvikkeita
+gui.SC2:stateTorches=§7Sisältää soihtutarvikkeita
+gui.SC2:stateSaplings=§7Sisältää taimitarvikkeita
+gui.SC2:sateSeeds=§7Sisältää siementarvikkeita
+gui.SC2:stateBridge=§7Sisältää siltatarvikkeita
+gui.SC2:stateProjectiles=§7Sisältää ammustarvikkeita
+gui.SC2:stateFertilizing=§7Sisältää lannoitustarvikkeita
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§7Have cake supplies
+#
+gui.SC2:stateShield=§7Onko kilpi päällä
+gui.SC2:stateChunk=§7Onko chunkkienlataaja päällä
+gui.SC2:stateInvisibility=§7Onko näkymättömyysydin päällä
+gui.SC2:stateDrill=§7Onko pora päällä
+gui.SC2:stateCage=§7Onko automaattinen poiminta päällä
+gui.SC2:stateStorageFull=§7Onko varastotila täynnä
+gui.SC2:stateStorageEmpty=§7Onko varastotila kokonaan tyhjä
+gui.SC2:statePassenger=§7On matkustaja
+gui.SC2:stateAnimal=§7On eläinmatkustaja
+gui.SC2:stateTameable=§7On kesytettävä matkustaja
+gui.SC2:stateBreedable=§7On lisäännytettävä matkustaja
+gui.SC2:stateHostile=§7On vihollismatkustaja
+gui.SC2:stateCreeper=§7On hiipijämatkustaja
+gui.SC2:stateSkeleton=§7On luurankomatkustaja
+gui.SC2:stateSpider=§7On hämähäkkimatkustaja
+gui.SC2:stateZombie=§7On zombimatkustaja
+gui.SC2:stateZombiePigMan=§7On zombi-sikamatkustaja
+gui.SC2:stateSilverFish=§7On sokeritoukkamatkustaja
+gui.SC2:stateBlaze=§7On roihumatkustaja
+gui.SC2:stateBat=§7On lepakkomatkustaja
+gui.SC2:stateWitch=§7On noitamatkustaja
+gui.SC2:statePig=§7On possumatkustaja
+gui.SC2:stateSheep=§7On lammasmatkustaja
+gui.SC2:stateCow=§7On lehmämatkustaja
+gui.SC2:stateMooshroom=§7On sienilehmämatkustaja
+gui.SC2:stateChicken=§7On kanamatkustaja
+gui.SC2:stateWolf=§7On susimatkustaja
+gui.SC2:stateSnowGolem=§7On lumigolemmatkustaja
+gui.SC2:stateOcelot=§7On oselottimatkustaja
+gui.SC2:stateVillager=§7On kyläläismatkustaja
+gui.SC2:statePlayer=§7On pelaajamatkustaja
+gui.SC2:stateZombieVillager=§7On zombikyläläismatkustaja
+gui.SC2:stateChild=§7On lapsimatkustaja
+gui.SC2:stateTamed=§7On kesytetty matkustaja
+gui.SC2:statePowerRed=§7Onko voimatutkain[Punainen] päällä
+gui.SC2:statePowerBlue=§7Onko voimatutkain[Sininen] päällä
+gui.SC2:statePowerGreen=§7Onko voimatutkain[Vihreä] päällä
+gui.SC2:statePowerYellow=§7Onko voimatutkain[Keltainen] päällä
+gui.SC2:stateTanksFull=§7Ovatko tankit täysin täynnä
+gui.SC2:stateTanksEmpty=§7Ovatko tankit täysin tyhjiä
+gui.SC2:stateTankEmpty=§7Onko yhtään täysin tyhjää tankkia

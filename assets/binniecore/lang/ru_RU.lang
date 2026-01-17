@@ -1,0 +1,65 @@
+compartbinniecore.gui.slot.slot=§7Slot
+binniecore.gui.slot.input=§7Приёмный слот
+binniecore.gui.slot.process=§7Рабочий слот
+binniecore.gui.slot.output=§7Выдающий слот
+binniecore.gui.slot.frame=§7Слот для рамки
+binniecore.gui.slot.mutator=§7Слот для мутагена
+binniecore.gui.slot.hatchery=§7Слот для личинок
+binniecore.gui.slot.circuit=§7Слот для платы
+binniecore.gui.slot.grain=§7Слот для зерна
+binniecore.gui.slot.inventory=§7Слот инвентаря
+binniecore.gui.slot.caterpillar=§7Слот для гусеницы
+binniecore.gui.slot.polish=§7Слот для Полироли
+binniecore.gui.slot.wood=§7Слот для древесины
+binniecore.gui.slot.acclimatiser=§7Слот для акклиматизаторов
+binniecore.gui.slot.analyse=§7Слот для анализа
+binniecore.gui.slot.dye=§7Слот для красителя
+binniecore.gui.slot.incubator=§7Слот инкубатора
+binniecore.gui.slot.compartment=§7Отсек
+binniecore.gui.slot.ingredient=§7Слот для составных частей
+binniecore.gui.slot.byproduct=§7Слот для побочных продуктов
+binniecore.gui.slot.enzyme=§7Слот для Энзима
+binniecore.gui.slot.sequencervial=§7Слот для сыворотки
+binniecore.gui.slot.catalyst=§7Слот для катализатора
+binniecore.gui.slot.serum.input=§7Приёмный слот для сыворотки
+binniecore.gui.slot.serum.output=§7Выдающий слот для сыворотки
+binniecore.gui.slot.serum.active=§7Активный слот для сыворотки
+binniecore.gui.slot.yeast=§7Слот для дрожжей
+binniecore.gui.slot.breedableIndividual=§7Образец
+binniecore.gui.slot.pickupOnly=§7Автоматическое помещение в слот
+binniecore.gui.slot.playerInventory=§7Инвентарь игрока
+binniecore.gui.slot.anyItem=§7Любой предмет
+binniecore.gui.slot.accepts=§7Принимается: %s
+
+binniecore.gui.tank.input=§7Приёмочный резервуар
+binniecore.gui.tank.process=§7Рабочий резервуар
+binniecore.gui.tank.output=§7Выдающий резервуар
+
+binniecore.gui.side.any=§7любое направление
+binniecore.gui.side.none=§7никакая
+binniecore.gui.side.up=§7верх
+binniecore.gui.side.down=§7низ
+binniecore.gui.side.sides=§7любая сторона
+binniecore.gui.side.north=§7север
+binniecore.gui.side.east=§7восток
+binniecore.gui.side.west=§7запад
+binniecore.gui.side.south=§7юг
+binniecore.gui.side.insertSide=§7Принимающая сторона: %s
+binniecore.gui.side.extractSide=§7Выдающая сторона: %s
+
+binniecore.gui.design=§7Дизайн
+
+binniecore.gui.fieldKit=§7Полевая лаборатория
+binniecore.gui.tooltip.paper=§7Бумага
+binniecore.gui.tooltip.noPaper=§cНет бумаги!
+
+binniecore.machine.storage.compartment.title=§7Compartment
+binniecore.machine.storage.compartmentIron.title=§7Iron Compartment
+binniecore.machine.storage.compartmentDiamond.title=§7Diamond Compartment
+binniecore.machine.storage.compartmentCopper.title=§7Copper Compartment
+binniecore.machine.storage.compartmentBronze.title=§7Bronze Compartment
+binniecore.machine.storage.compartmentGold.title=§7Gold Compartment
+
+binniecore.machine.storage.sort=§7Сортировка А-Я
+binniecore.machine.storage.filterItems=§7Включая предметы
+binniecore.machine.storage.filterBlocks=§7Вклюячая блоки

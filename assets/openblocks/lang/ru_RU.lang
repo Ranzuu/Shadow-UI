@@ -1,0 +1,31 @@
+openblocks.gui.blocks=§7Блоки
+openblocks.gui.items=§7Предметы
+openblocks.gui.misc=§7Разное
+openblocks.gui.changelogs=§7Список изменений
+
+openblocks.gui.features=§7Особенности
+openblocks.gui.bugfixes=§7Исправления ошибок
+openblocks.gui.tweaks=§7Мелкие правки
+
+openblocks.gui.luggage=§7Багаж
+openblocks.gui.sprinkler=§7Разбрызгиватель
+openblocks.gui.vacuumhopper=§7Вакуумная воронка
+openblocks.gui.bigbutton=§7Большая кнопка
+openblocks.gui.xpbottler=§7Разливщик опыта
+openblocks.gui.autoanvil=§7Авто-наковальня
+openblocks.gui.autoeject=§7Авто-выброс
+openblocks.gui.autoextract=§7Авто-извлечение
+openblocks.gui.autodrink=§7Авто-выпивание
+openblocks.gui.autoenchantmenttable=§7Авто-стол зачаровывания
+openblocks.gui.donationstation=§7Станция пожертвований
+openblocks.gui.itemdropper=§7Выбрасыватель предметов
+openblocks.gui.blockplacer=§7Разместитель блоков
+openblocks.gui.paintmixer=§7Смеситель краски
+openblocks.gui.drawingtable=§7Стол для рисования
+openblocks.gui.digitalfuse=§7Цифровой запал
+openblocks.gui.xp_outputs=§7Выходы опыта
+openblocks.gui.item_outputs=§7Выходы предметов
+openblocks.gui.max_level=§7Макс. уровень: %d
+openblocks.gui.save_folder=§7Сохранить папку
+
+tile.openblocks.trophy.entity.name=Трофей (%s)

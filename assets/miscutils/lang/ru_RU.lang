@@ -1,0 +1,28 @@
+# Entities
+entity.constructStaballoy.name=§7Стабаллой голем
+entity.sickBlaze.name=§7Заражённый фанатик
+
+entity.MiningCharge.name=§7Mining Charge
+entity.throwablePotionSulfuric.name=§7Колба с серной кислотой
+entity.throwablePotionHydrofluoric.name=§7Колба с плавиковой кислотой
+entity.toxinBall.name=§7Toxin globule
+entity.plasmaBolt.name=§7Плазма
+entity.bigChickenFriendly.name=§7Гигантская курица
+
+entity.WiseVillager.name=§7Мудрый житель
+
+entity.Aboriginal.name=§7Коренной
+entity.miscutils.constructStaballoy.name=§7Стабаллой голем
+entity.miscutils.sickBlaze.name=§7Заражённый фанатик
+
+entity.batKing.name=§7Король летучих мышей
+
+entity.miscutils.batKing.name=§7Спектральная летучая мышь
+entity.miscutils.bigChickenFriendly.name=§7Гигантская курица
+entity.miscutils.AusDingo.name=§7Динго
+entity.miscutils.AusBoar.name=§7Дикий кабан
+entity.miscutils.AusSpider.name=§7Лесной паук
+entity.miscutils.AusOctopus.name=§7Осьминог
+
+container.VolumetricFlaskSetter=§7Конфигуратор мерной колбы
+container.pestkiller=§7Уничтожитель вредителей

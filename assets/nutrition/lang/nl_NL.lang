@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§7Voeding
+gui.nutrition:close=§7Sluiten
+gui.nutrition:updating=§7Updaten...
+
+# Nutrients
+nutrient.nutrition:grain=§7Graan
+nutrient.nutrition:fruit=§7Fruit
+nutrient.nutrition:vegetable=§7Groenten
+nutrient.nutrition:protein=§7Proteïne
+nutrient.nutrition:dairy=§7Zuivel

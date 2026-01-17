@@ -1,0 +1,14 @@
+# TwistSpaceTechnology
+StrangeMatterAggregator.UI.Running.ConfigurationDescription.text=§7设置时空维护流体等级: 1-熔融时空, 2-熔融宇宙素, 3-磁流体约束恒星物质
+StrangeMatterAggregator.UI.Structure.ConfigurationDescription.text=§7机器将按照设定数量的振荡器环, 约束器环, 归并器环依次循环搭建.
+StrangeMatterAggregator.UI.OscillatorPieceNeed.text=§7时空振荡器
+StrangeMatterAggregator.UI.ConstraintorPieceNeed.text=§7时空约束器
+StrangeMatterAggregator.UI.MergerPieceNeed.text=§7时空归并器
+
+MegaCraftingCenter.UI.Magnification.ConfigurationDescription.text=§7设置样板实际运行倍率, 实际合成输入输出等于样板数值乘以此参数.
+
+tst.DynamicParallelController.UI.text.01=§7并行
+tst.DynamicSpeedController.UI.text.01=§7速度倍率
+
+TST_LargeSolarBoiler.gui.02=§7热量:
+TST_LargeSolarBoiler.gui.03=§7钙化程度:

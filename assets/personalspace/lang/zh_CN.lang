@@ -1,0 +1,15 @@
+
+gui.personalWorld.voidWorld=虚空世界
+gui.personalWorld.biome=§7生物群系名称
+gui.personalWorld.presets=§7预设
+gui.personalWorld.layers=§7层
+
+gui.personalWorld.skyColor=§7天空颜色
+gui.personalWorld.starBrightness=§7星空亮度
+
+gui.personalWorld.vegetation=§7植被
+gui.personalWorld.trees=§7树木
+gui.personalWorld.weather=§7天气
+gui.personalWorld.clouds=§7云
+
+

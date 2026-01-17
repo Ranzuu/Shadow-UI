@@ -1,0 +1,30 @@
+tile.gravity.name=§7Генератор искусственной гравитации
+tile.machines1.0.name=§7Radioisotope Generator
+tile.isotopeGeneratorBasic.name=§7Радиоизотопный генератор
+tile.isotopeGeneratorAdvanced.name=§7Продвинутый радиоизотопный генератор
+
+tile.hydroponics.name=§7Гидропонная система
+tile.hydroponics.plant=§7Посадить семена
+tile.hydroponics.harvest=§7Собрать
+tile.hydroponics.fertilize=§7Удобрить
+tile.hydroponics.noplant=§7Нет растения
+tile.hydroponics.plantstatus=§7Статус растения
+
+tile.aluChest.name=§7Алюминиевый сундук
+tile.steelChest.name=§7Стальной сундук
+
+gui.message.mothership.status.name=§7Статус
+tile.shuttleDock.name=§7Шаттл-док
+
+gui.checkbox.show_visual_guide=§7Показать зону
+gui.checkbox.invert_force=§7Вверх
+gui.message.force.strength=§7Сила
+gui.message.energy_usage=§7Энергопотребление
+
+entity.robotVillager.name=§7Житель-робот
+entity.porcodon.name=§7Поркодон
+entity.sentryRobot.name=§7Sentry
+entity.osirisBoss.name=§7Босс-мумия
+entity.alienVillagerAR.name=§7Инопланетный житель
+entity.alienBug.name=§7Pincer Bug
+entity.GalacticraftAmunRa.Shuttle.name=§7Shuttle Rocket

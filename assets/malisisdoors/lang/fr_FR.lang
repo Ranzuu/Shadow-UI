@@ -1,0 +1,56 @@
+
+
+
+door_movement.rotating_door=§7Tournante
+door_movement.sliding_door=§7Coulissante sur le côté
+door_movement.sliding_up_door=§7Coulissante vers le haut
+door_movement.sliding_split_door=§7Coulissante vers le haut et le bas
+door_movement.rotating_split_door=§7Tournante vers le haut et le bas
+door_movement.vault_door=§7Coffre-fort
+door_movement.sliding_4ways=§7Coulissante des quatre côtés
+door_movement.rotating_4ways=§7Tournante des quatre côtés
+door_movement.rotate_around=§7Circulaire
+door_movement.rotate_slide=§7Tournante et coulissante
+door_movement.rotate_place=§7Tournante se replace
+door_movement.vanishing_door=§7Disparaissante
+door_movement.spinning_door=§7Tourbillonnante
+door_movement.spinning_around_door=§7Vortex
+door_movement.double_slide_left=§7Coulissante double à gauche
+door_movement.double_slide_right=§7Coulissante double à droite
+door_movement.double_rotate_left=§7Tournante double à gauche
+door_movement.double_rotate_right=§7Tournant double à droite
+
+
+
+gui.door_factory.tab_properties=§7Propiétés
+gui.door_factory.tab_materials=§7Matériaux
+gui.door_factory.tab_digicode=§7Digicode
+gui.door_factory.rb_create=§7Créer
+gui.door_factory.rb_edit=§7Modifier
+gui.door_factory.door_movement=§7Mouvement
+gui.door_factory.door_open_time=§7Temps d'ouverture
+gui.door_factory.door_auto_close_time=§7Delai de fermeture
+gui.door_factory.door_require_redstone=§7Nécessite redstone
+gui.door_factory.door_double_door=§7Double porte
+gui.door_factory.door_sound=§7Type de son
+gui.door_factory.door_sound.silent_door=§7Silencieux
+gui.door_factory.door_sound.vanilla_door=§7Porte originale
+gui.door_factory.door_sound.glass_door=§7Porte vitrée
+gui.door_factory.door_sound.jail_door=§7Porte de prison
+gui.door_factory.door_sound.pneumatic_door=§7Porte pneumatique
+gui.door_factory.door_sound.shoji_door=§7Porte Shoji
+gui.door_factory.door_sound.carriage_door=§7Grande Porte
+
+
+gui.door_factory.frame_type=§7Type de cadre
+gui.door_factory.top_material=§7Matériau haut
+gui.door_factory.bottom_material=§7Matériau bas
+gui.door_factory.door_edit_slot=§7Porte à modifier
+gui.door_factory.create_door=§7Créer la porte
+gui.door_factory.edit_door=§7Modifier la porte
+
+gui.block_mixer.simple_rendering=§7Rendu simplifié
+gui.block_mixer.simple_rendering_tooltip=§7Nécessite une mise à jour de tronçons pour les blocs du monde
+
+tile.block_mixer.name=§7Mixeur de blocs
+tile.door_factory.name=§7Assembleur de porte

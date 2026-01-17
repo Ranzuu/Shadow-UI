@@ -1,0 +1,46 @@
+extratrees.gui.database.planks.use=§7Можно создать:
+
+extratrees.gui.database.mode.fruit=§7Плод
+extratrees.gui.database.mode.wood=§7Древесина
+extratrees.gui.database.mode.planks=§7Доски
+
+extratrees.gui.database.tab.species.overview=§7Обзор
+extratrees.gui.database.tab.species.genome=§7Генотип
+extratrees.gui.database.tab.species.classification=§7Классификация
+extratrees.gui.database.tab.species.resultant=§7Произведённые мутации
+extratrees.gui.database.tab.species.further=§7Дальнейшие возможные мутации
+
+extratrees.gui.database.tab.branches.overview=§7Обзор
+extratrees.gui.database.tab.branches.species=§7Виды
+
+extratrees.gui.database.tab.breeder.breeder=§7Селекция
+
+extratrees.gui.database.tab.fruit.natural=§7Естественные деревья
+extratrees.gui.database.tab.fruit.natura.help=§7список деревьев, на которых растёт этот плод
+extratrees.gui.database.tab.fruit.potential=§7Потенциальные деревья
+extratrees.gui.database.tab.fruit.potential.help=§7список деревьев, на которых может вырасти этот плод, если у них будет необходимый ген
+extratrees.gui.database.tab.wood.natural=§7Естественные деревья
+extratrees.gui.database.tab.wood.natural.help=§7список деревьев, которые дают эту древесину
+extratrees.gui.database.tab.planks.overview=§7Обзор
+extratrees.gui.database.tab.planks.overview.help=§7Описание и возможные варианты применения
+extratrees.gui.database.tab.planks.natural=§7Естественные деревья
+extratrees.gui.database.tab.planks.natural.help=§7Список деревьев, которые производят брёвна, дающие эти доски
+
+extratrees.gui.database.tab.butterfly.species.overview=§7Обзор
+extratrees.gui.database.tab.butterfly.species.classification=§7Классификация
+extratrees.gui.database.tab.butterfly.species.specimen=§7Образец
+extratrees.gui.database.tab.butterfly.species.resultant=§7Произведённые мутации
+extratrees.gui.database.tab.butterfly.species.further=§7Дальнейшие возможные мутации
+extratrees.gui.database.tab.butterfly.branches.overview=§7Обзор
+extratrees.gui.database.tab.butterfly.branches.species=§7Виды
+extratrees.gui.database.tab.butterfly.breeder=§7Селекция
+
+extratrees.gui.database.log=§7древесина
+extratrees.gui.database.leaves=§7листья
+
+extratrees.machine.machine.brewery=§7Пивоварня
+extratrees.machine.machine.lumbermill=§7Лесопилка
+extratrees.machine.machine.woodworker=§7Столяр
+extratrees.machine.machine.panelworker=§7Панельщик
+extratrees.machine.machine.glassworker=§7Стекольщик
+extratrees.machine.machine.tileworker=§7Плиточник
