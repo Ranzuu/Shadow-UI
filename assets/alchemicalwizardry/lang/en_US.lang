@@ -1,6 +1,7 @@
-tile.blockWritingTable.name=§7Alchemic Chemistry Set
-tile.bloodTeleposer.name=§7Teleposer
-tile.demonChest.name=§7Demon's Chest
+gui.blockWritingTable.title=§7Alchemic Chemistry Set
+gui.demonChest.title=§7Demon's Chest
+gui.bloodTeleposer.title=§7Teleposer
+text.recipe.alchemicCalcinator.reagent=§7%s AR
 
 # GTNH NEI Information Pages
 # Blood Altar Progression

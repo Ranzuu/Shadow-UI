@@ -1,3 +1,4 @@
-tile.blockWritingTable.name=§7Алхимическая и химическая установка
-tile.bloodTeleposer.name=§7Телепозер
-tile.demonChest.name=§7Сундук демона
+gui.blockWritingTable.title=§7Алхимическая и химическая установка
+gui.demonChest.title=§7Сундук демона
+gui.bloodTeleposer.title=§7Телепозер
+text.recipe.alchemicCalcinator.reagent=§7%s AR

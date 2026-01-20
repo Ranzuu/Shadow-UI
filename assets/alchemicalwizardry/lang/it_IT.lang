@@ -1,3 +1,4 @@
-tile.blockWritingTable.name=§7Set da Alchimista
-tile.bloodTeleposer.name=§7Teleposer
-tile.demonChest.name=§7Demon's Chest
+gui.blockWritingTable.title=§7Set da Alchimista
+gui.demonChest.title=§7Demon's Chest
+gui.bloodTeleposer.title=§7Teleposer
+text.recipe.alchemicCalcinator.reagent=§7%s AR

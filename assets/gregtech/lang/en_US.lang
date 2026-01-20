@@ -262,7 +262,7 @@ GT5U.multiblock.startup=§7Starting up...
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
 
-GT5U.nei.display.overclock=§6(OC)§7
+GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Catalyst Tier
 
