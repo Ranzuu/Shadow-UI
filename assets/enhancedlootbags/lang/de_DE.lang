@@ -1,5 +1,3 @@
-enhancedlootbags.string.lootbag_templatename=§fBeutetasche (%s)
-
 enhancedlootbags.nei.recipe.contains_trash=§7Contains trash: %s
-
 enhancedlootbags.nei.recipe.also_has_loot_from=§7Also has loot from:
+enhancedlootbags.string.lootbag_templatename=Beutetasche§r - §r%s
