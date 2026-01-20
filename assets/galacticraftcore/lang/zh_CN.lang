@@ -52,26 +52,6 @@ gui.message.prelaunch=§7发射前检查表
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7温度控制器
 
-gui.button.enableseal.name=§7密闭启动
-gui.button.disableseal.name=§7禁用密闭
-gui.button.loaditems.name=§7载入物品
-gui.button.stoploading.name=§7停止载入
-gui.button.unloaditems.name=§7卸载物品
-gui.button.stopunloading.name=§7停止卸载
-gui.button.createsstation.name=§7创建空间站
-gui.button.sendtodim.name=§7传送到维度
-gui.button.rename.name=§7重命名
-gui.button.loadfuel.name=§7加载燃料
-gui.button.refine.name=§7精炼
-gui.button.back.name=§7返回
-gui.button.next.name=§7下一个
-gui.button.unlockschematic.name=§7解锁设计图
-gui.button.stoprefine.name=§7停止精炼
-gui.button.enable.name=§7开启
-gui.button.disable.name=§7关闭
-gui.button.hideDest.name=§7隐藏
-gui.button.unhideDest.name=§7显示
-
 # CONTAINERS
 container.cargoloader.name=§7货物装载器
 container.cargounloader.name=§7货物卸载器
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7玩家名字是
 gui.checkbox.invert.name=§7反向选取
 gui.checkbox.horizontal.name=§7水平模式
 
-tile.machine.0.name=§7燃煤发电机
-tile.machine.1.name=§7能量存储模块
-tile.machine.2.name=§7电炉
-tile.machine.3.name=§7压缩机
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7电动压缩机
-tile.machine2.5.name=§7元件制造台
-tile.machine2.6.name=§7储氧模块
-tile.machine.7.name=§7电弧炉
-tile.machine.8.name=§7储能簇
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7最大输出
 gui.oxygenUse.desc=§7氧气使用

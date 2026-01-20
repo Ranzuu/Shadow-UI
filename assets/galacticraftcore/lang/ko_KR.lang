@@ -52,26 +52,6 @@ gui.message.prelaunch=§7발사전 체크리스트
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7열 제어
 
-gui.button.enableseal.name=§7밀봉 가동하기
-gui.button.disableseal.name=§7밀봉 파기하기
-gui.button.loaditems.name=§7아이템 적재하기
-gui.button.stoploading.name=§7적재 멈추기
-gui.button.unloaditems.name=§7아이템 적하하기
-gui.button.stopunloading.name=§7적하 멈추기
-gui.button.createsstation.name=§7우주정거장 만들기
-gui.button.sendtodim.name=§7해당 세계로 보내기
-gui.button.rename.name=§7이름 바꾸기
-gui.button.loadfuel.name=§7연료 채우기
-gui.button.refine.name=§7정제하기
-gui.button.back.name=§7뒤로
-gui.button.next.name=§7다음
-gui.button.unlockschematic.name=§7설계도 잠금해제
-gui.button.stoprefine.name=§7정제 멈추기
-gui.button.enable.name=§7가동하기
-gui.button.disable.name=§7멈추기
-gui.button.hideDest.name=§7숨기기
-gui.button.unhideDest.name=§7보이기
-
 # CONTAINERS
 container.cargoloader.name=§7화물 적재기
 container.cargounloader.name=§7화물 적하기
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7플레이어 이름
 gui.checkbox.invert.name=§7선택 반전시키기
 gui.checkbox.horizontal.name=§7가로 모드
 
-tile.machine.0.name=§7석탄 발전기
-tile.machine.1.name=§7에너지 저장 모듈
-tile.machine.2.name=§7전기 화로
-tile.machine.3.name=§7압축기
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7전기 압축기
-tile.machine2.5.name=§7회로 조립기
-tile.machine2.6.name=§7산소 저장 모듈
-tile.machine.7.name=§7전기 아크 화로
-tile.machine.8.name=§7에너지 저장 클러스터
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7최대 출력
 gui.oxygenUse.desc=§7산소 사용

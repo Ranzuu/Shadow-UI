@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7Légnyomásfenntartás Indítása
-gui.button.disableseal.name=§7Légnyomásfenntartás Leállítása
-gui.button.loaditems.name=§7Eszközök Berakodása
-gui.button.stoploading.name=§7Berakodás Megszakítása
-gui.button.unloaditems.name=§7Kirakodás Megkezdése
-gui.button.stopunloading.name=§7KIrakodás Megszakítása
-gui.button.createsstation.name=§7Űrállomás létrehozása
-gui.button.sendtodim.name=§7Küldés A Világba
-gui.button.rename.name=§7Átnevezés
-gui.button.loadfuel.name=§7Üzemanyag Betöltése
-gui.button.refine.name=§7Finomítás
-gui.button.back.name=§7Vissza
-gui.button.next.name=§7Következő
-gui.button.unlockschematic.name=§7Tervrajz Feloldása
-gui.button.stoprefine.name=§7Finomítás Megszakítása
-gui.button.enable.name=§7Indítás
-gui.button.disable.name=§7Leállítás
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7Teher-Berakodó
 container.cargounloader.name=§7Teher-Kirakodó
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Célpont játékos neve
 gui.checkbox.invert.name=§7Fordított mód
 gui.checkbox.horizontal.name=§7Vízszintes helyzet
 
-tile.machine.0.name=§7Szénerőmű
-tile.machine.1.name=§7Akkumlátor-Telep
-tile.machine.2.name=§7Elektromos Kemence
-tile.machine.3.name=§7Préselőgép
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7Elektromos Préselőgép
-tile.machine2.5.name=§7Áramkör-Készítő
-tile.machine2.6.name=§7Légraktár
-tile.machine.7.name=§7Elektromos Duplázó-Kemence
-tile.machine.8.name=§7Nehéz Akkumlátortelep
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Max Output ##NEEDS TRANSLATE##
 gui.oxygenUse.desc=§7Elhasznált Levegő

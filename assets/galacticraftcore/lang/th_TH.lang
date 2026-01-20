@@ -52,26 +52,6 @@ gui.message.prelaunch=§7ตรวจสอบรายการก่อนป�
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7สถานะเครื่องควบคุมอุณหภูมิ
 
-gui.button.enableseal.name=§7เปิดใช้งานการผนึก
-gui.button.disableseal.name=§7ปิดใช้งานการผนึก
-gui.button.loaditems.name=§7ขนส่งไอเท็ม
-gui.button.stoploading.name=§7หยุดเติม
-gui.button.unloaditems.name=§7ขนถ่ายสินค้า
-gui.button.stopunloading.name=§7หยุดขนถ่ายสินค้า
-gui.button.createsstation.name=§7สร้างสถานีอวกาศ
-gui.button.sendtodim.name=§7ส่งไปยังมิติ
-gui.button.rename.name=§7เปลี่ยนชื่อ
-gui.button.loadfuel.name=§7โหลดเชื้อเพลิง
-gui.button.refine.name=§7เริ่มกลั่น
-gui.button.back.name=§7กลับ
-gui.button.next.name=§7ต่อไป
-gui.button.unlockschematic.name=§7ปลดล็อคแผนผัง
-gui.button.stoprefine.name=§7หยุดกลั่น
-gui.button.enable.name=§7เปิดใช้งาน
-gui.button.disable.name=§7ปิดใช้งาน
-gui.button.hideDest.name=§7ซ่อน
-gui.button.unhideDest.name=§7เลิกซ่อน
-
 # CONTAINERS
 container.cargoloader.name=§7เครื่องขนส่งสินค้า
 container.cargounloader.name=§7เครื่องขนถ่ายสินค้า
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7ชื่อผู้เล่นคือ
 gui.checkbox.invert.name=§7สลับการทำงาน
 gui.checkbox.horizontal.name=§7โหมดแนวนอน
 
-tile.machine.0.name=§7เครื่องกำเนิดไฟฟ้าถ่านหิน
-tile.machine.1.name=§7โมดูลเก็บพลังงาน
-tile.machine.2.name=§7เตาไฟฟ้า
-tile.machine.3.name=§7เครื่องบีบอัด
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7เครื่องบีบอัดไฟฟ้า
-tile.machine2.5.name=§7เครื่องประดิษฐ์แผงวงจร
-tile.machine2.6.name=§7โมดูลเก็บออกซิเจน
-tile.machine.7.name=§7เตาอาร์คไฟฟ้า
-tile.machine.8.name=§7โมดูลเก็บพลังงานแบบคลัสเตอร์
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7ส่งออกสูงสุด
 gui.oxygenUse.desc=§7ใช้ออกซิเจน
