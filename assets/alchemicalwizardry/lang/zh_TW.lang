@@ -1,3 +1,4 @@
-tile.blockWritingTable.name=§7煉金術台
-tile.bloodTeleposer.name=§7傳送器
-tile.demonChest.name=§7Demon's Chest
+gui.blockWritingTable.title=§7煉金術台
+gui.demonChest.title=§7Demon's Chest
+gui.bloodTeleposer.title=§7傳送器
+text.recipe.alchemicCalcinator.reagent=§7%s AR
