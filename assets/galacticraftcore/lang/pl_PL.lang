@@ -52,26 +52,6 @@ gui.message.prelaunch=§7lista Przedstartowa
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Kontrola Termalna
 
-gui.button.enableseal.name=§7Aktywuj
-gui.button.disableseal.name=§7Dezaktywuj
-gui.button.loaditems.name=§7Załaduj
-gui.button.stoploading.name=§7Zatrzymaj
-gui.button.unloaditems.name=§7Wyładuj
-gui.button.stopunloading.name=§7Zatrzymaj
-gui.button.createsstation.name=§7Stwórz Stacje Kosmiczną
-gui.button.sendtodim.name=§7Wyślij do Wymiaru
-gui.button.rename.name=§7Zmień Nazwę
-gui.button.loadfuel.name=§7Zatankuj
-gui.button.refine.name=§7Rafinuj
-gui.button.back.name=§7Poprzedni
-gui.button.next.name=§7Następny
-gui.button.unlockschematic.name=§7Odblokuj Schemat
-gui.button.stoprefine.name=§7Zatrzymaj
-gui.button.enable.name=§7Aktywuj
-gui.button.disable.name=§7Dezaktywuj
-gui.button.hideDest.name=§7Schowaj
-gui.button.unhideDest.name=§7Pokaż
-
 # CONTAINERS
 container.cargoloader.name=§7Ładownik
 container.cargounloader.name=§7Wyładownik
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Gracz nazywa się
 gui.checkbox.invert.name=§7Odwróć Wybór
 gui.checkbox.horizontal.name=§7Tryb Horyzontalny
 
-tile.machine.0.name=§7Generator Węglowy
-tile.machine.1.name=§7Akumulator
-tile.machine.2.name=§7Piec Elektryczny
-tile.machine.3.name=§7Kompresor
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7Kompresor Elektryczny
-tile.machine2.5.name=§7Fabrykator Obwodowy
-tile.machine2.6.name=§7Magazyn Tlenu
-tile.machine.7.name=§7Piec Arc
-tile.machine.8.name=§7Akumulator Klastrowy
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Maksymalne Wyjście
 gui.oxygenUse.desc=§7Wykorzystanie Tlenu

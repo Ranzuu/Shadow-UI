@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Lista de pre-lanzamiento
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Control térmico
 
-gui.button.enableseal.name=§7Activar sellado
-gui.button.disableseal.name=§7Desactivar sellado
-gui.button.loaditems.name=§7Cargar objetos
-gui.button.stoploading.name=§7Detener carga
-gui.button.unloaditems.name=§7Descargar objetos
-gui.button.stopunloading.name=§7Detener descarga
-gui.button.createsstation.name=§7Crear estación espacial
-gui.button.sendtodim.name=§7Enviar a dimensión
-gui.button.rename.name=§7Renombrar
-gui.button.loadfuel.name=§7Cargar combustible
-gui.button.refine.name=§7Refinar
-gui.button.back.name=§7Volver
-gui.button.next.name=§7Siguiente
-gui.button.unlockschematic.name=§7Desbloquear plano
-gui.button.stoprefine.name=§7Parar de refinar
-gui.button.enable.name=§7Activar
-gui.button.disable.name=§7Desactivar
-gui.button.hideDest.name=§7Ocultar
-gui.button.unhideDest.name=§7Mostrar
-
 # CONTAINERS
 container.cargoloader.name=§7Plataforma de carga
 container.cargounloader.name=§7Plataforma de descarga
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Nombre del jugador
 gui.checkbox.invert.name=§7Invertir selección
 gui.checkbox.horizontal.name=§7Modo horizontal
 
-tile.machine.0.name=§7Generador a carbón
-tile.machine.1.name=§7Módulo de almacenamiento de energía
-tile.machine.2.name=§7Horno eléctrico
-tile.machine.3.name=§7Compresor
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7Compresor eléctrico
-tile.machine2.5.name=§7Fabricador de circuito
-tile.machine2.6.name=§7Módulo de almacenamiento de oxígeno
-tile.machine.7.name=§7Horno de arco eléctrico
-tile.machine.8.name=§7Cluster de almacenamiento de energía
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Salida máxima
 gui.oxygenUse.desc=§7Uso de oxígeno

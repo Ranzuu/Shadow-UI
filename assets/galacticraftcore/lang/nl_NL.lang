@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Voor Lancering Checklist
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7Enable Seal
-gui.button.disableseal.name=§7Disable Seal
-gui.button.loaditems.name=§7Laad Items
-gui.button.stoploading.name=§7Stop Inladen
-gui.button.unloaditems.name=§7Unload Items
-gui.button.stopunloading.name=§7Stop Uitladen
-gui.button.createsstation.name=§7Maak een Ruimte Station
-gui.button.sendtodim.name=§7Send to Dimension
-gui.button.rename.name=§7Naam veranderen
-gui.button.loadfuel.name=§7Laad Brandstof
-gui.button.refine.name=§7Verfijn
-gui.button.back.name=§7Terug
-gui.button.next.name=§7Volgende
-gui.button.unlockschematic.name=§7Unlock Schematic
-gui.button.stoprefine.name=§7Stop Raffinage
-gui.button.enable.name=§7Inschakelen
-gui.button.disable.name=§7Uitschakelen
-gui.button.hideDest.name=§7Verbergen
-gui.button.unhideDest.name=§7Tonen
-
 # CONTAINERS
 container.cargoloader.name=§7Cargo Loader
 container.cargounloader.name=§7Cargo Unloader
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Spelers naam is
 gui.checkbox.invert.name=§7Selectie Omkeren
 gui.checkbox.horizontal.name=§7Horizontale Mode
 
-tile.machine.0.name=§7Kool Generator
-tile.machine.1.name=§7Energie Opslag Module
-tile.machine.2.name=§7Elektrische Oven
-tile.machine.3.name=§7Compressor
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7Elektrische Compressor
-tile.machine2.5.name=§7Omloop Fabricator
-tile.machine2.6.name=§7Zuurstof Opslag Module
-tile.machine.7.name=§7Elektrische Vlamboogoven
-tile.machine.8.name=§7Energie Opslag Bundel
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Maximale Uitgang
 gui.oxygenUse.desc=§7Zuurstof Gebruik

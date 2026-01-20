@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Popis prije-pokretanja
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7Uključi Djeljenje Zraka
-gui.button.disableseal.name=§7Isključi Djeljenje Zraka
-gui.button.loaditems.name=§7Stavi Stvari
-gui.button.stoploading.name=§7Zaustavi
-gui.button.unloaditems.name=§7Uzmi Stvari
-gui.button.stopunloading.name=§7Zaustavi
-gui.button.createsstation.name=§7Svemirska Stanica
-gui.button.sendtodim.name=§7Pošalji u Dimenziju
-gui.button.rename.name=§7Preimenovati
-gui.button.loadfuel.name=§7Puni Gorivo
-gui.button.refine.name=§7Refiniraj
-gui.button.back.name=§7Nazad
-gui.button.next.name=§7Naprijed
-gui.button.unlockschematic.name=§7Otključaj Šemu
-gui.button.stoprefine.name=§7Prestani Refinirati
-gui.button.enable.name=§7Uključi
-gui.button.disable.name=§7Isključi
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7Utovarivač Tereta
 container.cargounloader.name=§7Istovarivač Tereta
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Ime Igrača je
 gui.checkbox.invert.name=§7Suprotno
 gui.checkbox.horizontal.name=§7Horizontalni Način
 
-tile.machine.0.name=§7Generator Ugljena
-tile.machine.1.name=§7Energijsko Skladište
-tile.machine.2.name=§7Električna Peć
-tile.machine.3.name=§7Kompresor
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7Električni Kompresor
-tile.machine2.5.name=§7Strujni Krug
-tile.machine2.6.name=§7Zračno Skladište
-tile.machine.7.name=§7Električna Arc Peć
-tile.machine.8.name=§7Energijsko Skladište
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Maksimalni Izlaz
 gui.oxygenUse.desc=§7Kisik se koristi

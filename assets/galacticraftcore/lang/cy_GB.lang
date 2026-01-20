@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7 Galluogi Sêl
-gui.button.disableseal.name=§7 Analluogi Seal
-gui.button.loaditems.name=§7Load Items ##NEEDS TRANSLATE##
-gui.button.stoploading.name=§7 Stop Llwytho
-gui.button.unloaditems.name=§7 Dadlwytho Eitemau
-gui.button.stopunloading.name=§7 Stop Dadlwytho
-gui.button.createsstation.name=§7 Creu Orsaf Ofod
-gui.button.sendtodim.name=§7 Anfon at DIMENSION
-gui.button.rename.name=§7 Rename
-gui.button.loadfuel.name=§7 Llwytho Tanwydd
-gui.button.refine.name=§7 Mireinio
-gui.button.back.name=§7 Yn ôl
-gui.button.next.name=§7 Nesaf
-gui.button.unlockschematic.name=§7 Datglo Sgematig
-gui.button.stoprefine.name=§7 Stop Mireinio
-gui.button.enable.name=§7 Galluogi
-gui.button.disable.name=§7 Analluogi
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7 Cargo Loader
 container.cargounloader.name=§7 Cargo Unloader
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Player name is ##NEEDS TRANSLATE##
 gui.checkbox.invert.name=§7Invert Selection ##NEEDS TRANSLATE##
 gui.checkbox.horizontal.name=§7Horizontal Mode ##NEEDS TRANSLATE##
 
-tile.machine.0.name=§7 Glo Generator
-tile.machine.1.name=§7 Storio Modiwl Ynni
-tile.machine.2.name=§7 Electric Ffwrnais
-tile.machine.3.name=§7 Cywasgydd
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7 Electric Cywasgydd
-tile.machine2.5.name=§7 Cylchdaith Ffabrigeiddiwr
-tile.machine2.6.name=§7 Storio Ocsigen Modiwl
-tile.machine.7.name=§7Electric Arc Furnace ##NEEDS TRANSLATE##
-tile.machine.8.name=§7Energy Storage Cluster ##NEEDS TRANSLATE##
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Max Output ##NEEDS TRANSLATE##
 gui.oxygenUse.desc=§7Oxygen Use ##NEEDS TRANSLATE##

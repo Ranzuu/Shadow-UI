@@ -52,26 +52,6 @@ gui.message.prelaunch=§7起動前のチェックリスト
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7熱コントローラ
 
-gui.button.enableseal.name=§7密封を有効
-gui.button.disableseal.name=§7密封を無効
-gui.button.loaditems.name=§7アイテムを積み込む
-gui.button.stoploading.name=§7積み込みを停止
-gui.button.unloaditems.name=§7アイテムを取り出す
-gui.button.stopunloading.name=§7アンロードを停止
-gui.button.createsstation.name=§7スペースステーションを作成
-gui.button.sendtodim.name=§7ディメンションに送信
-gui.button.rename.name=§7名前変更
-gui.button.loadfuel.name=§7燃料を給油
-gui.button.refine.name=§7製錬
-gui.button.back.name=§7戻る
-gui.button.next.name=§7次へ
-gui.button.unlockschematic.name=§7回路図をアンロック
-gui.button.stoprefine.name=§7製錬を停止
-gui.button.enable.name=§7有効
-gui.button.disable.name=§7無効
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7貨物積み込み機
 container.cargounloader.name=§7貨物取り出し機
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7プレイヤーの名前は
 gui.checkbox.invert.name=§7Invert Selection
 gui.checkbox.horizontal.name=§7Horizontal Mode
 
-tile.machine.0.name=§7火力発電機
-tile.machine.1.name=§7エネルギー蓄積モジュール
-tile.machine.2.name=§7電気ファーネス
-tile.machine.3.name=§7圧縮機
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7電気圧縮機
-tile.machine2.5.name=§7回路製作機
-tile.machine2.6.name=§7酸素蓄積モジュール
-tile.machine.7.name=§7電気アークファーネス
-tile.machine.8.name=§7エネルギー蓄積クラスター
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Max Output
 gui.oxygenUse.desc=§7Oxygen Use

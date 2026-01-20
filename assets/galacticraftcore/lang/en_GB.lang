@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Pre-launch checklist
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control
 
-gui.button.enableseal.name=§7Enable Seal
-gui.button.disableseal.name=§7Disable Seal
-gui.button.loaditems.name=§7Load Items
-gui.button.stoploading.name=§7Stop Loading
-gui.button.unloaditems.name=§7Unload Items
-gui.button.stopunloading.name=§7Stop Unloading
-gui.button.createsstation.name=§7Create Space Station
-gui.button.sendtodim.name=§7Send to Dimension
-gui.button.rename.name=§7Rename
-gui.button.loadfuel.name=§7Load Fuel
-gui.button.refine.name=§7Refine
-gui.button.back.name=§7Back
-gui.button.next.name=§7Next
-gui.button.unlockschematic.name=§7Unlock Schematic
-gui.button.stoprefine.name=§7Stop Refining
-gui.button.enable.name=§7Enable
-gui.button.disable.name=§7Disable
-gui.button.hideDest.name=§7Hide
-gui.button.unhideDest.name=§7Unhide
-
 # CONTAINERS
 container.cargoloader.name=§7Cargo Loader
 container.cargounloader.name=§7Cargo Unloader
@@ -95,16 +75,21 @@ gui.checkbox.playerName.name=§7Player name is
 gui.checkbox.invert.name=§7Invert Selection
 gui.checkbox.horizontal.name=§7Horizontal Mode
 
-tile.machine.0.name=§7Coal Generator
-tile.machine.1.name=§7Energy Storage Module
-tile.machine.2.name=§7Electric Furnace
-tile.machine.3.name=§7Compressor
-tile.machine2.0.name=§7Machine
-tile.machine2.4.name=§7Electric Compressor
-tile.machine2.5.name=§7Circuit Fabricator
-tile.machine2.6.name=§7Oxygen Storage Module
-tile.machine.7.name=§7Electric Arc Furnace
-tile.machine.8.name=§7Energy Storage Cluster
+gui.tile.machine.0.name.title=§7Coal Generator
+gui.tile.machine.1.name.title=§7Energy Storage Module
+gui.tile.machine.2.name.title=§7Electric Furnace
+gui.tile.machine.3.name.title=§7Compressor
+gui.tile.machine2.4.name.title=§7Electric Compressor
+gui.tile.machine2.5.name.title=§7Circuit Fabricator
+gui.tile.machine2.6.name.title=§7Oxygen Storage Module
+gui.tile.machine.7.name.title=§7Electric Arc Furnace
+gui.tile.machine.8.name.title=§7Energy Storage Cluster
+
+gui.OxygenStorageModule.numbers1=§7
+gui.OxygenStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers1=§7
+gui.EnergyStorageModule.numbers2=§7
+gui.EnergyStorageModule.numbers3=§7
 
 gui.maxOutput.desc=§7Max Output
 gui.oxygenUse.desc=§7Oxygen Use
