@@ -19,7 +19,7 @@ GT5U.machines.solarindicator3=§7Can See Sky
 GT5U.gui.select.current=§7Состояние:
 
 GT5U.gui.text.rangedvalue=§7Радиус: %s-%s
-##GT5U.gui.text.lockedvalue=§7Locked: %s
+#GT5U.gui.text.lockedvalue=§7Locked: %s
 GT5U.gui.text.success=§7Обработка рецепта
 GT5U.gui.text.progress=§7Прогресс:
 GT5U.gui.text.generating=§7Генерация энергии
