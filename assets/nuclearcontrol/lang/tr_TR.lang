@@ -1,107 +1,22 @@
 #Internal Blocks
-tile.blockThermalMonitor.name=§7Termal Monitör
-tile.blockIndustrialAlarm.name=§7Endüstriyel Alarm
-tile.blockHowlerAlarm.name=§7Güçlü Alarm
-tile.blockRemoteThermo.name=§7Uzak Termal Monitör
-tile.blockInfoPanel.name=§7Endüstriyel Bilgi Paneli
-tile.blockInfoPanelExtender.name=§7Endüstriyel Bilgi Panel Ekranı
-tile.blockAdvancedInfoPanel.name=§7Gelişmiş Bilgi Paneli
-tile.blockAdvancedInfoPanelExtender.name=§7Gelişmiş Bilgi Panel Ekranı
-tile.nclight0.name=§7White Lamp
-tile.nclight1.name=§7White Lamp
-tile.nclight2.name=§7Orange Lamp
-tile.nclight3.name=§7Orange Lamp
-tile.blockEnergyCounter.name=§7Enerji Counter
-tile.blockAverageCounter.name=§7Average Counter
-tile.blockRangeTrigger.name=§7Range Trigger
+gui.tile.blockThermalMonitor.name.title=§7Termal Monitör
+gui.tile.blockIndustrialAlarm.name.title=§7Endüstriyel Alarm
+gui.tile.blockHowlerAlarm.name.title=§7Güçlü Alarm
+gui.tile.blockRemoteThermo.name.title=§7Uzak Termal Monitör
+gui.tile.blockInfoPanel.name.title=§7Endüstriyel Bilgi Paneli
+gui.tile.blockAdvancedInfoPanel.name.title=§7Gelişmiş Bilgi Paneli
+gui.tile.blockEnergyCounter.name.title=§7Enerji Counter
+gui.tile.blockAverageCounter.name.title=§7Average Counter
+gui.tile.blockRangeTrigger.name.title=§7Range Trigger
 
-#Integration Blocks
-tile.blockBRPart.name=§7Reactor Monitor
-tile.NetworkLink.name=§7ME Network Monitor
+gui.optional.numbers=§7
 
 #Original Screen Messages
-msg.nc.HowlerAlarmSoundRange=§7Ses Seviyesi: %s
-msg.nc.HowlerAlarmSound=§7Ses
-msg.nc.ThermalMonitorSave=§7Ayarları Kaydet
-msg.nc.ThermalMonitorSignalAt=§7Sinyal %s sıcaklık
-msg.nc.Thermo=§7Şu anda sıcaklığı: %s
-msg.nc.ThermoDigital=§7Şu anda sıcaklığı: %s (Su Buharlaşması: %s / Çekirdek Erimesi: %s)
-msg.nc.SensorKit=§7Sensör kartı makinanın yerini tespit etti
-
-msg.nc.InfoPanelOutOfRange=§7Çok Uzakta
-msg.nc.InfoPanelInvalidCard=§7Bozuk Kart
-msg.nc.InfoPanelNoTarget=§7Böyle Bir Şey Bulunamadı
-
-msg.nc.InfoPanelOn=§7Açık
-msg.nc.InfoPanelOff=§7Kapalı
-msg.nc.InfoPanelHeat=§7Sıcaklık: %s
-msg.nc.InfoPanelMaxHeat=§7EnYüksekSıcaklık: %s
-msg.nc.InfoPanelMelting=§7ÇekirdekErimesi: %s
+msg.nc.ScreenColor=§7Ekran Rengi
+msg.nc.TextColor=§7Yazı Rengi
 msg.nc.InfoPanelOutput=§7ÇıkışGücü: %sEU/t
 msg.nc.InfoPanelOutputMJ=§7ÇıkışGücü: %sMJ/t
 msg.nc.InfoPanelOutputSteam=§7ÇıkışGücü: %smB/t
-msg.nc.InfoPanelTimeRemaining=§7ÇalışmaSüresi: %s
-
-msg.nc.InfoPanelEnergyCounter=§7Enerji: %sEU
-msg.nc.InfoPanelEnergyCounterMJ=§7Enerji: %sMJ
-
-msg.nc.InfoPanelEnergy=§7Enerji: %s
-msg.nc.InfoPanelEnergyFree=§7Boş: %s
-msg.nc.InfoPanelEnergyStorage=§7Depolanan: %s
-msg.nc.InfoPanelEnergyPercentage=§7Kullanılan: %s%%
-
-msg.nc.cbInfoPanelLiquidName=§7Sıvı adı
-msg.nc.cbInfoPanelLiquidAmount=§7Miktarı
-msg.nc.cbInfoPanelLiquidCapacity=§7Kapasitesi
-msg.nc.cbInfoPanelLiquidFree=§7Boş
-msg.nc.cbInfoPanelLiquidPercentage=§7Kullanım oranı
-
-msg.nc.InfoPanelLiquidName=§7Adı: %s
-msg.nc.InfoPanelLiquidAmount=§7Miktarı: %s
-msg.nc.InfoPanelLiquidCapacity=§7Kapasitesi: %s
-msg.nc.InfoPanelLiquidFree=§7Boş: %s
-msg.nc.InfoPanelLiquidPercentage=§7Kullanılan: %s%%
-
-msg.nc.InfoPanelNotFoundN=§7#%d Bulunamadı
-msg.nc.InfoPanelOutOfRangeN=§7#%d Çok uzakta
-msg.nc.InfoPanelEnergyN=§7#%d Enerji: %s
-msg.nc.InfoPanelEnergyFreeN=§7#%d Boş: %s
-msg.nc.InfoPanelEnergyStorageN=§7#%d Kapasitesi: %s
-msg.nc.InfoPanelEnergyPercentageN=§7#%d Kullanılan: %s%%
-msg.nc.InfoPanelLiquidNameN=§7#%d Adı: %s
-msg.nc.InfoPanelLiquidN=§7#%d Miktarı: %s
-msg.nc.InfoPanelLiquidFreeN=§7#%d Boş: %s
-msg.nc.InfoPanelLiquidCapacityN=§7#%d Kapasitesi: %s
-msg.nc.InfoPanelLiquidPercentageN=§7#%d Kullanılan: %s%%
-
-msg.nc.InfoPanelTime=§7Zaman: %s
-
-msg.nc.cbInfoPanelOnOff=§7Açık/Kapalı Statüsü
-msg.nc.cbInfoPanelHeat=§7Sıcaklığı
-msg.nc.cbInfoPanelMaxHeat=§7En yüksek Sıcaklığı
-msg.nc.cbInfoPanelMelting=§7Çekirdek Erime Sıcaklığı
-msg.nc.cbInfoPanelOutput=§7Çıkış gücü (EU/t)
-msg.nc.cbInfoPanelTimeRemaining=§7Zamanla biticek
-msg.nc.cb24h=§724 Saat
-
-msg.nc.cbInfoPanelEnergyCurrent=§7Enerji
-msg.nc.cbInfoPanelEnergyStorage=§7Depolanan
-msg.nc.cbInfoPanelEnergyFree=§7Boş
-msg.nc.cbInfoPanelEnergyEach=§7Kart Bilgisi
-msg.nc.cbInfoPanelEnergyTotal=§7Özet
-msg.nc.cbInfoPanelEnergyPercentage=§7Doldurun
-msg.nc.EnergyCardQuantity=§7Kartların miktarı: %d
 msg.nc.AverageCounterPeriod=§7Süre: %ssaniye
-
-msg.nc.LiquidCardQuantity=§7Kart Miktarı: %d
-
-msg.nc.cbInfoPanelLiquidEach=§7Kart Bilgileri
-msg.nc.cbInfoPanelLiquidTotal=§7Özet
-
-msg.nc.Reset=§7Reset
-msg.nc.ScreenColor=§7Ekran Rengi
-msg.nc.TextColor=§7Yazı Rengi
-msg.nc.None=§7N/A
-nc.msg.notValid=§7This Card may not be compatible
-nc.msg.notValid2=§7with the Remote Monitor
-nc.msg.notValid3=§7Try reopening the GUI
+msg.nc.HowlerAlarmSoundRange=§7Ses Seviyesi: %s
+msg.nc.HowlerAlarmSound=§7Ses
