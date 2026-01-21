@@ -1,4 +1,5 @@
-﻿railcraft.gui.tank.iron=§7Iron Tank
+﻿##
+railcraft.gui.tank.iron=§7철 탱크
 railcraft.gui.tank.steel=§7강철 탱크
 railcraft.gui.tank.water=§7저수조
 railcraft.gui.steam.boiler=§7 증기 보일러
@@ -8,15 +9,15 @@ railcraft.gui.steam.oven=§7증기 오븐
 railcraft.gui.turbine.output=§7출력: @d%%
 railcraft.gui.turbine.rotor=§7로터:
 railcraft.gui.turbine=§7증기 터빈
-
 railcraft.gui.tank.aluminium=§7Aluminium Tank
 railcraft.gui.tank.stainless=§7Stainless Steel Tank
 railcraft.gui.tank.titanium=§7Titanium Tank
 railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
 railcraft.gui.tank.palladium=§7Palladium Tank
-
+railcraft.gui.tank.iridium=§7Iridium Tank
+railcraft.gui.tank.osmium=§7Osmium Tank
+railcraft.gui.tank.neutronium=§7Neutronium Tank
 railcraft.gui.ic2.energy.rate=§7Rate: @d EU
-
 railcraft.gui.cart.tnt.fuse=§7점화
 railcraft.gui.cart.track.relayer.pattern=§7패턴
 railcraft.gui.cart.track.relayer.stock=§7소지
@@ -24,33 +25,14 @@ railcraft.gui.cart.undercutter.pattern=§7패턴
 railcraft.gui.cart.undercutter.sides=§7옆
 railcraft.gui.cart.undercutter.stock=§7소지
 railcraft.gui.cart.undercutter.under=§7아래
-
 railcraft.gui.feed.station.feed=§7먹이 주기
 railcraft.gui.filter=§7필터
 railcraft.gui.filters.carts=§7카트
 railcraft.gui.filters=§7필터
 railcraft.gui.item.loader.buffer=§7버퍼
-
-tile.railcraft.machine.alpha.rolling.machine.name=§7압연기
-tile.railcraft.machine.alpha.feed.station.name=§7먹이통
-tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
-tile.railcraft.machine.alpha.anchor.admin.name=§7관리자 앵커
-tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
-tile.railcraft.machine.alpha.anchor.personal.name=§7개인 앵커
-tile.railcraft.machine.alpha.anchor.world.name=§7세계 앵커
 railcraft.gui.anchor.fuel.remaining=§7@.2f 시간
 railcraft.gui.anchor.fuel=§7엔더 진주
-
-tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7고압 보일러
-tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7저압 보일러
-tile.railcraft.machine.beta.engine.steam.hobby.name=§7개인용 증기 엔진
-tile.railcraft.machine.beta.engine.steam.low.name=§7상용 증기 엔진
-tile.railcraft.machine.beta.engine.steam.high.name=§7산업용 증기 엔진
-tile.railcraft.machine.beta.chest.void.name=§7쓰레기통
-tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
-
 railcraft.gui.box.aspect.action=§7이 상태에서 레드스톤 방출
-
 railcraft.gui.detector.item.analog=§7아날로그
 railcraft.gui.detector.item.anything=§7모두
 railcraft.gui.detector.item.at_least=§7최소한
@@ -77,20 +59,23 @@ railcraft.gui.detector.tank.tip.not.empty=§7비어 있지 않은 탱크 일치
 railcraft.gui.detector.tank.tip.quarter=§71/4 초과 탱크 일치
 railcraft.gui.detector.tank.tip.void=§7임의 개수 일치
 railcraft.gui.detector.train.size=§7Train Size =§7 @d
-railcraft.gui.detector.villager.any=§7모두
-railcraft.gui.detector.villager.equals=§7일치
-railcraft.gui.detector.villager.none=§7없음
-railcraft.gui.detector.villager.not=§7부정
-
-tile.railcraft.machine.gamma.loader.item.name=§7아이템 공급기
-tile.railcraft.machine.gamma.unloader.item.name=§7아이템 회수기
-tile.railcraft.machine.gamma.loader.item.advanced.name=§7강화 아이템 공급기
-tile.railcraft.machine.gamma.unloader.item.advanced.name=§7강화 아이템 회수기
-tile.railcraft.machine.gamma.loader.liquid.name=§7액체 공급기
-tile.railcraft.machine.gamma.unloader.liquid.name=§7액체 회수기
-tile.railcraft.machine.gamma.loader.energy.name=§7에너지 공급기
-tile.railcraft.machine.gamma.unloader.energy.name=§7에너지 회수기
-tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
-tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
-tile.railcraft.machine.gamma.dispenser.cart.name=§7카트 발사기
-tile.railcraft.machine.gamma.dispenser.train.name=§7열차 발사기
+railcraft.gui.switch.motor.action=§7이 상태일 때 스위치:
+railcraft.gui.routing.slot.label=§7노선표
+railcraft.gui.box.controller.aspect.default=§7기본 상태:
+railcraft.gui.box.controller.aspect.redstone=§7레드스톤 상태:
+railcraft.gui.aspect.blink.red.name=§7Blink Red
+railcraft.gui.aspect.blink.yellow.name=§7Blink Yellow
+railcraft.gui.aspect.green.name=§7Green
+railcraft.gui.aspect.off.name=§7Off
+railcraft.gui.aspect.red.name=§7Red
+railcraft.gui.aspect.yellow.name=§7Yellow
+railcraft.gui.bore.ballast=§7선로 하부
+railcraft.gui.bore.fuel=§7연료
+railcraft.gui.bore.head=§7날
+railcraft.gui.box.capacitor.duration=§7@d초간 레드스톤 신호 방출
+railcraft.gui.energy.storage=§7%d / %d
+railcraft.gui.bore.track=§7레일
+railcraft.gui.color.title=§7
+railcraft.gui.engine.output=§7%d RF
+railcraft.gui.cart.track.relayer.pattern=§7패턴
+railcraft.gui.item.loader.buffer=§7버퍼

@@ -1,4 +1,5 @@
-﻿railcraft.gui.tank.iron=§7Iron Tank
+﻿##
+railcraft.gui.tank.iron=§7鐵製蓄水槽
 railcraft.gui.tank.steel=§7鋼製蓄水槽
 railcraft.gui.tank.water=§7水塔
 railcraft.gui.steam.boiler=§7 蒸氣鍋爐
@@ -8,15 +9,15 @@ railcraft.gui.steam.oven=§7蒸氣爐
 railcraft.gui.turbine.output=§7輸出: @d%%
 railcraft.gui.turbine.rotor=§7轉子:
 railcraft.gui.turbine=§7蒸氣渦輪
-
 railcraft.gui.tank.aluminium=§7Aluminium Tank
 railcraft.gui.tank.stainless=§7Stainless Steel Tank
 railcraft.gui.tank.titanium=§7Titanium Tank
 railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
 railcraft.gui.tank.palladium=§7Palladium Tank
-
+railcraft.gui.tank.iridium=§7Iridium Tank
+railcraft.gui.tank.osmium=§7Osmium Tank
+railcraft.gui.tank.neutronium=§7Neutronium Tank
 railcraft.gui.ic2.energy.rate=§7速率: @d EU
-
 railcraft.gui.cart.tnt.fuse=§7導火線
 railcraft.gui.cart.track.relayer.pattern=§7樣式
 railcraft.gui.cart.track.relayer.stock=§7存量
@@ -24,33 +25,14 @@ railcraft.gui.cart.undercutter.pattern=§7樣式
 railcraft.gui.cart.undercutter.sides=§7側邊
 railcraft.gui.cart.undercutter.stock=§7存量
 railcraft.gui.cart.undercutter.under=§7底下
-
 railcraft.gui.feed.station.feed=§7飼料
 railcraft.gui.filter=§7篩選
 railcraft.gui.filters.carts=§7車種
 railcraft.gui.filters=§7篩選
 railcraft.gui.item.loader.buffer=§7緩衝
-
-tile.railcraft.machine.alpha.rolling.machine.name=§7滾壓機
-tile.railcraft.machine.alpha.feed.station.name=§7自動餵食機
-tile.railcraft.machine.alpha.trade.station.name=§7交易站
-tile.railcraft.machine.alpha.anchor.admin.name=§7管理錨
-tile.railcraft.machine.alpha.anchor.passive.name=§7被動錨
-tile.railcraft.machine.alpha.anchor.personal.name=§7私人錨
-tile.railcraft.machine.alpha.anchor.world.name=§7世界錨
 railcraft.gui.anchor.fuel.remaining=§7@.2f小時
 railcraft.gui.anchor.fuel=§7終界珍珠
-
-tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7高壓鍋爐
-tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7低壓鍋爐
-tile.railcraft.machine.beta.engine.steam.hobby.name=§7業餘蒸氣引擎
-tile.railcraft.machine.beta.engine.steam.low.name=§7商業用蒸氣引擎
-tile.railcraft.machine.beta.engine.steam.high.name=§7工業用蒸氣引擎
-tile.railcraft.machine.beta.chest.void.name=§7虛無箱
-tile.railcraft.machine.beta.chest.metals.name=§7金屬箱
-
 railcraft.gui.box.aspect.action=§7輸出條件
-
 railcraft.gui.detector.item.analog=§7類比
 railcraft.gui.detector.item.anything=§7隨意
 railcraft.gui.detector.item.at_least=§7至少
@@ -77,20 +59,23 @@ railcraft.gui.detector.tank.tip.not.empty=§7偵測任何有液體的蓄水車
 railcraft.gui.detector.tank.tip.quarter=§7偵測液體多於4/1的蓄水車
 railcraft.gui.detector.tank.tip.void=§7偵測任意容量
 railcraft.gui.detector.train.size=§7列車長度 = @d
-railcraft.gui.detector.villager.any=§7任意
-railcraft.gui.detector.villager.equals=§7相同
-railcraft.gui.detector.villager.none=§7皆非
-railcraft.gui.detector.villager.not=§7不同
-
-tile.railcraft.machine.gamma.loader.item.name=§7物品裝載機
-tile.railcraft.machine.gamma.unloader.item.name=§7物品卸載機
-tile.railcraft.machine.gamma.loader.item.advanced.name=§7進階物品裝載機
-tile.railcraft.machine.gamma.unloader.item.advanced.name=§7進階物品卸載機
-tile.railcraft.machine.gamma.loader.liquid.name=§7液體裝載機
-tile.railcraft.machine.gamma.unloader.liquid.name=§7液體卸載機
-tile.railcraft.machine.gamma.loader.energy.name=§7能量裝載機
-tile.railcraft.machine.gamma.unloader.energy.name=§7能量卸載機
-tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux 裝載機
-tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux 卸載機
-tile.railcraft.machine.gamma.dispenser.cart.name=§7礦車發車器
-tile.railcraft.machine.gamma.dispenser.train.name=§7列車發車器
+railcraft.gui.switch.motor.action=§7轉轍條件
+railcraft.gui.routing.slot.label=§7路由表
+railcraft.gui.box.controller.aspect.default=§7預設信號:
+railcraft.gui.box.controller.aspect.redstone=§7充能信號:
+railcraft.gui.aspect.blink.red.name=§7閃紅燈
+railcraft.gui.aspect.blink.yellow.name=§7閃黃燈
+railcraft.gui.aspect.green.name=§7綠燈
+railcraft.gui.aspect.off.name=§7關閉
+railcraft.gui.aspect.red.name=§7紅燈
+railcraft.gui.aspect.yellow.name=§7黃燈
+railcraft.gui.bore.ballast=§7鋪路材料
+railcraft.gui.bore.fuel=§7燃料
+railcraft.gui.bore.head=§7鑽頭
+railcraft.gui.box.capacitor.duration=§7輸出 @d 秒紅石訊號
+railcraft.gui.energy.storage=§7%d / %d
+railcraft.gui.bore.track=§7鐵軌
+railcraft.gui.color.title=§7
+railcraft.gui.engine.output=§7%d RF
+railcraft.gui.cart.track.relayer.pattern=§7樣式
+railcraft.gui.item.loader.buffer=§7緩衝

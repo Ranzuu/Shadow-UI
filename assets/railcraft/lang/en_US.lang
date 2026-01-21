@@ -1,4 +1,5 @@
-﻿railcraft.gui.tank.iron=§7Iron Tank
+﻿##
+railcraft.gui.tank.iron=§7Iron Tank
 railcraft.gui.tank.steel=§7Steel Tank
 railcraft.gui.tank.water=§7Water Tank
 railcraft.gui.steam.boiler=§7Steam Boiler
@@ -8,15 +9,15 @@ railcraft.gui.steam.oven=§7Steam Oven
 railcraft.gui.turbine.output=§7Output: @d%%
 railcraft.gui.turbine.rotor=§7Rotor:
 railcraft.gui.turbine=§7Steam Turbine
-
 railcraft.gui.tank.aluminium=§7Aluminium Tank
 railcraft.gui.tank.stainless=§7Stainless Steel Tank
 railcraft.gui.tank.titanium=§7Titanium Tank
 railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
 railcraft.gui.tank.palladium=§7Palladium Tank
-
+railcraft.gui.tank.iridium=§7Iridium Tank
+railcraft.gui.tank.osmium=§7Osmium Tank
+railcraft.gui.tank.neutronium=§7Neutronium Tank
 railcraft.gui.ic2.energy.rate=§7Rate: @d EU
-
 railcraft.gui.cart.tnt.fuse=§7Fuse
 railcraft.gui.cart.track.relayer.pattern=§7Pattern
 railcraft.gui.cart.track.relayer.stock=§7Stock
@@ -24,33 +25,14 @@ railcraft.gui.cart.undercutter.pattern=§7Patterns
 railcraft.gui.cart.undercutter.sides=§7Sides
 railcraft.gui.cart.undercutter.stock=§7Stock
 railcraft.gui.cart.undercutter.under=§7Under
-
 railcraft.gui.feed.station.feed=§7Feed
 railcraft.gui.filter=§7Filter
 railcraft.gui.filters.carts=§7Carts
 railcraft.gui.filters=§7Filters
 railcraft.gui.item.loader.buffer=§7Buffer
-
-tile.railcraft.machine.alpha.rolling.machine.name=§7Rolling Machine
-tile.railcraft.machine.alpha.feed.station.name=§7Feed Station
-tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
-tile.railcraft.machine.alpha.anchor.admin.name=§7Admin Anchor
-tile.railcraft.machine.alpha.anchor.passive.name=§7Passive Anchor
-tile.railcraft.machine.alpha.anchor.personal.name=§7Personal Anchor
-tile.railcraft.machine.alpha.anchor.world.name=§7World Anchor
 railcraft.gui.anchor.fuel.remaining=§7@.2f hours
 railcraft.gui.anchor.fuel=§7Ender Pearls
-
-tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7High Pressure Boiler Tank
-tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Low Pressure Boiler Tank
-tile.railcraft.machine.beta.engine.steam.hobby.name=§7Hobbyist's Steam Engine
-tile.railcraft.machine.beta.engine.steam.low.name=§7Commercial Steam Engine
-tile.railcraft.machine.beta.engine.steam.high.name=§7Industrial Steam Engine
-tile.railcraft.machine.beta.chest.void.name=§7Void Chest
-tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
-
 railcraft.gui.box.aspect.action=§7Emit Redstone on Aspect
-
 railcraft.gui.detector.item.analog=§7Analog
 railcraft.gui.detector.item.anything=§7Anything
 railcraft.gui.detector.item.at_least=§7At Least
@@ -77,20 +59,23 @@ railcraft.gui.detector.tank.tip.not.empty=§7Match non-empty tanks
 railcraft.gui.detector.tank.tip.quarter=§7Match more than quarter full tanks
 railcraft.gui.detector.tank.tip.void=§7Match any amount
 railcraft.gui.detector.train.size=§7Train Size =§7 @d
-railcraft.gui.detector.villager.any=§7Any
-railcraft.gui.detector.villager.equals=§7Equals
-railcraft.gui.detector.villager.none=§7None
-railcraft.gui.detector.villager.not=§7Not
-
-tile.railcraft.machine.gamma.loader.item.name=§7Item Loader
-tile.railcraft.machine.gamma.unloader.item.name=§7Item Unloader
-tile.railcraft.machine.gamma.loader.item.advanced.name=§7Adv. Item Loader
-tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Adv. Item Unloader
-tile.railcraft.machine.gamma.loader.liquid.name=§7Fluid Loader
-tile.railcraft.machine.gamma.unloader.liquid.name=§7Fluid Unloader
-tile.railcraft.machine.gamma.loader.energy.name=§7Energy Loader
-tile.railcraft.machine.gamma.unloader.energy.name=§7Energy Unloader
-tile.railcraft.machine.gamma.loader.rf.name=§7Redstone Flux Loader
-tile.railcraft.machine.gamma.unloader.rf.name=§7Redstone Flux Unloader
-tile.railcraft.machine.gamma.dispenser.cart.name=§7Cart Dispenser
-tile.railcraft.machine.gamma.dispenser.train.name=§7Train Dispenser
+railcraft.gui.switch.motor.action=§7Switch on Aspect
+railcraft.gui.routing.slot.label=§7Routing Table
+railcraft.gui.box.controller.aspect.default=§7Default Aspect:
+railcraft.gui.box.controller.aspect.redstone=§7Redstone Aspect:
+railcraft.gui.aspect.blink.red.name=§7Blink Red
+railcraft.gui.aspect.blink.yellow.name=§7Blink Yellow
+railcraft.gui.aspect.green.name=§7Green
+railcraft.gui.aspect.off.name=§7Off
+railcraft.gui.aspect.red.name=§7Red
+railcraft.gui.aspect.yellow.name=§7Yellow
+railcraft.gui.bore.ballast=§7Ballast
+railcraft.gui.bore.fuel=§7Fuel
+railcraft.gui.bore.head=§7Head
+railcraft.gui.box.capacitor.duration=§7Emit Redstone for @d seconds
+railcraft.gui.energy.storage=§7%d / %d
+railcraft.gui.bore.track=§7Track
+railcraft.gui.color.title=§7
+railcraft.gui.engine.output=§7%d RF
+railcraft.gui.cart.track.relayer.pattern=§7Pattern
+railcraft.gui.item.loader.buffer=§7Buffer
