@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7Légnyomásfenntartás Indítása
-gui.button.disableseal.name=§7Légnyomásfenntartás Leállítása
-gui.button.loaditems.name=§7Eszközök Berakodása
-gui.button.stoploading.name=§7Berakodás Megszakítása
-gui.button.unloaditems.name=§7Kirakodás Megkezdése
-gui.button.stopunloading.name=§7KIrakodás Megszakítása
-gui.button.createsstation.name=§7Űrállomás létrehozása
-gui.button.sendtodim.name=§7Küldés A Világba
-gui.button.rename.name=§7Átnevezés
-gui.button.loadfuel.name=§7Üzemanyag Betöltése
-gui.button.refine.name=§7Finomítás
-gui.button.back.name=§7Vissza
-gui.button.next.name=§7Következő
-gui.button.unlockschematic.name=§7Tervrajz Feloldása
-gui.button.stoprefine.name=§7Finomítás Megszakítása
-gui.button.enable.name=§7Indítás
-gui.button.disable.name=§7Leállítás
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7Teher-Berakodó
 container.cargounloader.name=§7Teher-Kirakodó

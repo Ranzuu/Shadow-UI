@@ -19,7 +19,7 @@ GT5U.machines.solarindicator3=§7Can See Sky
 GT5U.gui.select.current=§7Current:
 
 GT5U.gui.text.rangedvalue=§7Range: %s-%s
-#GT5U.gui.text.lockedvalue=§7Locked: %s
+##GT5U.gui.text.lockedvalue=§7Locked: %s
 GT5U.gui.text.success=§7Processing recipe
 GT5U.gui.text.progress=§7Progress:
 GT5U.gui.text.generating=§7Generating power
@@ -261,7 +261,7 @@ GT5U.multiblock.startup=§7Starting up...
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
 
-GT5U.nei.display.overclock=§6(OC)§7
+GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Catalyst Tier
 

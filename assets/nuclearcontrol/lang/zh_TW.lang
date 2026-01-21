@@ -4,104 +4,18 @@ tile.blockIndustrialAlarm.name=§7工業警報器
 tile.blockHowlerAlarm.name=§7蜂鳴警報器
 tile.blockRemoteThermo.name=§7遙控温度監察器
 tile.blockInfoPanel.name=§7工業顯示器
-tile.blockInfoPanelExtender.name=§7工業顯示器擴展
 tile.blockAdvancedInfoPanel.name=§7高級工業顯示器
-tile.blockAdvancedInfoPanelExtender.name=§7高級工業顯示器擴展
-tile.nclight0.name=§7白色燈
-tile.nclight1.name=§7白色燈
-tile.nclight2.name=§7橙色燈
-tile.nclight3.name=§7橙色燈
-tile.blockEnergyCounter.name=§7電力計算機
+tile.blockEnergyCounter.nam.title=§7電力計算機
 tile.blockAverageCounter.name=§7平均電力計算機
 tile.blockRangeTrigger.name=§7範圍觸發器
-
-#Integration Blocks
-tile.blockBRPart.name=§7大反應堆監測器
-tile.NetworkLink.name=§7ME網絡監測器
+gui.optional.numbers=§7
 
 #Original Screen Messages
-msg.nc.HowlerAlarmSoundRange=§7發聲範圍：%s
-msg.nc.HowlerAlarmSound=§7聲音
-msg.nc.ThermalMonitorSave=§7儲存設定
-msg.nc.ThermalMonitorSignalAt=§7在熱量為%s時發訊號
-msg.nc.Thermo=§7外殼熱量：%s
-msg.nc.ThermoDigital=§7外殼熱量：%s（水蒸發： %s／燃燒： %s）
-msg.nc.SensorKit=§7遙控感應器已安裝，得到相應的定位卡片
-
-msg.nc.InfoPanelOutOfRange=§7超出範圍
-msg.nc.InfoPanelInvalidCard=§7無效卡片
-msg.nc.InfoPanelNoTarget=§7没有找到目標
-
-msg.nc.InfoPanelOn=§7開啟
-msg.nc.InfoPanelOff=§7關閉
-msg.nc.InfoPanelHeat=§7温度：%s
-msg.nc.InfoPanelMaxHeat=§7最大熱量：%s
-msg.nc.InfoPanelMelting=§7燃燒：%s
+msg.nc.ScreenColor=§7熒幕顏色
+msg.nc.TextColor=§7文本顏色
 msg.nc.InfoPanelOutput=§7輸出電力：%sEU/t
 msg.nc.InfoPanelOutputMJ=§7輸出能量：%sRF/t
 msg.nc.InfoPanelOutputSteam=§7輸出蒸汽：%smB/t
-msg.nc.InfoPanelTimeRemaining=§7剩餘時間：%s
-
-msg.nc.InfoPanelEnergyCounter=§7能量：%sEU
-msg.nc.InfoPanelEnergyCounterMJ=§7能量：%sRF
-
-msg.nc.InfoPanelEnergy=§7電力：%s
-msg.nc.InfoPanelEnergyFree=§7可用：%s
-msg.nc.InfoPanelEnergyStorage=§7儲存：%s
-msg.nc.InfoPanelEnergyPercentage=§7充電百分比：%s%%
-
-msg.nc.cbInfoPanelLiquidName=§7液體名稱
-msg.nc.cbInfoPanelLiquidAmount=§7液體儲存量
-msg.nc.cbInfoPanelLiquidCapacity=§7液體容量
-msg.nc.cbInfoPanelLiquidFree=§7可用
-msg.nc.cbInfoPanelLiquidPercentage=§7儲存液體百分比
-
-msg.nc.InfoPanelLiquidName=§7名稱: %s
-msg.nc.InfoPanelLiquidAmount=§7液體儲存量: %s
-msg.nc.InfoPanelLiquidCapacity=§7液體容量: %s
-msg.nc.InfoPanelLiquidFree=§7可用: %s
-msg.nc.InfoPanelLiquidPercentage=§7儲存液體百分比: %s%%
-
-msg.nc.InfoPanelNotFoundN=§7找不到#%d
-msg.nc.InfoPanelOutOfRangeN=§7#%d超出範圍
-msg.nc.InfoPanelEnergyN=§7#%d 能量：%s
-msg.nc.InfoPanelEnergyFreeN=§7#%d 剩餘：%s
-msg.nc.InfoPanelEnergyStorageN=§7#%d 儲存：%s
-msg.nc.InfoPanelEnergyPercentageN=§7#%d 充電百分比：%s%%
-msg.nc.InfoPanelLiquidNameN=§7#%d 液體類型：%s
-msg.nc.InfoPanelLiquidN=§7#%d 液體量：%s
-msg.nc.InfoPanelLiquidFreeN=§7#%d 剩餘容積：%s
-msg.nc.InfoPanelLiquidCapacityN=§7#%d 容量：%s
-msg.nc.InfoPanelLiquidPercentageN=§7#%d 當前盛有：%s%%
-
-msg.nc.InfoPanelTime=§7時間: %s
-
-msg.nc.cbInfoPanelOnOff=§7開/關狀態
-msg.nc.cbInfoPanelHeat=§7熱量等級
-msg.nc.cbInfoPanelMaxHeat=§7最大熱量
-msg.nc.cbInfoPanelMelting=§7燃燒温度
-msg.nc.cbInfoPanelOutput=§7輸出(EU/t)
-msg.nc.cbInfoPanelTimeRemaining=§7周期结束时间
-msg.nc.cb24h=§724小時模式
-
-msg.nc.cbInfoPanelEnergyCurrent=§7電力
-msg.nc.cbInfoPanelEnergyStorage=§7儲存
-msg.nc.cbInfoPanelEnergyFree=§7可用
-msg.nc.cbInfoPanelEnergyEach=§7單張卡片信息
-msg.nc.cbInfoPanelEnergyTotal=§7總計
-msg.nc.cbInfoPanelEnergyPercentage=§7充電百分比
-msg.nc.EnergyCardQuantity=§7卡片數量：%d
 msg.nc.AverageCounterPeriod=§7周期：%s秒
-
-msg.nc.LiquidCardQuantity=§7卡片值：%d
-
-msg.nc.cbInfoPanelLiquidEach=§7單張卡片信息
-msg.nc.cbInfoPanelLiquidTotal=§7所以信息
-
-msg.nc.Reset=§7重置
-msg.nc.ScreenColor=§7熒幕顏色
-msg.nc.TextColor=§7文本顏色
-msg.nc.None=§7無
-nc.msg.notValid=§7該卡片無效
-nc.msg.notValid2=§7遙控顯示器
-nc.msg.notValid3=§7請重新打開顯示器再試
+msg.nc.HowlerAlarmSoundRange=§7發聲範圍：%s
+msg.nc.HowlerAlarmSound=§7聲音

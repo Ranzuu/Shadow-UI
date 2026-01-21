@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Pre-launch checklist ##NEEDS TRANSLATE##
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7密閉啟動
-gui.button.disableseal.name=§7禁用密閉
-gui.button.loaditems.name=§7載入物品
-gui.button.stoploading.name=§7停止載入
-gui.button.unloaditems.name=§7卸載物品
-gui.button.stopunloading.name=§7停止卸載
-gui.button.createsstation.name=§7創建空間站
-gui.button.sendtodim.name=§7傳送到維度
-gui.button.rename.name=§7重命名
-gui.button.loadfuel.name=§7加載燃料
-gui.button.refine.name=§7精煉
-gui.button.back.name=§7返回
-gui.button.next.name=§7下一個
-gui.button.unlockschematic.name=§7解鎖設計圖
-gui.button.stoprefine.name=§7停止精煉
-gui.button.enable.name=§7開啟
-gui.button.disable.name=§7關閉
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7貨物裝載器
 container.cargounloader.name=§7貨物卸載器

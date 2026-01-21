@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Контрольный список
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Тепловой контроль
 
-gui.button.enableseal.name=§7Запустить уплотнитель
-gui.button.disableseal.name=§7Отключить уплотнитель
-gui.button.loaditems.name=§7Загрузить
-gui.button.stoploading.name=§7Остановить загрузку
-gui.button.unloaditems.name=§7Разгрузить
-gui.button.stopunloading.name=§7Остановить разгрузку
-gui.button.createsstation.name=§7Создать космическую станцию
-gui.button.sendtodim.name=§7Отправиться в полет
-gui.button.rename.name=§7Переименовать
-gui.button.loadfuel.name=§7Загрузить топливо
-gui.button.refine.name=§7Очистить
-gui.button.back.name=§7Назад
-gui.button.next.name=§7Вперёд
-gui.button.unlockschematic.name=§7Разблокировать схему
-gui.button.stoprefine.name=§7Остановить очистку
-gui.button.enable.name=§7Включить
-gui.button.disable.name=§7Выключить
-gui.button.hideDest.name=§7Спрятать
-gui.button.unhideDest.name=§7Показать
-
 # CONTAINERS
 container.cargoloader.name=§7Грузовой загрузчик
 container.cargounloader.name=§7Грузовой разгрузчик
