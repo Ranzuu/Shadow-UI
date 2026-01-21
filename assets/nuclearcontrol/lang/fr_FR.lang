@@ -1,107 +1,22 @@
 #Internal Blocks
-tile.blockThermalMonitor.name=§7Moniteur thermique
-tile.blockIndustrialAlarm.name=§7Alarme industrielle
-tile.blockHowlerAlarm.name=§7Alarme
-tile.blockRemoteThermo.name=§7Moniteur thermique distant
-tile.blockInfoPanel.name=§7Écran
-tile.blockInfoPanelExtender.name=§7Extension d'écran
-tile.blockAdvancedInfoPanel.name=§7Écran avancé
-tile.blockAdvancedInfoPanelExtender.name=§7Extension d'écran avancé
-tile.nclight0.name=§7Lampe blanche
-tile.nclight1.name=§7White blanche
-tile.nclight2.name=§7Orange Lamp
-tile.nclight3.name=§7Orange Lamp
-tile.blockEnergyCounter.name=§7Compteur énergétique
-tile.blockAverageCounter.name=§7Compteur d'arrondi
-tile.blockRangeTrigger.name=§7Déclencheur de portée
+gui.tile.blockThermalMonitor.name.title=§7Moniteur thermique
+gui.tile.blockIndustrialAlarm.name.title=§7Alarme industrielle
+gui.tile.blockHowlerAlarm.name.title=§7Alarme
+gui.tile.blockRemoteThermo.name.title=§7Moniteur thermique distant
+gui.tile.blockInfoPanel.name.title=§7Écran
+gui.tile.blockAdvancedInfoPanel.name.title=§7Écran avancé
+gui.tile.blockEnergyCounter.name.title=§7Compteur énergétique
+gui.tile.blockAverageCounter.name.title=§7Compteur d'arrondi
+gui.tile.blockRangeTrigger.name.title=§7Déclencheur de portée
 
-#Integration Blocks
-tile.blockBRPart.name=§7Reactor Monitor
-tile.NetworkLink.name=§7ME Network Monitor
+gui.optional.numbers=§7
 
 #Original Screen Messages
-msg.nc.HowlerAlarmSoundRange=§7Portée du so: %s
-msg.nc.HowlerAlarmSound=§7Son
-msg.nc.ThermalMonitorSave=§7Sauvegarder
-msg.nc.ThermalMonitorSignalAt=§7Signal à une chaleur de %s
-msg.nc.Thermo=§7Chaleur de la coque: %s
-msg.nc.ThermoDigital=§7Chaleur de la coque: %s (Évaporation: %s / Fusion: %s)
-msg.nc.SensorKit=§7Capteurs distants montés. Carte de localisation reçue.
-
-msg.nc.InfoPanelOutOfRange=§7Hors portée
-msg.nc.InfoPanelInvalidCard=§7Carte invalide
-msg.nc.InfoPanelNoTarget=§7Cible introuvable
-
-msg.nc.InfoPanelOn=§7On
-msg.nc.InfoPanelOff=§7Off
-msg.nc.InfoPanelHeat=§7T: %s
-msg.nc.InfoPanelMaxHeat=§7Température Max: %s
-msg.nc.InfoPanelMelting=§7Température de fusion: %s
+msg.nc.ScreenColor=§7Couleur d'écran
+msg.nc.TextColor=§7Couleur de texte
 msg.nc.InfoPanelOutput=§7Débit: %sEU/t
 msg.nc.InfoPanelOutputMJ=§7Débit: %sMJ/t
 msg.nc.InfoPanelOutputSteam=§7Débit: %smB/t
-msg.nc.InfoPanelTimeRemaining=§7Temps restant: %s
-
-msg.nc.InfoPanelEnergyCounter=§7Énergie: %sEU
-msg.nc.InfoPanelEnergyCounterMJ=§7Énergie: %sMJ
-
-msg.nc.InfoPanelEnergy=§7Énergie: %s
-msg.nc.InfoPanelEnergyFree=§7Libre: %s
-msg.nc.InfoPanelEnergyStorage=§7Capacité: %s
-msg.nc.InfoPanelEnergyPercentage=§7Charge: %s%%
-
-msg.nc.cbInfoPanelLiquidName=§7Nom
-msg.nc.cbInfoPanelLiquidAmount=§7Quantité
-msg.nc.cbInfoPanelLiquidCapacity=§7Capacité
-msg.nc.cbInfoPanelLiquidFree=§7Libre
-msg.nc.cbInfoPanelLiquidPercentage=§7Remplissage
-
-msg.nc.InfoPanelLiquidName=§7Nom: %s
-msg.nc.InfoPanelLiquidAmount=§7Quantité: %s
-msg.nc.InfoPanelLiquidCapacity=§7Capacité: %s
-msg.nc.InfoPanelLiquidFree=§7Libre: %s
-msg.nc.InfoPanelLiquidPercentage=§7Remplissage: %s%%
-
-msg.nc.InfoPanelNotFoundN=§7#%d introuvable
-msg.nc.InfoPanelOutOfRangeN=§7#%d hors portée
-msg.nc.InfoPanelEnergyN=§7#%d : %s
-msg.nc.InfoPanelEnergyFreeN=§7#%d libre: %s
-msg.nc.InfoPanelEnergyStorageN=§7#%d capacité: %s
-msg.nc.InfoPanelEnergyPercentageN=§7#%d charge: %s%%
-msg.nc.InfoPanelLiquidNameN=§7#%d nom: %s
-msg.nc.InfoPanelLiquidN=§7#%d quantité: %s
-msg.nc.InfoPanelLiquidFreeN=§7#%d libre: %s
-msg.nc.InfoPanelLiquidCapacityN=§7#%d capacité: %s
-msg.nc.InfoPanelLiquidPercentageN=§7#%d remplissaqe: %s%%
-
-msg.nc.InfoPanelTime=§7Heure: %s
-
-msg.nc.cbInfoPanelOnOff=§7Marche/Arrêt
-msg.nc.cbInfoPanelHeat=§7Chaleur
-msg.nc.cbInfoPanelMaxHeat=§7Température Max
-msg.nc.cbInfoPanelMelting=§7Température de fusion
-msg.nc.cbInfoPanelOutput=§7Débit (EU/t)
-msg.nc.cbInfoPanelTimeRemaining=§7Temps avant fin du cycle
-msg.nc.cb24h=§7Mode 24h
-
-msg.nc.cbInfoPanelEnergyCurrent=§7Énergie
-msg.nc.cbInfoPanelEnergyStorage=§7Capacité
-msg.nc.cbInfoPanelEnergyFree=§7Libre
-msg.nc.cbInfoPanelEnergyEach=§7Information pour chaque carte
-msg.nc.cbInfoPanelEnergyTotal=§7Sommaire
-msg.nc.cbInfoPanelEnergyPercentage=§7Charge
-msg.nc.EnergyCardQuantity=§7Nombre de cartes: %d
 msg.nc.AverageCounterPeriod=§7Période: %ssec
-
-msg.nc.LiquidCardQuantity=§7Nombre de cartes: %d
-
-msg.nc.cbInfoPanelLiquidEach=§7Information pour chaque carte
-msg.nc.cbInfoPanelLiquidTotal=§7Sommaire
-
-msg.nc.Reset=§7RÀZ
-msg.nc.ScreenColor=§7Couleur d'écran
-msg.nc.TextColor=§7Couleur de texte
-msg.nc.None=§7N/A
-nc.msg.notValid=§7This Card may not be compatible
-nc.msg.notValid2=§7with the Remote Monitor
-nc.msg.notValid3=§7Try reopening the GUI
+msg.nc.HowlerAlarmSoundRange=§7Portée du so: %s
+msg.nc.HowlerAlarmSound=§7Son

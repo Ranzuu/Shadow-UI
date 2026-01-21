@@ -6,7 +6,7 @@ AE2Stuff
 - Customized the Network Visualizer overlay color - https://github.com/GTNewHorizons/ae2stuff/pull/37
 
 Amun-Ra
-- Fixed text color for literally every gui - https://github.com/GTNewHorizons/amunra/pull/37
+- Fixed text color for literally every gui - https://github.com/GTNewHorizons/amunra/pull/38
 
 Backpack-Mod
 - Fixes title gui text color and inventory/hotbar slot textures - https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/pull/25
