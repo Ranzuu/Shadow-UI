@@ -83,8 +83,11 @@ Mobs-Info
 Malisis Doors
 - Fixed title text color for Block Mixer and Door Factory - https://github.com/GTNewHorizons/MalisisDoors/pull/24
 
-RandomThinkgs
+RandomThings
 - Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/Random-Things/pull/16
+
+Railcraft
+- Fixed everything.. - https://github.com/GTNewHorizons/Railcraft/pull/108
 
 Other
 - Fixes text color of gui titles inside the Creative inventory and tabs - https://github.com/GTNewHorizons/Hodgepodge/pull/709
