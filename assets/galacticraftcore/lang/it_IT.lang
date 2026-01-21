@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Lista di partenza
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Controllo termale
 
-gui.button.enableseal.name=§7Attiva chiusira
-gui.button.disableseal.name=§7Disattiva chiusura
-gui.button.loaditems.name=§7Carica oggetti
-gui.button.stoploading.name=§7Ferma caricamento
-gui.button.unloaditems.name=§7Scarica oggetti
-gui.button.stopunloading.name=§7Ferma scaricamento
-gui.button.createsstation.name=§7Crea una stazione spaziale
-gui.button.sendtodim.name=§7Parti per la dimensione
-gui.button.rename.name=§7Rinomina
-gui.button.loadfuel.name=§7Carica benzina
-gui.button.refine.name=§7Raffina
-gui.button.back.name=§7Indietro
-gui.button.next.name=§7Avanti
-gui.button.unlockschematic.name=§7Sblocca progetto
-gui.button.stoprefine.name=§7Ferma in raffinamento
-gui.button.enable.name=§7Attiva
-gui.button.disable.name=§7Disattiva
-gui.button.hideDest.name=§7Nascondi
-gui.button.unhideDest.name=§7Rivela
-
 # CONTAINERS
 container.cargoloader.name=§7Cargo Loader
 container.cargounloader.name=§7Cargo Unloader

@@ -52,26 +52,6 @@ gui.message.prelaunch=§7Popis prije-pokretanja
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
 
-gui.button.enableseal.name=§7Uključi Djeljenje Zraka
-gui.button.disableseal.name=§7Isključi Djeljenje Zraka
-gui.button.loaditems.name=§7Stavi Stvari
-gui.button.stoploading.name=§7Zaustavi
-gui.button.unloaditems.name=§7Uzmi Stvari
-gui.button.stopunloading.name=§7Zaustavi
-gui.button.createsstation.name=§7Svemirska Stanica
-gui.button.sendtodim.name=§7Pošalji u Dimenziju
-gui.button.rename.name=§7Preimenovati
-gui.button.loadfuel.name=§7Puni Gorivo
-gui.button.refine.name=§7Refiniraj
-gui.button.back.name=§7Nazad
-gui.button.next.name=§7Naprijed
-gui.button.unlockschematic.name=§7Otključaj Šemu
-gui.button.stoprefine.name=§7Prestani Refinirati
-gui.button.enable.name=§7Uključi
-gui.button.disable.name=§7Isključi
-gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
-gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
-
 # CONTAINERS
 container.cargoloader.name=§7Utovarivač Tereta
 container.cargounloader.name=§7Istovarivač Tereta

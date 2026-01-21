@@ -4,104 +4,19 @@ tile.blockIndustrialAlarm.name=§7HOWLER
 tile.blockHowlerAlarm.name=§7HOWLER
 tile.blockRemoteThermo.name=§7Remote Thermal Magic Shower-thingy
 tile.blockInfoPanel.name=§7Iron-Graded Newspaper-Worthy-Crap Panel
-tile.blockInfoPanelExtender.name=§7Newspaper-Worthy-Crap Panel Extender
 tile.blockAdvancedInfoPanel.name=§7Fancy Newspaper-Worthy-Crap Panel
-tile.blockAdvancedInfoPanelExtender.name=§7Fancy Panel Extender
-tile.nclight0.name=§7Ain’t-yanky Lamp
-tile.nclight1.name=§7Ain’t-yanky Lamp
-tile.nclight2.name=§7Orrrange Lamp
-tile.nclight3.name=§7Orrrange Lamp
 tile.blockEnergyCounter.name=§7Powe Country Mens Tool
 tile.blockAverageCounter.name=§7Powe Country Mens Tool
 tile.blockRangeTrigger.name=§7Rrrrange Triggerrrr
 
-#Integration Blocks
-tile.blockBRPart.name=§7Rrreactor Monitor
-tile.NetworkLink.name=§7*MY* Network Monitor
+gui.optional.numbers=§7
 
 #Original Screen Messages
-msg.nc.HowlerAlarmSoundRange=§7Loudes range: %s
-msg.nc.HowlerAlarmSound=§7Loudes
-msg.nc.ThermalMonitorSave=§7Save ye setti’
-msg.nc.ThermalMonitorSignalAt=§7Signal at ye %s heat
-msg.nc.Thermo=§7Ye Hull heat: %s
-msg.nc.ThermoDigital=§7Ye Hull heat: %s (Blue-Rum evaporate: %s / meltin’: %s)
-msg.nc.SensorKit=§7Ye ol’ Remote Sensor mounted, Sensarrr Location Card goten’
-
-msg.nc.InfoPanelOutOfRange=§7Out o’ Range
-msg.nc.InfoPanelInvalidCard=§7Not-true Card
-msg.nc.InfoPanelNoTarget=§7Tarrrget Not Found
-
-msg.nc.InfoPanelOn=§7On
-msg.nc.InfoPanelOff=§7Off
-msg.nc.InfoPanelHeat=§7T: %s
-msg.nc.InfoPanelMaxHeat=§7MostHeat: %s
-msg.nc.InfoPanelMelting=§7Meltin’: %s
+msg.nc.ScreenColor=§7Screen Colorrrrr
+msg.nc.TextColor=§7Worde Color
 msg.nc.InfoPanelOutput=§7Output: %s EU/t
 msg.nc.InfoPanelOutputMJ=§7Output: %s rrRF/t
 msg.nc.InfoPanelOutputSteam=§7Output: %s mB/t
-msg.nc.InfoPanelTimeRemaining=§7Remainin’: %s
-
-msg.nc.InfoPanelEnergyCounter=§7Powe: %s EU
-msg.nc.InfoPanelEnergyCounterMJ=§7Powe: %s rrRF
-
-msg.nc.InfoPanelEnergy=§7Powe: %s
-msg.nc.InfoPanelEnergyFree=§7Free: %s
-msg.nc.InfoPanelEnergyStorage=§7Storrrage: %s
-msg.nc.InfoPanelEnergyPercentage=§7Fill: %s%%
-
-msg.nc.cbInfoPanelLiquidName=§7Colorrr Rum
-msg.nc.cbInfoPanelLiquidAmount=§7Amount
-msg.nc.cbInfoPanelLiquidCapacity=§7Capacity
-msg.nc.cbInfoPanelLiquidFree=§7Free
-msg.nc.cbInfoPanelLiquidPercentage=§7Fill percentage
-
-msg.nc.InfoPanelLiquidName=§7Name: %s
-msg.nc.InfoPanelLiquidAmount=§7Amount: %s
-msg.nc.InfoPanelLiquidCapacity=§7Capacity: %s
-msg.nc.InfoPanelLiquidFree=§7Free: %s
-msg.nc.InfoPanelLiquidPercentage=§7Fill: %s%%
-
-msg.nc.InfoPanelNotFoundN=§7#%d Not Found
-msg.nc.InfoPanelOutOfRangeN=§7#%d Out Of Rrrrange
-msg.nc.InfoPanelEnergyN=§7#%d Powe: %s
-msg.nc.InfoPanelEnergyFreeN=§7#%d Free: %s
-msg.nc.InfoPanelEnergyStorageN=§7#%d Storage: %s
-msg.nc.InfoPanelEnergyPercentageN=§7#%d Fill: %s%%
-msg.nc.InfoPanelLiquidNameN=§7#%d Name: %s
-msg.nc.InfoPanelLiquidN=§7#%d Amount: %s
-msg.nc.InfoPanelLiquidFreeN=§7#%d Free: %s
-msg.nc.InfoPanelLiquidCapacityN=§7#%d Capacity: %s
-msg.nc.InfoPanelLiquidPercentageN=§7#%d Fill: %s%%
-
-msg.nc.InfoPanelTime=§7The Hour: %s
-
-msg.nc.cbInfoPanelOnOff=§7On/Off Status
-msg.nc.cbInfoPanelHeat=§7Heat Level
-msg.nc.cbInfoPanelMaxHeat=§7Max Heat
-msg.nc.cbInfoPanelMelting=§7Meltin’ Temp
-msg.nc.cbInfoPanelOutput=§7Output (EU/t)
-msg.nc.cbInfoPanelTimeRemaining=§7The Hour to cycle end
-msg.nc.cb24h=§7Full-moon Mode
-
-msg.nc.cbInfoPanelEnergyCurrent=§7Powe
-msg.nc.cbInfoPanelEnergyStorage=§7Storage
-msg.nc.cbInfoPanelEnergyFree=§7Free
-msg.nc.cbInfoPanelEnergyEach=§7Each card info
-msg.nc.cbInfoPanelEnergyTotal=§7Summary
-msg.nc.cbInfoPanelEnergyPercentage=§7Fill percentage
-msg.nc.EnergyCardQuantity=§7Cards quantity: %d
 msg.nc.AverageCounterPeriod=§7Period: %ssec
-
-msg.nc.LiquidCardQuantity=§7Cards quantity: %d
-
-msg.nc.cbInfoPanelLiquidEach=§7Each card info
-msg.nc.cbInfoPanelLiquidTotal=§7Summary
-
-msg.nc.Reset=§7Rrrreset
-msg.nc.ScreenColor=§7Screen Colorrrrr
-msg.nc.TextColor=§7Worde Color
-msg.nc.None=§7Nay!
-nc.msg.notValid=§7This Card ain't be compatible
-nc.msg.notValid2=§7with the Remote Monitor
-nc.msg.notValid3=§7Try reopenin' t' GUI
+msg.nc.HowlerAlarmSoundRange=§7Loudes range: %s
+msg.nc.HowlerAlarmSound=§7Loudes

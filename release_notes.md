@@ -1,3 +1,3 @@
-- Added synces translation files (Text colors are changed via the English translation file, now it will include other translation files, so the text is also readable in other languages!!)
-- Updated GT Guis Tint colors
-- Updated Ae2 gui state colors
+- Text color fixes: Better Questing, Enhanced Lootbags, Galacticraft, GregTech, gtnhIntergalactic, Nuclear Control, Nutrition
+- Texture fixes: Blood Magic (NEI Calcinator), Backhand (made slot a square to match the rest of the hotbar), Baubles (made the inventory buttons darker), Binnies (bunch of color corrections), GregTech (filter overlay slot), Better Questing (NEI arrow change), GTNHIntergalactic (inverted the Space Elevator Extension button textures)
+- Added native support for Extreme Sound Muffler (added pack texture, tho there is a dark mode config switch in-game already)

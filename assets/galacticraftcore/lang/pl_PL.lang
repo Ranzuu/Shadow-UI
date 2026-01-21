@@ -52,26 +52,6 @@ gui.message.prelaunch=§7lista Przedstartowa
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Kontrola Termalna
 
-gui.button.enableseal.name=§7Aktywuj
-gui.button.disableseal.name=§7Dezaktywuj
-gui.button.loaditems.name=§7Załaduj
-gui.button.stoploading.name=§7Zatrzymaj
-gui.button.unloaditems.name=§7Wyładuj
-gui.button.stopunloading.name=§7Zatrzymaj
-gui.button.createsstation.name=§7Stwórz Stacje Kosmiczną
-gui.button.sendtodim.name=§7Wyślij do Wymiaru
-gui.button.rename.name=§7Zmień Nazwę
-gui.button.loadfuel.name=§7Zatankuj
-gui.button.refine.name=§7Rafinuj
-gui.button.back.name=§7Poprzedni
-gui.button.next.name=§7Następny
-gui.button.unlockschematic.name=§7Odblokuj Schemat
-gui.button.stoprefine.name=§7Zatrzymaj
-gui.button.enable.name=§7Aktywuj
-gui.button.disable.name=§7Dezaktywuj
-gui.button.hideDest.name=§7Schowaj
-gui.button.unhideDest.name=§7Pokaż
-
 # CONTAINERS
 container.cargoloader.name=§7Ładownik
 container.cargounloader.name=§7Wyładownik

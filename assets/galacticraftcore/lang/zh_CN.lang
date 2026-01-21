@@ -52,26 +52,6 @@ gui.message.prelaunch=§7发射前检查表
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7温度控制器
 
-gui.button.enableseal.name=§7密闭启动
-gui.button.disableseal.name=§7禁用密闭
-gui.button.loaditems.name=§7载入物品
-gui.button.stoploading.name=§7停止载入
-gui.button.unloaditems.name=§7卸载物品
-gui.button.stopunloading.name=§7停止卸载
-gui.button.createsstation.name=§7创建空间站
-gui.button.sendtodim.name=§7传送到维度
-gui.button.rename.name=§7重命名
-gui.button.loadfuel.name=§7加载燃料
-gui.button.refine.name=§7精炼
-gui.button.back.name=§7返回
-gui.button.next.name=§7下一个
-gui.button.unlockschematic.name=§7解锁设计图
-gui.button.stoprefine.name=§7停止精炼
-gui.button.enable.name=§7开启
-gui.button.disable.name=§7关闭
-gui.button.hideDest.name=§7隐藏
-gui.button.unhideDest.name=§7显示
-
 # CONTAINERS
 container.cargoloader.name=§7货物装载器
 container.cargounloader.name=§7货物卸载器
