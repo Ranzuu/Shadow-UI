@@ -1,15 +1,8 @@
-gui.itemsink.Yes=%cGRAY Yes
-gui.itemsink.No=%cGRAY No
-gui.itemsink.Inventory=%cGRAY Inventory
 gui.itemsink.Defaultroute=%cGRAY Default route
 gui.itemsink.IgnoreData=%cGRAY Ignore Data
 gui.itemsink.IgnoreNBT=%cGRAY Ignore NBT
-gui.itemsink.import=%cGRAY Import
 
 gui.crafting.Inputs=%cGRAY Inputs
-gui.crafting.Inventory=%cGRAY Inventory
-gui.crafting.Import=%cGRAY Import
-gui.crafting.Open=%cGRAY Open
 gui.crafting.Output=%cGRAY Output
 gui.crafting.Satellite=%cGRAY Satellite
 gui.crafting.Off=%cGRAY Off
@@ -47,7 +40,6 @@ gui.fluidsuppliermk2.refill_if_depleted.tip.zero=%cGRAY %cGRAY Setting to §e0%c
 gui.fluidsuppliermk2.TargetInv=%cGRAY Fluid to keep stocked
 
 gui.fluidsupplier.TargetInv=%cGRAY Fluids to keep stocked
-gui.fluidsupplier.Inventory=%cGRAY Inventory
 gui.fluidsupplier.Partialrequests=%cGRAY Partial requests
 gui.fluidsupplier.Yes=%cGRAY Yes
 gui.fluidsupplier.No=%cGRAY No
@@ -59,7 +51,7 @@ gui.invsyscon.ConnectionCard=%cGRAY Connection Card
 gui.invsyscon.Waitingfor=%cGRAY Waiting for
 gui.invsyscon.Resistance=%cGRAY Resistance
 
-gui.powerjunction.LogisticsPowerJunction=%cGRAY Power Junction
+gui.powerjunction.LogisticsPowerJunction=%cGRAY Logistics Power Junction
 gui.powerjunction.StoredEnergy=%cGRAY Stored Energy
 
 gui.powerprovider.LogisticsMJPowerProvider=%cGRAY Logistics MJ Power Provider
@@ -68,7 +60,6 @@ gui.powerprovider.LogisticsRFPowerProvider=%cGRAY Logistics RF Power Provider
 gui.powerprovider.StoredEnergy=%cGRAY Stored Energy
 
 gui.providerpipe.TargetInv=%cGRAY Items to provide (or empty for all)
-gui.providerpipe.Inventory=%cGRAY Inventory
 gui.providerpipe.Mode=%cGRAY Mode
 gui.providerpipe.Exclude=%cGRAY Exclude
 gui.providerpipe.Include=%cGRAY Include
@@ -84,20 +75,15 @@ gui.routingstats.exit=%cGRAY Press <ESC> to exit
 
 gui.satellite.SatelliteID=%cGRAY Satellite ID
 
-gui.securitystation.Open=%cGRAY Open
 gui.securitystation.EditTable=%cGRAY Edit Table
-gui.securitystation.Authorize=%cGRAY Authorize
-gui.securitystation.Deauthorize=%cGRAY Deauthorize
 gui.securitystation.SecurityStation=%cGRAY Security Station
 gui.securitystation.allowCCAccess=%cGRAY Allow ComputerCraft Access
 gui.securitystation.excludeIDs=%cGRAY Excluded ComputerCraft IDs
 gui.securitystation.pipeRemove=%cGRAY Allow automated Pipe remove
 gui.securitystation.Player=%cGRAY Player
 gui.securitystation.SecurityCards=%cGRAY Security Cards
-gui.securitystation.Inventory=%cGRAY Inventory
 gui.securitystation.popup.ccAccess.Remove=%cGRAY Remove
 gui.securitystation.popup.ccAccess.Add=%cGRAY Add
-gui.securitystation.popup.player.Close=%cGRAY Close
 gui.securitystation.popup.player.Player=%cGRAY Player
 gui.securitystation.popup.player.ConfigureSettings=%cGRAY Configure Settings
 gui.securitystation.popup.player.ActiveRequesting=%cGRAY Active Requesting
@@ -107,15 +93,12 @@ gui.securitystation.popup.player.RemovePipes=%cGRAY Remove Pipes
 
 gui.supplierpipe.TargetInv=%cGRAY Items to keep stocked
 gui.supplierpipe.TargetInvPattern=%cGRAY Items to keep in the specified slots
-gui.supplierpipe.Inventory=%cGRAY Inventory
 gui.supplierpipe.RequestMode=%cGRAY Request Mode
 
 gui.upgrademanager.Upgrades=%cGRAY Upgrades
-gui.upgrademanager.Inventory=%cGRAY Inventory
 gui.upgrademanager.SneakyUpgrades=%cGRAY Sneaky Upgrades
 
 gui.pipecontroller.upgrade=%cGRAY Upgrades
-gui.pipecontroller.inventory=%cGRAY Inventory
 gui.pipecontroller.sneakyUpgrades=%cGRAY Sneaky Upgrades
 gui.pipecontroller.security=%cGRAY Security
 gui.pipecontroller.Session=%cGRAY Session
@@ -127,7 +110,6 @@ gui.pipecontroller.RoutingTableSize=%cGRAY RoutingTableSize
 
 gui.networkstatistics.amount=%cGRAY Track amount
 gui.networkstatistics.crafting=%cGRAY View active crafting tasks
-gui.networkstatistics.gettasks=%cGRAY Acquire tasks
 gui.networkstatistics.add.alreadytracked=%cGRAY This item type is already tracked
 
 gui.settings.pipenewrenderer=%cGRAY Use New Renderer
@@ -135,3 +117,47 @@ gui.settings.pipevborenderer=%cGRAY Use VBO Renderer (experimental)
 gui.settings.pipefallbackrenderer=%cGRAY Use Fallback Renderer
 gui.settings.piperenderdistance=%cGRAY Max. Distance for new Renderer
 gui.settings.pipecontentrenderdistance=%cGRAY Max. Distance for Pipe Content
+
+###
+gui.logisticspipes.inventory.title=§7Inventory
+gui.requesttable.Popup=§7Popup
+gui.logisticspipes.priority.text=§7%s
+
+gui.powerjunction.ConversionEnergyRF=§710 RF = 5 LP
+gui.powerjunction.ConversionEnergyEU=§71 EU = 2 LP
+gui.powerjunction.PowerLevel=§7%s LP
+gui.powerjunction.MaxStorage=§7/ %s LP
+
+gui.requesttable.RequestItems=§7Request items
+gui.requesttable.Sort=§7Sort:
+
+gui.sortmode.id=§7ID
+gui.sortmode.size=§7SIZE
+gui.sortmode.name=§7NAME
+gui.securitystation.PlayerKey=§7%s
+gui.securitystation.PlayerList=§7%s
+gui.networkstatistics.ItemDisplay=§7Page %s / %s
+gui.requesttable.requestCount=§7%s
+gui.requesttable.StackRequestCount=§7%s+%s
+
+gui.hudglasses.ChassiePipe=§7HUD Chassie Pipe
+gui.hudglasses.CraftingPipe=§7HUD Crafting Pipe
+gui.hudglasses.InvSysConPipe=§7HUD InvSysCon Pipe
+gui.hudglasses.PowerJunction=§7HUD Power Junction
+gui.hudglasses.ProviderPipe=§7HUD Provider Pipe
+gui.hudglasses.SatellitePipe=§7HUD Satellite Pipe
+
+gui.module.ItemSink.text=§7%s
+
+gui.module.requestedItems=§7Requested items
+gui.module.ModuleExtractor=§7Extract orientation
+gui.module.ModuleTerminus=§7Terminated items
+gui.module.ModuleAdvancedExtractor=§7Item list
+gui.module.ModuleProvider=§7Items to provide (or empty for all)
+gui.module.ModuleProvider.ExcessInventory=§7Excess Inventory:
+gui.module.ModuleElectricManager.ExcessInventory=§7Electric Items
+gui.module.ModuleThaumicAspectSink=§7Aspect Reader
+gui.module.ModuleThaumicAspectSink.sunk=§7Sunk Aspects
+gui.module.ModuleEnchantmentSink=§7Requested Enchanted items
+gui.module.ModuleCCBasedQuickSort=§7Timeout Timer
+gui.module.ModuleCCBasedQuickSort.ticks=§7%s ticks
