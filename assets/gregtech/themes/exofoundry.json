@@ -17,6 +17,10 @@
     }
   },
   "backgroundPopup": {
-    "textColor": "#00FFA6"
+    "textColor": "#00FFA6",
+    "background": {
+      "type": "texture",
+      "location": "gregtech:gui/background/popup_foundry_left"
+    }
   }
 }
