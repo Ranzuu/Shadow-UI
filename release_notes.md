@@ -1,3 +1,2 @@
-- Text color fixes: Better Questing, Enhanced Lootbags, Galacticraft, GregTech, gtnhIntergalactic, Nuclear Control, Nutrition
-- Texture fixes: Blood Magic (NEI Calcinator), Backhand (made slot a square to match the rest of the hotbar), Baubles (made the inventory buttons darker), Binnies (bunch of color corrections), GregTech (filter overlay slot), Better Questing (NEI arrow change), GTNHIntergalactic (inverted the Space Elevator Extension button textures)
-- Added native support for Extreme Sound Muffler (added pack texture, tho there is a dark mode config switch in-game already)
+- Text color fixes: GregTech, Tcneiadditions
+- Texture fixes: Buildcraft Silicon (Charging Table, Stamper, laser stuff etc), GregTech (Overlay buttons!!), Thaumcraft (Research Table gui rescaling)
