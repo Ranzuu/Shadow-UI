@@ -156,7 +156,7 @@ GT5U.gui.text.volumetric_flask.confirm=§7Confirm
 GT5U.gui.text.fusion_computer.hit_to_start=§7Hit with Soft Mallet to (re-)start the Machine if it doesn't start.
 GT5U.gui.text.fusion_computer.running_perfectly=§7Running perfectly.
 
-GT5U.gui.text.large_fluid_extractor.not_enough_casings=§§4Not enough casings: need %d, but\nhave %d.
+GT5U.gui.text.large_fluid_extractor.not_enough_casings=§4Not enough casings: need %d, but\nhave %d.
 GT5U.gui.text.wormhole_generator.missing_entangled_singularity=§4Missing Entangled Singularity
 GT5U.gui.text.wormhole_generator.status.no_destination=§7Wormhole status: §cNo destination
 GT5U.gui.text.wormhole_generator.status.decaying=§7Wormhole status: Decaying

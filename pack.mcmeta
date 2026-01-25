@@ -2,5 +2,10 @@
   "pack": {
     "pack_format": 3,
     "description": "§8GTNH v2.8.X §f/ §3Pack v4.0 §aby Ranzu"
+  },
+  "gtnh_resource_pack_updater": {
+	  "pack_version": "v4.0",
+	  "pack_specific_check": "Main",
+	  "pack_game_version": "2.8.X"
   }
 }

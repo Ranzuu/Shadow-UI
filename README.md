@@ -31,6 +31,7 @@
   </p>
   
   <p><a href="https://github.com/Ranzuu/Shadow-UI/releases">Download</a></p>
+  <p><a href="https://discord.com/channels/181078474394566657/1456533355247177810">GTNH Discord - Shadow UI Areas of Interest</a></p>
 
 </div>
 
