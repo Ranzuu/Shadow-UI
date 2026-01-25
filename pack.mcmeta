@@ -1,6 +1,17 @@
 {
   "pack": {
     "pack_format": 3,
-    "description": "§8GTNH v2.8.X §f/ §3Pack v4.0 §f- §2Modernity version §aby Ranzu"
+    "description": "§8GTNH v2.9.X §f/ §3Pack v5.0 §f- §2Modernity version §aby Ranzu"
+  },
+  "gtnh_resource_pack_updater": {
+  "schema": 1,
+  "pack_name": "ShadowUI",
+  "pack_version": "5.0",
+  "pack_game_version": "2.9.X",
+  "source": {
+    "type": "github_releases",
+    "owner": "Ranzuu",
+    "repo": "Shadow-UI"
+    }
   }
 }
