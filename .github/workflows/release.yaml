@@ -5,6 +5,9 @@ on:
     tags:
       - 'v2.8.X/v*'  # Trigger only on tags like v2.8.X/v*
 
+permissions:
+  contents: write
+
 jobs:
   build_and_release:
     runs-on: ubuntu-latest
@@ -21,9 +24,14 @@ jobs:
         run: |
           TAG="${GITHUB_REF#refs/tags/}"
           echo "Extracted TAG: $TAG"
-          echo "PACK_VERSION=${TAG#v2.8.X/}"
+
+          PACK_VERSION="${TAG#v2.8.X/}"      # e.g. v4.28
+          PACK_VERSION_NUM="${PACK_VERSION#v}" # e.g. 4.28
+
           echo "TAG=$TAG" >> $GITHUB_OUTPUT
-          echo "PACK_VERSION=${TAG#v2.8.X/}" >> $GITHUB_OUTPUT
+          echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_OUTPUT
+          echo "PACK_VERSION_NUM=$PACK_VERSION_NUM" >> $GITHUB_OUTPUT
+
 
       - name: Debug checkout info before checkout
         run: |
@@ -121,6 +129,22 @@ jobs:
           echo "main/${{ steps.zipfiles.outputs.MAIN_ZIP }}"
           echo "modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}"
 
+      - name: Generate gtnh-pack-update.json
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat > gtnh-pack-update.json <<JSON
+          {
+            "schema": 1,
+            "pack_game_version": "2.8.X",
+            "pack_version": "${{ steps.vars.outputs.PACK_VERSION_NUM }}"
+          }
+          JSON
+
+          echo "Generated gtnh-pack-update.json:"
+          cat gtnh-pack-update.json
+
+
       - name: Upload Release with both ZIPs
         uses: softprops/action-gh-release@v1
         with:
@@ -138,5 +162,6 @@ jobs:
           files: |
             main/${{ steps.zipfiles.outputs.MAIN_ZIP }}
             modernity/${{ steps.zipfiles.outputs.MODERNITY_ZIP }}
+            gtnh-pack-update.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
