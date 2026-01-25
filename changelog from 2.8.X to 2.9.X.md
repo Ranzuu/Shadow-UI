@@ -47,6 +47,9 @@ Gendustry
 Genetics
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
+GT5
+- Fixed text color on Multiblock guis - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5773
+
 Gtnh Intergalactic
 - Fixed text color for Space Pumping Module values in NEI - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5711
 
