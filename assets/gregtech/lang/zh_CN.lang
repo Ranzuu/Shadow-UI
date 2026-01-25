@@ -156,6 +156,11 @@ GT5U.gui.text.volumetric_flask.confirm=§7Confirm
 GT5U.gui.text.fusion_computer.hit_to_start=§7Hit with Soft Mallet to (re-)start the Machine if it doesn't start.
 GT5U.gui.text.fusion_computer.running_perfectly=§7Running perfectly.
 
+gt.interact.desc.mb.running=§7Running perfectly.
+
+gt.interact.desc.mb.ItemTextLine=§b%s§7 x §6%s §7%s%s§7%s
+gt.interact.desc.mb.FluidTextLine=§b%s§7 x §6%sL §7%s%s§7%s
+
 GT5U.gui.text.computation_loss=§4Shut down due to computation loss.
 
 GT5U.gui.text.large_fluid_extractor.not_enough_casings=§4Not enough casings: need %d, but\nhave %d.
