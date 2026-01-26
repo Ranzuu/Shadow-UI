@@ -11,6 +11,9 @@ Amun-Ra
 Backpack-Mod
 - Fixes title gui text color and inventory/hotbar slot textures - https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/pull/25
 
+Better Achievements.
+- Fixes title colors for achievement tabs - https://github.com/GTNewHorizons/BetterAchievements/pull/5
+
 Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
@@ -52,6 +55,9 @@ GT5
 
 Gtnh Intergalactic
 - Fixed text color for Space Pumping Module values in NEI - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5711
+
+Hardcore Ender Expansion
+- Fixed text color for Compendium and Compendium Points - https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/pull/36
 
 IFU (I will find you!)
 - Fixed title text color for Ore Finder Wand - https://github.com/GTNewHorizons/IFU/pull/22
