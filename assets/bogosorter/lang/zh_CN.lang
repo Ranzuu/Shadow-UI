@@ -1,6 +1,4 @@
-bogosort.gui.title=§7§7整理配置
-bogosort.gui.tab.general.name=§7常规
-bogosort.gui.tab.profiles.name=§7配置文件
+bogosort.gui.title=§7整理配置
 bogosort.gui.tab.item_sort_rules.name=§7物品排序规则
 bogosort.gui.tab.nbt_sort_rules.name=§7NBT 排序规则
 bogosort.gui.available_sort_rules=§7可用的排序规则
@@ -25,7 +23,7 @@ bogosort.gui.usageticker_enable=§7Enable Usage Ticker
 bogosort.gui.usageticker_mainhand=§7Enable Usage Ticker Mainhand
 bogosort.gui.usageticker_offhand=§7Enable Usage Ticker Offhand
 bogosort.gui.usageticker_armor=§7Enable Usage Ticker Armor
-
+bogosort.gui.usageticker_arrow=§7Enable Usage Ticker Arrows
 
 bogosort.command.config_relaod.success=§7重新加载排序配置
 
