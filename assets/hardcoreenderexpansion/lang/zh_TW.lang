@@ -1,3 +1,8 @@
+##
+ec.title.main=§7Hardcore Ender Expansion - Ender Compendium
+ec.title.main.bacon=§7Hardcore Bacon Expansion - Bacon Compendium
+ec.pointAmount=§7%s
+
 container.enhancedBrewing=§7強化釀造台
 container.voidChest=§7虛空之箱
 container.decompositionTable=§7解構台
