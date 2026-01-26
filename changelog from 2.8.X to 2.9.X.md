@@ -67,6 +67,7 @@ KubaTech
 
 NotEnoughtItems (NEI)
 - Fixed small subset label (%) color (I hate that purple) - https://github.com/GTNewHorizons/NotEnoughItems/pull/836
+- Fixed magnet icon - https://github.com/GTNewHorizons/NotEnoughItems/pull/849
 
 Project Red
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/ProjectRed/pull/64
