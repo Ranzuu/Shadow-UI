@@ -213,3 +213,6 @@ gui.appliedenergistics2.IncreaseAmount=§7+%s
 gui.appliedenergistics2.DecreaseAmount=§7-%s
 gui.appliedenergistics2.AddToBookmark=§7Bookmark
 gui.appliedenergistics2.SelectColor=§7Select a Color
+
+gui.appliedenergistics2.Inputs=§7Inputs
+gui.appliedenergistics2.Outputs=§7Outputs
