@@ -21,3 +21,13 @@ kubatech.gui.text.tea_acceptor.in=§7IN: %s/t
 
 kubatech.gui.text.usage_line=§7Usage: %s EU/t
 kubatech.gui.text.time_line=§7Time: %s secs
+
+#HTGR
+kubatech.infodata.htgr.stored_fuel=§7Stored Fuel:
+kubatech.infodata.htgr.stored_fuel_entry=§7- §b%s §7x §6%s
+kubatech.infodata.htgr.burned_fuel=§7Burned Fuel:
+kubatech.infodata.htgr.burned_fuel_entry=§7- §b%s §7x §6%s%% to output
+kubatech.infodata.htgr.helium_supply=§7Helium Supply: §6%sL
+kubatech.infodata.htgr.coolant_per_tick=§7Coolant per tick: §6%sL
+kubatech.infodata.htgr.water_per_tick=§7Water per tick: §6%sL
+kubatech.infodata.htgr.fuel_supply=§7Fill level §6%s §7out of §6%s

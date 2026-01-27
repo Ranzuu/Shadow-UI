@@ -106,7 +106,15 @@ Other
 Applied Energistics 2
 - Added "Bookmark" text color
 - Added "Collapse/Expand" icons
+- Added Pattern Preview text color
+- Updated Pattern Terminal GUIs
 - Added Color Aplicator GUI - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/998 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1002
+
+Bogo Sorter
+- Added new colores text
+
+CropsNH
+- Added, well everything (new mod)
 
 Enhanced Lootbags
 - Updated Nei handler
@@ -115,6 +123,11 @@ GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
 - Added Large Hadron Collider gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135
 - Added Waterline text elemets - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530
+- Added Primitve theme (Mui2 - GT Coke Oven)
+- Added new icons
+
+KubaTech
+- Added HTGR text color
 
 NotEnoughtItems (NEI)
 - Updated Catalyst tab (there was padding added) - https://github.com/GTNewHorizons/NotEnoughItems/pull/822
@@ -123,5 +136,12 @@ NotEnoughtItems (NEI)
 ServerUtilities
 - Updated trash can title (god damn finally) - https://github.com/GTNewHorizons/ServerUtilities/pull/256
 
+Waila
+- Added Energy bar
 
-..and other little pixel changes or text fixes that are not listed above.
+Other
+- Added ability for the resoruce pack to be checked for updates
+
+..and other little pixel changes, text fixes and removed unused files that are not listed above becase I either forgot or they are so small, either way, this is big update ;-;.
+
+Up do date with Daily 344 (27.01.2026)

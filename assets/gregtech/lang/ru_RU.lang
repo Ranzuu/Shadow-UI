@@ -264,6 +264,7 @@ GT5U.gui.text.machine_locked_to_different_recipe=§4Machine is already locked to
 GT5U.gui.text.no_output_for_sapling=§7This sapling yields no outputs
 GT5U.gui.text.no_tools=§4Отсутствует применимые инструменты
 GT5U.multiblock.startup=§7Starting up...
+GT5U.multiblock.recipesDone=§7Recipes Finished
 
 gt.interact.desc.mb.incomplete=§4Незавершенная структура
 gt.interact.desc.mb.mode=§7Режим работы: §6%s
@@ -390,8 +391,8 @@ gt.interact.desc.Energy_Detector.eu_stored=§7EU stored
 ## Maintenance Cover
 gt.interact.desc.issue=§71 проблема
 gt.interact.desc.issues=§7%s проблемы(а)
-gt.interact.desc.issue_rotor_low=§7Ротор < 20%
-gt.interact.desc.issue_rotor_dead=§7Ротор ≈ 0%
+gt.interact.desc.issue_rotor_low=§7Ротор < 20%%
+gt.interact.desc.issue_rotor_dead=§7Ротор ≈ 0%%
 
 ## DoesWorkUI
 gt.interact.desc.MachineEnabled=§7Machine enabled
@@ -418,7 +419,6 @@ mui.button.close=§7x
 #Cauldron Recipe Info
 GT5U.cauldron_recipe.supports=§7Supports any Impure Dust
 GT5U.cauldron_recipe.consumed=§7Consumed Water
-gt.recipe.cauldron=§7Cauldron
 GT5U.nei.cauldron.consumed=§7Consumed per operation
 
 #Purified Water

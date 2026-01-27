@@ -2,6 +2,7 @@
   "gregtech:standard": "gregtech:standard",
   "gregtech:steel": "gregtech:steel",
   "gregtech:bronze": "gregtech:bronze",
+  "gregtech:primitive": "gregtech:primitive",
   "exofoundry": "gregtech:exofoundry",
   "tectech:standard": "gregtech:tectech"
 }

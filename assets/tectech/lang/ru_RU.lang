@@ -8,6 +8,7 @@ gt.blockmachines.multimachine.FOG.fuelusage=§7Потребление топли
 gt.blockmachines.multimachine.FOG.voltageinfo=§7Установите вольтаж обработки
 gt.blockmachines.multimachine.FOG.plasmarecipetier=§7Fusion Tier
 gt.blockmachines.multimachine.FOG.plasmamultistep=§7Многоступенчатая плазма
+gt.blockmachines.multimachine.tm.teslaCoil.outputVoltage=§7Output Voltage:
 
 fog.cosmetics.applycolor=§7Применить
 fog.cosmetics.addcolor=§7Добавить
