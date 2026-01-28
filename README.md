@@ -31,6 +31,7 @@
   </p>
   
   <p><a href="https://github.com/Ranzuu/Shadow-UI/releases">Download</a></p>
+  <p><a href="https://discord.com/channels/181078474394566657/1456533355247177810">GTNH Discord - Shadow UI Areas of Interest</a></p>
 
 </div>
 
@@ -163,6 +164,15 @@ I:waila.cfg.gradient2=2368291
       </a>
     </strong>
     – Makes Healing Axe "invisible".
+  </li>
+
+  <li>
+    <strong>
+      <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-HealthBar">
+        Just-HealthBar
+      </a>
+    </strong>
+    – Guide on how to make your health bar be actual bar and not hearts. 
   </li>
 
   <li>
