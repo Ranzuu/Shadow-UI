@@ -1,6 +1,4 @@
-bogosort.gui.title=§7§7Configuração da Classificação
-bogosort.gui.tab.general.name=§7Geral
-bogosort.gui.tab.profiles.name=§7Profiles
+bogosort.gui.title=§7Configuração da Classificação
 bogosort.gui.tab.item_sort_rules.name=§7Regras de classificação de itens
 bogosort.gui.tab.nbt_sort_rules.name=§7regras de classificação NBT
 bogosort.gui.available_sort_rules=§7Regras de classificação disponíveis
@@ -25,7 +23,7 @@ bogosort.gui.usageticker_enable=§7Enable Usage Ticker
 bogosort.gui.usageticker_mainhand=§7Enable Usage Ticker Mainhand
 bogosort.gui.usageticker_offhand=§7Enable Usage Ticker Offhand
 bogosort.gui.usageticker_armor=§7Enable Usage Ticker Armor
-
+bogosort.gui.usageticker_arrow=§7Enable Usage Ticker Arrows
 
 bogosort.command.config_relaod.success=§7Configuração de classificação recarregada
 
