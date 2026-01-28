@@ -168,6 +168,15 @@ I:waila.cfg.gradient2=2368291
 
   <li>
     <strong>
+      <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-HealthBar">
+        Just-HealthBar
+      </a>
+    </strong>
+    – Guide on how to make your health bar be actual bar and not hearts. 
+  </li>
+
+  <li>
+    <strong>
       <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Shadow_Island">Shadow Island</a>
     </strong>
     – Custom map for my personal dimension.
