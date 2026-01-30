@@ -265,6 +265,7 @@ GT5U.gui.text.no_output_for_sapling=§pThis sapling yields no outputs
 GT5U.gui.text.no_tools=§4Missing applicable tools
 GT5U.multiblock.startup=§7Starting up...
 GT5U.multiblock.recipesDone=§7Recipes Finished
+GT5U.multiblock.efficiency=§7Efficiency
 
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
