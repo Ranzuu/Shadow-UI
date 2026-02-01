@@ -1,2 +1,2 @@
-- Text color fixes: GregTech, Tcneiadditions
-- Texture fixes: Buildcraft Silicon (Charging Table, Stamper, laser stuff etc), GregTech (Overlay buttons!!), Thaumcraft (Research Table gui rescaling)
+- Text color fixes: BogoSorter
+- Texture fixes: BartWorks (background/logo/tabs), BogoSorter (check boxes), NEI (main icons shadow)
