@@ -344,7 +344,7 @@ gt.interact.desc.Wireless_Activity.Recipe_Progress=§7Recipe progress
 gt.interact.desc.Wireless_Fluid_Detector.FluidTHR=§7Fluid threshold
 
 ## Liquid Meter (Fluid meter)
-gt.interact.desc.Fluid_Meter.FluidTHR=§7Fluid threshold
+gt.interact.desc.Fluid_Meter.FluidThreshold=§7Fluid threshold
 
 ## Item Meter/Detector
 gt.interact.desc.Item_Meter.DetectSlot=§7Detect slot #
@@ -400,8 +400,8 @@ gt.interact.desc.MachineEnabled=§7Machine enabled
 gt.interact.desc.MachineIdle=§7Machine idle
 gt.interact.desc.RecipeProgress=§7Recipe progress
 
-## EU MEter
-gt.interact.desc.EnergyTHR=§7Energy threshold
+## EU Meter
+gt.interact.desc.EnergyThreshold=§7Energy threshold
 
 ## Facade
 gt.interact.desc.facade.Redstone=§7Redstone
