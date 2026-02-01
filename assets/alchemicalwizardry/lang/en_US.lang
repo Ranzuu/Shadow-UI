@@ -2,6 +2,8 @@ gui.blockWritingTable.title=§7Alchemic Chemistry Set
 gui.demonChest.title=§7Demon's Chest
 gui.bloodTeleposer.title=§7Teleposer
 text.recipe.alchemicCalcinator.reagent=§7%s AR
+nei.recipe.meteor.radius=§7Radius: %s
+nei.recipe.meteor.cost.gui=§7%s
 
 # GTNH NEI Information Pages
 # Blood Altar Progression

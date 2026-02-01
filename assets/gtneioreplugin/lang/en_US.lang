@@ -19,6 +19,9 @@ gtnop.gui.nei.dimension=§7Dimension
 gtnop.gui.nei.chance=§7Chance
 gtnop.gui.nei.fluidAmount=§7Amount
 
+gtnop.gui.nei.chance.value=§7%s%%
+gtnop.gui.nei.fluidAmount.value=§7%s-%s
+
 gtnop.gui.nei.asteroidPrimary=§7Main-Gen1
 gtnop.gui.nei.asteroidSecondary=§7Main-Gen2
 gtnop.gui.nei.asteroidBetween=§7Minor-Gen1
@@ -36,7 +39,6 @@ gtnop.gui.nei.vein=§7Vein
 gtnop.gui.nei.oreOthers=§7Other ore
 gtnop.nei.genPosition=§7Position
 gtnop.nei.genPositionInfo=§7In the center of each chunk
-
 
 # world names
 gtnop.world.Overworld=§7Overworld
@@ -77,14 +79,11 @@ gtnop.world.BarnardF=§7Barnard F
 gtnop.world.TcetiE=§7T Ceti E
 gtnop.world.Underdark=§7Deep Dark
 
-
 # biome names
 gtnop.biome.none.name=§7None
 
-
 # ore names extra
 gtnop.ore.null.name=§7None
-
 
 # vein types
 gtnop.ore.vein.name=§7Vein 
