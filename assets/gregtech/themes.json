@@ -3,6 +3,7 @@
   "gregtech:steel": "gregtech:steel",
   "gregtech:bronze": "gregtech:bronze",
   "gregtech:primitive": "gregtech:primitive",
+  "gregtech:cover": "gregtech:cover",
   "exofoundry": "gregtech:exofoundry",
   "tectech:standard": "gregtech:tectech"
 }
