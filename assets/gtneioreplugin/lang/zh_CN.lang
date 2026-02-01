@@ -19,6 +19,9 @@ gtnop.gui.nei.dimension=§7维度
 gtnop.gui.nei.chance=§7几率
 gtnop.gui.nei.fluidAmount=§7储量
 
+gtnop.gui.nei.chance.value=§7%s%%
+gtnop.gui.nei.fluidAmount.value=§7%s-%s
+
 gtnop.gui.nei.asteroidPrimary=§7主要生成一
 gtnop.gui.nei.asteroidSecondary=§7主要生成二
 gtnop.gui.nei.asteroidBetween=§7次要生成一
@@ -36,7 +39,6 @@ gtnop.gui.nei.vein=§7矿脉
 gtnop.gui.nei.oreOthers=§7伴随生成
 gtnop.nei.genPosition=§7生成位置
 gtnop.nei.genPositionInfo=§7各个区块的正中心
-
 
 # world names
 gtnop.world.Overworld=§7主世界
@@ -77,14 +79,11 @@ gtnop.world.BarnardF=§7巴纳德F
 gtnop.world.TcetiE=§7鲸鱼座T星E
 gtnop.world.Underdark=§7漆黑世界
 
-
 # biome names
 gtnop.biome.none.name=§7无
 
-
 # ore names extra
 gtnop.ore.null.name=§7无
-
 
 # vein types
 gtnop.ore.vein.name=§7矿脉

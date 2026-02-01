@@ -18,7 +18,7 @@ Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
 Blood Magic
-- Fixes text color for gui and NEI values - https://github.com/GTNewHorizons/BloodMagic/pull/118
+- Fixes text color for gui and NEI values - https://github.com/GTNewHorizons/BloodMagic/pull/118 / https://github.com/GTNewHorizons/BloodMagic/pull/120
 
 Buildcraft and addons
 - Fixed text color for some guis (+texture fixes) - https://github.com/GTNewHorizons/BuildCraft/pull/26 / https://github.com/GTNewHorizons/BuildCraftCompat/pull/13
@@ -55,6 +55,9 @@ GT5
 
 Gtnh Intergalactic
 - Fixed text color for Space Pumping Module values in NEI - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5711
+
+GT NEI Ore Plugin
+- Fixed text color underground fluids tab - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5813
 
 Hardcore Ender Expansion
 - Fixed text color for Compendium and Compendium Points - https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/pull/36
