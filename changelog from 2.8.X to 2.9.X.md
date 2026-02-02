@@ -114,7 +114,7 @@ Applied Energistics 2
 - Added Color Aplicator GUI - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/998 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1002
 
 Bogo Sorter
-- Added new colores text
+- Added new colored text
 
 CropsNH
 - Added, well everything (new mod)
