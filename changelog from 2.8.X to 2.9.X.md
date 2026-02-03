@@ -145,6 +145,6 @@ Waila
 Other
 - Added ability for the resoruce pack to be checked for updates
 
-..and other little pixel changes, text fixes and removed unused files that are not listed above becase I either forgot or they are so small, either way, this is big update ;-;.
+..and other little pixel changes, text fixes and removed unused files that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
 Up do date with Daily 344 (27.01.2026)
