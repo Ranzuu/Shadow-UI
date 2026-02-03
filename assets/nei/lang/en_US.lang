@@ -1,3 +1,17 @@
 nei.recipe.page=§7Page %s/%s
 nei.recipe.fuel.smeltCount=§7Smelts %s items
 nei.gui.button.label.subset=%%
+# nei.recipe.title.color.hover=§e
+
+nei.debug.RecipeHandler.Name=§7Name
+nei.debug.RecipeHandler.Id=§7ID
+nei.debug.RecipeHandler.Key=§7Key
+nei.debug.RecipeHandler.HHack=§7H.Hack
+nei.debug.RecipeHandler.ModName=§7Mod Name
+nei.debug.RecipeHandler.ModId=§7Mod ID
+nei.debug.RecipeHandler.Order=§7Order
+nei.debug.RecipeHandler.yShift=§7yShift
+nei.debug.RecipeHandler.MultiWidgets=§7Multi Widgets
+nei.debug.RecipeHandler.Height=§7Height
+nei.debug.RecipeHandler.Width=§7Width
+nei.debug.RecipeHandler.UseCustomScroll=§7Use Custom Scroll
