@@ -18,7 +18,7 @@
 			"Magenta":			"ff46ee",
 			"Orange":			"ffa049",
 			"White":			"FAFAFF",
-			"Machine Metal":	"FFFFFF"
+			"Gui Metal":	"FFFFFF"
 		},
 		"textColor": {
 			"title":			"AAAAAA",
