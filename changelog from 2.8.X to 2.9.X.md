@@ -136,6 +136,9 @@ NotEnoughtItems (NEI)
 - Updated Catalyst tab (there was padding added) - https://github.com/GTNewHorizons/NotEnoughItems/pull/822
 - Added Cauldron recipe text - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5542
 
+Thaumic Energistics
+- Updated Arcane Crafting Terminal GUI - https://github.com/GTNewHorizons/ThaumicEnergistics/pull/98
+
 ServerUtilities
 - Updated trash can title (god damn finally) - https://github.com/GTNewHorizons/ServerUtilities/pull/256
 
