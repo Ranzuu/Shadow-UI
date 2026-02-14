@@ -54,3 +54,9 @@ entity.TConstruct.MiniGardy.name=§7미니 가드 슬라임
 entity.TConstruct.Crystal.name=§7Crystal
 
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
+
+tconstruct.nei.projectilematerials=§7§lBow & Arrow
+tconstruct.nei.color.materialName=0xABAAAA
+tconstruct.nei.color.materialReinforced=0xABAAAA
+tconstruct.nei.color.materialStonebound=0xABAAAA
+tconstruct.nei.color.materialAbility=0xABAAAA
