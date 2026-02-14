@@ -128,6 +128,7 @@ GregTech
 - Added Waterline text elemets - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530
 - Added Primitve theme (Mui2 - GT Coke Oven)
 - Added new icons
+- Added ModularArmor gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4065
 
 KubaTech
 - Added HTGR text color
