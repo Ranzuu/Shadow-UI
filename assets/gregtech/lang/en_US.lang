@@ -443,3 +443,7 @@ GT5U.gui.text.LHC.off=§7Off
 GT5U.gui.text.LHC.acceleratormode=§7Accelerating beam...
 GT5U.gui.text.LHC.collidermode=§7Colliding beam...
 GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
+
+# Drone Centre
+GT5U.gui.text.drone_no_connection=§7No any connection
+GT5U.gui.text.drone_remote_text=§7Drone Centre Remote Control
