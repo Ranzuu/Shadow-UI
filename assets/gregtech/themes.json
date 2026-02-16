@@ -4,6 +4,7 @@
   "gregtech:bronze": "gregtech:bronze",
   "gregtech:primitive": "gregtech:primitive",
   "gregtech:cover": "gregtech:cover",
+  "tectech:standard": "gregtech:tectech",
   "exofoundry": "gregtech:exofoundry",
-  "tectech:standard": "gregtech:tectech"
+  "nanochip": "gregtech:nanochip"
 }
