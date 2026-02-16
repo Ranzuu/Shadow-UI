@@ -429,3 +429,8 @@ GT5U.nei.purified_water.grade_3.1=§7+%s%%/%dL
 GT5U.nei.purified_water.grade_3.2=§7Returned in amount equivalent to consumed flocculant.
 GT5U.nei.purified_water.grade_4.0=§7+%s pH/stack
 GT5U.nei.purified_water.grade_4.1=§7%s pH/1000L
+
+
+# Drone Centre
+GT5U.gui.text.drone_no_connection=§7No any connection
+GT5U.gui.text.drone_remote_text=§7Drone Centre Remote Control

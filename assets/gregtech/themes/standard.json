@@ -7,7 +7,6 @@
   "color": "#FFFFFF",
   "textColor": "#AAAAAA",
   "textShadow": false,
-  "iconColor": "#404040",
   "panel": {
     "background": {
       "type": "texture",

@@ -1,5 +1,5 @@
 {
-  "parent": "gregtech:standard",
+  "parent": "DEFAULT",
   "defaultWidth": 18,
   "defaultHeight": 18,
   "background": null,
@@ -87,12 +87,5 @@
   },
   "textTitle": {
     "textColor": "#AAAAAA"
-  },
-  "backgroundPopup": {
-    "textColor": "#00FFA6",
-    "background": {
-      "type": "texture",
-      "location": "gregtech:gui/background/popup_foundry_left"
-    }
-   }
- }
+  }
+}
