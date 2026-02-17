@@ -7,12 +7,6 @@
   "color": "#FFFFFF",
   "textColor": "#AAAAAA",
   "textShadow": false,
-  "panel": {
-    "background": {
-      "type": "texture",
-      "id": "vanilla_background"
-    }
-  },
   "button": {
     "background": {
       "type": "texture",
