@@ -1,2 +1,2 @@
-- Text color fixes: BogoSorter
-- Texture fixes: BartWorks (background/logo/tabs), BogoSorter (check boxes), NEI (main icons shadow)
+- Text color fixes: GregTech
+- Texture fixes: WitchingGadgets(Nei Blast Furnace), AppliedEnergistics2 (states icon - toggle showing interface to be more visible)
