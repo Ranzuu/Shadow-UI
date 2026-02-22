@@ -141,6 +141,9 @@ NotEnoughtItems (NEI)
 Thaumic Energistics
 - Updated Arcane Crafting Terminal GUI - https://github.com/GTNewHorizons/ThaumicEnergistics/pull/98
 
+Thaumic Exploration
+- Added Replicator Nei handler - https://github.com/GTNewHorizons/Thaumic_Exploration/pull/55
+
 ServerUtilities
 - Updated trash can title (god damn finally) - https://github.com/GTNewHorizons/ServerUtilities/pull/256
 
@@ -152,4 +155,4 @@ Other
 
 ..and other little pixel changes, text fixes and removed unused files that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 379 (17.02.26)
+Up to date with Daily 388 (22.02.26)
