@@ -129,7 +129,7 @@ GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
 - Added Nanochip Assembly Comples gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/2903
 - Added Large Hadron Collider gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135
-- Added Waterline text elemets - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530
+- Added Waterline text elemets / gui - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/5835
 - Added Primitve theme (Mui2 - GT Coke Oven)
 - Added new icons and updated others (a lot)
 - Added ModularArmor gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4065
