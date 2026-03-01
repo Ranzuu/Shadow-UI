@@ -1,0 +1,41 @@
+{
+    "$panel": {
+        "margin": 2,
+        "padding": 6,
+
+        "fontColors": {
+            "black": "0xFF555555"
+        },
+        "fontShadow": true,
+        "sectionSpacing": 4,
+
+        "decorators": [{
+            "type": "background",
+            "color": "0xCC3C3B3A",
+            "corner": true
+        },{
+            "type": "border",
+            "color": ["0xFF8B8B8B", "0xFF6A6A6A"],
+            "margin": 1
+        }]
+    },
+
+    "styles": [{
+        "$ref": "$panel"
+    }, {
+        "context": "item",
+        "$ref": "$panel",
+
+        "sections": {
+            "amount": {
+                "place": "header",
+                "modes": ["always"],
+                "fontShadow": true,
+                "fontColors": {
+                    "gray": "0x555555"
+                },
+                "marginBottom": -2
+            }
+        }
+    }]
+}

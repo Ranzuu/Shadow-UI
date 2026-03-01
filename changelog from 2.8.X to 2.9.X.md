@@ -119,6 +119,9 @@ Bogo Sorter
 CropsNH
 - Added, well everything (new mod)
 
+Chromatic Tooltips
+- Added texture for tooltips - https://github.com/slprime/ChromaticTooltips
+
 Enhanced Lootbags
 - Updated Nei handler
 
