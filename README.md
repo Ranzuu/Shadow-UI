@@ -65,17 +65,18 @@
 
 > [!NOTE]
 > It is recommended to disable <code>coloredGUI</code> and <code>machineMetalGUI</code> in the GregTech configuration file while using this resource pack.
+
 <p>
   <strong>Config path:</strong>
   <code>\config\GregTech\GregTech.cfg</code>(set to false)
 </p>
 <h2>Supported GTNH Addon Mods</h2>
 <ul>
-  <li>Twist Space Technology</li>
-  <li>123Technology</li>
-  <li>EzStorage</li>
-  <li>Storage Network</li>
-  <li>ScienceNoLeisure</li>
+    <li><a href="https://github.com/Nxer/Twist-Space-Technology-Mod">Twist Space Technology</a></li>
+    <li><a href="https://github.com/CallmeSHaobe/123Technology">123Technology</a></li>
+    <li><a href="https://github.com/LITW-Refined/EZStorage">Simple Storage</a></li>
+    <li><a href="https://github.com/ABKQPO/GT-Not-Leisure">ScienceNoLeisure</a></li>
+    <li><a href="https://github.com/slprime/ChromaticTooltips">ChromaticTooltips</a></li>
 </ul>
 
 <h2>Future Pre-Release Versions (2.9.X)</h2>
@@ -94,24 +95,6 @@
     Changelog
   </a>
 </p>
-
-<h2>WAILA</h2>
-
-<img align="right" width="500" height="237" alt="prev3" src="https://github.com/user-attachments/assets/2c7eb456-9a04-4a21-91c2-2e6f26ce7ea8">
-
-<p>
-  You can manually change the WAILA colors to match the GUI colors.
-</p>
-
-<p>
-  <strong>Config path:</strong>
-  <code>\config\Waila.cfg</code>
-</p>
-
-<pre><code>I:waila.cfg.bgcolor=4933704
-I:waila.cfg.gradient1=5790039
-I:waila.cfg.gradient2=2368291
-</code></pre>
 
 <h2>Other resource packs</h2>
 <ul>
