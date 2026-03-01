@@ -1,9 +1,10 @@
 GT5U.infodata.purification_plant.status_button=§7Статус
 GT5U.infodata.purification_plant.status_title=§7Purification Unit Status
 GT5U.infodata.purification_plant.linked_units=§7Linked Purification Units:
-GT5U.infodata.purification_plant.linked_units.status.online=§7В сети
+GT5U.infodata.purification_plant.linked_units.status.active=§7В сети
 GT5U.infodata.purification_plant.linked_units.status.disabled=§4Отключён
 GT5U.infodata.purification_plant.linked_units.status.incomplete=§4Незавершенная структура
+gt.item.desc.progress.bare=§7%ss/%ss
 
 GT5U.gui.text.purification_plant.hit_to_start=§7Hit with Soft Mallet to start.
 
