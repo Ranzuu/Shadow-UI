@@ -27,5 +27,3 @@ openblocks.gui.xp_outputs=§7输出经验
 openblocks.gui.item_outputs=§7输出物品
 openblocks.gui.max_level=§7最高附魔等级: %d
 openblocks.gui.save_folder=§7打开存档文件夹
-
-tile.openblocks.trophy.entity.name=%s战利品
