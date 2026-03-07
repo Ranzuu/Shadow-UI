@@ -1,0 +1,11 @@
+vendingmachine.gui.requirementHeader=§7需求条件：
+
+vendingmachine.gui.neiColor.conditionDefault=AAAAAA
+vendingmachine.gui.neiColor.conditionSatisfied=7AC25F
+vendingmachine.gui.neiColor.conditionUnsatisfied=AAAAAA
+vendingmachine.gui.display_text_color=AAAAAA
+
+gt.blockmachines.multimachine.vendingmachine.name.gui=§7自动售货机
+
+vendingmachine.gui.error.incomplete_structure=§4Incomplete Structure.
+vendingmachine.gui.error.player_using=§4当前有其他玩家正在使用此自动售货机

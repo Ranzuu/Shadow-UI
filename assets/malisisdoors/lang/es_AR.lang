@@ -1,6 +1,3 @@
-
-
-
 door_movement.rotating_door=§7Rotación
 door_movement.sliding_door=§7Desplazamiento hacia el costado
 door_movement.sliding_up_door=§7Desplazamiento hacia arriba
@@ -20,11 +17,6 @@ door_movement.double_slide_right=§7Double sliding right
 door_movement.double_rotate_left=§7Double rotating left
 door_movement.double_rotate_right=§7Double rotating right
 
-
-
-gui.door_factory.tab_properties=§7Propiedades
-gui.door_factory.tab_materials=§7Materiales
-gui.door_factory.tab_digicode=§7Digicode
 gui.door_factory.rb_create=§7Create
 gui.door_factory.rb_edit=§7Modify
 gui.door_factory.door_movement=§7Movimiento
@@ -41,16 +33,12 @@ gui.door_factory.door_sound.pneumatic_door=§7Puerta Neumática
 gui.door_factory.door_sound.shoji_door=§7Shoji door
 gui.door_factory.door_sound.carriage_door=§7Big Door
 
-
 gui.door_factory.frame_type=§7Tipo de marco
 gui.door_factory.top_material=§7Material de la parte superior
 gui.door_factory.bottom_material=§7Material de la parte inferior
 gui.door_factory.door_edit_slot=§7Door to modify
-gui.door_factory.create_door=§7Construir puerta
-gui.door_factory.edit_door=§7Modify door
 
 gui.block_mixer.simple_rendering=§7Renderizado Simple
-gui.block_mixer.simple_rendering_tooltip=§7En el mundo, los bloques requieren actualización de los chunks para que se muestren los cambios.
 
-tile.block_mixer.name=§7Mezclador de Bloques
-tile.door_factory.name=§7Puerta de Fábrica
+gui.block_mixer.title=§7Mezclador de Bloques
+gui.door_factory.title=§7Puerta de Fábrica

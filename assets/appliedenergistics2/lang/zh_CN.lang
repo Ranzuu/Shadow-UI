@@ -170,12 +170,31 @@ gui.color.appliedenergistics2.ProcessBarStartColor=CCB13E53
 gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
 gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 
+## Color Aplicator Shift-click GUI
+# Window Border
+gui.color.appliedenergistics2.ColorSelectBackground=FF3C3B3A
+# Window Background
+gui.color.appliedenergistics2.ColorSelectBorder=FF4A4948
+# Button background
+gui.color.appliedenergistics2.ColorSelectBtnBg=FF6A6A6A
+# Button border selected
+gui.color.appliedenergistics2.ColorSelectBtnBorderSelected=FF7AC25F
+# Button border hover all minus selected
+gui.color.appliedenergistics2.ColorSelectBtnBorderHover=FF555452
+# Button background hover all minus selected
+gui.color.appliedenergistics2.ColorSelectBtnOverlayHover=33555452
+# Button border disabled
+gui.color.appliedenergistics2.ColorSelectBtnBorderDisabled=FF1D1D1D
+# Button background disabled
+gui.color.appliedenergistics2.ColorSelectBtnOverlayDisabled=B31D1D1D
+
+## Level Maintainer Fluid Crafting
 ae2fc.gui.color.StateIdle=FF7AC25F
 ae2fc.gui.color.StateCraft=FFFFF70F
 ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
 
-#Additions
+# Additions
 gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7没有正在进行的合成任务
 gui.appliedenergistics2.NoCraftingCPUs=§7没有可用的合成CPU...
@@ -193,6 +212,7 @@ gui.appliedenergistics2.Set=§7设置
 gui.appliedenergistics2.IncreaseAmount=§7+%s
 gui.appliedenergistics2.DecreaseAmount=§7-%s
 gui.appliedenergistics2.AddToBookmark=§7Bookmark
+gui.appliedenergistics2.SelectColor=§7Select a Color
 
 gui.appliedenergistics2.Inputs=§7Inputs
 gui.appliedenergistics2.Outputs=§7Outputs

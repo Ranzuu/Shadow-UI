@@ -1,14 +1,11 @@
-tile.gendustry.mutagen_producer.name=§7Producteur mutagène
-tile.gendustry.mutatron.name=§7Mutatron
-tile.gendustry.mutatron_adv.name=§7Mutatron avancé
-tile.gendustry.apiary.name=§7Rucher industriel
-tile.gendustry.imprinter.name=§7Imprimeur génétique
-tile.gendustry.sampler.name=§7Échantillonneur génétique
-tile.gendustry.extractor.name=§7Extracteur d'ADN
-tile.gendustry.liquifier.name=§7Liquéfieur de protéine
-tile.gendustry.replicator.name=§7Réplicateur génétique
-tile.gendustry.transposer.name=§7Transposeur génétique
-
 gendustry.label.select=§7Sélectionner :
-
-
+gendustry.label.mutagen_producer.title=§7Producteur mutagène
+gendustry.label.mutatron.title=§7Mutatron
+gendustry.label.mutatron_adv.title=§7Mutatron avancé
+gendustry.label.apiary.title=§7Rucher industriel
+gendustry.label.imprinter.title=§7Imprimeur génétique
+gendustry.label.sampler.title=§7Échantillonneur génétique
+gendustry.label.extractor.title=§7Extracteur d'ADN
+gendustry.label.liquifier.title=§7Liquéfieur de protéine
+gendustry.label.replicator.title=§7Réplicateur génétique
+gendustry.label.transposer.title=§7Transposeur génétique

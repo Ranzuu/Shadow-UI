@@ -1,6 +1,3 @@
-
-
-
 door_movement.rotating_door=§7Rotace
 door_movement.sliding_door=§7Posun do strany
 door_movement.sliding_up_door=§7Posun nahoru
@@ -20,11 +17,6 @@ door_movement.double_slide_right=§7Dvojity posun doprava
 door_movement.double_rotate_left=§7Dvojita rotace doleva
 door_movement.double_rotate_right=§7Dvojita rotace doprava
 
-
-
-gui.door_factory.tab_properties=§7Nastaveni
-gui.door_factory.tab_materials=§7Materiál
-gui.door_factory.tab_digicode=§7Digikód
 gui.door_factory.rb_create=§7Vytvoř
 gui.door_factory.rb_edit=§7Uprav
 gui.door_factory.door_movement=§7Pohyb
@@ -41,16 +33,12 @@ gui.door_factory.door_sound.pneumatic_door=§7Pneumatické dveře
 gui.door_factory.door_sound.shoji_door=§7Shoji dveře
 gui.door_factory.door_sound.carriage_door=§7Velké dveře
 
-
 gui.door_factory.frame_type=§7Typ rámu
 gui.door_factory.top_material=§7Materiál vrchní části
 gui.door_factory.bottom_material=§7Materiál spodní části
 gui.door_factory.door_edit_slot=§7Dveře k upravení
-gui.door_factory.create_door=§7Vytvoř dveře
-gui.door_factory.edit_door=§7Uprav dveře
 
 gui.block_mixer.simple_rendering=§7Jednoduché renderování
-gui.block_mixer.simple_rendering_tooltip=§7Ve světe blok vyžaduje znovunačtení chunku k zafungování.
 
-tile.block_mixer.name=§7Mixér bloků
-tile.door_factory.name=§7Továrna na dveře
+gui.block_mixer.title=§7Mixér bloků
+gui.door_factory.title=§7Továrna na dveře

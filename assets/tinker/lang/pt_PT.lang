@@ -55,7 +55,7 @@ entity.TConstruct.Crystal.name=§7Crystal
 
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
 
-tconstruct.nei.projectilematerials=§7§lBow & Arrow
+tconstruct.nei.projectilematerials=§7§lArco e Flecha
 tconstruct.nei.color.materialName=0xABAAAA
 tconstruct.nei.color.materialReinforced=0xABAAAA
 tconstruct.nei.color.materialStonebound=0xABAAAA

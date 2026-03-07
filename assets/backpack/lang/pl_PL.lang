@@ -8,9 +8,10 @@ text.backpack.dropped_backpacks=§7%s plecaków zostało usuniętych z twojego e
 text.backpack.autopickup=§7Podnieś automatycznie:
 text.backpack.recipes=§7Receptury
 text.backpack.configuration=§7Konfiguracja plecaka
-
+text.backpack.title_format=§7%s
 button.backpack.ok=§7OK
 button.backpack.cancel=§7Anuluj
+
 
 key.personalBackpack=§7Otwórz plecak
 key.categories.backpack=§7Plecaki

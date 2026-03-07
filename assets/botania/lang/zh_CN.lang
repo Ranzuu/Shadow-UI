@@ -262,4 +262,6 @@ entity.Botania.botania:manaStorm.name=§7魔力风暴中心
 entity.Botania.botania:babylonWeapon.name=§7贮藏库武器
 entity.Botania.botania:fallingStar.name=§7落星
 
-item.botania:flowerBag.name=§7采花袋
+# GUI TEXT
+botania.gui.flowerBag.title=§7采花袋
+botania.gui.shroomBag.title=§7Mushroom Pouch

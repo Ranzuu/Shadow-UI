@@ -262,4 +262,6 @@ entity.Botania.botania:manaStorm.name=§7Manastorm Epicenter
 entity.Botania.botania:babylonWeapon.name=§7Mythisch Wapen
 entity.Botania.botania:fallingStar.name=§7Vallende Ster
 
-item.botania:flowerBag.name=§7Bloementas
+# GUI TEXT
+botania.gui.flowerBag.title=§7Bloementas
+botania.gui.shroomBag.title=§7Mushroom Pouch

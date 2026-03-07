@@ -8,9 +8,10 @@ text.backpack.dropped_backpacks=§7%s sacs à dos ont été retirés de votre in
 text.backpack.autopickup=§7Prendre automatiquement :
 text.backpack.recipes=§7Recettes
 text.backpack.configuration=§7Configuration de Backpack
-
+text.backpack.title_format=§7%s
 button.backpack.ok=§7OK
 button.backpack.cancel=§7Annuler
+
 
 key.personalBackpack=§7Ouvrir le sac à dos
 key.categories.backpack=§7Backpack

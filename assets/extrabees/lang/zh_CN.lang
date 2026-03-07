@@ -1,7 +1,7 @@
-extrabees.machine.alveay.hatchery=§7§7孵化间
-extrabees.machine.alveay.stimulator=§7§7电刺激器
-extrabees.machine.alveay.frame=§7§7框架栏
-extrabees.machine.alveay.mutator=§7§7基因突变器
+extrabees.machine.alveay.frame.title=§7Frame Housing
+extrabees.machine.alveay.mutator.title=§7Mutator
+extrabees.machine.alveay.stimulator.title=§7Elec. Stimulator
+extrabees.machine.alveay.hatchery.title=§7Hatchery
 
 extrabees.machine.alveay.mutator.mutagens=§7可用诱变剂：
 

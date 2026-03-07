@@ -1,3 +1,9 @@
+extratrees.machine.machine.lumbermill.title=§7Lumbermill
+extratrees.machine.machine.woodworker.title=§7Woodworker
+extratrees.machine.machine.panelworker.title=§7Panelworker
+extratrees.machine.machine.glassworker.title=§7Glassworker
+extratrees.machine.machine.tileworker.title=§7Tileworker
+
 extratrees.gui.database.planks.use=§7能制作：
 
 extratrees.gui.database.mode.fruit=§7果实
@@ -37,10 +43,3 @@ extratrees.gui.database.tab.butterfly.breeder=§7杂交路线
 
 extratrees.gui.database.log=§7原木
 extratrees.gui.database.leaves=§7树叶
-
-extratrees.machine.machine.brewery=§7发酵器
-extratrees.machine.machine.lumbermill=§7锯木机
-extratrees.machine.machine.woodworker=§7木材作坊
-extratrees.machine.machine.panelworker=§7镶板作坊
-extratrees.machine.machine.glassworker=§7玻璃作坊
-extratrees.machine.machine.tileworker=§7瓷砖作坊

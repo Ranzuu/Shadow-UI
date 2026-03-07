@@ -1,6 +1,3 @@
-
-
-
 door_movement.rotating_door=§7旋转
 door_movement.sliding_door=§7侧向滑动
 door_movement.sliding_up_door=§7上滑
@@ -20,11 +17,6 @@ door_movement.double_slide_right=§7双滑门(右)
 door_movement.double_rotate_left=§7折叠门(左)
 door_movement.double_rotate_right=§7折叠门(右)
 
-
-
-gui.door_factory.tab_properties=§7属性
-gui.door_factory.tab_materials=§7材料
-gui.door_factory.tab_digicode=§7数控密码
 gui.door_factory.rb_create=§7制作
 gui.door_factory.rb_edit=§7修改
 gui.door_factory.door_movement=§7移动
@@ -41,16 +33,12 @@ gui.door_factory.door_sound.pneumatic_door=§7气动门
 gui.door_factory.door_sound.shoji_door=§7障子门
 gui.door_factory.door_sound.carriage_door=§7宅门
 
-
 gui.door_factory.frame_type=§7框架类型
 gui.door_factory.top_material=§7顶部方块材料
 gui.door_factory.bottom_material=§7底部方块材料
 gui.door_factory.door_edit_slot=§7需要修改的门
-gui.door_factory.create_door=§7制作门
-gui.door_factory.edit_door=§7修改门
 
 gui.block_mixer.simple_rendering=§7简单渲染
-gui.block_mixer.simple_rendering_tooltip=§7世界内的方块需要区块更新才能起效.
 
-tile.block_mixer.name=§7方块混合器
-tile.door_factory.name=§7制门工厂
+gui.block_mixer.title=§7Block Mixer
+gui.door_factory.title=§7Door Factory

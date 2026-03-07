@@ -376,3 +376,5 @@ gui.sfm.PermissionRestricted=§7限制通道
 gui.sfm.PermissionCreative=§7创造通道
 gui.sfm.PermissionInventory=§7物品栏通道
 gui.sfm.PermissionDenied=§7通道不可用
+
+gui.sfm.CommandNameFormat=§7%s

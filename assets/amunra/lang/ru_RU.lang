@@ -1,25 +1,26 @@
-tile.gravity.name=§7Генератор искусственной гравитации
-tile.machines1.0.name=§7Radioisotope Generator
-tile.isotopeGeneratorBasic.name=§7Радиоизотопный генератор
-tile.isotopeGeneratorAdvanced.name=§7Продвинутый радиоизотопный генератор
+gui.title.gravity=§7Генератор искусственной гравитации
+gui.title.isotopeGeneratorBasic=§7Радиоизотопный генератор
+gui.title.isotopeGeneratorAdvanced=§7Продвинутый радиоизотопный генератор
+gui.title.mothershipEngineIon=§7Ионный двигатель
+gui.title.hydroponics=§7Гидропонная система
+gui.title.aluChest=§7Алюминиевый сундук
+gui.title.steelChest=§7Стальной сундук
+gui.title.shuttleDock=§7Шаттл-док
 
-tile.hydroponics.name=§7Гидропонная система
 tile.hydroponics.plant=§7Посадить семена
 tile.hydroponics.harvest=§7Собрать
 tile.hydroponics.fertilize=§7Удобрить
 tile.hydroponics.noplant=§7Нет растения
 tile.hydroponics.plantstatus=§7Статус растения
 
-tile.aluChest.name=§7Алюминиевый сундук
-tile.steelChest.name=§7Стальной сундук
-
 gui.message.mothership.status.name=§7Статус
-tile.shuttleDock.name=§7Шаттл-док
 
 gui.checkbox.show_visual_guide=§7Показать зону
 gui.checkbox.invert_force=§7Вверх
 gui.message.force.strength=§7Сила
 gui.message.energy_usage=§7Энергопотребление
+gui.message.mothership.numEngineParts=§7Размер двигателя
+gui.message.mothership.travelThrust=§7Тяга
 
 entity.robotVillager.name=§7Житель-робот
 entity.porcodon.name=§7Поркодон

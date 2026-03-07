@@ -1,14 +1,16 @@
-genetics.machine.machine.isolator=§7基因分离器
-genetics.machine.machine.sequencer=§7测序仪
-genetics.machine.machine.polymeriser=§7PCR 仪
-genetics.machine.machine.inoculator=§7基因注射器
-genetics.machine.labMachine.analyser=§7分析仪
-genetics.machine.labMachine.incubator=§7恒温箱
-genetics.machine.labMachine.genepool=§7基因池
-genetics.machine.labMachine.acclimatiser=§7适应性调整器
-genetics.machine.advMachine.splicer=§7基因拼接器
+gui.genetics.machine.machine.isolator.title=§7Isolator
+gui.genetics.machine.machine.sequencer.title=§7Sequencer
+gui.genetics.machine.machine.polymeriser.title=§7Polymeriser
+gui.genetics.machine.machine.inoculator.title=§7Inoculator
+gui.genetics.machine.labMachine.genepool.title=§7Genepool
+gui.genetics.machine.labMachine.analyser.title=§7Analyzer
+gui.genetics.machine.labMachine.incubator.title=§7Incubator
+gui.genetics.machine.labMachine.acclimatiser.title=§7Acclimatiser
+gui.genetics.machine.advMachine.splicer.title=§7Splicer
 
-genetics.gui.geneBank=§7基因数据库
+genetics.gui.registry.title=§7Registry
+genetics.gui.registry.1.title=§7Master Registry
+genetics.gui.analyst.title=§7Analyst
 
 genetics.machine.sequencer.gui.sequensedBy=§7该基因将由 %s 完成序列化
 genetics.machine.sequencer.gui.willNotSave=§7无用序列，将直接丢弃

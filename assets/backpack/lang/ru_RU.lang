@@ -8,9 +8,10 @@ text.backpack.dropped_backpacks=§7%s рюкзаки были убраны из 
 text.backpack.autopickup=§7Подбирать автоматически:
 text.backpack.recipes=§7Рецепты
 text.backpack.configuration=§7Конфигурация рюкзаков
-
+text.backpack.title_format=§7%s
 button.backpack.ok=§7ОК
 button.backpack.cancel=§7Отмена
+
 
 key.personalBackpack=§7Открыть рюкзак
 key.categories.backpack=§7Рюкзаки

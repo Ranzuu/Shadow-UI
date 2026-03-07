@@ -1,20 +1,27 @@
-tile.playerinterface.name=§7Интерфейс игрока
-tile.creativePlayerInterface.name=§7Творческий интерфейс игрока
-text.miscellaneous.connectedTo=§7Соединено с
+item.filter.name=§7Filter: 
+gui.item.filterItem.name.title=§7Item Filter
+gui.item.dropFilter.name.title=§7Drop Filter
+gui.item.dropFilterVoiding.name.title=§7Voiding Drop Filter
 
-tile.advancedItemCollector.name=§7Продвинутый собиратель предметов
-tile.onlineDetector.name=§7Детектор онлайн-игроков
+gui.tile.advancedItemCollector.name.title=§7Продвинутый собиратель предметов
+gui.tile.onlineDetector.name.title=§7Детектор онлайн-игроков
+gui.tile.dyeingMachine.name.title=§7Покрасочный механизм
+gui.tile.imbuingStation.name.title=§7Станция наполнения
+gui.tile.energyDistributor.name.title=§7Распределитель энергии
+gui.tile.enderEnergyDistributor.name.title=§7Распределитель энергии Края
+gui.tile.playerinterface.name.title=§7Интерфейс игрока
+gui.tile.creativePlayerInterface.name.title=§7Creative Player Interface
+
+text.miscellaneous.connectedTo=§7Соединено с
+text.miscellaneous.nobody=§7nobody
+text.miscellaneous.radiusX=§7Radius X: %s
+text.miscellaneous.radiusY=§7Radius Y: %s
+text.miscellaneous.radiusZ=§7Radius Z: %s
 text.onlineDetector.detectingNobody=§7Никто не отслеживается
 text.onlineDetector.detecting=§7"Отслеживание %s"
-tile.dyeingMachine.name=§7Покрасочный механизм
-tile.energyDistributor.name=§7Распределитель энергии
-tile.enderEnergyDistributor.name=§7Распределитель энергии Края
-tile.imbuingStation.name=§7Станция наполнения
-
-item.dropFilter.name=§7Фильтр упавших предметов
-item.dropFilterVoiding.name=§7Пустотный фильтр упавших предметов
-item.filterItem.name=§7Фильтр предметов
-item.voidStone.name=§7Пустотный камень
+text.miscellaneous.edlt=§7Edlt: %s/%s RF
+text.miscellaneous.mc=§7MC: %s/%s
 
 entity.RandomThings.spirit.name=§7Spirit
 entity.bloodmoonCircle.name=§7Круг кровавой луны
+
