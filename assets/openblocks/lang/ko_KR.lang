@@ -27,5 +27,3 @@ openblocks.gui.xp_outputs=§7경험치 추출
 openblocks.gui.item_outputs=§7아이템 추출
 openblocks.gui.max_level=§7최대 레벨: %d
 openblocks.gui.save_folder=§7Save folder
-
-tile.openblocks.trophy.entity.name=%s §9Trophy
