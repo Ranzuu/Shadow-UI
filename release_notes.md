@@ -1,2 +1,2 @@
-- Text color fixes: GregTech
-- Texture fixes: WitchingGadgets(Nei Blast Furnace), AppliedEnergistics2 (states icon - toggle showing interface to be more visible)
+- Texture fixes: EzStorage (Button), Ic2 (Nuclear Reactor)
+- Other: Synced Translation files, changed pack format, updated readme
