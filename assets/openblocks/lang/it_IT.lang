@@ -27,5 +27,3 @@ openblocks.gui.xp_outputs=§7Emissione di Punti Esperienza
 openblocks.gui.item_outputs=§7Emissione di Oggetti
 openblocks.gui.max_level=§7Livello massimo: %d
 openblocks.gui.save_folder=§7Cartella di salvataggio
-
-tile.openblocks.trophy.entity.name=Trofeo di %s
