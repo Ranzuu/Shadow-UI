@@ -12,11 +12,11 @@ gui.tile.blockRangeTrigger.name.title=§7Range Trigger
 gui.optional.numbers=§7
 
 #Original Screen Messages
-msg.nc.ScreenColor=§7Screen Color
-msg.nc.TextColor=§7Text Color
+msg.nc.ScreenColor=§7Screen Colour
+msg.nc.TextColor=§7Text Colour
 msg.nc.InfoPanelOutput=§7Output: %s EU/t
 msg.nc.InfoPanelOutputMJ=§7Output: %s RF/t
 msg.nc.InfoPanelOutputSteam=§7Output: %s mB/t
-msg.nc.AverageCounterPeriod=§7Period: %ssec
+msg.nc.AverageCounterPeriod=§7Period: %s sec
 msg.nc.HowlerAlarmSoundRange=§7Sound range: %s
 msg.nc.HowlerAlarmSound=§7Sound

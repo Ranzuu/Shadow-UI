@@ -8,9 +8,10 @@ text.backpack.dropped_backpacks=§7%s наплічники були вилуче
 text.backpack.autopickup=§7Піднімати автоматично:
 text.backpack.recipes=§7Рецепти
 text.backpack.configuration=§7Налаштування наплічника
-
+text.backpack.title_format=§7%s
 button.backpack.ok=§7OK
 button.backpack.cancel=§7Скасувати
+
 
 key.personalBackpack=§7Відкрити наплічник
 key.categories.backpack=§7Наплічники

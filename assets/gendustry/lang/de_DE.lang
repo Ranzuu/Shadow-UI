@@ -1,14 +1,11 @@
-tile.gendustry.mutagen_producer.name=§7Mutagen-Erzeuger
-tile.gendustry.mutatron.name=§7Mutatron
-tile.gendustry.mutatron_adv.name=§7Erweitertes Mutatron
-tile.gendustry.apiary.name=§7Industrieller Bienenstock
-tile.gendustry.imprinter.name=§7Gen-Drucker
-tile.gendustry.sampler.name=§7Gen-Abtaster
-tile.gendustry.extractor.name=§7DNA-Extraktor
-tile.gendustry.liquifier.name=§7Proteinverflüssiger
-tile.gendustry.replicator.name=§7Genetischer Replikator
-tile.gendustry.transposer.name=§7Genetischer Wandler
-
 gendustry.label.select=§7Auswahl:
-
-
+gendustry.label.mutagen_producer.title=§7Mutagen-Erzeuger
+gendustry.label.mutatron.title=§7Mutatron
+gendustry.label.mutatron_adv.title=§7Erweitertes Mutatron
+gendustry.label.apiary.title=§7Industrieller Bienenstock
+gendustry.label.imprinter.title=§7Gen-Drucker
+gendustry.label.sampler.title=§7Gen-Abtaster
+gendustry.label.extractor.title=§7DNA-Extraktor
+gendustry.label.liquifier.title=§7Proteinverflüssiger
+gendustry.label.replicator.title=§7Genetischer Replikator
+gendustry.label.transposer.title=§7Genetischer Wandler

@@ -1,6 +1,5 @@
 # GUI
 gui.nutrition:nutrition_title=§7Beslenme
-gui.nutrition:close=§7Kapat
 gui.nutrition:updating=§7Güncelleniyor...
 
 # Nutrients

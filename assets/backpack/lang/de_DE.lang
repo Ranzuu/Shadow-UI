@@ -8,9 +8,10 @@ text.backpack.dropped_backpacks=§7%s Rucksäcke wurden aus deinem Inventar entf
 text.backpack.autopickup=§7Nimm automatisch auf:
 text.backpack.recipes=§7Rezepte
 text.backpack.configuration=§7Backpack Konfiguration
-
+text.backpack.title_format=§7%s
 button.backpack.ok=§7OK
 button.backpack.cancel=§7Abbrechen
+
 
 key.personalBackpack=§7Rucksack öffnen
 key.categories.backpack=§7Rucksäcke

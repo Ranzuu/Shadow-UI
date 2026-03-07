@@ -12,8 +12,8 @@ gui.tile.blockRangeTrigger.name.title=§7Gatilho de Alcance
 gui.optional.numbers=§7
 
 #Original Screen Messages
-msg.nc.ScreenColor=§7Screen Color
-msg.nc.TextColor=§7Text Color
+msg.nc.ScreenColor=§7Cor da Tela
+msg.nc.TextColor=§7Cor do Texto
 msg.nc.InfoPanelOutput=§7Saída: %sEU/t
 msg.nc.InfoPanelOutputMJ=§7Saída: %sMJ/t
 msg.nc.InfoPanelOutputSteam=§7Saída: %smB/t

@@ -170,29 +170,49 @@ gui.color.appliedenergistics2.ProcessBarStartColor=CCB13E53
 gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
 gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 
+## Color Aplicator Shift-click GUI
+# Window Border
+gui.color.appliedenergistics2.ColorSelectBackground=FF3C3B3A
+# Window Background
+gui.color.appliedenergistics2.ColorSelectBorder=FF4A4948
+# Button background
+gui.color.appliedenergistics2.ColorSelectBtnBg=FF6A6A6A
+# Button border selected
+gui.color.appliedenergistics2.ColorSelectBtnBorderSelected=FF7AC25F
+# Button border hover all minus selected
+gui.color.appliedenergistics2.ColorSelectBtnBorderHover=FF555452
+# Button background hover all minus selected
+gui.color.appliedenergistics2.ColorSelectBtnOverlayHover=33555452
+# Button border disabled
+gui.color.appliedenergistics2.ColorSelectBtnBorderDisabled=FF1D1D1D
+# Button background disabled
+gui.color.appliedenergistics2.ColorSelectBtnOverlayDisabled=B31D1D1D
+
+## Level Maintainer Fluid Crafting
 ae2fc.gui.color.StateIdle=FF7AC25F
 ae2fc.gui.color.StateCraft=FFFFF70F
 ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
 
-#Additions
-gui.appliedenergistics2.CPUs=§7Процессор
+# Additions
+gui.appliedenergistics2.CPUs=§7Процесори
 gui.appliedenergistics2.NoCraftingJobs=§7Немає активного завдання на створення
 gui.appliedenergistics2.NoCraftingCPUs=§7Процесори для створення не доступні
 gui.appliedenergistics2.CraftingCPU=§7Створення процесора
-gui.appliedenergistics2.StartWithFollow=§7Start With Follow
-gui.appliedenergistics2.ToFollow=§7Follow
-gui.appliedenergistics2.ToUnfollow=§7Unfollow
+gui.appliedenergistics2.StartWithFollow=§7Почати з відстеженням
+gui.appliedenergistics2.ToFollow=§7Відстежувати
+gui.appliedenergistics2.ToUnfollow=§7Не відстежувати
 gui.appliedenergistics2.Start=§7Почати
 gui.appliedenergistics2.Next=§7Далі
-gui.appliedenergistics2.Suspend=§7Suspend
-gui.appliedenergistics2.Resume=§7Resume
+gui.appliedenergistics2.Suspend=§7Призупинити
+gui.appliedenergistics2.Resume=§7Відновити
 gui.appliedenergistics2.Cancel=§7Скасувати
 gui.appliedenergistics2.Terminal=§7Термінал
 gui.appliedenergistics2.Set=§7Встановити
 gui.appliedenergistics2.IncreaseAmount=§7+%s
 gui.appliedenergistics2.DecreaseAmount=§7-%s
-gui.appliedenergistics2.AddToBookmark=§7Bookmark
+gui.appliedenergistics2.AddToBookmark=§7Закладка
+gui.appliedenergistics2.SelectColor=§7Оберіть колір
 
-gui.appliedenergistics2.Inputs=§7Inputs
-gui.appliedenergistics2.Outputs=§7Outputs
+gui.appliedenergistics2.Inputs=§7Входи
+gui.appliedenergistics2.Outputs=§7Виходи

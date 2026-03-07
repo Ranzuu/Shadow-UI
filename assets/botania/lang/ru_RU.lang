@@ -262,4 +262,6 @@ entity.Botania.botania:manaStorm.name=§7Эпицентр манашторма
 entity.Botania.botania:babylonWeapon.name=§7Оружие казначейства
 entity.Botania.botania:fallingStar.name=§7Падающая звезда
 
-item.botania:flowerBag.name=§7Цветочный мешочек
+# GUI TEXT
+botania.gui.flowerBag.title=§7Цветочный мешочек
+botania.gui.shroomBag.title=§7Mushroom Pouch

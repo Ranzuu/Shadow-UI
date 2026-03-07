@@ -1,19 +1,20 @@
 ﻿#GUI
-thaumicenergistics.gui.arcane.crafting.terminal.title=§7Магический терминал
-thaumicenergistics.gui.essentia.cell.title=§7Ячейка эссенции
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7Arcane Terminal
+thaumicenergistics.gui.essentia.cell.title=§7Essentia Cell
+thaumicenergistics.gui.essentia.cell.workbench.title=§7Essentia Cell Workbench
+thaumicenergistics.gui.arcane.assembler.title=§7Магический сборщик
+thaumicenergistics.gui.knowledge.inscriber.title=§7Высекатель знаний
+thaumicenergistics.gui.distillation.encoder.title=§7Дистилляционный кодировщик шаблонов
+thaumicenergistics.gui.essentia.ImportBus.title=§7Essentia Import Bus
+thaumicenergistics.gui.essentia.ExportBus.title=§7Essentia Export Bus
+thaumicenergistics.gui.essentia.levelemitter.title=§7Essentia Level Emitter
+thaumicenergistics.gui.essentia.StorageBus.title=§7Essentia Storage Bus
+thaumicenergistics.gui.essentia.terminal.title=§7Essentia Terminal
+
 thaumicenergistics.gui.selected.amount=§7Количество
 thaumicenergistics.gui.selected.aspect=§7Аспект
 thaumicenergistics.gui.digivis.source.name=§7Источник ЦифроВис
-thaumicenergistics.gui.essentia.cell.workbench.title=§7Верстак для ячеек эссенции
-thaumicenergistics.gui.arcane.assembler.title=§7Магический сборщик
 thaumicenergistics.gui.vibration.chamber.stored=Хранится: %d %s
 thaumicenergistics.gui.vibration.chamber.processing=§7Прогресс: %s
 
-thaumicenergistics.aeparts.essentia.terminal.name=§7Терминал эссенции
-thaumicenergistics.item.wireless.essentia.terminal.name=§7Беспроводной терминал эссенции
-thaumicenergistics.aeparts.essentia.StorageBus.name=§7Шина хранения эссенции
-thaumicenergistics.aeparts.essentia.levelemitter.name=§7Излучатель уровня эссенции
-thaumicenergistics.aeparts.essentia.ImportBus.name=§7Шина импорта эссенции
-thaumicenergistics.aeparts.essentia.ExportBus.name=§7Шина экспорта эссенции
-thaumicenergistics.block.knowledge.inscriber.name=§7Высекатель знаний
-thaumicenergistics.block.distillation.encoder.name=§7Дистилляционный кодировщик шаблонов
+thaumicenergistics.gui.priority.title=§7Priority

@@ -1,6 +1,3 @@
-
-
-
 door_movement.rotating_door=§7Aufschwingend
 door_movement.sliding_door=§7Auflgeitend
 door_movement.sliding_up_door=§7Aufgleitend (hoch)
@@ -20,11 +17,6 @@ door_movement.double_slide_right=§7Double sliding right
 door_movement.double_rotate_left=§7Double rotating left
 door_movement.double_rotate_right=§7Double rotating right
 
-
-
-gui.door_factory.tab_properties=§7Eigenschaften
-gui.door_factory.tab_materials=§7Materialien
-gui.door_factory.tab_digicode=§7Digicode
 gui.door_factory.rb_create=§7Create
 gui.door_factory.rb_edit=§7Modify
 gui.door_factory.door_movement=§7Bewegung
@@ -41,16 +33,12 @@ gui.door_factory.door_sound.pneumatic_door=§7Pneumatiktür
 gui.door_factory.door_sound.shoji_door=§7Shoji-Schiebetür
 gui.door_factory.door_sound.carriage_door=§7Wagentor
 
-
 gui.door_factory.frame_type=§7Rahmenart
 gui.door_factory.top_material=§7Material oben
 gui.door_factory.bottom_material=§7Material unten
 gui.door_factory.door_edit_slot=§7Door to modify
-gui.door_factory.create_door=§7Tür bauen
-gui.door_factory.edit_door=§7Modify door
 
 gui.block_mixer.simple_rendering=§7Einfaches zeichnen rendern
-gui.block_mixer.simple_rendering_tooltip=§7Blöcke benötigen ein Chunk-Update um den Effekt zu sehen.
 
-tile.block_mixer.name=§7Blockmischer
-tile.door_factory.name=§7Türfabrik
+gui.block_mixer.title=§7Blockmischer
+gui.door_factory.title=§7Türfabrik

@@ -1,3 +1,9 @@
+extratrees.machine.machine.lumbermill.title=§7Lumbermill
+extratrees.machine.machine.woodworker.title=§7Woodworker
+extratrees.machine.machine.panelworker.title=§7Panelworker
+extratrees.machine.machine.glassworker.title=§7Glassworker
+extratrees.machine.machine.tileworker.title=§7Tileworker
+
 extratrees.gui.database.planks.use=§7Можно создать:
 
 extratrees.gui.database.mode.fruit=§7Плод
@@ -37,10 +43,3 @@ extratrees.gui.database.tab.butterfly.breeder=§7Селекция
 
 extratrees.gui.database.log=§7древесина
 extratrees.gui.database.leaves=§7листья
-
-extratrees.machine.machine.brewery=§7Пивоварня
-extratrees.machine.machine.lumbermill=§7Лесопилка
-extratrees.machine.machine.woodworker=§7Столяр
-extratrees.machine.machine.panelworker=§7Панельщик
-extratrees.machine.machine.glassworker=§7Стекольщик
-extratrees.machine.machine.tileworker=§7Плиточник

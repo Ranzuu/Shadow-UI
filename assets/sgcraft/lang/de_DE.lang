@@ -1,0 +1,7 @@
+gui.gcewing_sg:ocInterface.title=§7OC Stargate Interface
+gui.gcewing_sg:ic2PowerUnit.title=§7IC2 SGPU
+gui.gcewing_sg:rfPowerUnit.title=§7RF SGPU
+
+gui.gcewing_sg:ic2PowerUnit.eu=§7EU
+gui.gcewing_sg:rfPowerUnit.rf=§7RF
+gui.gcewing_sg:ic2PowerUnit.max=§7Max %s

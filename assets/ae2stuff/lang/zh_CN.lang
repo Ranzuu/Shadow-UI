@@ -1,4 +1,13 @@
-tile.ae2stuff.Encoder.name=§7样板编码台
-tile.ae2stuff.Grower.name=§7晶体催生仓
-tile.ae2stuff.Inscriber.name=§7高级压印器
-tile.ae2stuff.Wireless.name=§7无线接入器 
+gui.ae2stuff.Encoder.title=§7Pattern Encoder
+gui.ae2stuff.Grower.title=§7Crystal Growth Chamber
+gui.ae2stuff.Inscriber.title=§7Advanced Inscriber
+
+ae2stuff.visualiser.color.node.missing=0xE6B13E53
+ae2stuff.visualiser.color.node.dense=0xE6FFF70F
+ae2stuff.visualiser.color.node.proxy=0xE6C46632
+ae2stuff.visualiser.color.node.default=0xE62A63C1
+
+ae2stuff.visualiser.color.link.compressed=0xB3FF71D6
+ae2stuff.visualiser.color.link.dense=0xB3FFF70F
+ae2stuff.visualiser.color.link.proxy=0xB3C46632
+ae2stuff.visualiser.color.link.default=0xB32A63C1

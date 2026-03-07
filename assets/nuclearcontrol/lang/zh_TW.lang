@@ -5,9 +5,10 @@ gui.tile.blockHowlerAlarm.name.title=§7蜂鳴警報器
 gui.tile.blockRemoteThermo.name.title=§7遙控温度監察器
 gui.tile.blockInfoPanel.name.title=§7工業顯示器
 gui.tile.blockAdvancedInfoPanel.name.title=§7高級工業顯示器
-gui.tile.blockEnergyCounter.nam.title=§7電力計算機
+gui.tile.blockEnergyCounter.name.title=§7電力計算機
 gui.tile.blockAverageCounter.name.title=§7平均電力計算機
 gui.tile.blockRangeTrigger.name.title=§7範圍觸發器
+
 gui.optional.numbers=§7
 
 #Original Screen Messages

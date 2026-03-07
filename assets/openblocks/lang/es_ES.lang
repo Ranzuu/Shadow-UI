@@ -28,4 +28,4 @@ openblocks.gui.item_outputs=§7Salidas de Objetos
 openblocks.gui.max_level=§7Nivel máx.: %d
 openblocks.gui.save_folder=§7Guardar carpeta
 
-tile.openblocks.trophy.entity.name=Trofeo de %s 
+tile.openblocks.trophy.entity.name=Trofeo de %s

@@ -262,4 +262,6 @@ entity.Botania.botania:manaStorm.name=§7Epicentro de tormenta de maná
 entity.Botania.botania:babylonWeapon.name=§7Arma del tesoro
 entity.Botania.botania:fallingStar.name=§7Estrella caída
 
-item.botania:flowerBag.name=§7Bolsa de flores
+# GUI TEXT
+botania.gui.flowerBag.title=§7Bolsa de flores
+botania.gui.shroomBag.title=§7Mushroom Pouch

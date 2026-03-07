@@ -1,20 +1,27 @@
-tile.playerinterface.name=§7Interfarce du joueur
-tile.creativePlayerInterface.name=§7Interface créative du joueur
-text.miscellaneous.connectedTo=§7Connecté à
+item.filter.name=§7Filter: 
+gui.item.filterItem.name.title=§7Item Filter
+gui.item.dropFilter.name.title=§7Drop Filter
+gui.item.dropFilterVoiding.name.title=§7Voiding Drop Filter
 
-tile.advancedItemCollector.name=§7Collecteur d'item avancé
-tile.onlineDetector.name=§7Dectecteur de présence en ligne
+gui.tile.advancedItemCollector.name.title=§7Collecteur d'item avancé
+gui.tile.onlineDetector.name.title=§7Dectecteur de présence en ligne
+gui.tile.dyeingMachine.name.title=§7Machine à colorer
+gui.tile.imbuingStation.name.title=§7Imbuing Station
+gui.tile.energyDistributor.name.title=§7Distributeur d'énergie
+gui.tile.enderEnergyDistributor.name.title=§7Distributeur d'énergie Ender
+gui.tile.playerinterface.name.title=§7Interfarce du joueur
+gui.tile.creativePlayerInterface.name.title=§7Creative Player Interface
+
+text.miscellaneous.connectedTo=§7Connecté à
+text.miscellaneous.nobody=§7nobody
+text.miscellaneous.radiusX=§7Radius X: %s
+text.miscellaneous.radiusY=§7Radius Y: %s
+text.miscellaneous.radiusZ=§7Radius Z: %s
 text.onlineDetector.detectingNobody=§7Personne détectée
 text.onlineDetector.detecting=§7"Détection %s"
-tile.dyeingMachine.name=§7Machine à colorer
-tile.energyDistributor.name=§7Distributeur d'énergie
-tile.enderEnergyDistributor.name=§7Distributeur d'énergie Ender
-tile.imbuingStation.name=§7Imbuing Station
-
-item.dropFilter.name=§7Filtre de drop
-item.dropFilterVoiding.name=§7Filtre destructeur de drop
-item.filterItem.name=§7Filtre à items
-item.voidStone.name=§7Pierre du void
+text.miscellaneous.edlt=§7Edlt: %s/%s RF
+text.miscellaneous.mc=§7MC: %s/%s
 
 entity.RandomThings.spirit.name=§7Spirit
 entity.bloodmoonCircle.name=§7Cercle de la lune de sang
+

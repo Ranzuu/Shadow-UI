@@ -140,7 +140,7 @@ GT5U.gui.text.content-entry=§7%s:§9 %s§r
 GT5U.gui.text.decay-rate=§7Скорость распада:§9 %s§7%s
 GT5U.gui.text.nothing=§7Nothing§r
 GT5U.gui.text.half-life=§7Период полураспада: %s %s
-GT5U.gui.text.isotope-prod-per-s=§7Prod/Stack/Second: %s
+GT5U.gui.text.isotope-prod-per-s=§7Prod/Stack/Second: %.2e
 GT5U.gui.text.decay-type=§7Тип распада: %s
 GT5U.gui.text.unknown=§7Неизвестно
 GT5U.gui.text.alpha=§7α-распад
@@ -160,7 +160,7 @@ GT5U.gui.text.volumetric_flask.confirm=§7Confirm
 GT5U.gui.text.fusion_computer.hit_to_start=§7Hit with Soft Mallet to (re-)start the Machine if it doesn't start.
 GT5U.gui.text.fusion_computer.running_perfectly=§7Running perfectly.
 
-gt.interact.desc.mb.running=§7Running perfectly.
+gt.interact.desc.mb.running=§7Неполадок не обнаружено.
 
 gt.interact.desc.mb.ItemTextLine=§b%s§7 x §6%s §7%s%s§7%s
 gt.interact.desc.mb.FluidTextLine=§b%s§7 x §6%sL §7%s%s§7%s
@@ -269,7 +269,7 @@ GT5U.gui.text.no_output_for_sapling=§7This sapling yields no outputs
 GT5U.gui.text.no_tools=§4Отсутствует применимые инструменты
 GT5U.multiblock.startup=§7Starting up...
 GT5U.multiblock.recipesDone=§7Recipes Finished
-GT5U.multiblock.efficiency=§7Efficiency
+GT5U.multiblock.efficiency=§7Эффективность: §e%s§r%%
 
 gt.interact.desc.mb.incomplete=§4Незавершенная структура
 gt.interact.desc.mb.mode=§7Режим работы: §6%s
@@ -278,14 +278,14 @@ GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Тир катализатора
 
-GTPP.CC.parallel=§7Максимум параллелей
+GTPP.CC.parallel=§7Maximum Parallel
 
 GT5U.gui.button.drill_retract_pipes=§fПрерывание и втягивание буровых труб
 
 GT5U.gui.button.chunk_loading_on=§fЗагрузка чанков: §aВКЛ.
 GT5U.gui.button.chunk_loading_off=§fЗагрузка чанков: §4ОТКЛ.
 
-GT5U.multiblock.energy=§7Энергии накоплено
+GT5U.multiblock.energy=§7Энергии накоплено: §a%s §rEU / §e%s §rEU
 
 GT5U.gui.text.powerfail_events=§7Powerfail Events
 
@@ -404,7 +404,7 @@ gt.interact.desc.MachineEnabled=§7Machine enabled
 gt.interact.desc.MachineIdle=§7Machine idle
 gt.interact.desc.RecipeProgress=§7Recipe progress
 
-## EU MEter
+## EU Meter
 gt.interact.desc.EnergyThreshold=§7Energy threshold
 
 ## Facade
@@ -434,6 +434,19 @@ GT5U.nei.purified_water.grade_3.2=§7Returned in amount equivalent to consumed f
 GT5U.nei.purified_water.grade_4.0=§7+%s pH/stack
 GT5U.nei.purified_water.grade_4.1=§7%s pH/1000L
 
+# Exo-Foundry GUI
+GT5U.gui.text.foundry.modules.preview=§7Showing Preview Modules
+GT5U.gui.text.foundry.modules.installed=§7Showing Installed Modules
+
+# Large Hadron Collider GUI
+GT5U.gui.text.LHC.beamenergykeV=§7Current Beam Energy %seV
+GT5U.gui.text.LHC.beamrate=§7Current Beam Rate
+GT5U.gui.text.LHC.powercost=§7Current Power Draw %s §7EU/t
+GT5U.gui.text.LHC.status=§7Status: %s
+GT5U.gui.text.LHC.off=§7Off
+GT5U.gui.text.LHC.acceleratormode=§7Accelerating beam...
+GT5U.gui.text.LHC.collidermode=§7Colliding beam...
+GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
 
 # Drone Centre
 GT5U.gui.text.drone_no_connection=§7No any connection
