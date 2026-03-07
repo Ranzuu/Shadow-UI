@@ -1,6 +1,5 @@
 # GUI
 gui.nutrition:nutrition_title=§7Питательные компоненты
-gui.nutrition:close=§7Закрыть
 gui.nutrition:updating=§7Обновление...
 
 # Nutrients

@@ -1,0 +1,7 @@
+vendingmachine.gui.requirementHeader=§7需求条件：
+
+vendingmachine.gui.neiColor.conditionDefault=AAAAAA
+vendingmachine.gui.neiColor.conditionSatisfied=7AC25F
+vendingmachine.gui.neiColor.conditionUnsatisfied=AAAAAA
+
+gt.blockmachines.multimachine.vendingmachine.name.gui=§7自动售货机

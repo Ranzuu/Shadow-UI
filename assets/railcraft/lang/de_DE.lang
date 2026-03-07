@@ -9,11 +9,11 @@ railcraft.gui.turbine.output=§7Leistung: @d%%
 railcraft.gui.turbine.rotor=§7Rotor:
 railcraft.gui.turbine=§7Dampfturbine
 
-railcraft.gui.tank.aluminium=§7Aluminium Tank
-railcraft.gui.tank.stainless=§7Stainless Steel Tank
-railcraft.gui.tank.titanium=§7Titanium Tank
-railcraft.gui.tank.tungstensteel=§7Tungstensteel Tank
-railcraft.gui.tank.palladium=§7Palladium Tank
+railcraft.gui.tank.aluminium=§7Aluminiumtank
+railcraft.gui.tank.stainless=§7Edelstahltank
+railcraft.gui.tank.titanium=§7Titantank
+railcraft.gui.tank.tungstensteel=§7Wolframstahltank
+railcraft.gui.tank.palladium=§7Palladiumtank
 
 railcraft.gui.ic2.energy.rate=§7Rate: @d EU
 

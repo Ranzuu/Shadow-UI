@@ -1,6 +1,6 @@
 tile.playerinterface.name=§7Spieler-Interface
 tile.creativePlayerInterface.name=§7Creative Player Interface
-text.miscellaneous.connectedTo=§7Connected to
+text.miscellaneous.connectedTo=§7Connected to %s
 
 tile.advancedItemCollector.name=§7Fortgeschrittener Item-Sammler
 tile.onlineDetector.name=§7Online-Detektor

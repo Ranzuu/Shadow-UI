@@ -1,7 +1,7 @@
 #Internal Blocks
 tile.blockThermalMonitor.name=§7Monitor Térmico
 tile.blockIndustrialAlarm.name=§7Alarma Industrial
-tile.blockHowlerAlarm.nam.titlee=§7Alarma Aulladora
+tile.blockHowlerAlarm.name=§7Alarma Aulladora
 tile.blockRemoteThermo.name=§7Monitor Térmico Remoto
 tile.blockInfoPanel.name=§7Panel de Información Industrial
 tile.blockAdvancedInfoPanel.name=§7Panel de Información Avanzado

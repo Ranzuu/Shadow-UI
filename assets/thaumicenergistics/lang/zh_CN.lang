@@ -1,10 +1,10 @@
 ﻿#GUI
-thaumicenergistics.gui.arcane.crafting.terminal.title=§7奥术终端
-thaumicenergistics.gui.essentia.cell.title=§7源质元件
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7Arcane Terminal
+thaumicenergistics.gui.essentia.cell.title=§7Essentia Cell
 thaumicenergistics.gui.selected.amount=§7数量
 thaumicenergistics.gui.selected.aspect=§7要素
 thaumicenergistics.gui.digivis.source.name=§7数位魔力源
-thaumicenergistics.gui.essentia.cell.workbench.title=§7源质元件工作台
+thaumicenergistics.gui.essentia.cell.workbench.title=§7Essentia Cell Workbench
 thaumicenergistics.gui.arcane.assembler.title=§7奥术装配室
 thaumicenergistics.gui.vibration.chamber.stored=存储：%d %s
 thaumicenergistics.gui.vibration.chamber.processing=§7正在处理：%s

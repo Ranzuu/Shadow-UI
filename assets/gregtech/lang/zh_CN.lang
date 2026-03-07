@@ -265,14 +265,14 @@ GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Catalyst Tier
 
-GTPP.CC.parallel=§7最大并行
+GTPP.CC.parallel=§7Maximum Parallel
 
 GT5U.gui.button.drill_retract_pipes=§fAbort and retract mining pipes
 
 GT5U.gui.button.chunk_loading_on=§fChunk Loading: §aON
 GT5U.gui.button.chunk_loading_off=§fChunk Loading: §4OFF
 
-GT5U.multiblock.energy=§7存储能量
+GT5U.multiblock.energy=§7存储能量: §a%s §rEU / §e%s §rEU
 
 GT5U.gui.text.powerfail_events=§7Powerfail Events
 

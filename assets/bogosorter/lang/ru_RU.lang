@@ -1,4 +1,4 @@
-bogosort.gui.title=§7§7Конфигурация сортировки
+bogosort.gui.title=§7Конфигурация сортировки
 bogosort.gui.tab.item_sort_rules.name=§7Правила сортировки предметов
 bogosort.gui.tab.nbt_sort_rules.name=§7Правила сортировки NBT
 bogosort.gui.available_sort_rules=§7Доступные правила сортировки
