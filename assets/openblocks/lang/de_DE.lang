@@ -27,5 +27,3 @@ openblocks.gui.xp_outputs=§7XP-Abgabe
 openblocks.gui.item_outputs=§7Itemabgabe
 openblocks.gui.max_level=§7Max. Level: %d
 openblocks.gui.save_folder=§7Sichere Ordner
-
-tile.openblocks.trophy.entity.name=%s Trophäe

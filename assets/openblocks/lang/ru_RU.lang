@@ -27,5 +27,3 @@ openblocks.gui.xp_outputs=§7Выходы опыта
 openblocks.gui.item_outputs=§7Выходы предметов
 openblocks.gui.max_level=§7Макс. уровень: %d
 openblocks.gui.save_folder=§7Сохранить папку
-
-tile.openblocks.trophy.entity.name=Трофей (%s)
