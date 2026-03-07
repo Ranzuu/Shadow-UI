@@ -1,6 +1,6 @@
 ﻿#GUI
-thaumicenergistics.gui.arcane.crafting.terminal.title=§7아케인 조합 단말기
-thaumicenergistics.gui.essentia.cell.title=§7에센시아 셀
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7Arcane Terminal
+thaumicenergistics.gui.essentia.cell.title=§7Essentia Cell
 thaumicenergistics.gui.selected.amount=§7양
 thaumicenergistics.gui.selected.aspect=§7위상
 thaumicenergistics.gui.digivis.source.name=§7디지센시아 소스

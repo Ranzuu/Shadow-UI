@@ -5,7 +5,7 @@ tile.blockHowlerAlarm.name=§7蜂鸣报警器
 tile.blockRemoteThermo.name=§7远程温度监控器
 tile.blockInfoPanel.name=§7工业信息屏
 tile.blockAdvancedInfoPanel.name=§7高级工业信息屏
-tile.blockEnergyCounter.nam.titlee=§7电力计数器
+tile.blockEnergyCounter.name=§7电力计数器
 tile.blockAverageCounter.name=§7平均电力计数器
 tile.blockRangeTrigger.name=§7范围触发器
 

@@ -1,0 +1,17 @@
+# NEI
+ig.nei.spaceassembler.project=§7Требуется %s
+ig.nei.spaceassembler.projectAt=§7в %s
+ig.nei.spaceassembler.projectAnyLocation=§7любое местоположение
+ig.nei.module=§7Требуется модуль MK-%s
+ig.nei.spacemining.distance=§7Дистанция:
+ig.nei.spacemining.size=§7Размеры:
+ig.nei.spacemining.weight=§7Вес:
+ig.nei.elevatorpump.planettype=§7Планета
+ig.nei.elevatorpump.gastype=§7Газ
+ig.nei.elevatorpump.amount=§7Количество
+ig.nei.elevatorpump.see_all=§7См. всё
+ig.nei.spaceproject.stages=§7Этапы:
+ig.nei.siphon.planet=§7Планета
+ig.nei.siphon.depth=§7Глубина
+
+ig.nei.space.custom.value=§7%s

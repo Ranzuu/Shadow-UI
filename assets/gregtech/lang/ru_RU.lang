@@ -1,7 +1,7 @@
 GT5U.infodata.purification_plant.status_button=§7Статус
 GT5U.infodata.purification_plant.status_title=§7Purification Unit Status
 GT5U.infodata.purification_plant.linked_units=§7Linked Purification Units:
-GT5U.infodata.purification_plant.linked_units.status.online=§7В сети
+GT5U.infodata.purification_plant.linked_units.status.online=§7Online
 GT5U.infodata.purification_plant.linked_units.status.disabled=§4Отключён
 GT5U.infodata.purification_plant.linked_units.status.incomplete=§4Незавершенная структура
 
@@ -136,7 +136,7 @@ GT5U.gui.text.content-entry=§7%s:§9 %s§r
 GT5U.gui.text.decay-rate=§7Скорость распада:§9 %s§7%s
 GT5U.gui.text.nothing=§7Nothing§r
 GT5U.gui.text.half-life=§7Период полураспада: %s %s
-GT5U.gui.text.isotope-prod-per-s=§7Prod/Stack/Second: %.s
+GT5U.gui.text.isotope-prod-per-s=§7Prod/Stack/Second: %.2e
 GT5U.gui.text.decay-type=§7Тип распада: %s
 GT5U.gui.text.unknown=§7Неизвестно
 GT5U.gui.text.alpha=§7α-распад
@@ -265,14 +265,14 @@ GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Тир катализатора
 
-GTPP.CC.parallel=§7Максимум параллелей
+GTPP.CC.parallel=§7Maximum Parallel
 
 GT5U.gui.button.drill_retract_pipes=§fПрерывание и втягивание буровых труб
 
 GT5U.gui.button.chunk_loading_on=§fЗагрузка чанков: §aВКЛ.
 GT5U.gui.button.chunk_loading_off=§fЗагрузка чанков: §4ОТКЛ.
 
-GT5U.multiblock.energy=§7Энергии накоплено
+GT5U.multiblock.energy=§7Энергии накоплено: §a%s §rEU / §e%s §rEU
 
 GT5U.gui.text.powerfail_events=§7Powerfail Events
 
@@ -383,8 +383,8 @@ gt.interact.desc.Energy_Detector.eu_stored=§7EU stored
 ## Maintenance Cover
 gt.interact.desc.issue=§71 проблема
 gt.interact.desc.issues=§7%s проблемы(а)
-gt.interact.desc.issue_rotor_low=§7Ротор < 20%
-gt.interact.desc.issue_rotor_dead=§7Ротор ≈ 0%
+gt.interact.desc.issue_rotor_low=§7Ротор < 20%%
+gt.interact.desc.issue_rotor_dead=§7Ротор ≈ 0%%
 
 ## DoesWorkUI
 gt.interact.desc.MachineEnabled=§7Machine enabled
