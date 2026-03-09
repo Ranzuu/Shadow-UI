@@ -4,6 +4,7 @@ Applied Energistics 2
 
 AE2Stuff
 - Customized the Network Visualizer overlay color - https://github.com/GTNewHorizons/ae2stuff/pull/37
+- Changed Network Status bar - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1105
 
 Amun-Ra
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/amunra/pull/38
@@ -20,14 +21,23 @@ Binnie Core
 Blood Magic
 - Fixes text color for gui and NEI values - https://github.com/GTNewHorizons/BloodMagic/pull/118 / https://github.com/GTNewHorizons/BloodMagic/pull/120
 
+Botania
+- Fixes text color for pouches - https://github.com/GTNewHorizons/Botania/pull/124
+
 Buildcraft and addons
 - Fixed text color for some guis (+texture fixes) - https://github.com/GTNewHorizons/BuildCraft/pull/26 / https://github.com/GTNewHorizons/BuildCraftCompat/pull/13
 
 CarpentersBlocks
 - Fixed title text color for Carpenter's Safe - https://github.com/GTNewHorizons/CarpentersBlocks/pull/15
 
+CodeChickenCore
+- Fixes scrollbar color - https://github.com/GTNewHorizons/CodeChickenCore/pull/43
+
 Computronics
 - Fixes title text color for Ticket machine - https://github.com/GTNewHorizons/Computronics/pull/35
+
+EzStorage
+- Updated text color - https://github.com/LITW-Refined/EZStorage/pull/48
 
 ExtraBees
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/Binnie/pull/81
@@ -52,6 +62,7 @@ Genetics
 
 GT5
 - Fixed text color on Multiblock guis - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5773
+- Fixes CoverTabs textures - https://github.com/GTNewHorizons/GT5-Unofficial/pull/6084
 
 Gtnh Intergalactic
 - Fixed text color for Space Pumping Module values in NEI - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5711
@@ -68,12 +79,18 @@ IFU (I will find you!)
 KubaTech
 - Fixed text color: Usage/Time lines - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
 
+LittleTiles
+- Fixed background color - https://github.com/GTNewHorizons/LittleTiles/pull/52 
+
 NotEnoughtItems (NEI)
 - Fixed small subset label (%) color (I hate that purple) - https://github.com/GTNewHorizons/NotEnoughItems/pull/836
 - Fixed magnet icon - https://github.com/GTNewHorizons/NotEnoughItems/pull/849
 
 Project Red
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/ProjectRed/pull/64
+
+ServerUtilities
+- Updated the UI texture - https://github.com/GTNewHorizons/ServerUtilities/pull/266
 
 Steve's Factory Manager
 - Fixed text color for custom command titles - https://github.com/GTNewHorizons/Steve-s-Factory-Manager/pull/17
@@ -102,6 +119,8 @@ RandomThings
 Railcraft
 - Fixed everything.. - https://github.com/GTNewHorizons/Railcraft/pull/108
 
+..and much more prs that effected this resource pack ;-;
+
 Other
 - Fixes text color of gui titles inside the Creative inventory and tabs - https://github.com/GTNewHorizons/Hodgepodge/pull/709
 
@@ -128,9 +147,6 @@ Chromatic Tooltips
 Enhanced Lootbags
 - Updated Nei handler
 
-EzStorage
-- Updated text color
-
 GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
 - Added Nanochip Assembly Comples gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/2903
@@ -155,7 +171,6 @@ Thaumic Exploration
 
 ServerUtilities
 - Updated trash can title (god damn finally) - https://github.com/GTNewHorizons/ServerUtilities/pull/256
-- Updated the ui texture
 
 Waila
 - Added Energy bar
@@ -169,4 +184,4 @@ Other
 
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 408 (07.03.26)
+Up to date with Daily 411 (09.03.26)
