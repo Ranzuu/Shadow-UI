@@ -1,9 +1,3 @@
-tile.witchery:distilleryidle.name=§7Перегонный куб
-tile.witchery:distilleryburning.name=§7Перегонный куб
-tile.witchery:spinningwheel.name=§7Крутящееся колесо
-tile.witchery:witchesovenidle.name=§7Ведьмина печь
-tile.witchery:witchesovenburning.name=§7Ведьмина печь
-
 container.witchery:poppetshelf=§7Полка для кукол
 
 entity.witchery.demon.name=§7Демон
