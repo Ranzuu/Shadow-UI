@@ -1,9 +1,3 @@
-tile.witchery:distilleryidle.name=§7Distillerie
-tile.witchery:distilleryburning.name=§7Distillerie
-tile.witchery:spinningwheel.name=§7Spinnrad
-tile.witchery:witchesovenidle.name=§7Hexenofen
-tile.witchery:witchesovenburning.name=§7Hexenofen
-
 container.witchery:poppetshelf=§7Puppenregal
 
 entity.witchery.demon.name=§7Dämon
