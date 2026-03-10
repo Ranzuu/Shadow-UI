@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7 Anfon at DIMENSION
 gui.button.rename.name=§7 Rename
 gui.button.loadfuel.name=§7 Llwytho Tanwydd
 gui.button.refine.name=§7 Mireinio
-gui.button.back.name=§7 Yn ôl
-gui.button.next.name=§7 Nesaf
-gui.button.unlockschematic.name=§7 Datglo Sgematig
 gui.button.stoprefine.name=§7 Stop Mireinio
 gui.button.enable.name=§7 Galluogi
 gui.button.disable.name=§7 Analluogi
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk ##NEEDS TRANSLATE##
 entity.GalacticraftCore.OxygenBubble.name=§7Ocsigen Bubble
 entity.GalacticraftCore.ParaChest.name=§7Parachest
 entity.GalacticraftCore.Spaceship.name=§7Haen 1 Roced
+
+schematic.moonbuggy.name=§7 Moon Buggy
+schematic.rocketT1.name=§7 Haen 1 Roced
+schematic.rocketT2.name=§7 Haen 2 Roced

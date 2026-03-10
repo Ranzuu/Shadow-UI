@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Envoyer à la dimension
 gui.button.rename.name=§7Renommer
 gui.button.loadfuel.name=§7Charger le carburant
 gui.button.refine.name=§7Affiner
-gui.button.back.name=§7Retour
-gui.button.next.name=§7Suivant
-gui.button.unlockschematic.name=§7Débloquez schéma
 gui.button.stoprefine.name=§7Arrêtez de raffinage
 gui.button.enable.name=§7Activer
 gui.button.disable.name=§7Désactiver
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Morceau de météore
 entity.GalacticraftCore.OxygenBubble.name=§7Bulle d'oxygène
 entity.GalacticraftCore.ParaChest.name=§7Coffre parachuté
 entity.GalacticraftCore.Spaceship.name=§7Fusée Niveau 1
+
+schematic.moonbuggy.name=§7Boghei Lunaire
+schematic.rocketT1.name=§7Fusée Niveau 1
+schematic.rocketT2.name=§7Fusée Niveau 2

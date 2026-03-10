@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Gitmek İçin Tıklayın
 gui.button.rename.name=§7Ad Değiştir
 gui.button.loadfuel.name=§7Yakıtı Yükle
 gui.button.refine.name=§7Rafine Et
-gui.button.back.name=§7Geri
-gui.button.next.name=§7İleri
-gui.button.unlockschematic.name=§7Şematik Kilidini Aç
 gui.button.stoprefine.name=§7Rafine Etmeyi Durdur
 gui.button.enable.name=§7Etkin
 gui.button.disable.name=§7Devre Dışı
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteor Parçası
 entity.GalacticraftCore.OxygenBubble.name=§7Oksijen Kabarcığı
 entity.GalacticraftCore.ParaChest.name=§7Para Sandık
 entity.GalacticraftCore.Spaceship.name=§7Tier 1 Roket
+
+schematic.moonbuggy.name=§7Buggy
+schematic.rocketT1.name=§7Tier 1 Roketi
+schematic.rocketT2.name=§7Tier 2 Roketi

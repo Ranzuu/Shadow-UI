@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Parti per la dimensione
 gui.button.rename.name=§7Rinomina
 gui.button.loadfuel.name=§7Carica benzina
 gui.button.refine.name=§7Raffina
-gui.button.back.name=§7Indietro
-gui.button.next.name=§7Avanti
-gui.button.unlockschematic.name=§7Sblocca progetto
 gui.button.stoprefine.name=§7Ferma in raffinamento
 gui.button.enable.name=§7Attiva
 gui.button.disable.name=§7Disattiva
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Pezzo di meteorite
 entity.GalacticraftCore.OxygenBubble.name=§7Bolla di ossigeno
 entity.GalacticraftCore.ParaChest.name=§7Cassa del razzo
 entity.GalacticraftCore.Spaceship.name=§7Razzo di livello 1
+
+schematic.moonbuggy.name=§7Rover della luna
+schematic.rocketT1.name=§7Razzo di livello 1
+schematic.rocketT2.name=§7Razzo di livello 2

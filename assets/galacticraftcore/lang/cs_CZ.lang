@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Cestovat
 gui.button.rename.name=§7Přejmenovat
 gui.button.loadfuel.name=§7Natankovat
 gui.button.refine.name=§7Zpracovat
-gui.button.back.name=§7Zpět
-gui.button.next.name=§7Další
-gui.button.unlockschematic.name=§7Odemknout další
 gui.button.stoprefine.name=§7Zastavit
 gui.button.enable.name=§7Zapnout
 gui.button.disable.name=§7Vypnout
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Úlomek meteoritu
 entity.GalacticraftCore.OxygenBubble.name=§7Kyslíková bublina
 entity.GalacticraftCore.ParaChest.name=§7Truhla na padáku
 entity.GalacticraftCore.Spaceship.name=§7Raketa typ 1
+
+schematic.moonbuggy.name=§7Bugina
+schematic.rocketT1.name=§7Raketa typ 1
+schematic.rocketT2.name=§7Raketa typ 2
