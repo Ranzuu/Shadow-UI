@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Send to Dimension
 gui.button.rename.name=§7Rename
 gui.button.loadfuel.name=§7Load Fuel
 gui.button.refine.name=§7Refine
-gui.button.back.name=§7Back
-gui.button.next.name=§7Next
-gui.button.unlockschematic.name=§7Unlock Schematic
 gui.button.stoprefine.name=§7Stop Refining
 gui.button.enable.name=§7Enable
 gui.button.disable.name=§7Disable
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
 entity.GalacticraftCore.OxygenBubble.name=§7Oxygen Bubble
 entity.GalacticraftCore.ParaChest.name=§7Parachest
 entity.GalacticraftCore.Spaceship.name=§7Tier 1 Rocket
+
+schematic.moonbuggy.name=§7Moon Buggy
+schematic.rocketT1.name=§7Tier 1 Rocket
+schematic.rocketT2.name=§7Tier 2 Rocket

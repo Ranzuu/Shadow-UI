@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7해당 세계로 보내기
 gui.button.rename.name=§7이름 바꾸기
 gui.button.loadfuel.name=§7연료 채우기
 gui.button.refine.name=§7정제하기
-gui.button.back.name=§7뒤로
-gui.button.next.name=§7다음
-gui.button.unlockschematic.name=§7설계도 잠금해제
 gui.button.stoprefine.name=§7정제 멈추기
 gui.button.enable.name=§7가동하기
 gui.button.disable.name=§7멈추기
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7운석 덩어리
 entity.GalacticraftCore.OxygenBubble.name=§7산소 기포
 entity.GalacticraftCore.ParaChest.name=§7낙하상자
 entity.GalacticraftCore.Spaceship.name=§71티어 로켓
+
+schematic.moonbuggy.name=§7월면차
+schematic.rocketT1.name=§71티어 로켓
+schematic.rocketT2.name=§72티어 로켓

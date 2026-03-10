@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Pošalji u Dimenziju
 gui.button.rename.name=§7Preimenovati
 gui.button.loadfuel.name=§7Puni Gorivo
 gui.button.refine.name=§7Refiniraj
-gui.button.back.name=§7Nazad
-gui.button.next.name=§7Naprijed
-gui.button.unlockschematic.name=§7Otključaj Šemu
 gui.button.stoprefine.name=§7Prestani Refinirati
 gui.button.enable.name=§7Uključi
 gui.button.disable.name=§7Isključi
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
 entity.GalacticraftCore.OxygenBubble.name=§7Zračni Balon
 entity.GalacticraftCore.ParaChest.name=§7PadoŠkrinja
 entity.GalacticraftCore.Spaceship.name=§7Raketa Ranga 1
+
+schematic.moonbuggy.name=§7Mjesečev Rover
+schematic.rocketT1.name=§7Raketa Ranga 1
+schematic.rocketT2.name=§7Raketa Ranga 2

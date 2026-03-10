@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7ディメンションに送信
 gui.button.rename.name=§7名前変更
 gui.button.loadfuel.name=§7燃料を給油
 gui.button.refine.name=§7製錬
-gui.button.back.name=§7戻る
-gui.button.next.name=§7次へ
-gui.button.unlockschematic.name=§7回路図をアンロック
 gui.button.stoprefine.name=§7製錬を停止
 gui.button.enable.name=§7有効
 gui.button.disable.name=§7無効
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7流星チャンク
 entity.GalacticraftCore.OxygenBubble.name=§7酸素バブル
 entity.GalacticraftCore.ParaChest.name=§7パラシュートチェスト
 entity.GalacticraftCore.Spaceship.name=§7レベル 1 ロケット
+
+schematic.moonbuggy.name=§7ムーンバギー
+schematic.rocketT1.name=§7レベル 1 宇宙機
+schematic.rocketT2.name=§7レベル 2 宇宙機

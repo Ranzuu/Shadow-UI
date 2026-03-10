@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Skicka till dimension
 gui.button.rename.name=§7Byt namn
 gui.button.loadfuel.name=§7Tanka
 gui.button.refine.name=§7Arbetar
-gui.button.back.name=§7Föreg.
-gui.button.next.name=§7Nästa
-gui.button.unlockschematic.name=§7Läs in ritning
 gui.button.stoprefine.name=§7Stäng av
 gui.button.enable.name=§7Starta
 gui.button.disable.name=§7Stäng av
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteorsten
 entity.GalacticraftCore.OxygenBubble.name=§7Luftbubbla
 entity.GalacticraftCore.ParaChest.name=§7Fallskärmskista
 entity.GalacticraftCore.Spaceship.name=§7Rymdskepp
+
+schematic.moonbuggy.name=§7Månbil
+schematic.rocketT1.name=§7N1-raket
+schematic.rocketT2.name=§7N2-raket
