@@ -134,3 +134,6 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
 entity.GalacticraftCore.OxygenBubble.name=§7Oxygen Bubble
 entity.GalacticraftCore.ParaChest.name=§7Parachest
 entity.GalacticraftCore.Spaceship.name=§7Tier 1 Rocket
+
+schematic.moonbuggy.name=§7Moon Buggy
+schematic.rocketT1.name=§7Tier 1 Rocket

@@ -10,3 +10,5 @@ entity.GalacticraftMars.SpaceshipT2.name=§7จรวด เทียร์ 2
 container.launchcontroller.name=§7เครื่องควบคุมการปล่อยจรวด
 container.tileTerraformer.name=§7เทอราฟอร์มเมอร์
 container.marsLander.name=§7ยานลงจอดบอลลูน
+
+schematic.cargoRocket.name.short=§7Cargo Rocket

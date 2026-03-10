@@ -10,3 +10,5 @@ entity.GalacticraftMars.SpaceshipT2.name=§7Tier 2 Rocket
 container.launchcontroller.name=§7Launch Controller
 container.tileTerraformer.name=§7Terraformer
 container.marsLander.name=§7Landing Balloons
+
+schematic.cargoRocket.name.short=§7Cargo Rocket

@@ -10,3 +10,5 @@ entity.GalacticraftMars.SpaceshipT2.name=§7二階火箭
 container.launchcontroller.name=§7發射控制器
 container.tileTerraformer.name=§7地形改造機
 container.marsLander.name=§7Landing Balloons ##NEEDS TRANSLATE##
+
+schematic.cargoRocket.name.short=§7Cargo Rocket
