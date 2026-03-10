@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7ส่งไปยังมิติ
 gui.button.rename.name=§7เปลี่ยนชื่อ
 gui.button.loadfuel.name=§7โหลดเชื้อเพลิง
 gui.button.refine.name=§7เริ่มกลั่น
-gui.button.back.name=§7กลับ
-gui.button.next.name=§7ต่อไป
-gui.button.unlockschematic.name=§7ปลดล็อคแผนผัง
 gui.button.stoprefine.name=§7หยุดกลั่น
 gui.button.enable.name=§7เปิดใช้งาน
 gui.button.disable.name=§7ปิดใช้งาน
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7เศษอุกกาบาต
 entity.GalacticraftCore.OxygenBubble.name=§7ฟองออกซิเจน
 entity.GalacticraftCore.ParaChest.name=§7กล่องสัมภาระ
 entity.GalacticraftCore.Spaceship.name=§7จรวด เทียร์ 1
+
+schematic.moonbuggy.name=§7บักกี้ดวงจันทร์
+schematic.rocketT1.name=§7จรวด เทียร์ 1
+schematic.rocketT2.name=§7จรวด เทียร์ 2

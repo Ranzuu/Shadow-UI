@@ -63,9 +63,6 @@ gui.button.sendtodim.name=§7Küldés A Világba
 gui.button.rename.name=§7Átnevezés
 gui.button.loadfuel.name=§7Üzemanyag Betöltése
 gui.button.refine.name=§7Finomítás
-gui.button.back.name=§7Vissza
-gui.button.next.name=§7Következő
-gui.button.unlockschematic.name=§7Tervrajz Feloldása
 gui.button.stoprefine.name=§7Finomítás Megszakítása
 gui.button.enable.name=§7Indítás
 gui.button.disable.name=§7Leállítás
@@ -137,3 +134,7 @@ entity.GalacticraftCore.MeteorChunk.name=§7Meteordarab
 entity.GalacticraftCore.OxygenBubble.name=§7Légbuborék
 entity.GalacticraftCore.ParaChest.name=§7Utánpótlás-Szállító Láda
 entity.GalacticraftCore.Spaceship.name=§71-Es Szintű Rakéta
+
+schematic.moonbuggy.name=§7Rover
+schematic.rocketT1.name=§71-Es Szintű Rakéta
+schematic.rocketT2.name=§72-Es Szintű Rakéta
