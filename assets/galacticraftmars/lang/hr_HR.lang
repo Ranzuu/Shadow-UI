@@ -10,3 +10,5 @@ entity.GalacticraftMars.SpaceshipT2.name=§7Raketa Ranga 2
 container.launchcontroller.name=§7Kontroler Lansiranja
 container.tileTerraformer.name=§7Teraformer
 container.marsLander.name=§7Baloni sa slijetanje
+
+schematic.cargoRocket.name.short=§7Cargo Rocket

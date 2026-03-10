@@ -10,3 +10,5 @@ entity.GalacticraftMars.SpaceshipT2.name=§72티어 로켓
 container.launchcontroller.name=§7발사 통제기
 container.tileTerraformer.name=§7테라포머
 container.marsLander.name=§7착륙 기구
+
+schematic.cargoRocket.name.short=§7Cargo Rocket

@@ -31,3 +31,11 @@ entity.GalacticraftCore.SpaceshipT6.name=§76階火箭
 entity.GalacticraftCore.SpaceshipT7.name=§77階火箭
 entity.GalacticraftCore.SpaceshipT8.name=§78階火箭
 entity.GalacticraftCore.Tentacles.name=§7自然之手
+
+schematic.rocketT2.name=§7Tier 2 Rocket
+schematic.rocketT3.name=§7Tier 3 Rocket
+schematic.rocketT4.name=§7Tier 4 Rocket
+schematic.rocketT5.name=§7Tier 5 Rocket
+schematic.rocketT6.name=§7Tier 6 Rocket
+schematic.rocketT7.name=§7Tier 7 Rocket
+schematic.rocketT8.name=§7Tier 8 Rocket

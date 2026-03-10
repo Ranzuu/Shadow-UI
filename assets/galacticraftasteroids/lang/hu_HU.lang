@@ -2,3 +2,4 @@ gui.message.address.name=§7Saját Frekvencia
 gui.message.destAddress.name=§7Célpont Frekvenciája
 
 container.shortRangeTelepad.name=§7Rövidtávú Teleporter
+schematic.astroMiner.name=§7Astro Miner ##NEEDS TRANSLATE##

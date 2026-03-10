@@ -10,3 +10,5 @@ entity.GalacticraftMars.SpaceshipT2.name=§72-Es Szintu Rakéta
 container.launchcontroller.name=§7Távvezérlo
 container.tileTerraformer.name=§7Növényülteto
 container.marsLander.name=§7Landing Balloons ##NEEDS TRANSLATE##
+
+schematic.cargoRocket.name.short=§7Cargo Rocket
