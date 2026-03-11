@@ -1,0 +1,26 @@
+##
+
+# codechickencore.color.background=FF000000
+# codechickencore.color.overlayTop=FFA0A0A0
+# codechickencore.color.overlayBottom=FFA0A0A0
+# codechickencore.color.overlayLeft=FFA0A0A0
+# codechickencore.color.overlayRight=FFA0A0A0
+codechickencore.color.scrollbarCorners=FF3F3E3E
+codechickencore.color.scrollbarTopLeft=FF595857
+codechickencore.color.scrollbarBottomRight=FF242323
+codechickencore.color.scrollbarFill=FF3F3E3E
+codechickencore.color.scrollbarGuide=FF3C3B3A
+# codechickencore.color.buttonTextDisabled=FFA0A0A0
+# codechickencore.color.buttonTextHover=FFFFFFA0
+# codechickencore.color.buttonText=FFE0E0E0
+# codechickencore.color.textFieldBorder=FFA0A0A0
+# codechickencore.color.textFieldBackground=FF000000
+# codechickencore.color.textFieldText=00E0E0E0
+# codechickencore.color.textFieldTextDisabled=00707070
+# codechickencore.color.tooltipBgStart=F0100010
+# codechickencore.color.tooltipBgEnd=F0100010
+# codechickencore.color.tooltipBorderStart=505000FF
+# codechickencore.color.tooltipBorderEnd=5028007F
+# codechickencore.color.tooltipText=FFFFFFFF
+# codechickencore.color.modDescriptionText=00DDDDDD
+# codechickencore.color.itemQuantityText=00FFFFFF
