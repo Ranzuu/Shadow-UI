@@ -75,6 +75,7 @@
     <li><a href="https://github.com/Nxer/Twist-Space-Technology-Mod">Twist Space Technology</a></li>
     <li><a href="https://github.com/CallmeSHaobe/123Technology">123Technology</a></li>
     <li><a href="https://github.com/LITW-Refined/EZStorage">Simple Storage</a></li>
+    <li><a href="https://github.com/GTNewHorizons/JustEnoughCalculation">JustEnoughCalculation</a></li>
     <li><a href="https://github.com/ABKQPO/GT-Not-Leisure">ScienceNoLeisure</a></li>
     <li><a href="https://github.com/slprime/ChromaticTooltips">ChromaticTooltips</a></li>
 </ul>
