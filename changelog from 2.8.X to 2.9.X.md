@@ -155,6 +155,7 @@ GregTech
 - Added Primitve theme (Mui2 - GT Coke Oven)
 - Added new icons and updated others (a lot)
 - Added ModularArmor gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4065
+- Added Field Engineer's Toolbox overlay slots - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5906
 
 KubaTech
 - Added HTGR text color
