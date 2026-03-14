@@ -61,10 +61,6 @@
     },
     "textColor": "#FFFFFF",
     "textShadow": true,
-    "selectedBackground": {
-      "type": "texture",
-      "location": "modularui2:gui/widgets/mc_button_pressed"
-    },
     "selectedColor": "#FFFFFF",
     "selectedTextColor": "#FFFFFF",
     "selectedTextShadow": true
