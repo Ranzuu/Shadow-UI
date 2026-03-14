@@ -1,2 +1,3 @@
-- Texture fixes: EzStorage (Button), Ic2 (Nuclear Reactor)
-- Other: Synced Translation files, changed pack format, updated readme
+- Texture fixes: Vanilla, Railcraft, SGCraft, Bibliocraft
+- Lang fixes: SGCraft, Galacticraft,
+- Other: Added JELCalculator support, Removed unused lang keys (OpenBlocks IronChest)
