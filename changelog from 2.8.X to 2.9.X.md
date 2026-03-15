@@ -131,6 +131,7 @@ Applied Energistics 2
 - Added Pattern Preview text color
 - Updated Pattern Terminal GUIs
 - Added Color Aplicator GUI - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/998 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1002
+- Added Spatial Link Chamber gui - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1035 (original texture by Auynonymous)
 
 Aspect Recipe Index
 - Added, well everything (new mod)
