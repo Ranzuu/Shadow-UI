@@ -139,6 +139,9 @@ Aspect Recipe Index
 Bogo Sorter
 - Added new colored text
 
+CosmeticArmorReworked
+- Added gui (new mod)
+
 CropsNH
 - Added, well everything (new mod)
 
