@@ -15,3 +15,9 @@ gui.projectred.integration.icblock|1.title=§7IC Printer
 
 gui.projectred.integration.icblock|0.detail_value=§7%s
 gui.projectred.integration.icblock|0.scale_value=§7%s
+
+gui.projectred.integration.timer_interval=§7Timer interval: %ss
+gui.projectred.integration.maixmum=§7Maximum: %s
+gui.projectred.integration.increment=§7Increment: %s
+gui.projectred.integration.decrement=§7Decrement: %s
+gui.projectred.integration.state=§7State: %s
