@@ -87,7 +87,7 @@ NotEnoughtItems (NEI)
 - Fixed magnet icon - https://github.com/GTNewHorizons/NotEnoughItems/pull/849
 
 Project Red
-- Fixed text color for literally every gui - https://github.com/GTNewHorizons/ProjectRed/pull/64
+- Fixed text color for literally every gui - https://github.com/GTNewHorizons/ProjectRed/pull/64 / https://github.com/GTNewHorizons/ProjectRed/pull/71
 
 ServerUtilities
 - Updated the UI texture - https://github.com/GTNewHorizons/ServerUtilities/pull/266
