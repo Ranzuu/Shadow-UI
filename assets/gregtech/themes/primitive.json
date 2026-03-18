@@ -12,8 +12,8 @@
       "type": "texture",
       "id": "mc_button"
     },
-    "textColor": "#FFFFFF",
-    "textShadow": true
+    "textColor": "#AAAAAA",
+    "textShadow": false
   },
   "button:hover": {
     "background": {
@@ -50,7 +50,7 @@
       "type": "texture",
       "id": "display_small"
     },
-    "textColor": "#FFFFFF",
+    "textColor": "#AAAAAA",
     "markedColor": "#2F72A8",
     "hintColor": "#5F5F5F"
   },
@@ -59,11 +59,11 @@
       "type": "texture",
       "id": "mc_button"
     },
-    "textColor": "#FFFFFF",
-    "textShadow": true,
-    "selectedColor": "#FFFFFF",
-    "selectedTextColor": "#FFFFFF",
-    "selectedTextShadow": true
+    "textColor": "#AAAAAA",
+    "textShadow": false,
+    "selectedColor": "#AAAAAA",
+    "selectedTextColor": "#AAAAAA",
+    "selectedTextShadow": false
   },
   "toggleButton:hover": {
     "background": {
