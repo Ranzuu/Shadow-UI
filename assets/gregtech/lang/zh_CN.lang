@@ -17,6 +17,10 @@ GT5U.machines.solarindicator1=§7Is Daytime
 GT5U.machines.solarindicator2=§7Not Raining
 GT5U.machines.solarindicator3=§7Can See Sky
 
+GT5U.machines.stocking_bus.min_stack_size=§7Min Stack Size
+GT5U.machines.stocking_bus.refresh_time=§7Slot Refresh Time (Ticks)
+GT5U.machines.stocking_bus.force_check=§7Recipe Check on change
+
 GT5U.gui.select.current=§7当前：
 
 GT5U.gui.text.rangedvalue=§7Range: %s-%s
