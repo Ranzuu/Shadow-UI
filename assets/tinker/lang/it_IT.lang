@@ -7,6 +7,8 @@ crafters.CraftingStation=§7Tavolo da lavoro
 crafters.Smeltery=§7Fonderia
 
 inventory.PatternChest=§7Baule per modelli
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Costruire parti
 gui.partcrafter2=§7Costruire parti

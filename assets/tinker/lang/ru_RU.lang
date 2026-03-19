@@ -7,6 +7,8 @@ crafters.CraftingStation=§7Верстак инженера
 crafters.Smeltery=§7Плавильня
 
 inventory.PatternChest=§7Сундук для схем
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Создание частей
 gui.partcrafter2=§7Сбор частей

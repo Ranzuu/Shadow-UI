@@ -7,6 +7,8 @@ crafters.CraftingStation=§7作業テーブル
 crafters.Smeltery=§7乾式製錬
 
 inventory.PatternChest=§7鋳型チェスト
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Tool Part Crafting
 gui.partcrafter2=§7Tool Part Building

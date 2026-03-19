@@ -7,6 +7,8 @@ crafters.CraftingStation=§7Výrobní stanice
 crafters.Smeltery=§7Tavírna
 
 inventory.PatternChest=§7Truhla na šablony
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Vyrábění částí nástrojů
 gui.partcrafter2=§7Vyrábění částí nástrojů

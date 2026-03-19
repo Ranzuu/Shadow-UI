@@ -7,6 +7,8 @@ crafters.CraftingStation=§7Estação de Elaboração
 crafters.Smeltery=§7Oficina de Fundição
 
 inventory.PatternChest=§7Baú de Matrizes
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Criação das Partes de Ferramentas
 gui.partcrafter2=§7Construção das Partes de Ferramentas
