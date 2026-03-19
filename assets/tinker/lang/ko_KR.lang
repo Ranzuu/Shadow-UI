@@ -7,6 +7,8 @@ crafters.CraftingStation=§7조합소
 crafters.Smeltery=§7제련소
 
 inventory.PatternChest=§7문양 상자
+inventory.PartChest=§7Part Chest
+toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7도구 부품 조합
 gui.partcrafter2=§7도구 부품 제조
