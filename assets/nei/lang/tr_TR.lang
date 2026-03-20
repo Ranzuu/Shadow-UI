@@ -1,2 +1,11 @@
 nei.recipe.page=§7Sayfa %s/%s
 nei.recipe.fuel.smeltCount=§7Smelts %s items
+
+nei.enchant=§7Büyü
+nei.enchant.level=§7Level
+nei.enchant.locked=§7Kilitli
+nei.enchant.unlocked=§7Açık
+
+nei.potion.favourite=§7Favourite Potions
+nei.potion.duration=§7Duration
+nei.potion.level=§7Level

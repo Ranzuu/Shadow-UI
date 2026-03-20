@@ -1,2 +1,11 @@
 nei.recipe.page=§7Leht %s/%s
 nei.recipe.fuel.smeltCount=§7Smelts %s items
+
+nei.enchant=§7Enchant
+nei.enchant.level=§7Level
+nei.enchant.locked=§7Lukustatud
+nei.enchant.unlocked=§7Lukustamata
+
+nei.potion.favourite=§7Favourite Potions
+nei.potion.duration=§7Duration
+nei.potion.level=§7Level

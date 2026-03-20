@@ -1,2 +1,11 @@
 nei.recipe.page=§7Seite %s/%s
 nei.recipe.fuel.smeltCount=§7Smelts %s items
+
+nei.enchant=§7Verzaubern
+nei.enchant.level=§7Level
+nei.enchant.locked=§7Gesperrt
+nei.enchant.unlocked=§7Entsperrt
+
+nei.potion.favourite=§7Favoriten
+nei.potion.duration=§7Dauer
+nei.potion.level=§7Level

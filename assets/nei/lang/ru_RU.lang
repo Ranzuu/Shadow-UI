@@ -1,2 +1,11 @@
 nei.recipe.page=§7Страница %s/%s
 nei.recipe.fuel.smeltCount=§7Переплавляет %s предметов
+
+nei.enchant=§7Зачаровать
+nei.enchant.level=§7Уровень
+nei.enchant.locked=§7Заблокировано
+nei.enchant.unlocked=§7Разблокировано
+
+nei.potion.favourite=§7Любимые зелья
+nei.potion.duration=§7Длительность
+nei.potion.level=§7Уровень

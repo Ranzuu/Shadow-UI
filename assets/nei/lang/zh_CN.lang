@@ -1,2 +1,11 @@
 nei.recipe.page=§7页数 %s/%s
 nei.recipe.fuel.smeltCount=§7可冶炼%s个物品
+
+nei.enchant=§7附魔
+nei.enchant.level=§7等级
+nei.enchant.locked=§7锁定
+nei.enchant.unlocked=§7解锁
+
+nei.potion.favourite=§7最爱的药水
+nei.potion.duration=§7持续时间
+nei.potion.level=§7等级
