@@ -1,2 +1,11 @@
 nei.recipe.page=§7Strana %s/%s
 nei.recipe.fuel.smeltCount=§7Smelts %s items
+
+nei.enchant=§7Očarování
+nei.enchant.level=§7Úroveň
+nei.enchant.locked=§7Uzamčeno
+nei.enchant.unlocked=§7Odemčeno
+
+nei.potion.favourite=§7Favourite Potions
+nei.potion.duration=§7Duration
+nei.potion.level=§7Level
