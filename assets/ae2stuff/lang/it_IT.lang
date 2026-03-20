@@ -1,5 +1,5 @@
-gui.ae2stuff.Encoder.title=§7Pattern Encoder
-gui.ae2stuff.Grower.title=§7Crystal Growth Chamber
+gui.ae2stuff.Encoder.title=§7Codificatore di Modelli
+gui.ae2stuff.Grower.title=§7Camera per la crescita dei Cristalli
 gui.ae2stuff.Inscriber.title=§7Advanced Inscriber
 
 ae2stuff.visualiser.color.node.missing=0xE6B13E53
