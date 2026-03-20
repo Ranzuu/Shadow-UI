@@ -1,7 +1,6 @@
 nei.recipe.page=§7页数 %s/%s
 nei.recipe.fuel.smeltCount=§7可冶炼%s个物品
 nei.gui.button.label.subset=%%
-# nei.recipe.title.color.hover=§e
 
 nei.debug.RecipeHandler.Name=§7Name
 nei.debug.RecipeHandler.Id=§7ID
@@ -15,3 +14,12 @@ nei.debug.RecipeHandler.MultiWidgets=§7Multi Widgets
 nei.debug.RecipeHandler.Height=§7Height
 nei.debug.RecipeHandler.Width=§7Width
 nei.debug.RecipeHandler.UseCustomScroll=§7Use Custom Scroll
+
+nei.enchant=§7附魔
+nei.enchant.level=§7等级
+nei.enchant.locked=§7锁定
+nei.enchant.unlocked=§7解锁
+
+nei.potion.favourite=§7最爱的药水
+nei.potion.duration=§7持续时间
+nei.potion.level=§7等级
