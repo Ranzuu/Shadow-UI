@@ -195,7 +195,6 @@ ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
 
 # Additions
-gui.appliedenergistics2.CPUs=§7Процесори
 gui.appliedenergistics2.NoCraftingJobs=§7Немає активного завдання на створення
 gui.appliedenergistics2.NoCraftingCPUs=§7Процесори для створення не доступні
 gui.appliedenergistics2.CraftingCPU=§7Створення процесора

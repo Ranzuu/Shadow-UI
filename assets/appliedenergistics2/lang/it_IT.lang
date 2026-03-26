@@ -195,7 +195,6 @@ ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
 
 # Additions
-gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7Nessuna fabbricazione attiva
 gui.appliedenergistics2.NoCraftingCPUs=§7Nessuna CPU di fabbricazione è disponibile
 gui.appliedenergistics2.CraftingCPU=§7CPU di fabbricazione
