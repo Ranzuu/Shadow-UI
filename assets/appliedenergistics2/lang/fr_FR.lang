@@ -195,7 +195,6 @@ ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
 
 # Additions
-gui.appliedenergistics2.CPUs=§7Unités
 gui.appliedenergistics2.NoCraftingJobs=§7Aucune fabrication d'active
 gui.appliedenergistics2.NoCraftingCPUs=§7Aucune unité de fabrication n'est disponible
 gui.appliedenergistics2.CraftingCPU=§7Unité de fabrication
