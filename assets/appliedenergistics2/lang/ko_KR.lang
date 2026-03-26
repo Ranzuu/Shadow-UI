@@ -176,7 +176,6 @@ ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
 
 #Additions
-gui.appliedenergistics2.CPUs=§7CPU
 gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
 gui.appliedenergistics2.NoCraftingCPUs=§7제작용 CPU를 사용할 수 없습니다.
 gui.appliedenergistics2.CraftingCPU=§7제작용 CPU
