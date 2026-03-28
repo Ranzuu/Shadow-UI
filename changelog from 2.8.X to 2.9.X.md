@@ -154,7 +154,7 @@ Enhanced Lootbags
 GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
 - Added Nanochip Assembly Comples gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/2903
-- Added Large Hadron Collider gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135
+- Added Large Hadron Collider gui elements and NEI elements- https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/6195
 - Added Waterline text elemets / gui - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/5835
 - Added Primitve theme (Mui2 - GT Coke Oven)
 - Added new icons and updated others (a lot)
@@ -189,4 +189,4 @@ Other
 
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 428 (20.03.26)
+Up to date with Daily 438 (28.03.26)
