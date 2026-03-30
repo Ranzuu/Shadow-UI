@@ -273,7 +273,7 @@ GT5U.gui.text.no_output_for_sapling=§7This sapling yields no outputs
 GT5U.gui.text.no_tools=§4Отсутствует применимые инструменты
 GT5U.multiblock.startup=§7Starting up...
 GT5U.multiblock.recipesDone=§7Recipes Finished
-GT5U.multiblock.efficiency=§7Эффективность: §e%s§r%%
+GT5U.multiblock.efficiency=§7Эффективность
 
 gt.interact.desc.mb.incomplete=§4Незавершенная структура
 gt.interact.desc.mb.mode=§7Режим работы: §6%s
@@ -282,14 +282,14 @@ GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Тир катализатора
 
-GTPP.CC.parallel=§7Maximum Parallel
+GTPP.CC.parallel=§7Максимум параллелей
 
 GT5U.gui.button.drill_retract_pipes=§fПрерывание и втягивание буровых труб
 
 GT5U.gui.button.chunk_loading_on=§fЗагрузка чанков: §aВКЛ.
 GT5U.gui.button.chunk_loading_off=§fЗагрузка чанков: §4ОТКЛ.
 
-GT5U.multiblock.energy=§7Энергии накоплено: §a%s §rEU / §e%s §rEU
+GT5U.multiblock.energy=§7Энергии накоплено
 
 GT5U.gui.text.powerfail_events=§7Powerfail Events
 
