@@ -273,7 +273,7 @@ GT5U.gui.text.no_output_for_sapling=§pThis sapling yields no outputs
 GT5U.gui.text.no_tools=§4Missing applicable tools
 GT5U.multiblock.startup=§7Starting up...
 GT5U.multiblock.recipesDone=§7Recipes Finished
-GT5U.multiblock.efficiency=§7效率: §e%s§r%%
+GT5U.multiblock.efficiency=§7效率
 
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
@@ -282,14 +282,14 @@ GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Catalyst Tier
 
-GTPP.CC.parallel=§7Maximum Parallel
+GTPP.CC.parallel=§7最大并行
 
 GT5U.gui.button.drill_retract_pipes=§fAbort and retract mining pipes
 
 GT5U.gui.button.chunk_loading_on=§fChunk Loading: §aON
 GT5U.gui.button.chunk_loading_off=§fChunk Loading: §4OFF
 
-GT5U.multiblock.energy=§7存储能量: §a%s §rEU / §e%s §rEU
+GT5U.multiblock.energy=§7存储能量
 
 GT5U.gui.text.powerfail_events=§7Powerfail Events
 

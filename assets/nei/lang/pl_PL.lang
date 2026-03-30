@@ -8,12 +8,15 @@ nei.debug.RecipeHandler.Key=§7Key
 nei.debug.RecipeHandler.HHack=§7H.Hack
 nei.debug.RecipeHandler.ModName=§7Mod Name
 nei.debug.RecipeHandler.ModId=§7Mod ID
+nei.debug.RecipeHandler.Override=§7Override
 nei.debug.RecipeHandler.Order=§7Order
 nei.debug.RecipeHandler.yShift=§7yShift
 nei.debug.RecipeHandler.MultiWidgets=§7Multi Widgets
 nei.debug.RecipeHandler.Height=§7Height
 nei.debug.RecipeHandler.Width=§7Width
 nei.debug.RecipeHandler.UseCustomScroll=§7Use Custom Scroll
+nei.debug.RecipeHandler.ShowFavorites=§7Show Favorites
+nei.debug.RecipeHandler.ShowOverlay=§7Show Overlays
 
 nei.enchant=§7Zaklęcie
 nei.enchant.level=§7Poziom
