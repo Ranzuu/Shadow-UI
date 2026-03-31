@@ -455,3 +455,16 @@ GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
 # Drone Centre
 GT5U.gui.text.drone_no_connection=§7No any connection
 GT5U.gui.text.drone_remote_text=§7Drone Centre Remote Control
+
+# NEI INFORMATION
+GTPP.nei.info=§7信息
+GTPP.nei.timetaken=§7耗时
+
+# Some Time Words
+GTPP.time.ticks=§7t
+GTPP.time.seconds=§7秒
+GTPP.time.minutes=§7分
+GTPP.time.hours=§7小时
+GTPP.time.days=§7天
+GTPP.time.weeks=§7周
+GTPP.time.months=§7月
