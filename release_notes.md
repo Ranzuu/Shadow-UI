@@ -1,3 +1,3 @@
-- Texture fixes: Vanilla, Railcraft, SGCraft, Bibliocraft
-- Lang fixes: SGCraft, Galacticraft,
-- Other: Added JELCalculator support, Removed unused lang keys (OpenBlocks IronChest)
+- Texture fixes: ProjectRed (IC Workbench), Minecraft(NEI uses vanilla enchanting table)
+- Lang fixes: GregTech (Stocking Bus), NEI (Enchanting and Potion Tabs)
+- Other: Lang Sync
