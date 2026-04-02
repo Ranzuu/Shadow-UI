@@ -132,6 +132,7 @@ Applied Energistics 2
 - Updated Pattern Terminal GUIs
 - Added Color Aplicator GUI - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/998 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1002
 - Added Spatial Link Chamber gui - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1035 (original texture by Auynonymous)
+- Lot's of other color fixes and additions as per GTNH update
 
 Aspect Recipe Index
 - Added, well everything (new mod)
@@ -154,7 +155,7 @@ Enhanced Lootbags
 GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
 - Added Nanochip Assembly Comples gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/2903
-- Added Large Hadron Collider gui elements and NEI elements- https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/6195
+- Added Large Hadron Collider(LHC) gui elements and NEI elements- https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/6195
 - Added Waterline text elemets / gui - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/5835
 - Added Primitve theme (Mui2 - GT Coke Oven)
 - Added new icons and updated others (a lot)
@@ -167,6 +168,7 @@ KubaTech
 NotEnoughtItems (NEI)
 - Updated Catalyst tab (there was padding added) - https://github.com/GTNewHorizons/NotEnoughItems/pull/822
 - Added Cauldron recipe text - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5542
+- Updated Debug Handler
 
 Thaumic Energistics
 - Updated Arcane Crafting Terminal GUI - https://github.com/GTNewHorizons/ThaumicEnergistics/pull/98
@@ -189,4 +191,4 @@ Other
 
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 443 (01.04.26)
+Up to date with Daily 444 (02.04.26)
