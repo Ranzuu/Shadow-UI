@@ -153,7 +153,7 @@ gui.color.appliedenergistics2.WirelessPowerUsageRate=FFABAAAA
 
 gui.color.appliedenergistics2.NEIGrindstoneRecipeChance=FFABAAAA
 gui.color.appliedenergistics2.NEIGrindstoneNoSecondOutput=FFABAAAA
-
+gui.color.appliedenergistics2.NEICellView=FFABAAAA
 gui.color.appliedenergistics2.MEMonitorableTitle=FFABAAAA
 gui.color.appliedenergistics2.MEMonitorableInventory=FFABAAAA
 gui.color.appliedenergistics2.DefaultBlack=FFABAAAA
