@@ -154,6 +154,7 @@ gui.color.appliedenergistics2.WirelessPowerUsageRate=FFABAAAA
 gui.color.appliedenergistics2.NEIGrindstoneRecipeChance=FFABAAAA
 gui.color.appliedenergistics2.NEIGrindstoneNoSecondOutput=FFABAAAA
 gui.color.appliedenergistics2.NEICellView=FFABAAAA
+
 gui.color.appliedenergistics2.MEMonitorableTitle=FFABAAAA
 gui.color.appliedenergistics2.MEMonitorableInventory=FFABAAAA
 gui.color.appliedenergistics2.DefaultBlack=FFABAAAA
@@ -205,6 +206,7 @@ gui.appliedenergistics2.ToFollow=§7Follow
 gui.appliedenergistics2.ToUnfollow=§7Unfollow
 gui.appliedenergistics2.Start=§7Start
 gui.appliedenergistics2.Next=§7Další
+gui.appliedenergistics2.Merge=§7Merge
 gui.appliedenergistics2.Suspend=§7Suspend
 gui.appliedenergistics2.Resume=§7Resume
 gui.appliedenergistics2.Cancel=§7Zrušit
