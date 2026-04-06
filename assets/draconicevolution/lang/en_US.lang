@@ -1,2 +1,51 @@
+gui.de.numbers=§7%s
+
+gui.de.particleGenerator.main.title=§7Particle Generator
+gui.de.weatherController.main.title=§7Weather Controller
+gui.de.playerDetector.main.title=§7Advanced Player Detector
+gui.de.grinder.main.title=§7Grinder
+gui.de.energyInfuser.main.title=§7Energy Infuser
+gui.de.generator.main.title=§7Generator
+gui.de.dissEnchanter.main.title=§7Disenchanter
+gui.de.draconiumChest.main.title=§7Draconic Chest
+gui.de.upgradeModifier.main.title=§7Upgrade Modifier
+gui.de.dislocatorInhibitor.main.title=§7Dislocator Inhibitor
+
+gui.de.charges=§7Charges
+gui.de.playerDetector.range=§7Range
+gui.de.playerDetector.outputInvert=§7Output Inverted: %s
+gui.de.dissEnchanter.itemDamage1=§7Item
+gui.de.dissEnchanter.itemDamage2=§7Damage: %s
+gui.de.dissEnchanter.cost=§fCost: %s
+gui.de.flowGate.name=§7Flow Control
+gui.de.flowGateRSLow.name=§7Redstone Signal Low
+gui.de.flowGateRSHigh.name=§7Redstone Signal High
+gui.de.dislocatorInhibitor.range.txt=§7Range:
+
+gui.de.cores.txt=§7Cores
+gui.de.cap.txt=§7Cap
+gui.de.installed.txt=§7Installed
+gui.de.free.txt=§7Free
+
+gui.de.particleGenerator.random.name=§7Random:
+gui.de.particleGenerator.red.name=§7Red:
+gui.de.particleGenerator.green.name=§7Green:
+gui.de.particleGenerator.blue.name=§7Blue:
+gui.de.particleGenerator.motionX.name=§7Motion X:
+gui.de.particleGenerator.motionY.name=§7Motion Y:
+gui.de.particleGenerator.motionZ.name=§7Motion Z:
+gui.de.particleGenerator.scale.name=§7Scale:
+gui.de.particleGenerator.life.name=§7Life (T):
+gui.de.particleGenerator.spawnX.name=§7Spawn X:
+gui.de.particleGenerator.spawnY.name=§7Spawn Y:
+gui.de.particleGenerator.spawnZ.name=§7Spawn Z:
+gui.de.particleGenerator.delay.name=§7Delay:
+gui.de.particleGenerator.fade.name=§7Fade:
+gui.de.particleGenerator.gravity.name=§7Gravity:
+gui.de.particleGenerator.pitch.name=§7Pitch:
+gui.de.particleGenerator.yaw.name=§7Yaw:
+gui.de.particleGenerator.rotation.name=§7Rotation:
+gui.de.particleGenerator.length.name=§7Length:
+
 entity.DraconicEvolution.EnderDragon.name=§7Ender Dragon
 entity.DraconicEvolution.ChaosGuardian.name=§7Chaos Guardian
