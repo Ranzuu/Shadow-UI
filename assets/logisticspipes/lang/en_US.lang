@@ -161,3 +161,6 @@ gui.module.ModuleThaumicAspectSink.sunk=§7Sunk Aspects
 gui.module.ModuleEnchantmentSink=§7Requested Enchanted items
 gui.module.ModuleCCBasedQuickSort=§7Timeout Timer
 gui.module.ModuleCCBasedQuickSort.ticks=§7%s ticks
+
+gui.powerprovider.PowerLevel=§7%s
+gui.powerprovider.MaxStorage=§7%s
