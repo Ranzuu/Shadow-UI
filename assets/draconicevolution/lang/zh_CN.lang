@@ -1,2 +1,51 @@
+gui.de.numbers=§7%s
+
+gui.de.particleGenerator.main.title=§7粒子发生器
+gui.de.weatherController.main.title=§7Weather Controller
+gui.de.playerDetector.main.title=§7Advanced Player Detector
+gui.de.grinder.main.title=§7Grinder
+gui.de.energyInfuser.main.title=§7Energy Infuser
+gui.de.generator.main.title=§7Generator
+gui.de.dissEnchanter.main.title=§7Disenchanter
+gui.de.draconiumChest.main.title=§7Draconic Chest
+gui.de.upgradeModifier.main.title=§7Upgrade Modifier
+gui.de.dislocatorInhibitor.main.title=§7Dislocator Inhibitor
+
+gui.de.charges=§7Charges
+gui.de.playerDetector.range=§7Range
+gui.de.playerDetector.outputInvert=§7Output Inverted: %s
+gui.de.dissEnchanter.itemDamage1=§7Item
+gui.de.dissEnchanter.itemDamage2=§7Damage: %s
+gui.de.dissEnchanter.cost=§fCost: %s
+gui.de.flowGate.name=§7流控制
+gui.de.flowGateRSLow.name=§7红石信号低
+gui.de.flowGateRSHigh.name=§7红石信号高
+gui.de.dislocatorInhibitor.range.txt=§7范围：
+
+gui.de.cores.txt=§7核心
+gui.de.cap.txt=§7Cap
+gui.de.installed.txt=§7已安装
+gui.de.free.txt=§7剩余
+
+gui.de.particleGenerator.random.name=§7随机：
+gui.de.particleGenerator.red.name=§7红：
+gui.de.particleGenerator.green.name=§7绿：
+gui.de.particleGenerator.blue.name=§7蓝：
+gui.de.particleGenerator.motionX.name=§7移动 X：
+gui.de.particleGenerator.motionY.name=§7移动 Y：
+gui.de.particleGenerator.motionZ.name=§7移动 Z：
+gui.de.particleGenerator.scale.name=§7放缩：
+gui.de.particleGenerator.life.name=§7生命（T）：
+gui.de.particleGenerator.spawnX.name=§7生成 X：
+gui.de.particleGenerator.spawnY.name=§7生成 Y：
+gui.de.particleGenerator.spawnZ.name=§7生成 Z：
+gui.de.particleGenerator.delay.name=§7延迟：
+gui.de.particleGenerator.fade.name=§7淡出：
+gui.de.particleGenerator.gravity.name=§7重力：
+gui.de.particleGenerator.pitch.name=§7俯仰：
+gui.de.particleGenerator.yaw.name=§7偏航：
+gui.de.particleGenerator.rotation.name=§7旋转：
+gui.de.particleGenerator.length.name=§7长度：
+
 entity.DraconicEvolution.EnderDragon.name=§7上古末影龙
 entity.DraconicEvolution.ChaosGuardian.name=§7混沌守卫
