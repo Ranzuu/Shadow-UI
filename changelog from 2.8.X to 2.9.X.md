@@ -10,19 +10,19 @@ Amun-Ra
 - Fixed text color for literally every gui - https://github.com/GTNewHorizons/amunra/pull/38
 
 Backpack-Mod
-- Fixes title gui text color and inventory/hotbar slot textures - https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/pull/25
+- Fixed title gui text color and inventory/hotbar slot textures - https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/pull/25
 
 Better Achievements.
-- Fixes title colors for achievement tabs - https://github.com/GTNewHorizons/BetterAchievements/pull/5
+- Fixed title colors for achievement tabs - https://github.com/GTNewHorizons/BetterAchievements/pull/5
 
 Binnie Core
 - Fixed text color for literally every gui and added separate Slot for Inventory - https://github.com/GTNewHorizons/Binnie/pull/81
 
 Blood Magic
-- Fixes text color for gui and NEI values - https://github.com/GTNewHorizons/BloodMagic/pull/118 / https://github.com/GTNewHorizons/BloodMagic/pull/120
+- Fixed text color for gui and NEI values - https://github.com/GTNewHorizons/BloodMagic/pull/118 / https://github.com/GTNewHorizons/BloodMagic/pull/120
 
 Botania
-- Fixes text color for pouches - https://github.com/GTNewHorizons/Botania/pull/124
+- Fixed text color for pouches - https://github.com/GTNewHorizons/Botania/pull/124
 
 Buildcraft and addons
 - Fixed text color for some guis (+texture fixes) - https://github.com/GTNewHorizons/BuildCraft/pull/26 / https://github.com/GTNewHorizons/BuildCraftCompat/pull/13
@@ -31,10 +31,13 @@ CarpentersBlocks
 - Fixed title text color for Carpenter's Safe - https://github.com/GTNewHorizons/CarpentersBlocks/pull/15
 
 CodeChickenCore
-- Fixes scrollbar color - https://github.com/GTNewHorizons/CodeChickenCore/pull/43
+- Fixed scrollbar color - https://github.com/GTNewHorizons/CodeChickenCore/pull/43
 
 Computronics
-- Fixes title text color for Ticket machine - https://github.com/GTNewHorizons/Computronics/pull/35
+- Fixed title text color for Ticket machine - https://github.com/GTNewHorizons/Computronics/pull/35
+
+Draconic Evolution
+- Fixed title text color for most of the guis - https://github.com/GTNewHorizons/Draconic-Evolution/pull/96
 
 EzStorage
 - Updated text color - https://github.com/LITW-Refined/EZStorage/pull/48
@@ -96,7 +99,7 @@ Steve's Factory Manager
 - Fixed text color for custom command titles - https://github.com/GTNewHorizons/Steve-s-Factory-Manager/pull/17
 
 SGCraft
-- Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/SGCraft/pull/21
+- Fixed text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/SGCraft/pull/21
 
 TecTech
 - Fixed text color for GodForge and Research Station - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5588
@@ -114,7 +117,7 @@ Malisis Doors
 - Fixed title text color for Block Mixer and Door Factory - https://github.com/GTNewHorizons/MalisisDoors/pull/24
 
 RandomThings
-- Fixes text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/Random-Things/pull/16
+- Fixed text color of gui titles and other gui elemets - https://github.com/GTNewHorizons/Random-Things/pull/16
 
 Railcraft
 - Fixed everything.. - https://github.com/GTNewHorizons/Railcraft/pull/108
@@ -122,7 +125,7 @@ Railcraft
 ..and much more prs that effected this resource pack ;-;
 
 Other
-- Fixes text color of gui titles inside the Creative inventory and tabs - https://github.com/GTNewHorizons/Hodgepodge/pull/709
+- Fixed text color of gui titles inside the Creative inventory and tabs - https://github.com/GTNewHorizons/Hodgepodge/pull/709
 
 # Other "non personal PRs" fixes and changes
 Applied Energistics 2
@@ -191,4 +194,4 @@ Other
 
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 446 (04.04.26)
+Up to date with Daily 447 (05.04.26)
