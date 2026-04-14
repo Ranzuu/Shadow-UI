@@ -425,3 +425,25 @@ GT5U.nei.purified_water.grade_3.1=§7+%s%%/%dL
 GT5U.nei.purified_water.grade_3.2=§7Returned in amount equivalent to consumed flocculant.
 GT5U.nei.purified_water.grade_4.0=§7+%s pH/stack
 GT5U.nei.purified_water.grade_4.1=§7%s pH/1000L
+
+#PCB Factory
+GT5U.MBTT.ConfigMenu=§7Configuration Menu
+
+GT5U.MBTT.PCB.Bio=§7Biochamber
+GT5U.MBTT.PCB.RotBio=§7Bio Rotation
+GT5U.MBTT.PCB.LiqCool=§7Liquid Cooling
+GT5U.MBTT.PCB.Sink=§7Thermosink
+GT5U.MBTT.PCB.Size=§7Trace Size
+GT5U.MBTT.PCB.BioOn=§7Biochamber Upgrade Enabled
+GT5U.MBTT.PCB.BioOff=§7Biochamber Upgrade Disabled
+GT5U.MBTT.PCB.RotBioOn=§7Rotated Biochamber Enabled
+GT5U.MBTT.PCB.RotBioOff=§7Rotated Biochamber Disabled
+GT5U.MBTT.PCB.T1CoolOn=§7Tier 1 Cooling Enabled
+GT5U.MBTT.PCB.T1CoolOff=§7Tier 1 Cooling Disabled
+GT5U.MBTT.PCB.T1CoolOffset=§7Cooler Tier 1 Offsets
+GT5U.MBTT.PCB.T2CoolOn=§7Tier 2 Cooling Enabled
+GT5U.MBTT.PCB.T2CoolOff=§7Tier 2 Cooling Disabled
+GT5U.MBTT.PCB.T2CoolOffset=§7Cooler Tier 2 Offsets
+GT5U.MBTT.PCB.Offsets=§7Bio Upgrade Offsets
+GT5U.MBTT.PCB.XOffset=§7X Offset
+GT5U.MBTT.PCB.ZOffset=§7Z Offset
