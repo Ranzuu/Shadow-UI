@@ -51,7 +51,7 @@ gui.toolstation23=§7Max. Attack:
 
 entity.TConstruct.EdibleSlime.name=§7Blue Slime
 entity.TConstruct.KingSlime.name=§7King Slime
-entity.TConstruct.Gardeslime.name=§7Gardeslime 
+entity.TConstruct.Gardeslime.name=§7Gardeslime
 entity.TConstruct.MiniGardy.name=§7Gardeslime 
 entity.TConstruct.Crystal.name=§7Crystal
 
