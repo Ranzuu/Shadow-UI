@@ -304,7 +304,7 @@ enderio.gui.conduit.item.functionupgrade.line1=§7Possible function upgrades:
 enderio.gui.conduit.redstone.signalColor=§7Barva signálu
 enderio.gui.conduit.redstone.color=§7Barva
 enderio.gui.conduit.redstone.signalStrengh=§7Strong Signal
-enderio.gui.conduit.redstone.signalStrengh.tooltip=§7Output a strong redstone signal
+enderio.gui.conduit.redstone.signalStrengh.tooltip=§7Output a strong redstone signal 
 
 enderio.gui.conduit.fluid.autoExtract=§7Automatická extrakce
 enderio.gui.conduit.fluid.filter=§7Filtr
