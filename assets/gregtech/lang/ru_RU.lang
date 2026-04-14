@@ -451,6 +451,9 @@ GT5U.gui.text.LHC.off=§7Off
 GT5U.gui.text.LHC.acceleratormode=§7Accelerating beam...
 GT5U.gui.text.LHC.collidermode=§7Colliding beam...
 GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
+GT5U.gui.text.beamcrafter.guiheader=§7Current Recipe Progress
+GT5U.gui.text.beamcrafter.particleA=§7Particle 1
+GT5U.gui.text.beamcrafter.particleB=§7Particle 2
 
 # Drone Centre
 GT5U.gui.text.drone_no_connection=§7No any connection
