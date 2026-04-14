@@ -18,8 +18,8 @@ item.part_fluid_pattern_terminal.name=§fME流体样板终端
 item.part_fluid_pattern_terminal_ex.name=§fME增广流体样板终端
 ae2fc.gui.fluid_packet_decoder=§fME流体封包解码器
 
-ae2fc.gui.part_fluid_pattern_terminal=§7Fluid Pattern Terminal
-ae2fc.gui.part_fluid_pattern_terminal_ex=§7Fluid Processing Pattern Terminal
+ae2fc.gui.part_fluid_pattern_terminal=§7ME流体样板终端
+ae2fc.gui.part_fluid_pattern_terminal_ex=§7ME增广流体样板终端
 ae2fc.gui.part_level_terminal=§7Level Terminal
 ae2fc.gui.fluid_pattern_encoder=§7流体适配型样板编码台
 ae2fc.gui.fluid_packet_decoder=§7ME流体封包解码器
@@ -35,11 +35,11 @@ ae2fc.gui.fluid_interface.4=§7西
 ae2fc.gui.fluid_interface.5=§7东
 ae2fc.gui.oc_pattern_editor=§7OC样板编辑器
 ae2fc.gui.button.set=§7设置
-ae2fc.gui.part_fluid_level_emitter=§7ME Fluid Level Emitter
-ae2fc.gui.part_fluid_import=§7ME Fluid Import Bus
-ae2fc.gui.part_fluid_export=§7ME Fluid Export Bus
-ae2fc.gui.part_fluid_terminal=§7ME Fluid Terminal
-ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
+ae2fc.gui.part_fluid_level_emitter=§7ME流体发信器
+ae2fc.gui.part_fluid_import=§7ME流体输入总线
+ae2fc.gui.part_fluid_export=§7ME流体输出总线
+ae2fc.gui.part_fluid_terminal=§7流体终端
+ae2fc.gui.part_fluid_storage_bus=§7ME流体存储总线
 ae2fc.gui.fluid_auto_filler=§7ME流体自动装填器
 
 ae2fc.gui.magnet=§7Magnet Filter

@@ -60,7 +60,7 @@ gui.button.unloaditems.name=§7 Dadlwytho Eitemau
 gui.button.stopunloading.name=§7 Stop Dadlwytho
 gui.button.createsstation.name=§7 Creu Orsaf Ofod
 gui.button.sendtodim.name=§7 Anfon at DIMENSION
-gui.button.rename.name=§7 Rename
+gui.button.rename.name=§7Rename
 gui.button.loadfuel.name=§7 Llwytho Tanwydd
 gui.button.refine.name=§7 Mireinio
 gui.button.stoprefine.name=§7 Stop Mireinio
@@ -70,8 +70,8 @@ gui.button.hideDest.name=§7Hide ##NEEDS TRANSLATE##
 gui.button.unhideDest.name=§7Unhide ##NEEDS TRANSLATE##
 
 # CONTAINERS
-container.cargoloader.name=§7 Cargo Loader
-container.cargounloader.name=§7 Cargo Unloader
+container.cargoloader.name=§7Cargo Loader
+container.cargounloader.name=§7Cargo Unloader
 container.fuelloader.name=§7 Loader Tanwydd
 container.oxygencollector.name=§7 Ocsigen Casglwr
 container.oxygencompressor.name=§7 Ocsigen Cywasgydd
@@ -79,7 +79,7 @@ container.oxygendistributor.name=§7 Ocsigen Ddosbarthu
 container.oxygensealer.name=§7 Ocsigen Sealer
 container.parachest.name=§7 Para - frest
 container.refinery.name=§7 Purfa
-container.treasurechest.name=§7 Treasure Chest
+container.treasurechest.name=§7Treasure Chest
 container.lander.name=§7 Gofod Lander
 container.spaceship.name=§7 Haen 1 Roced
 container.solarbasic.name=§7 Panel Solar Sylfaenol
@@ -135,6 +135,6 @@ entity.GalacticraftCore.OxygenBubble.name=§7Ocsigen Bubble
 entity.GalacticraftCore.ParaChest.name=§7Parachest
 entity.GalacticraftCore.Spaceship.name=§7Haen 1 Roced
 
-schematic.moonbuggy.name=§7 Moon Buggy
+schematic.moonbuggy.name=§7Moon Buggy
 schematic.rocketT1.name=§7 Haen 1 Roced
 schematic.rocketT2.name=§7 Haen 2 Roced

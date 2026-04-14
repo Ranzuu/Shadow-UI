@@ -1,10 +1,9 @@
 GT5U.infodata.purification_plant.status_button=§7Status
 GT5U.infodata.purification_plant.status_title=§7Purification Unit Status
 GT5U.infodata.purification_plant.linked_units=§7Linked Purification Units:
-GT5U.infodata.purification_plant.linked_units.status.active=§7Online
+GT5U.infodata.purification_plant.linked_units.status.online=§7Online
 GT5U.infodata.purification_plant.linked_units.status.disabled=§4Disabled
 GT5U.infodata.purification_plant.linked_units.status.incomplete=§4Incomplete Structure
-gt.item.desc.progress.bare=§7%ss/%ss
 
 GT5U.gui.text.purification_plant.hit_to_start=§7Hit with Soft Mallet to start.
 
@@ -92,9 +91,6 @@ GT5U.gui.text.drill_extracting_ores=§7Extracting Ores
 GT5U.gui.text.drill_extracting_ores_failed=§4Extraction Failed
 GT5U.gui.text.stocking_bus_fail_extraction=§4Failed to extract expected amount of items from stocking bus. This can be caused by attaching multiple storage buses to the same inventory.
 GT5U.gui.text.stocking_hatch_fail_extraction=§4Failed to extract expected amount of fluids from stocking hatch. This can be caused by attaching multiple storage fluid buses to the same tank.
-GT5U.machines.stocking_hatch.min_amount=§7Min Amount
-GT5U.machines.stocking_bus.refresh_time=§7Slot Refresh Time (Ticks)
-GT5U.machines.stocking_bus.force_check=§7Recipe Check on change
 GT5U.gui.text.drone_noDrone=§4Can't find any drone in Input Buses!
 GT5U.gui.text.drone_operating=§7Drone operating normally!
 GT5U.gui.text.drone_title=§7Drone Control Centre
@@ -163,13 +159,6 @@ GT5U.gui.text.volumetric_flask.confirm=§7Confirm
 
 GT5U.gui.text.fusion_computer.hit_to_start=§7Hit with Soft Mallet to (re-)start the Machine if it doesn't start.
 GT5U.gui.text.fusion_computer.running_perfectly=§7Running perfectly.
-
-gt.interact.desc.mb.running=§7Running perfectly.
-
-gt.interact.desc.mb.ItemTextLine=§b%s§7 x §6%s §7%s%s§7%s
-gt.interact.desc.mb.FluidTextLine=§b%s§7 x §6%sL §7%s%s§7%s
-
-GT5U.gui.text.computation_loss=§4Shut down due to computation loss.
 
 GT5U.gui.text.large_fluid_extractor.not_enough_casings=§4Not enough casings: need %d, but\nhave %d.
 GT5U.gui.text.wormhole_generator.missing_entangled_singularity=§4Missing Entangled Singularity
@@ -272,8 +261,6 @@ GT5U.gui.text.machine_locked_to_different_recipe=§4Machine is already locked to
 GT5U.gui.text.no_output_for_sapling=§pThis sapling yields no outputs
 GT5U.gui.text.no_tools=§4Missing applicable tools
 GT5U.multiblock.startup=§7Starting up...
-GT5U.multiblock.recipesDone=§7Recipes Finished
-GT5U.multiblock.efficiency=§7效率: §e%s§r%%
 
 gt.interact.desc.mb.incomplete=§4Incomplete Structure.
 gt.interact.desc.mb.mode=§7Running mode: §6%s§7
@@ -282,14 +269,14 @@ GT5U.nei.display.overclock=§7(§6OC§7)
 
 GT5U.DTPF.catalysttier=§7Catalyst Tier
 
-GTPP.CC.parallel=§7Maximum Parallel
+GTPP.CC.parallel=§7最大并行
 
 GT5U.gui.button.drill_retract_pipes=§fAbort and retract mining pipes
 
 GT5U.gui.button.chunk_loading_on=§fChunk Loading: §aON
 GT5U.gui.button.chunk_loading_off=§fChunk Loading: §4OFF
 
-GT5U.multiblock.energy=§7存储能量: §a%s §rEU / §e%s §rEU
+GT5U.multiblock.energy=§7存储能量
 
 GT5U.gui.text.powerfail_events=§7Powerfail Events
 
@@ -352,7 +339,7 @@ gt.interact.desc.Wireless_Activity.Recipe_Progress=§7Recipe progress
 gt.interact.desc.Wireless_Fluid_Detector.FluidTHR=§7Fluid threshold
 
 ## Liquid Meter (Fluid meter)
-gt.interact.desc.Fluid_Meter.FluidThreshold=§7Fluid threshold
+gt.interact.desc.Fluid_Meter.FluidTHR=§7Fluid threshold
 
 ## Item Meter/Detector
 gt.interact.desc.Item_Meter.DetectSlot=§7Detect slot #
@@ -408,8 +395,8 @@ gt.interact.desc.MachineEnabled=§7Machine enabled
 gt.interact.desc.MachineIdle=§7Machine idle
 gt.interact.desc.RecipeProgress=§7Recipe progress
 
-## EU Meter
-gt.interact.desc.EnergyThreshold=§7Energy threshold
+## EU MEter
+gt.interact.desc.EnergyTHR=§7Energy threshold
 
 ## Facade
 gt.interact.desc.facade.Redstone=§7Redstone
@@ -428,6 +415,7 @@ mui.button.close=§7x
 #Cauldron Recipe Info
 GT5U.cauldron_recipe.supports=§7Supports any Impure Dust
 GT5U.cauldron_recipe.consumed=§7Consumed Water
+gt.recipe.cauldron=§7Cauldron
 GT5U.nei.cauldron.consumed=§7Consumed per operation
 
 #Purified Water
@@ -438,20 +426,24 @@ GT5U.nei.purified_water.grade_3.2=§7Returned in amount equivalent to consumed f
 GT5U.nei.purified_water.grade_4.0=§7+%s pH/stack
 GT5U.nei.purified_water.grade_4.1=§7%s pH/1000L
 
-# Exo-Foundry GUI
-GT5U.gui.text.foundry.modules.preview=§7Showing Preview Modules
-GT5U.gui.text.foundry.modules.installed=§7Showing Installed Modules
+#PCB Factory
+GT5U.MBTT.ConfigMenu=§7Configuration Menu
 
-# Large Hadron Collider GUI
-GT5U.gui.text.LHC.beamenergykeV=§7Current Beam Energy %seV
-GT5U.gui.text.LHC.beamrate=§7Current Beam Rate
-GT5U.gui.text.LHC.powercost=§7Current Power Draw %s §7EU/t
-GT5U.gui.text.LHC.status=§7Status: %s
-GT5U.gui.text.LHC.off=§7Off
-GT5U.gui.text.LHC.acceleratormode=§7Accelerating beam...
-GT5U.gui.text.LHC.collidermode=§7Colliding beam...
-GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
-
-# Drone Centre
-GT5U.gui.text.drone_no_connection=§7No any connection
-GT5U.gui.text.drone_remote_text=§7Drone Centre Remote Control
+GT5U.MBTT.PCB.Bio=§7Biochamber
+GT5U.MBTT.PCB.RotBio=§7Bio Rotation
+GT5U.MBTT.PCB.LiqCool=§7Liquid Cooling
+GT5U.MBTT.PCB.Sink=§7Thermosink
+GT5U.MBTT.PCB.Size=§7Trace Size
+GT5U.MBTT.PCB.BioOn=§7Biochamber Upgrade Enabled
+GT5U.MBTT.PCB.BioOff=§7Biochamber Upgrade Disabled
+GT5U.MBTT.PCB.RotBioOn=§7Rotated Biochamber Enabled
+GT5U.MBTT.PCB.RotBioOff=§7Rotated Biochamber Disabled
+GT5U.MBTT.PCB.T1CoolOn=§7Tier 1 Cooling Enabled
+GT5U.MBTT.PCB.T1CoolOff=§7Tier 1 Cooling Disabled
+GT5U.MBTT.PCB.T1CoolOffset=§7Cooler Tier 1 Offsets
+GT5U.MBTT.PCB.T2CoolOn=§7Tier 2 Cooling Enabled
+GT5U.MBTT.PCB.T2CoolOff=§7Tier 2 Cooling Disabled
+GT5U.MBTT.PCB.T2CoolOffset=§7Cooler Tier 2 Offsets
+GT5U.MBTT.PCB.Offsets=§7Bio Upgrade Offsets
+GT5U.MBTT.PCB.XOffset=§7X Offset
+GT5U.MBTT.PCB.ZOffset=§7Z Offset
