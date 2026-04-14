@@ -17,6 +17,7 @@ nei.debug.RecipeHandler.Width=§7Width
 nei.debug.RecipeHandler.UseCustomScroll=§7Use Custom Scroll
 nei.debug.RecipeHandler.ShowFavorites=§7Show Favorites
 nei.debug.RecipeHandler.ShowOverlay=§7Show Overlays
+nei.debug.RecipeHandler.ShowBadge=§7Show Badge
 
 nei.enchant=§7Incanta
 nei.enchant.level=§7Livello
