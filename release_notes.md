@@ -1,3 +1,2 @@
-- Texture fixes: ProjectRed (IC Workbench), Minecraft(NEI uses vanilla enchanting table)
-- Lang fixes: GregTech (Stocking Bus), NEI (Enchanting and Potion Tabs)
-- Other: Lang Sync
+- Texture fixes: Ae2 (CPU Selector), Chisel (overlay slots), Genetics (recipe progress arrows), Nuclear Control (howler alarm), Random Things (dyeing machine), Thaumic Tinkerer (ichor pouch), Witching Gadgets (spinnning wheel)
+- Lang fixes: Ae2 (CPU)
