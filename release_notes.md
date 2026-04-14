@@ -1,2 +1,4 @@
-- Texture fixes: Ae2 (CPU Selector), Chisel (overlay slots), Genetics (recipe progress arrows), Nuclear Control (howler alarm), Random Things (dyeing machine), Thaumic Tinkerer (ichor pouch), Witching Gadgets (spinnning wheel)
-- Lang fixes: Ae2 (CPU)
+- Texture fixes: Vanilla (Gui horse - armor slot)
+- Lang fixes: GT5 (Pcb Factory)
+- Added mod compatibility: Ae2Thing, ProgHatches, ThingTech
+- Other: Image compression, language sync, readme
