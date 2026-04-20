@@ -135,7 +135,8 @@ Applied Energistics 2
 - Updated Pattern Terminal GUIs
 - Added Color Aplicator GUI - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/998 / https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1002
 - Added Spatial Link Chamber gui - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1035 (original texture by Auynonymous)
-- Lot's of other color fixes and additions as per GTNH update
+- Added Reshuffle gui - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1072
+- Lot's of other color fixes and additions as per GTNH update (Additionally [Ae2 Dark Mode](https://github.com/Ranzuu/AE2-Dark-Mode) also got updates)
 
 Aspect Recipe Index
 - Added, well everything (new mod)
@@ -164,6 +165,7 @@ GregTech
 - Added new icons and updated others (a lot)
 - Added ModularArmor gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4065
 - Added Field Engineer's Toolbox overlay slots - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5906
+- Added new Ore Factory Icons
 
 KubaTech
 - Added HTGR text color
@@ -191,7 +193,8 @@ Vending machine
 Other
 - Added ability for the resoruce pack to be checked for updates
 - Lots of lang updates to get correct color per translation
+- Fixes grayscale images / image compression
 
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 454 (10.04.26)
+Up to date with Daily 467 (20.04.26)
