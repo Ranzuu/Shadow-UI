@@ -79,6 +79,7 @@
     <li><a href="https://github.com/RealSilverMoon/BoxPlusPlus">Box Plus Plus</a></li>
     <li><a href="https://github.com/ABKQPO/GT-Not-Leisure">GT: Not Leisure</a></li>
     <li><a href="https://github.com/Ol925/ThinkTech">Think Tech</a></li>
+    <li><a href="https://github.com/Shigure-Ruiseki/OKBackpack">OKBackpack</a></li>
     <li><a href="https://github.com/reobf/Programmable-Hatches-Mod">Programmable Hatches</a></li>
     <li><a href="https://github.com/slprime/ChromaticTooltips">Chromatic Tooltips</a></li>
 </ul>
