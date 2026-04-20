@@ -174,21 +174,13 @@ gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 gui.color.appliedenergistics2.CraftingPinSlotBackground=26C46632
 
 ## Color Aplicator Shift-click GUI
-# Window Border
 gui.color.appliedenergistics2.ColorSelectBackground=FF3C3B3A
-# Window Background
 gui.color.appliedenergistics2.ColorSelectBorder=FF4A4948
-# Button background
 gui.color.appliedenergistics2.ColorSelectBtnBg=FF6A6A6A
-# Button border selected
 gui.color.appliedenergistics2.ColorSelectBtnBorderSelected=FF7AC25F
-# Button border hover all minus selected
 gui.color.appliedenergistics2.ColorSelectBtnBorderHover=FF555452
-# Button background hover all minus selected
 gui.color.appliedenergistics2.ColorSelectBtnOverlayHover=33555452
-# Button border disabled
 gui.color.appliedenergistics2.ColorSelectBtnBorderDisabled=FF1D1D1D
-# Button background disabled
 gui.color.appliedenergistics2.ColorSelectBtnOverlayDisabled=B31D1D1D
 
 ## Level Maintainer Fluid Crafting
@@ -196,6 +188,9 @@ ae2fc.gui.color.StateIdle=FF7AC25F
 ae2fc.gui.color.StateCraft=FFFFF70F
 ae2fc.gui.color.StateExport=FF2A63C1
 ae2fc.gui.color.StateError=FFB13E53
+
+# Reshuffle
+gui.color.appliedenergistics2.ReshuffleTitle=FFABAAAA
 
 # Additions
 gui.appliedenergistics2.NoCraftingJobs=§7Nenhum Processo de Fabricação Ativo
@@ -219,3 +214,22 @@ gui.appliedenergistics2.SelectColor=§7Select a Color
 
 gui.appliedenergistics2.Inputs=§7Inputs
 gui.appliedenergistics2.Outputs=§7Outputs
+
+gui.appliedenergistics2.NoCraftingJobs=§7Nenhum Processo de Fabricação Ativo
+
+# Reshuffle
+gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
+gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
+gui.appliedenergistics2.ReshuffleStatusIdle=§7Idle
+gui.appliedenergistics2.ReshuffleReport=§7Report
+gui.appliedenergistics2.ReshuffleTotalTypes=§7%d / %d types
+
+gui.appliedenergistics2.ReshuffleHealthTopItemEntry=§7 • §f%s §7x%s
+gui.appliedenergistics2.ReshuffleReportNoMatchingCells=§7No cells found!
+gui.appliedenergistics2.ReshuffleScanDuplicatePartition=§7Duplicate partition:
+
+gui.appliedenergistics2.ReshuffleReportTextColorNeutral=§7
+gui.appliedenergistics2.ReshuffleReportTextColorValues=§7
+
+gui.appliedenergistics2.ReshufflePartitionScanner=§7Partition Scanner
+gui.appliedenergistics2.ReshuffleHealthTitle=§7Cell Health
