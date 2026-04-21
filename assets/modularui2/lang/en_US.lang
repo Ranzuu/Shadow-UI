@@ -1,0 +1,16 @@
+# Debug Screen
+modularui2.debug.mouse_pos=§7Mouse Pos: §3%d§7, §3%d
+modularui2.debug.fps=§7FPS: §3%d
+modularui2.debug.theme_id=§7Theme ID: §6%s
+modularui2.debug.widget_theme=§7Widget Theme: §6%s
+modularui2.debug.size=§7Size: §3%d§7, §3%d
+modularui2.debug.pos_rel=§7Post: §3%d§7, §3%d§7  Rel: §3%d§7, §3%d
+modularui2.debug.widget=§7Widget: §6%s
+modularui2.debug.parent_size=§7Parent size: §3%d§7, §3%d
+modularui2.debug.parent_pos_rel=§7Parent pos: §3%d§7, §3%d§7  Rel: §3%d§7, §3%d
+modularui2.debug.parent=§7Parent: §6%s
+modularui2.debug.slot_index=§7Slot Index: §3%d
+modularui2.debug.slot_number=§7Slot Number: §3%d
+modularui2.debug.shift_click_priority=§7Shift-Click Priority: §3%d
+modularui2.debug.disabled=§cDISABLED
+modularui2.debug.hovered=§7Hovered: §6%s
