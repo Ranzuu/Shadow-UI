@@ -193,7 +193,7 @@ ae2fc.gui.color.StateError=FFB13E53
 gui.color.appliedenergistics2.ReshuffleTitle=FFABAAAA
 
 # Additions
-gui.appliedenergistics2.NoCraftingJobs=§7No hay Trabajos Activos
+gui.appliedenergistics2.NoCraftingJobs=§7Inactive
 gui.appliedenergistics2.NoCraftingCPUs=§7No hay CPU de creación disponbiles
 gui.appliedenergistics2.CraftingCPU=§7CPU de Creación
 gui.appliedenergistics2.StartWithFollow=§7Start With Follow
