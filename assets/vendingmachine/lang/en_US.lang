@@ -1,11 +1,13 @@
-vendingmachine.gui.requirementHeader=§7Requirements:
-
 vendingmachine.gui.neiColor.conditionDefault=AAAAAA
 vendingmachine.gui.neiColor.conditionSatisfied=7AC25F
 vendingmachine.gui.neiColor.conditionUnsatisfied=AAAAAA
 vendingmachine.gui.display_text_color=AAAAAA
+vendingmachine.gui.trade_display_text_color=B13E53
 
 gt.blockmachines.multimachine.vendingmachine.name.gui=§7Vending Machine
+vendingmachine.gui.requirementHeader=§7Requirements:
+vendingmachine.gui.in=§7IN
+vendingmachine.gui.out=§7OUT
 
 vendingmachine.gui.error.incomplete_structure=§4Incomplete Structure.
 vendingmachine.gui.error.player_using=§4Someone is using the vending machine at the moment.
