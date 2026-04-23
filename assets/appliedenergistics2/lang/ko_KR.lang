@@ -193,7 +193,7 @@ ae2fc.gui.color.StateError=FFB13E53
 gui.color.appliedenergistics2.ReshuffleTitle=FFABAAAA
 
 # Additions
-gui.appliedenergistics2.NoCraftingJobs=§7No Crafting Job Active
+gui.appliedenergistics2.NoCraftingJobs=§7Inactive
 gui.appliedenergistics2.NoCraftingCPUs=§7제작용 CPU를 사용할 수 없습니다.
 gui.appliedenergistics2.CraftingCPU=§7제작용 CPU
 gui.appliedenergistics2.StartWithFollow=§7Start With Follow
