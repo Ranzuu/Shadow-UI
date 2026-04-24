@@ -117,23 +117,5 @@ gui.title.airLock.name=§7Controle da Porta de %s
 
 gui.status.unknown.name=§dDesconhecido
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Aldeão Alienígena
-entity.GalacticraftCore.Buggy.name=§7Buggy
-entity.GalacticraftCore.EvolvedCreeper.name=§7Creeper Evoluído
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Esqueleto Evoluído
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Esqueleto-Chefe Evoluído
-entity.GalacticraftCore.EvolvedSpider.name=§7Aranha Evoluída
-entity.GalacticraftCore.EvolvedZombie.name=§7Zumbi Evoluído
-entity.GalacticraftCore.Flag.name=§7Bandeira
-entity.GalacticraftCore.GCFlag.name=§7Bandeira
-entity.GalacticraftCore.GravityArrow.name=§7Flecha
-entity.GalacticraftCore.Lander.name=§7Módulo Espacial
-entity.GalacticraftCore.Meteor.name=§7Meteoro
-entity.GalacticraftCore.MeteorChunk.name=§7Pedaço de Meteoro
-entity.GalacticraftCore.OxygenBubble.name=§7Bolha de Oxigênio
-entity.GalacticraftCore.ParaChest.name=§7Para-baú
-entity.GalacticraftCore.Spaceship.name=§7Foguete Nível 1
-
 schematic.moonbuggy.name=§7Buggy
 schematic.rocketT1.name=§7Foguete Nível 1

@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s Légzsilip-Kezelőpultja.
 
 gui.status.unknown.name=§dIsmeretlen
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Idegen Falusi
-entity.GalacticraftCore.Buggy.name=§7Rover
-entity.GalacticraftCore.EvolvedCreeper.name=§7Fejlett Creeper
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Fejlett Csontváz
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Fejlett Csontváz-Főgonosz
-entity.GalacticraftCore.EvolvedSpider.name=§7Fejlett Pók
-entity.GalacticraftCore.EvolvedZombie.name=§7Fejlett Zombi
-entity.GalacticraftCore.Flag.name=§7Zászló
-entity.GalacticraftCore.GCFlag.name=§7Zászló
-entity.GalacticraftCore.GravityArrow.name=§7Nyílvessző
-entity.GalacticraftCore.Lander.name=§7Leszállóegység
-entity.GalacticraftCore.Meteor.name=§7Meteor
-entity.GalacticraftCore.MeteorChunk.name=§7Meteordarab
-entity.GalacticraftCore.OxygenBubble.name=§7Légbuborék
-entity.GalacticraftCore.ParaChest.name=§7Utánpótlás-Szállító Láda
-entity.GalacticraftCore.Spaceship.name=§71-Es Szintű Rakéta
-
 schematic.moonbuggy.name=§7Rover
 schematic.rocketT1.name=§71-Es Szintű Rakéta

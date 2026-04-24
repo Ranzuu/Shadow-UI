@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's Controlleur du sas
 
 gui.status.unknown.name=§dInconnu
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Villageois alien
-entity.GalacticraftCore.Buggy.name=§7Boghei
-entity.GalacticraftCore.EvolvedCreeper.name=§7Creeper évolué
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Squelette évolué
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Boss squelette évolué
-entity.GalacticraftCore.EvolvedSpider.name=§7Araignée évolué
-entity.GalacticraftCore.EvolvedZombie.name=§7Zombie évolué
-entity.GalacticraftCore.Flag.name=§7Drapeau
-entity.GalacticraftCore.GCFlag.name=§7Drapeau
-entity.GalacticraftCore.GravityArrow.name=§7Flèche
-entity.GalacticraftCore.Lander.name=§7Atterrisseur spatial
-entity.GalacticraftCore.Meteor.name=§7Météore
-entity.GalacticraftCore.MeteorChunk.name=§7Morceau de météore
-entity.GalacticraftCore.OxygenBubble.name=§7Bulle d'oxygène
-entity.GalacticraftCore.ParaChest.name=§7Coffre parachuté
-entity.GalacticraftCore.Spaceship.name=§7Fusée Niveau 1
-
 schematic.moonbuggy.name=§7Boghei Lunaire
 schematic.rocketT1.name=§7Fusée Niveau 1

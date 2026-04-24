@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's 에어락 제어기
 
 gui.status.unknown.name=§d확인불가
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7외계주민
-entity.GalacticraftCore.Buggy.name=§7버기
-entity.GalacticraftCore.EvolvedCreeper.name=§7진화한 크리퍼
-entity.GalacticraftCore.EvolvedSkeleton.name=§7진화한 스켈레톤
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7진화한 스켈레톤 보스
-entity.GalacticraftCore.EvolvedSpider.name=§7진화한 거미
-entity.GalacticraftCore.EvolvedZombie.name=§7진화한 좀비
-entity.GalacticraftCore.Flag.name=§7깃발
-entity.GalacticraftCore.GCFlag.name=§7깃발
-entity.GalacticraftCore.GravityArrow.name=§7화살
-entity.GalacticraftCore.Lander.name=§7착륙기
-entity.GalacticraftCore.Meteor.name=§7운석
-entity.GalacticraftCore.MeteorChunk.name=§7운석 덩어리
-entity.GalacticraftCore.OxygenBubble.name=§7산소 기포
-entity.GalacticraftCore.ParaChest.name=§7낙하상자
-entity.GalacticraftCore.Spaceship.name=§71티어 로켓
-
 schematic.moonbuggy.name=§7월면차
 schematic.rocketT1.name=§71티어 로켓

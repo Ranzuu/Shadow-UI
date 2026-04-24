@@ -117,23 +117,5 @@ gui.title.airLock.name=§7Luftschleusen-Controller von %s
 
 gui.status.unknown.name=§dUnbekannt
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Alien-Dorfbewohner
-entity.GalacticraftCore.Buggy.name=§7Mondrover
-entity.GalacticraftCore.EvolvedCreeper.name=§7Entwickelter Creeper
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Entwickeltes Skelett
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Entwickelter Skelett-Boss
-entity.GalacticraftCore.EvolvedSpider.name=§7Entwickelte Spinne
-entity.GalacticraftCore.EvolvedZombie.name=§7Entwickelter Zombie
-entity.GalacticraftCore.Flag.name=§7Flagge
-entity.GalacticraftCore.GCFlag.name=§7Flagge
-entity.GalacticraftCore.GravityArrow.name=§7Pfeil
-entity.GalacticraftCore.Lander.name=§7Weltraum-Landekapsel
-entity.GalacticraftCore.Meteor.name=§7Meteor
-entity.GalacticraftCore.MeteorChunk.name=§7Meteorbrocken
-entity.GalacticraftCore.OxygenBubble.name=§7Sauerstoffblase
-entity.GalacticraftCore.ParaChest.name=§7Paratruhe
-entity.GalacticraftCore.Spaceship.name=§7Raumschiff
-
 schematic.moonbuggy.name=§7Mondrover
 schematic.rocketT1.name=§7Rakete (Stufe 1)

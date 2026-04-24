@@ -117,23 +117,5 @@ gui.title.airLock.name=§7Śluza powietrzna gracza %s
 
 gui.status.unknown.name=§dNieznany
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Kosmita-Wieśniak
-entity.GalacticraftCore.Buggy.name=§7Buggy
-entity.GalacticraftCore.EvolvedCreeper.name=§7Kosmiczny Creeper
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Kosmiczny Szkielet
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Kosmiczny Szkielet-Gigant
-entity.GalacticraftCore.EvolvedSpider.name=§7Kosmiczny Pająk
-entity.GalacticraftCore.EvolvedZombie.name=§7Kosmiczny Zombie
-entity.GalacticraftCore.Flag.name=§7Flaga
-entity.GalacticraftCore.GCFlag.name=§7Flaga
-entity.GalacticraftCore.GravityArrow.name=§7Strzała
-entity.GalacticraftCore.Lander.name=§7Lądownik Kosmiczny
-entity.GalacticraftCore.Meteor.name=§7Meteor
-entity.GalacticraftCore.MeteorChunk.name=§7Kawałek Meteorytu
-entity.GalacticraftCore.OxygenBubble.name=§7Bańka Tlenowa
-entity.GalacticraftCore.ParaChest.name=§7Paraskrzynia
-entity.GalacticraftCore.Spaceship.name=§7Statek Kosmiczny
-
 schematic.moonbuggy.name=§7Księżycowe Buggy
 schematic.rocketT1.name=§7Rakieta Poziomu 1

@@ -21,7 +21,3 @@ text.onlineDetector.detectingNobody=§7Personne détectée
 text.onlineDetector.detecting=§7"Détection %s"
 text.miscellaneous.edlt=§7Edlt: %s/%s RF
 text.miscellaneous.mc=§7MC: %s/%s
-
-entity.RandomThings.spirit.name=§7Spirit
-entity.bloodmoonCircle.name=§7Cercle de la lune de sang
-

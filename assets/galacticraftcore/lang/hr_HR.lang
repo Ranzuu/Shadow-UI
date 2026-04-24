@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's Kontroler Zračne Komore
 
 gui.status.unknown.name=§dNepoznato
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Vanzemaljski Seljanin
-entity.GalacticraftCore.Buggy.name=§7Rover
-entity.GalacticraftCore.EvolvedCreeper.name=§7Evoulirani Kriper
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Evoulirani Kostur
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Evoulirani Kralj Kostura
-entity.GalacticraftCore.EvolvedSpider.name=§7Evoulirani Pauk
-entity.GalacticraftCore.EvolvedZombie.name=§7Evoulirani Zombi
-entity.GalacticraftCore.Flag.name=§7Zastava
-entity.GalacticraftCore.GCFlag.name=§7Zastava
-entity.GalacticraftCore.GravityArrow.name=§7Strijela
-entity.GalacticraftCore.Lander.name=§7Svemirski Slijetač
-entity.GalacticraftCore.Meteor.name=§7Meteor
-entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk
-entity.GalacticraftCore.OxygenBubble.name=§7Zračni Balon
-entity.GalacticraftCore.ParaChest.name=§7PadoŠkrinja
-entity.GalacticraftCore.Spaceship.name=§7Raketa Ranga 1
-
 schematic.moonbuggy.name=§7Mjesečev Rover
 schematic.rocketT1.name=§7Raketa Ranga 1

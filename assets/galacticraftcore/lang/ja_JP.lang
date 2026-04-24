@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's Air Lock Controller
 
 gui.status.unknown.name=§d不明
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7宇宙の村人
-entity.GalacticraftCore.Buggy.name=§7バギー
-entity.GalacticraftCore.EvolvedCreeper.name=§7宇宙のクリーパー
-entity.GalacticraftCore.EvolvedSkeleton.name=§7宇宙のスケルトン
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7スケルトンキング
-entity.GalacticraftCore.EvolvedSpider.name=§7宇宙のクモ
-entity.GalacticraftCore.EvolvedZombie.name=§7宇宙のゾンビ
-entity.GalacticraftCore.Flag.name=§7旗
-entity.GalacticraftCore.GCFlag.name=§7旗
-entity.GalacticraftCore.GravityArrow.name=§7矢
-entity.GalacticraftCore.Lander.name=§7ランダー
-entity.GalacticraftCore.Meteor.name=§7流星
-entity.GalacticraftCore.MeteorChunk.name=§7流星チャンク
-entity.GalacticraftCore.OxygenBubble.name=§7酸素バブル
-entity.GalacticraftCore.ParaChest.name=§7パラシュートチェスト
-entity.GalacticraftCore.Spaceship.name=§7レベル 1 ロケット
-
 schematic.moonbuggy.name=§7ムーンバギー
 schematic.rocketT1.name=§7レベル 1 宇宙機

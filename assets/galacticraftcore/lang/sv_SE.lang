@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's luftslusskontroll
 
 gui.status.unknown.name=§dOkänd
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Utomjordisk bybo
-entity.GalacticraftCore.Buggy.name=§7Månbil
-entity.GalacticraftCore.EvolvedCreeper.name=§7Rymdsmygare
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Rymdskelett
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Månhålehärskare
-entity.GalacticraftCore.EvolvedSpider.name=§7Rymdspindel
-entity.GalacticraftCore.EvolvedZombie.name=§7Rymdzombie
-entity.GalacticraftCore.Flag.name=§7Flagga
-entity.GalacticraftCore.GCFlag.name=§7Flagga
-entity.GalacticraftCore.GravityArrow.name=§7Pil
-entity.GalacticraftCore.Lander.name=§7Månlandare
-entity.GalacticraftCore.Meteor.name=§7Meteor
-entity.GalacticraftCore.MeteorChunk.name=§7Meteorsten
-entity.GalacticraftCore.OxygenBubble.name=§7Luftbubbla
-entity.GalacticraftCore.ParaChest.name=§7Fallskärmskista
-entity.GalacticraftCore.Spaceship.name=§7Rymdskepp
-
 schematic.moonbuggy.name=§7Månbil
 schematic.rocketT1.name=§7N1-raket

@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's Luchtsluis Controleur
 
 gui.status.unknown.name=§dOnbekend
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Alien Dorpeling
-entity.GalacticraftCore.Buggy.name=§7Buggy
-entity.GalacticraftCore.EvolvedCreeper.name=§7Geëvolueerde Creeper
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Geëvolueerde Skeleton
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Geëvolueerde Skeleton Boss
-entity.GalacticraftCore.EvolvedSpider.name=§7Geëvolueerde Spin
-entity.GalacticraftCore.EvolvedZombie.name=§7Geëvolueerde Zombie
-entity.GalacticraftCore.Flag.name=§7Vlag
-entity.GalacticraftCore.GCFlag.name=§7Vlag
-entity.GalacticraftCore.GravityArrow.name=§7Pijl
-entity.GalacticraftCore.Lander.name=§7Ruimte Lander
-entity.GalacticraftCore.Meteor.name=§7Meteoor
-entity.GalacticraftCore.MeteorChunk.name=§7Meteoor Brokstuk
-entity.GalacticraftCore.OxygenBubble.name=§7Zuurstof Bel
-entity.GalacticraftCore.ParaChest.name=§7Parakist
-entity.GalacticraftCore.Spaceship.name=§7Raket
-
 schematic.moonbuggy.name=§7Maan wagen
 schematic.rocketT1.name=§7Tier 1 Raket

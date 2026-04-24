@@ -46,6 +46,3 @@ gui.de.particleGenerator.pitch.name=§7俯仰：
 gui.de.particleGenerator.yaw.name=§7偏航：
 gui.de.particleGenerator.rotation.name=§7旋转：
 gui.de.particleGenerator.length.name=§7长度：
-
-entity.DraconicEvolution.EnderDragon.name=§7上古末影龙
-entity.DraconicEvolution.ChaosGuardian.name=§7混沌守卫
