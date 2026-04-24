@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s's Air Lock Controller ##NEEDS TRANSLATE##
 
 gui.status.unknown.name=§d Anhysbys
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Pentrefwr Alien
-entity.GalacticraftCore.Buggy.name=§7Buggy
-entity.GalacticraftCore.EvolvedCreeper.name=§7esblygu Dringwr Bach
-entity.GalacticraftCore.EvolvedSkeleton.name=§7esblygu Sgerbwd
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7esblygu Sgerbwd Boss
-entity.GalacticraftCore.EvolvedSpider.name=§7esblygu Spider
-entity.GalacticraftCore.EvolvedZombie.name=§7esblygu Zombie
-entity.GalacticraftCore.Flag.name=§7Flag
-entity.GalacticraftCore.GCFlag.name=§7Flag ##NEEDS TRANSLATE##
-entity.GalacticraftCore.GravityArrow.name=§7Arrow
-entity.GalacticraftCore.Lander.name=§7Gofod Lander
-entity.GalacticraftCore.Meteor.name=§7Meteor
-entity.GalacticraftCore.MeteorChunk.name=§7Meteor Chunk ##NEEDS TRANSLATE##
-entity.GalacticraftCore.OxygenBubble.name=§7Ocsigen Bubble
-entity.GalacticraftCore.ParaChest.name=§7Parachest
-entity.GalacticraftCore.Spaceship.name=§7Haen 1 Roced
-
 schematic.moonbuggy.name=§7Moon Buggy
 schematic.rocketT1.name=§7 Haen 1 Roced

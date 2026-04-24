@@ -241,27 +241,6 @@ botania.entry.bcIntegration=§0Интеграция с Buildcraft
 botania.entry.banners=§0Дополнения к баннерам
 botania.entry.preventingDecay=§0Предотвращение увядания
 
-# ENTITY NAMES
-entity.Botania.botania:manaBurst.name=§7Всплеск маны
-entity.Botania.botania:signalFlare.name=§7Сигнальная вспышка
-entity.Botania.botania:pixie.name=§7Пикси
-entity.Botania.botania:flameRing.name=§7Кольцо пламени
-entity.Botania.botania:vineBall.name=§7Клубок лозы
-entity.Botania.botania:doppleganger.name=§7Страж Гайи
-entity.Botania.botania:magicLandmine.name=§7Ловушка Гайи
-entity.Botania.botania:spark.name=§7Искра
-entity.Botania.botania:thrownItem.name=§7Брошенный предмет
-entity.Botania.botania:magicMissile.name=§7Чародейские стрелы
-entity.Botania.botania:thornChakram.name=§7Шипастый чакрам
-entity.Botania.botania:corporeaSpark.name=§7Искра Извлекателя
-entity.Botania.botania:enderAirBottle.name=§7Пузырёк воздуха Края
-entity.Botania.botania:poolMinecart.name=§7Вагонетка с бассейном маны
-entity.Botania.botania:pinkWither.name=§7Розовый иссушитель
-entity.Botania.botania:playerMover.name=§7Луч-Люминайзер
-entity.Botania.botania:manaStorm.name=§7Эпицентр манашторма
-entity.Botania.botania:babylonWeapon.name=§7Оружие казначейства
-entity.Botania.botania:fallingStar.name=§7Падающая звезда
-
 # GUI TEXT
 botania.gui.flowerBag.title=§7Цветочный мешочек
 botania.gui.shroomBag.title=§7Mushroom Pouch

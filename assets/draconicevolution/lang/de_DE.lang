@@ -46,6 +46,3 @@ gui.de.particleGenerator.pitch.name=§7Pitch:
 gui.de.particleGenerator.yaw.name=§7Yaw:
 gui.de.particleGenerator.rotation.name=§7Rotation:
 gui.de.particleGenerator.length.name=§7Length:
-
-entity.DraconicEvolution.EnderDragon.name=§7Enderdrache
-entity.DraconicEvolution.ChaosGuardian.name=§7Chaoswächter

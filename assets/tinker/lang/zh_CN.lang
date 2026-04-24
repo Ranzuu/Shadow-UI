@@ -49,12 +49,6 @@ gui.toolstation21=§7弹药:
 gui.toolstation22=§7损坏几率: 
 gui.toolstation23=§7最大攻击: 
 
-entity.TConstruct.EdibleSlime.name=§7蓝色史莱姆
-entity.TConstruct.KingSlime.name=§7史莱姆王
-entity.TConstruct.Gardeslime.name=§7史莱姆护卫
-entity.TConstruct.MiniGardy.name=§7迷你史莱姆护卫
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
 
 tconstruct.nei.projectilematerials=§7§l弓与箭

@@ -21,7 +21,3 @@ text.onlineDetector.detectingNobody=§7未探测到任何玩家
 text.onlineDetector.detecting=§7"探测到玩家%s"
 text.miscellaneous.edlt=§7Edlt: %s/%s RF
 text.miscellaneous.mc=§7MC: %s/%s
-
-entity.RandomThings.spirit.name=§7Spirit
-entity.bloodmoonCircle.name=§7Bloodmoon Circle
-

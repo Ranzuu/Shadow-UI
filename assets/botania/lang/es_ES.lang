@@ -241,27 +241,6 @@ botania.entry.bcIntegration=§0Integración con Buildcraft
 botania.entry.banners=§0Banner Additions
 botania.entry.preventingDecay=§0Preventing Decay
 
-# ENTITY NAMES
-entity.Botania.botania:manaBurst.name=§7Pulso de maná
-entity.Botania.botania:signalFlare.name=§7Bengala de señales
-entity.Botania.botania:pixie.name=§7Hada
-entity.Botania.botania:flameRing.name=§7Anillo de llama
-entity.Botania.botania:vineBall.name=§7Bola de enredadera
-entity.Botania.botania:doppleganger.name=§7Guardián de Gaia
-entity.Botania.botania:magicLandmine.name=§7Trampa de Gaia
-entity.Botania.botania:spark.name=§7Chispa
-entity.Botania.botania:thrownItem.name=§7Objeto lanzado
-entity.Botania.botania:magicMissile.name=§7Misil mágico
-entity.Botania.botania:thornChakram.name=§7Chakram de púas
-entity.Botania.botania:corporeaSpark.name=§7Chispa de corporea
-entity.Botania.botania:enderAirBottle.name=§7Botella de aire del Fin
-entity.Botania.botania:poolMinecart.name=§7Vagoneta de pila de maná
-entity.Botania.botania:pinkWither.name=§7Wither rosa
-entity.Botania.botania:playerMover.name=§7Rayo de luminizador
-entity.Botania.botania:manaStorm.name=§7Epicentro de tormenta de maná
-entity.Botania.botania:babylonWeapon.name=§7Arma del tesoro
-entity.Botania.botania:fallingStar.name=§7Estrella caída
-
 # GUI TEXT
 botania.gui.flowerBag.title=§7Bolsa de flores
 botania.gui.shroomBag.title=§7Mushroom Pouch

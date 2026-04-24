@@ -13,7 +13,3 @@ emt.Generating=§7Generating:
 emt.Fuel=§7Fuel
 emt.OutputMax=§7Output at Max:
 emt.remaining_second=§7Remaining seconds:
-
-entity.EMT.laser.name=§7Laser
-entity.EMT.archer.name=§7Guardian Snowman
-entity.EMT.shield.name=§7Shield

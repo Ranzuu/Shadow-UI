@@ -13,7 +13,3 @@ emt.Generating=§7发电：
 emt.Fuel=§7燃料
 emt.OutputMax=§7最大输出：
 emt.remaining_second=§7Remaining seconds:
-
-entity.EMT.laser.name=§7镭射器
-entity.EMT.archer.name=§7雪人守卫
-entity.EMT.shield.name=§7护盾

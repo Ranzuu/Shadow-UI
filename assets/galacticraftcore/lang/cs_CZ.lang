@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%sův kontroler přechodové komory
 
 gui.status.unknown.name=§dNeznámý
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Mimozemšťan
-entity.GalacticraftCore.Buggy.name=§7Bugina
-entity.GalacticraftCore.EvolvedCreeper.name=§7Vyvinutý syčák
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Vyvinutý kostlivec
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Vyvinutý kostlivec (Boss)
-entity.GalacticraftCore.EvolvedSpider.name=§7Vyvinutý pavouk
-entity.GalacticraftCore.EvolvedZombie.name=§7Vyvinutý zombie
-entity.GalacticraftCore.Flag.name=§7Vlajka
-entity.GalacticraftCore.GCFlag.name=§7Vlajka
-entity.GalacticraftCore.GravityArrow.name=§7Šíp
-entity.GalacticraftCore.Lander.name=§7Přistávací modul
-entity.GalacticraftCore.Meteor.name=§7Meteorit
-entity.GalacticraftCore.MeteorChunk.name=§7Úlomek meteoritu
-entity.GalacticraftCore.OxygenBubble.name=§7Kyslíková bublina
-entity.GalacticraftCore.ParaChest.name=§7Truhla na padáku
-entity.GalacticraftCore.Spaceship.name=§7Raketa typ 1
-
 schematic.moonbuggy.name=§7Bugina
 schematic.rocketT1.name=§7Raketa typ 1

@@ -49,12 +49,6 @@ gui.toolstation21=§7갯수:
 gui.toolstation22=§7부러질 확률: 
 gui.toolstation23=§7최대 공격력: 
 
-entity.TConstruct.EdibleSlime.name=§7푸른 슬라임
-entity.TConstruct.KingSlime.name=§7대왕 슬라임
-entity.TConstruct.Gardeslime.name=§7가드 슬라임 
-entity.TConstruct.MiniGardy.name=§7미니 가드 슬라임 
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
 
 tconstruct.nei.projectilematerials=§7§l활과 화살

@@ -49,12 +49,6 @@ gui.toolstation21=§7Munição:
 gui.toolstation22=§7Chance de quebra: 
 gui.toolstation23=§7Ataque Máximo: 
 
-entity.TConstruct.EdibleSlime.name=§7Slime-Azul
-entity.TConstruct.KingSlime.name=§7Slime Rei
-entity.TConstruct.Gardeslime.name=§7Slime-de-Jardim
-entity.TConstruct.MiniGardy.name=§7Slime-de-Jardim
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
 
 tconstruct.nei.projectilematerials=§7§lArco e Flecha

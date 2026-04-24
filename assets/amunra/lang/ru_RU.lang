@@ -22,12 +22,12 @@ gui.message.energy_usage=§7Энергопотребление
 gui.message.mothership.numEngineParts=§7Размер двигателя
 gui.message.mothership.travelThrust=§7Тяга
 
-entity.robotVillager.name=§7Житель-робот
-entity.porcodon.name=§7Поркодон
-entity.sentryRobot.name=§7Sentry
-entity.osirisBoss.name=§7Босс-мумия
-entity.alienVillagerAR.name=§7Инопланетный житель
-entity.alienBug.name=§7Pincer Bug
-entity.GalacticraftAmunRa.Shuttle.name=§7Shuttle Rocket
+
+
+
+
+
+
+
 
 schematic.shuttle.name=§7Shuttle Rocket

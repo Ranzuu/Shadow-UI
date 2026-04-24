@@ -117,23 +117,5 @@ gui.title.airLock.name=§7%s的氣閘控制器
 
 gui.status.unknown.name=§d未知
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7外星村民
-entity.GalacticraftCore.Buggy.name=§7星球車
-entity.GalacticraftCore.EvolvedCreeper.name=§7爬行者(進化體)
-entity.GalacticraftCore.EvolvedSkeleton.name=§7骷髏(進化體)
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7骷髏王(進化體)
-entity.GalacticraftCore.EvolvedSpider.name=§7蜘蛛(進化體)
-entity.GalacticraftCore.EvolvedZombie.name=§7僵尸(進化體)
-entity.GalacticraftCore.Flag.name=§7旗幟
-entity.GalacticraftCore.GCFlag.name=§7旗
-entity.GalacticraftCore.GravityArrow.name=§7箭
-entity.GalacticraftCore.Lander.name=§7登陸艙
-entity.GalacticraftCore.Meteor.name=§7隕石
-entity.GalacticraftCore.MeteorChunk.name=§7隕石塊
-entity.GalacticraftCore.OxygenBubble.name=§7氧氣泡沫
-entity.GalacticraftCore.ParaChest.name=§7傘降箱
-entity.GalacticraftCore.Spaceship.name=§7火箭(1級)
-
 schematic.moonbuggy.name=§7探月車
 schematic.rocketT1.name=§7一階火箭

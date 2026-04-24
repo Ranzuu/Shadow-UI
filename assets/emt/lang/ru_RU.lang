@@ -13,7 +13,3 @@ emt.Generating=§7Генерирует:
 emt.Fuel=§7горючее
 emt.OutputMax=§7Output at Max:
 emt.remaining_second=§7Remaining seconds:
-
-entity.EMT.laser.name=§7Лазер
-entity.EMT.archer.name=§7Снеговик-хранитель
-entity.EMT.shield.name=§7Щит

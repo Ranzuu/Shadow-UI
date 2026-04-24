@@ -241,27 +241,6 @@ botania.entry.bcIntegration=§0Buildcraft Integratie
 botania.entry.banners=§0Vaandel Uitbreidingen
 botania.entry.preventingDecay=§0Preventing Decay
 
-# ENTITY NAMES
-entity.Botania.botania:manaBurst.name=§7Mana Burst
-entity.Botania.botania:signalFlare.name=§7Signaalpistool
-entity.Botania.botania:pixie.name=§7Elfje
-entity.Botania.botania:flameRing.name=§7Vuur Ring
-entity.Botania.botania:vineBall.name=§7Lianenbol
-entity.Botania.botania:doppleganger.name=§7Beschermer van Gaia
-entity.Botania.botania:magicLandmine.name=§7Gaia val
-entity.Botania.botania:spark.name=§7Vonk
-entity.Botania.botania:thrownItem.name=§7Gegooid object
-entity.Botania.botania:magicMissile.name=§7Magische Raket
-entity.Botania.botania:thornChakram.name=§7Doorn van Chakram
-entity.Botania.botania:corporeaSpark.name=§7Corporea Vonk
-entity.Botania.botania:enderAirBottle.name=§7Flesje Ender Lucht
-entity.Botania.botania:poolMinecart.name=§7Mana Voorraad Mijnkar
-entity.Botania.botania:pinkWither.name=§7Roze Wither
-entity.Botania.botania:playerMover.name=§7Verlichter Straal
-entity.Botania.botania:manaStorm.name=§7Manastorm Epicenter
-entity.Botania.botania:babylonWeapon.name=§7Mythisch Wapen
-entity.Botania.botania:fallingStar.name=§7Vallende Ster
-
 # GUI TEXT
 botania.gui.flowerBag.title=§7Bloementas
 botania.gui.shroomBag.title=§7Mushroom Pouch

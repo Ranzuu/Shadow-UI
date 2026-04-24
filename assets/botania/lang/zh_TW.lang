@@ -241,27 +241,6 @@ botania.entry.bcIntegration=§0Buildcraft結合
 botania.entry.banners=§0更多旗幟
 botania.entry.preventingDecay=§0阻止凋零
 
-# ENTITY NAMES
-entity.Botania.botania:manaBurst.name=§7瑪那脈衝
-entity.Botania.botania:signalFlare.name=§7信號彈
-entity.Botania.botania:pixie.name=§7小精靈
-entity.Botania.botania:flameRing.name=§7火焰圈
-entity.Botania.botania:vineBall.name=§7籐蔓球
-entity.Botania.botania:doppleganger.name=§7蓋亞守護者
-entity.Botania.botania:magicLandmine.name=§7蓋亞陷阱
-entity.Botania.botania:spark.name=§7火花
-entity.Botania.botania:thrownItem.name=§7投擲物品
-entity.Botania.botania:magicMissile.name=§7瑪那飛彈
-entity.Botania.botania:thornChakram.name=§7荊棘飛輪
-entity.Botania.botania:corporeaSpark.name=§7多媒體火花
-entity.Botania.botania:enderAirBottle.name=§7瓶裝終界空氣
-entity.Botania.botania:poolMinecart.name=§7瑪那池礦車
-entity.Botania.botania:pinkWither.name=§7粉色凋零
-entity.Botania.botania:playerMover.name=§7微光束
-entity.Botania.botania:manaStorm.name=§7瑪那風暴中心
-entity.Botania.botania:babylonWeapon.name=§7貯藏庫武器
-entity.Botania.botania:fallingStar.name=§7落星
-
 # GUI TEXT
 botania.gui.flowerBag.title=§7採花袋
 botania.gui.shroomBag.title=§7Mushroom Pouch

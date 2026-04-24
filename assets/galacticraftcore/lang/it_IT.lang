@@ -117,23 +117,5 @@ gui.title.airLock.name=§7Controller della chiusura ad aria di %s
 
 gui.status.unknown.name=§dNon conosciuto
 
-# ENTITIES
-entity.GalacticraftCore.AlienVillager.name=§7Paesano alieno
-entity.GalacticraftCore.Buggy.name=§7Rover
-entity.GalacticraftCore.EvolvedCreeper.name=§7Creeper evoluto
-entity.GalacticraftCore.EvolvedSkeleton.name=§7Scheletro evoluto
-entity.GalacticraftCore.EvolvedSkeletonBoss.name=§7Scheletro-boss evoluto
-entity.GalacticraftCore.EvolvedSpider.name=§7Ragno evoluto
-entity.GalacticraftCore.EvolvedZombie.name=§7Zombie evoluto
-entity.GalacticraftCore.Flag.name=§7Bandiera
-entity.GalacticraftCore.GCFlag.name=§7Bandiera
-entity.GalacticraftCore.GravityArrow.name=§7Freccia
-entity.GalacticraftCore.Lander.name=§7Space Lander
-entity.GalacticraftCore.Meteor.name=§7Meteora
-entity.GalacticraftCore.MeteorChunk.name=§7Pezzo di meteorite
-entity.GalacticraftCore.OxygenBubble.name=§7Bolla di ossigeno
-entity.GalacticraftCore.ParaChest.name=§7Cassa del razzo
-entity.GalacticraftCore.Spaceship.name=§7Razzo di livello 1
-
 schematic.moonbuggy.name=§7Rover della luna
 schematic.rocketT1.name=§7Razzo di livello 1

@@ -49,12 +49,6 @@ gui.toolstation21=§7Munizioni:
 gui.toolstation22=§7Possib. rottura: 
 gui.toolstation23=§7Danno max: 
 
-entity.TConstruct.EdibleSlime.name=§7Gelatina blu
-entity.TConstruct.KingSlime.name=§7Re gelatina
-entity.TConstruct.Gardeslime.name=§7Gelatina guardiano
-entity.TConstruct.MiniGardy.name=§7Gelatina guardiano
-entity.TConstruct.Crystal.name=§7Crystal
-
 tconstruct.nei.dryingrack.duration=§7%d ticks (%d secs)
 
 tconstruct.nei.projectilematerials=§7§lArco & frecce
