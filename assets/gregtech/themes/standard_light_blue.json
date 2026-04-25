@@ -1,0 +1,68 @@
+{
+	"parent": "gregtech:standard",
+	"defaultWidth": 18,
+	"defaultHeight": 18,
+	"background": null,
+	"hoverBackground": "none",
+	"color": "#FFFFFF",
+	"textColor": "#AAAAAA",
+	"textShadow": false,
+	"textTitle": {
+		"textColor": "#AAAAAA"
+	},
+	"displayText": {
+		"textColor": "#AAAAAA"
+	},
+	"button": {
+		"background": {
+			"type": "texture",
+			"id": "mc_button"
+		},
+		"textColor": "#AAAAAA",
+		"textShadow": false
+	},
+	"button:hover": {
+		"background": {
+			"type": "texture",
+			"id": "mc_button_hovered"
+		}
+	},
+	"toggleButton": {
+		"background": {
+			"type": "texture",
+			"id": "mc_button"
+		}
+	},
+	"toggleButton:hover": {
+		"background": {
+			"type": "texture",
+			"id": "mc_button_hovered"
+		}
+	},
+	"textField": {
+		"textColor": "#AAAAAA",
+		"textShadow": false,
+		"hintColor": "#5F5F5F"
+	},
+	"itemSlot:playerMainInventory": {
+		"background": {
+			"type": "texture",
+			"location": "modularui2:gui/slot/item_player"
+		}
+	},
+	"itemSlot:playerHotbar": {
+		"background": {
+			"type": "texture",
+			"location": "modularui2:gui/slot/item_player"
+		}
+	},
+	"scrollbar": {
+		"background": {
+			"type": "texture",
+			"location": "modularui2:gui/custom/c_scroll",
+			"imageWidth": 4,
+			"imageHeight": 4,
+			"border": 1
+		}
+	}
+}
