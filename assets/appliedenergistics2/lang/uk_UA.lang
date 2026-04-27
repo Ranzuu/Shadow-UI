@@ -194,31 +194,6 @@ ae2fc.gui.color.StateError=FFB13E53
 # Reshuffle
 gui.color.appliedenergistics2.ReshuffleTitle=FFABAAAA
 
-# Additions
-gui.appliedenergistics2.NoCraftingJobs=§7Inactive
-gui.appliedenergistics2.NoCraftingCPUs=§7Процесори для створення не доступні
-gui.appliedenergistics2.CraftingCPU=§7Створення процесора
-gui.appliedenergistics2.StartWithFollow=§7Почати з відстеженням
-gui.appliedenergistics2.ToFollow=§7Відстежувати
-gui.appliedenergistics2.ToUnfollow=§7Не відстежувати
-gui.appliedenergistics2.Start=§7Почати
-gui.appliedenergistics2.Next=§7Далі
-gui.appliedenergistics2.Merge=§7Об'єднати
-gui.appliedenergistics2.Suspend=§7Призупинити
-gui.appliedenergistics2.Resume=§7Відновити
-gui.appliedenergistics2.Cancel=§7Скасувати
-gui.appliedenergistics2.Terminal=§7Термінал
-gui.appliedenergistics2.Set=§7Встановити
-gui.appliedenergistics2.IncreaseAmount=§7+%s
-gui.appliedenergistics2.DecreaseAmount=§7-%s
-gui.appliedenergistics2.AddToBookmark=§7Закладка
-gui.appliedenergistics2.SelectColor=§7Оберіть колір
-
-gui.appliedenergistics2.Inputs=§7Входи
-gui.appliedenergistics2.Outputs=§7Виходи
-
-gui.appliedenergistics2.NoCraftingJobs=§7Немає активного завдання на створення
-
 # Reshuffle
 gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
 gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
