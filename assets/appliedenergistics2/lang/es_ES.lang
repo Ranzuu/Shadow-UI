@@ -194,31 +194,6 @@ ae2fc.gui.color.StateError=FFB13E53
 # Reshuffle
 gui.color.appliedenergistics2.ReshuffleTitle=FFABAAAA
 
-# Additions
-gui.appliedenergistics2.NoCraftingJobs=§7Inactive
-gui.appliedenergistics2.NoCraftingCPUs=§7No hay CPU de creación disponbiles
-gui.appliedenergistics2.CraftingCPU=§7CPU de Creación
-gui.appliedenergistics2.StartWithFollow=§7Start With Follow
-gui.appliedenergistics2.ToFollow=§7Follow
-gui.appliedenergistics2.ToUnfollow=§7Unfollow
-gui.appliedenergistics2.Start=§7Iniciar
-gui.appliedenergistics2.Next=§7Sig.
-gui.appliedenergistics2.Merge=§7Merge
-gui.appliedenergistics2.Suspend=§7Suspend
-gui.appliedenergistics2.Resume=§7Resume
-gui.appliedenergistics2.Cancel=§7Cancelar
-gui.appliedenergistics2.Terminal=§7Terminal
-gui.appliedenergistics2.Set=§7Set
-gui.appliedenergistics2.IncreaseAmount=§7+%s
-gui.appliedenergistics2.DecreaseAmount=§7-%s
-gui.appliedenergistics2.AddToBookmark=§7Bookmark
-gui.appliedenergistics2.SelectColor=§7Select a Color
-
-gui.appliedenergistics2.Inputs=§7Inputs
-gui.appliedenergistics2.Outputs=§7Outputs
-
-gui.appliedenergistics2.NoCraftingJobs=§7Inactive
-
 # Reshuffle
 gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
 gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
