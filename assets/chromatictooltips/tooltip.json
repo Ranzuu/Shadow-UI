@@ -35,6 +35,10 @@
                     "gray": "0x555555"
                 },
                 "marginBottom": -2
+            },
+            "keyboard-modifier": {
+                "place": "footer",
+                "modes": ["always"]
             }
         }
     }]
