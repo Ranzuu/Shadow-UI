@@ -469,3 +469,7 @@ GTPP.time.hours=§7Hours
 GTPP.time.days=§7Days
 GTPP.time.weeks=§7Weeks
 GTPP.time.months=§7Months
+
+# Toxic Residue Sensor
+gt.interact.desc.toxic_residue_sensor.flat=§7Residue Amount
+GT5U.gui.text.toxic_residue_sensor=§7Toxic Residue threshold
