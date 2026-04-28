@@ -63,13 +63,16 @@
 
 <h2>Configuration Notice</h2>
 
-> [!NOTE]
+> [!IMPORTANT]
 > It is recommended to disable <code>coloredGUI</code> and <code>machineMetalGUI</code> in the GregTech configuration file while using this resource pack.
+> 
+> <strong>Config path:</strong> <code>\config\GregTech\GregTech.cfg</code>(set to false) (or in-game config menu)
 
-<p>
-  <strong>Config path:</strong>
-  <code>\config\GregTech\GregTech.cfg</code>(set to false)
-</p>
+> [!NOTE]
+> **ChromaticTooltips** - if you don't like the styling of the pack's tooltips, you can disable them using <code>ResourcePack Themes</code> in the ChromaticTooltip's configuration file.
+>
+> <strong>Config path:</strong> <code>\config\chromatictooltips.cfg</code>(set to false) (or in-game config menu)
+
 <h2>Supported GTNH Addon Mods</h2>
 <ul>
     <li><a href="https://github.com/Nxer/Twist-Space-Technology-Mod">Twist Space Technology</a></li>
