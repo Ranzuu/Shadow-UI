@@ -161,11 +161,12 @@ GregTech
 - Added Nanochip Assembly Comples gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/2903
 - Added Large Hadron Collider(LHC) gui elements and NEI elements- https://github.com/GTNewHorizons/GT5-Unofficial/pull/5135 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/6195
 - Added Waterline text elemets / gui - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5530 / https://github.com/GTNewHorizons/GT5-Unofficial/pull/5835
-- Added Primitve theme (Mui2 - GT Coke Oven)
+- Added Primitve and Inntergalactic theme (Mui2 - GT Coke Oven)
 - Added new icons and updated others (a lot)
 - Added ModularArmor gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4065
 - Added Field Engineer's Toolbox overlay slots - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5906
 - Added new Ore Factory Icons
+- Added new Neutralization Engine Icons
 
 KubaTech
 - Added HTGR text color
@@ -180,6 +181,9 @@ Thaumic Energistics
 
 Thaumic Exploration
 - Added Replicator Nei handler - https://github.com/GTNewHorizons/Thaumic_Exploration/pull/55
+
+Tinkers Construct
+- Added Dump Button - https://github.com/GTNewHorizons/TinkersConstruct/pull/228
 
 ServerUtilities
 - Updated trash can title (god damn finally) - https://github.com/GTNewHorizons/ServerUtilities/pull/256
