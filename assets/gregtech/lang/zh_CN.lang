@@ -473,3 +473,7 @@ GTPP.time.months=§7月
 # Toxic Residue Sensor
 gt.interact.desc.toxic_residue_sensor.flat=§7Residue Amount
 GT5U.gui.text.toxic_residue_sensor=§7Toxic Residue threshold
+
+# Fluid Tanks
+GT5U.machines.digitaltank.lockfluid.label=§7Locked Fluid
+GT5U.machines.digitaltank.lockfluid.empty=§7None
