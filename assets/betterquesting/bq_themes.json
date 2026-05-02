@@ -247,46 +247,36 @@
 		},
 		"lines": {
 			"betterquesting:gui_divider": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_major": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_minor": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"colorType": "betterquesting:color_static",
+				"color": "FF242323"
 			},
 			"betterquesting:quest_locked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_unlocked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_pending": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_complete": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			}
 		}
 	},
@@ -538,46 +528,36 @@
 		},
 		"lines": {
 			"betterquesting:gui_divider": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_major": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_minor": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"colorType": "betterquesting:color_static",
+				"color": "FF242323"
 			},
 			"betterquesting:quest_locked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_unlocked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_pending": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_complete": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			}
 		}
 	},
@@ -829,46 +809,36 @@
 		},
 		"lines": {
 			"betterquesting:gui_divider": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_major": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_minor": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"colorType": "betterquesting:color_static",
+				"color": "FF242323"
 			},
 			"betterquesting:quest_locked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_unlocked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_pending": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_complete": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			}
 		}
 	},
@@ -1120,46 +1090,36 @@
 		},
 		"lines": {
 			"betterquesting:gui_divider": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_major": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_minor": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"colorType": "betterquesting:color_static",
+				"color": "FF242323"
 			},
 			"betterquesting:quest_locked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_unlocked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_pending": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_complete": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			}
 		}
 	},
@@ -1411,46 +1371,36 @@
 		},
 		"lines": {
 			"betterquesting:gui_divider": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_major": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
-			},
-			"betterquesting:grid_minor": {
-				"lineType": "betterquesting:line_directional",
-				"arrowWidth": 0.3,
-				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"colorType": "betterquesting:color_static",
+				"color": "FF242323"
 			},
 			"betterquesting:quest_locked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_unlocked": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_pending": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			},
 			"betterquesting:quest_complete": {
 				"lineType": "betterquesting:line_directional",
 				"arrowWidth": 0.3,
 				"arrowSize": 0.75,
-				"arrowOpacity": 0.4
+				"arrowOpacity": 0.4,
+				"widthScale": 0.7
 			}
 		}
 	}
