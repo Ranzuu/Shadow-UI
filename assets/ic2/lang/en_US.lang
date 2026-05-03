@@ -1,0 +1,262 @@
+﻿# en_US translation, default
+# Machines
+ic2.Centrifuge.gui.name=§7Thermal Centrifuge
+ic2.Compressor.gui.name=§7Compressor
+ic2.Cropmatron.gui.name=§7Crop-Matron
+ic2.ElecFurnace.gui.name=§7Electric Furnace
+ic2.Electrolyzer.gui.name=§7Electrolyzer
+ic2.FluidBottler.gui.name=§7Bottling Plant
+ic2.Induction.gui.name=§7Induction Furnace
+ic2.IronFurnace.gui.name=§7Iron Furnace
+ic2.LiquidHeatExchanger.gui.name=§7Liquid Heat Exchanger
+ic2.Macerator.gui.name=§7Macerator
+ic2.Extractor.gui.name=§7Extractor
+ic2.Miner.gui.name=§7Miner
+ic2.OreWashingPlan.gui.name=§7Ore Washing Plant
+ic2.Pump.gui.name=§7Pump
+ic2.Recycler.gui.name=§7Recycler
+ic2.SolidCanner.gui.name=§7Solid Canning Machine
+ic2.FluidRegulator.gui.name=§7Fluid Regulator
+ic2.Condenser.gui.name=§7Condenser
+ic2.SolarDestiller.gui.name=§7Solar Distiller
+ic2.ItemBuffer.gui.name=§7Item Buffer
+ic2.CropHavester.gui.name=§7Crop Harvester 
+
+ic2.AdvMiner.gui.name=§7Advanced Miner
+ic2.AdvMiner.gui.mode.blacklist=§7Mode: Blacklist
+ic2.AdvMiner.gui.mode.whitelist=§7Mode: Whitelist
+ic2.AdvMiner.gui.info.minelevel=§7X: %1$s Z: %2$s Y: %3$s
+ic2.AdvMiner.gui.switch.reset=§7Restart Miner 
+ic2.AdvMiner.gui.switch.mode=§7Switch Mode
+ic2.AdvMiner.gui.switch.silktouch=§7Switch Silk Touch (current: %1$s)
+
+ic2.Canner.gui.name=§7Fluid/Solid Canning Machine
+ic2.Canner.gui.switch.BottleSolid=§7Canning
+ic2.Canner.gui.switch.EmptyLiquid=§7drain from Cell into Tank
+ic2.Canner.gui.switch.BottleLiquid=§7fill Cell from Tank
+ic2.Canner.gui.switch.EnrichLiquid=§7fluid enrich (Tank or Cell)
+ic2.Canner.gui.switchTanks=§7Switch Tanks
+ic2.Fermenter.gui.name=§7Fermenter
+ic2.Fermenter.gui.info.conversion=§7conversion process:
+ic2.Fermenter.gui.info.waste=§7waste collection progress
+
+ic2.Matter.gui.name=§7Mass Fabricator
+ic2.Matter.gui.info.progress=§7Progress:
+ic2.Matter.gui.info.amplifier=§7Amplifier:
+
+ic2.MetalFormer.gui.name=§7Metal Former
+ic2.MetalFormer.gui.switch.Extruding=§7Extruding
+ic2.MetalFormer.gui.switch.Rolling=§7Rolling
+ic2.MetalFormer.gui.switch.Cutting=§7Cutting
+
+ic2.PatternStorage.gui.name=§7Pattern Storage
+ic2.PatternStorage.gui.info.last=§7last Pattern
+ic2.PatternStorage.gui.info.next=§7next Pattern
+ic2.PatternStorage.gui.info.import=§7import from Crystal
+ic2.PatternStorage.gui.info.export=§7export to Crystal
+
+ic2.Magnetizer.gui.hasMetalShoes=§7Metal Shoes detected!
+ic2.Magnetizer.gui.noMetalShoes=§7No Metal Shoes detected!
+
+ic2.Replicator.gui.name=§7Replicator
+ic2.Replicator.gui.info.Stop=§7Stop
+ic2.Replicator.gui.info.single=§7single run
+ic2.Replicator.gui.info.repeat=§7repeat run
+ic2.Replicator.gui.info.last=§7last Pattern
+ic2.Replicator.gui.info.next=§7next Pattern
+ic2.Replicator.gui.info.Waiting=§7Waiting....
+
+ic2.Scanner.gui.name=§7Scanner
+ic2.Scanner.gui.idle=§7Idle
+ic2.Scanner.gui.info1=§7Scanning....
+ic2.Scanner.gui.info2=§7Waiting..no storage
+ic2.Scanner.gui.info3=§7Error: energy loss
+ic2.Scanner.gui.info4=§7Scan Completed
+ic2.Scanner.gui.info5=§7Scan Result
+ic2.Scanner.gui.info6=§7!! Error !!
+ic2.Scanner.gui.info7=§7transfer error no storage
+ic2.Scanner.gui.info8=§7Error: already recorded
+ic2.Scanner.gui.button.delete=§7delete
+ic2.Scanner.gui.button.save=§7save
+
+ic2.SteamGenerator.gui.name=§7Steam Generator
+ic2.SteamGenerator.gui.heatInput=§7Input: %1$s Hu/t
+ic2.SteamGenerator.gui.pressurevalve=§7%1$s Bar
+ic2.SteamGenerator.gui.systemheat=§7System: %1$s C
+ic2.SteamGenerator.output.water=§7Water
+ic2.SteamGenerator.output.destiwater=§7Distilled Water
+ic2.SteamGenerator.output.steam=§7Steam
+ic2.SteamGenerator.output.hotsteam=§7Superheated Steam
+ic2.SteamGenerator.gui.calcification=§7Calcification: %1$s
+ic2.SteamGenerator.gui.info.waterinput=§7Water Input per Tick 
+ic2.SteamGenerator.gui.info.heatinput=§7Receive Heat per Tick
+ic2.SteamGenerator.gui.info.pressvalve=§7Pressure Valve
+ic2.SteamGenerator.gui.info.fluidoutput=§7Output:
+
+ic2.BlastFurnace.gui.name=§7Blast Furnace
+ic2.BlastFurnace.gui.toolair=§76 Air cells required per run
+ic2.BlastFurnace.gui.airmiss=§7Progress requires more air cells
+ic2.BlastFurnace.gui.progress=§7Progress:
+ic2.BlastFurnace.gui.heat=§7Heat:
+
+ic2.BlockCutter.gui.name=§7Block Cutting Machine
+ic2.BlockCutter.gui.bladeslot=§7Block Cutting Blade Slot
+ic2.BlockCutter.gui.bladetoweak=§7Block Cutting Blade is too weak or missing
+ic2.CuttingBlade.hardness=§7Hardness: %s
+ic2.AdvIronBlockCuttingBlade.info=§7cuts materials softer than Refine Iron
+ic2.DiamondBlockCuttingBlade.info=§7cuts materials softer than Diamond
+
+ic2.FluidDistributor.gui.name=§7Fluid Distributor
+ic2.FluidDistributor.gui.mode.info=§7Mode:
+ic2.FluidDistributor.gui.mode.distribute=§7distribute
+ic2.FluidDistributor.gui.mode.concentrate=§7concentrate
+
+ic2.SortingMachine.gui.name=§7Electric Sorting Machine
+ic2.SortingMachine.default=§7Default Route
+ic2.SortingMachine.whitelist=§7White List
+
+ic2.Lathe.gui.name=§7Turning Table
+ic2.Lathe.gui.info=§7%s/%s
+
+#Block_Transformer 
+ic2.Transformer.gui.Output=§7Output:
+ic2.Transformer.gui.Input=§7Input:
+ic2.Transformer.gui.refresh=§7force manual refresh only need if no energy flow in Grid
+
+#Block_EU Storage
+ic2.EUStorage.gui.mod.redstone0=§7Redstone Behavior: Nothing
+ic2.EUStorage.gui.mod.redstone1=§7Redstone Behavior: Emit if full
+ic2.EUStorage.gui.mod.redstone2=§7Redstone Behavior: Emit if partially filled
+ic2.EUStorage.gui.mod.redstone3=§7Redstone Behavior: Emit if partially filled or empty
+ic2.EUStorage.gui.mod.redstone4=§7Redstone Behavior: Emit if empty
+ic2.EUStorage.gui.mod.redstone5=§7Redstone Behavior: Do not output energy
+ic2.EUStorage.gui.mod.redstone6=§7Redstone Behavior: Do not output energy unless full
+
+ic2.EUStorage.gui.info.armor=§7Armor
+ic2.EUStorage.gui.info.level=§7Power Level:
+ic2.EUStorage.gui.info.output=§7Out: %1$s EU/t
+
+ic2.blockChargepad.gui.mod.redstone0=§7Redstone Behavior: Emit if active
+ic2.blockChargepad.gui.mod.redstone1=§7Redstone Behavior: Emit if not active
+
+#Blocks_EU_Generator
+ic2.Generator.gui.name=§7Generator
+ic2.GeoGenerator.gui.name=§7Geothermal Generator
+ic2.RTGenerator.gui.name=§7Radioisotope Thermoelectric Gen.
+ic2.SemifluidGenerator.gui.name=§7Semifluid Generator
+ic2.SolarGenerator.gui.name=§7Solar Panel
+ic2.WaterGenerator.gui.name=§7Water Mill
+ic2.WindGenerator.gui.name=§7Wind Mill
+
+ic2.NuclearReactor.gui.name=§7Nuclear Reactor
+ic2.NuclearReactor.gui.info.EU=§7Output: %1$s EU/t   Core Temp: %2$s
+ic2.NuclearReactor.gui.info.hU=§7Output: %1$s Hu/s   Core Temp: %2$s
+ic2.NuclearReactor.gui.mode.fluid=§7Nuclear Reactor in Fluid Cooling mode output by 100%
+ic2.NuclearReactor.gui.mode.electric=§7Nuclear Reactor in EU mode  throttled output by 50%
+
+ic2.ReactorFluidPort.gui.name=§7Reactor Fluid Port
+ic2.ReactorFluidPort.gui.info=§7place "Fluid Ejector Upgrade" to pump to pump out HotCoolant 
+
+ic2.StirlingGenerator.gui.name=§7Stirling Generator
+ic2.KiticGenerator.gui.name=§7Kinetic Generator
+ic2.KineticGenerator.gui.Output=§7Output: %1$s EU/t
+
+#Blocks_heat_Generator
+ic2.RTHeatGenerator.gui.name=§7Radioisotope Heat Generator
+
+ic2.FluidHeatGenerator.gui.name=§7Fluid Heat Generator
+ic2.FluidHeatGenerator.gui.info.Emit=§7Emit:
+ic2.FluidHeatGenerator.gui.info.MaxEmit=§7MaxEmit:
+
+ic2.SolidHeatGenerator.gui.name=§7Solid Heat Generator
+ic2.ElectricHeatGenerator.gui.name=§7Electric Heat Generator
+ic2.ElectricHeatGenerator.gui.hUmax=§7%1$s hU / %2$s hU Max
+ic2.ElectricHeatGenerator.gui.coils=§7Add coils to increase heat output
+
+#Blocks_kinetic_Generator
+ic2.StirlingKineticGenerator.gui.name=§7Stirling Kinetic Generator
+
+ic2.itemrotor.wind.info=§7Requirements Min: %1$sMCW Max: %2$s MCW
+
+ic2.WindKineticGenerator.gui.name=§7Kinetic Wind Generator
+ic2.WindKineticGenerator.gui.rotormiss=§7Error: Rotor is missing
+ic2.WindKineticGenerator.gui.rotorspace=§7Error: no Space for Rotor
+ic2.WindKineticGenerator.gui.rotorhealth=§7Rotorhealth: %1$s
+ic2.WindKineticGenerator.gui.output=§7Output: %1$s kU
+ic2.WindKineticGenerator.gui.windweak1=§7Wind too weak for Rotor
+ic2.WindKineticGenerator.gui.windweak2=§7or overlap Rotor areas
+ic2.WindKineticGenerator.error.overload=§7warning wind too strong
+ic2.WindKineticGenerator.error.overload2=§7increased rotor damage
+
+ic2.SteamKineticGenerator.gui.name=§7Kinetic Steam Generator
+ic2.SteamKineticGenerator.gui.condensationwarrning=§7Warning recognize condensation on turbine slowing down..
+ic2.SteamKineticGenerator.gui.turbineslot=§7Steam Turbine Slot
+ic2.SteamKineticGenerator.gui.upgradeslot=§7Upgrade Slot (Fluid Ejector)
+ic2.SteamKineticGenerator.gui.error.noturbine=§7Error: Steam Turbine is missing
+ic2.SteamKineticGenerator.gui.error.filledupwithwater=§7Error: Steam Turbine blocked
+ic2.SteamKineticGenerator.gui.aktive=§7Steam Turbine:  Running....
+ic2.SteamKineticGenerator.gui.waiting=§7Steam Turbine: Standby...
+ic2.SteamKineticGenerator.gui.turbine.ouput=§7Output: %1$skU
+
+ic2.ElectricKineticGenerator.gui.name=§7Electric Kinetic Generator
+ic2.ElectricKineticGenerator.gui.kUmax=§7%1$s kU / %2$s kU Max
+ic2.ElectricKineticGenerator.gui.motors=§7Add motors to increase kU output.
+
+ic2.WaterKineticGenerator.gui.name=§7Kinetic Water Generator
+ic2.WaterKineticGenerator.gui.wrongbiome1=§7Only works in Ocean
+ic2.WaterKineticGenerator.gui.wrongbiome2=§7and River biomes
+ic2.WaterKineticGenerator.gui.rotormiss=§7Error: Rotor is missing
+ic2.WaterKineticGenerator.gui.rotorspace=§7Error: no Space for Rotor
+ic2.WaterKineticGenerator.gui.rotorhealth=§7Rotorhealth: %1$s
+ic2.WaterKineticGenerator.gui.output=§7Output: %1$s kU
+
+#Guis
+ic2.container.personalTrader.want=§7Want:
+ic2.container.personalTrader.offer=§7Offer:
+ic2.container.personalTrader.totalTrades0=§7Performed
+ic2.container.personalTrader.totalTrades1=§7Trades:
+ic2.container.personalTrader.stock=§7Stock:
+ic2.container.personalTraderEnergy.paidFor=§7Paid For: %1$s EU
+ic2.container.personalTraderEnergy.energyBuffer=§7Buffer:
+
+#Generic
+ic2.generic.text.upgrade=§7compatible upgrades:
+ic2.generic.text.UUMatte=§7UU-Matter:
+ic2.generic.text.Energy=§7Energy:
+ic2.generic.text.Name=§7Name:
+ic2.generic.text.EU=§7EU
+ic2.generic.text.EUt=§7EU/t
+ic2.generic.text.v=§7V
+ic2.generic.text.mb=§7mB
+ic2.generic.text.bucketUnit=§7B
+ic2.generic.text.heat=§7heat:
+ic2.generic.text.Buffer=§7Buffer:
+ic2.generic.text.hu=§7Hu:
+ic2.generic.text.bufferEU=§7Buffer: %1$s EU
+ic2.generic.text.C=§7%1$s C 
+ic2.generic.text.bar=§7%1$s bar
+ic2.generic.text.tick=§7/tick
+ic2.generic.text.sec=§7/sec
+
+# directions
+ic2.dir.top=§7top
+ic2.dir.bottom=§7bottom
+ic2.dir.north=§7north
+ic2.dir.east=§7east
+ic2.dir.south=§7south
+ic2.dir.west=§7west
+
+# Additions block/gui same color
+#Block_EU Storage
+ic2.blockBatBox=§7BatBox
+ic2.blockMFE=§7MFE
+ic2.blockMFSU=§7MFSU
+ic2.blockCESU=§7CESU
+ic2.blockChargepadBatBox=§7Charge Pad (BatBox)
+ic2.blockChargepadMFE=§7Charge Pad (MFE)
+ic2.blockChargepadMFSU=§7Charge Pad (MFSU)
+ic2.blockChargepadCESU=§7Charge Pad (CESU)
+
+#Block_Transformer 
+ic2.blockTransformer=§7Transformer
+ic2.blockPersonalChest=§7Personal Safe
