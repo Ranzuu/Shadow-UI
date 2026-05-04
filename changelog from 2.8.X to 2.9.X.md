@@ -141,6 +141,9 @@ Applied Energistics 2
 Aspect Recipe Index
 - Added, well everything (new mod)
 
+Better Questing
+- Added support for quest arrows
+
 Bogo Sorter
 - Added new colored text
 
@@ -167,6 +170,7 @@ GregTech
 - Added Field Engineer's Toolbox overlay slots - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5906
 - Added new Ore Factory Icons
 - Added new Neutralization Engine Icons
+- Added new fluid and item tank slots
 
 KubaTech
 - Added HTGR text color
@@ -194,6 +198,9 @@ Waila
 Vending machine
 - Added, well everything
 
+VillagerNames (new mod)
+- Added colored gui names
+
 Other
 - Added ability for the resoruce pack to be checked for updates
 - Lots of lang updates to get correct color per translation
@@ -201,4 +208,4 @@ Other
 - Added support for OKBackpack - https://github.com/Shigure-Ruiseki/OKBackpack
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 484 (29.04.26)
+Up to date with Daily 495 (04.05.26)
