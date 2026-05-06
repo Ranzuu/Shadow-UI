@@ -208,4 +208,4 @@ Other
 - Added support for OKBackpack - https://github.com/Shigure-Ruiseki/OKBackpack
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 495 (04.05.26)
+Up to date with Daily 499 (06.05.26)
