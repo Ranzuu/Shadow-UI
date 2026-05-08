@@ -100,7 +100,7 @@ enderio.gui.mjReader.receiveItem2=§7de :
 #CapactorBank
 enderio.gui.capBank.inputRs=§fMode Redstone Entrée
 enderio.gui.capBank.outputRs=§fMode Redstone Sortie
-enderio.gui.capBank.maxIo=§fMax E/S
+enderio.gui.capBank.maxIo=§7Max E/S
 enderio.gui.capBank.maxInput=§7Entrée Max
 enderio.gui.capBank.maxOutput=§7Sortie Max
 enderio.gui.capBank.inputMode=§7Entrée

@@ -100,7 +100,7 @@ enderio.gui.mjReader.receiveItem2=§7z:
 #CapactorBank
 enderio.gui.capBank.inputRs=§fVstupní ruditový mód
 enderio.gui.capBank.outputRs=§fVýstupní ruditový mód
-enderio.gui.capBank.maxIo=§fMaximální I/O
+enderio.gui.capBank.maxIo=§7Maximální I/O
 enderio.gui.capBank.maxInput=§7Maximální vstup
 enderio.gui.capBank.maxOutput=§7Maximální výstuo
 enderio.gui.capBank.inputMode=§7Vstup
