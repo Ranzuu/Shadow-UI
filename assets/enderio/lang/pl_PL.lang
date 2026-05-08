@@ -100,7 +100,7 @@ enderio.gui.mjReader.receiveItem2=§7z:
 #CapactorBank
 enderio.gui.capBank.inputRs=§fWłącznik przyrostu energii
 enderio.gui.capBank.outputRs=§fWłącznik ubytku energii
-enderio.gui.capBank.maxIo=§fMaksymalne wej./wyj.
+enderio.gui.capBank.maxIo=§7Maksymalne wej./wyj.
 enderio.gui.capBank.maxInput=§7Wejście
 enderio.gui.capBank.maxOutput=§7Wyjście
 enderio.gui.capBank.inputMode=§7Input

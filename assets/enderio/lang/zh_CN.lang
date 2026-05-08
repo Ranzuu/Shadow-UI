@@ -100,7 +100,7 @@ enderio.gui.mjReader.receiveItem2=§7从:
 #CapactorBank
 enderio.gui.capBank.inputRs=§f输入红石控制
 enderio.gui.capBank.outputRs=§f输出红石控制
-enderio.gui.capBank.maxIo=§f最大流量
+enderio.gui.capBank.maxIo=§7最大流量
 enderio.gui.capBank.maxInput=§7最大输入
 enderio.gui.capBank.maxOutput=§7最大输出
 enderio.gui.capBank.inputMode=§7输入模式

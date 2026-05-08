@@ -100,7 +100,7 @@ enderio.gui.mjReader.receiveItem2=§7от:
 #CapactorBank
 enderio.gui.capBank.inputRs=§fРежим красного камня на входе
 enderio.gui.capBank.outputRs=§fРежим красного камня на выходе
-enderio.gui.capBank.maxIo=§fМакс. вход/выход
+enderio.gui.capBank.maxIo=§7Макс. вход/выход
 enderio.gui.capBank.maxInput=§7Макс. вход
 enderio.gui.capBank.maxOutput=§7Макс. выход
 enderio.gui.capBank.inputMode=§7Вход
