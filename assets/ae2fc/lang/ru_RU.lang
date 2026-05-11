@@ -14,8 +14,6 @@ ae2fc.tooltip.not_prio.hint=§7Отключено
 ae2fc.tooltip.prio=§fПомещать жидкость первой
 ae2fc.tooltip.prio.hint=§7Включено
 
-item.part_fluid_pattern_terminal.name=§fМЭ жидкостный терминал шаблонов
-item.part_fluid_pattern_terminal_ex.name=§fМЭ жидкостный терминал шаблонов обработки
 ae2fc.gui.fluid_packet_decoder=§fМЭ декодер жидкостных пакетов
 
 ae2fc.gui.part_fluid_pattern_terminal=§7Fluid Pattern Terminal
