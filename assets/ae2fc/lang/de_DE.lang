@@ -14,8 +14,6 @@ ae2fc.tooltip.not_prio.hint=§7Aus
 ae2fc.tooltip.prio=§fFlüssigkeiten dürfen zuerst platziert werden
 ae2fc.tooltip.prio.hint=§7An
 
-item.part_fluid_pattern_terminal.name=§fME-Flüssigkeitsschablonenkonsole
-item.part_fluid_pattern_terminal_ex.name=§fME-Flüssigkeitsverarbeitungsschablonenkonsole
 ae2fc.gui.fluid_packet_decoder=§fME-Flüssigkeitspaketdekodierer
 
 ae2fc.gui.part_fluid_pattern_terminal=§7Fluid Pattern Terminal

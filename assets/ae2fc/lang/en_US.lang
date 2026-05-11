@@ -14,8 +14,6 @@ ae2fc.tooltip.not_prio.hint=§7Enabled
 ae2fc.tooltip.prio=§fAllow fluids to be placed first
 ae2fc.tooltip.prio.hint=§7Disabled
 
-item.part_fluid_pattern_terminal.name=§fME Fluid Pattern Terminal
-item.part_fluid_pattern_terminal_ex.name=§fME Fluid Processing Pattern Terminal
 ae2fc.gui.fluid_packet_decoder=§fME Fluid Packet Decoder
 
 ae2fc.gui.part_fluid_pattern_terminal=§7Fluid Pattern Terminal

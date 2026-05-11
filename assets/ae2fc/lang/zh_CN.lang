@@ -14,8 +14,6 @@ ae2fc.tooltip.not_prio.hint=§7禁用
 ae2fc.tooltip.prio=§f优先放置流体
 ae2fc.tooltip.prio.hint=§7启用
 
-item.part_fluid_pattern_terminal.name=§fME流体样板终端
-item.part_fluid_pattern_terminal_ex.name=§fME增广流体样板终端
 ae2fc.gui.fluid_packet_decoder=§fME流体封包解码器
 
 ae2fc.gui.part_fluid_pattern_terminal=§7Fluid Pattern Terminal
