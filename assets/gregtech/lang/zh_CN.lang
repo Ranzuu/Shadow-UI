@@ -183,10 +183,10 @@ GT5U.gui.text.status.active=§7Active
 GT5U.gui.text.status.online=§7Online
 GT5U.gui.text.status.disabled=§7Disabled
 GT5U.gui.text.status.incomplete=§4Incomplete Structure
-GT5U.gui.text.x=§7X: %s
-GT5U.gui.text.y=§7Y: %s
-GT5U.gui.text.z=§7Z: %s
-GT5U.gui.text.dim=§7Dim: %s
+GT5U.gui.text.x=§7X:
+GT5U.gui.text.y=§7Y:
+GT5U.gui.text.z=§7Z:
+GT5U.gui.text.dim=§7Dim:
 GT5U.gui.text.dim.valid=§7Dim Valid: Yes
 GT5U.gui.text.dim.invalid=§7Dim Valid: No
 
