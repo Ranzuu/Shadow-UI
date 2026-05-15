@@ -477,3 +477,9 @@ GT5U.gui.text.toxic_residue_sensor=§7Toxic Residue threshold
 # Fluid Tanks
 GT5U.machines.digitaltank.lockfluid.label=§7Закреплено
 GT5U.machines.digitaltank.lockfluid.empty=§7Нет
+
+# Spinmatron
+GT5U.gui.multimachine.spinmatron.mode=§7Mode %s
+GT5U.gui.multimachine.spinmatron.speed=§7Speed: %s
+GT5U.gui.multimachine.spinmatron.rotational_power=§7Rotational Power: %s
+GT5U.gui.multimachine.spinmatron.parallels=§7Parallels: %s
