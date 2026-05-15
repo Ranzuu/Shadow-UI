@@ -31,3 +31,11 @@ GT5U.gui.text.at_eu_transferred=§7EU Transferred:
 
 ## Space Elevator
 tt.spaceelevator.storedEnergy=§7Stored Energy: %d
+
+# Space Miner
+tt.spaceminer.textFieldOre=§7Руда
+tt.spaceminer.textFieldDistance=§7Дистанция
+tt.spaceminer.textFieldTier=§7Тир
+tt.spaceminer.calculator.missing.distance=§4Missing distance setting!
+tt.spaceminer.calculator.missing.moduleTier=§4Missing module tier!
+tt.spaceminer.calculator.missing.drone=§4Missing drone!
