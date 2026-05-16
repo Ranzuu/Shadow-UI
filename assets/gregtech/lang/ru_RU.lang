@@ -454,7 +454,7 @@ GT5U.gui.text.beamcrafter.particleA=§7Particle 1
 GT5U.gui.text.beamcrafter.particleB=§7Particle 2
 
 # Drone Centre
-GT5U.gui.text.drone_no_connection=§7No any connection
+GT5U.gui.text.drone_no_connection=§7No connections
 GT5U.gui.text.drone_remote_text=§7Drone Centre Remote Control
 
 # NEI INFORMATION
