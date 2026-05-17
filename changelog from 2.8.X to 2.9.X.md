@@ -214,4 +214,4 @@ Other
 - Added support for OKBackpack - https://github.com/Shigure-Ruiseki/OKBackpack
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 517 (16.05.26)
+Up to date with Daily 520 (17.05.26)
