@@ -369,14 +369,12 @@ gt.interact.desc.Shutter.InAllow=§7Only Input allowed
 
 ## Redstone Receiver
 GT5U.gui.tooltip.redstone_receiver.GateMode=§7Gate Mode
-
-## Wireless Fluid Detector
-gt.cover.wirelessdetector.redstone.1=§7Wireless signal & direct Redstone
-
 ## Wireless Item Detector
 gt.interact.desc.Item_Item_Detector.ItemTHR=§7tem threshold
 gt.interact.desc.Item_Item_Detector.DetectSlot=§7Detect slot #
 
+gt.cover.wirelessdetector.redstone.0=§78Only a wireless signal
+gt.cover.wirelessdetector.redstone.1=§7Wireless signal & direct Redstone
 ## Wireless Maintenance Cover
 GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=§7no Issues
 GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=§7>= 1 Issue

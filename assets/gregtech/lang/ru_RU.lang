@@ -284,8 +284,8 @@ GTPP.CC.parallel=§7Максимум параллелей
 
 GT5U.gui.button.drill_retract_pipes=§fПрерывание и втягивание буровых труб
 
-GT5U.gui.button.chunk_loading_on=§fЗагрузка чанков: §aВКЛ.
-GT5U.gui.button.chunk_loading_off=§fЗагрузка чанков: §4ОТКЛ.
+GT5U.gui.button.chunk_loading_on=§fChunk Loading: §aON
+GT5U.gui.button.chunk_loading_off=§fChunk Loading: §4OFF
 
 GT5U.multiblock.energy=§7Энергии накоплено
 
@@ -369,14 +369,12 @@ gt.interact.desc.Shutter.InAllow=§7Only Input allowed
 
 ## Redstone Receiver
 GT5U.gui.tooltip.redstone_receiver.GateMode=§7Gate Mode
-
-## Wireless Fluid Detector
-gt.cover.wirelessdetector.redstone.1=§7Беспроводной сигнал и прямой сигнал красного камня
-
 ## Wireless Item Detector
 gt.interact.desc.Item_Item_Detector.ItemTHR=§7tem threshold
 gt.interact.desc.Item_Item_Detector.DetectSlot=§7Detect slot #
 
+gt.cover.wirelessdetector.redstone.0=§7Только беспроводной сигнал
+gt.cover.wirelessdetector.redstone.1=§7Беспроводной сигнал и прямой сигнал красного камня
 ## Wireless Maintenance Cover
 GT5U.gui.text.wireless_maintenance_detector.extra.no_issues=§7no Issues
 GT5U.gui.text.wireless_maintenance_detector.extra.ge1_issues=§7>= 1 Issue
