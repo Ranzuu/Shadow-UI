@@ -1,31 +1,4 @@
-## ARGB Hex Colors: Name and value
-## gui.color.appliedenergistics2 + enum GuiColors
-## https://github.com/gaogao-qwq/Applied-Energistics-2-Unofficial/blob/e8c89344472b306d10987ebf555eedfe086e1e76/src/main/java/appeng/core/localization/GuiColors.java
-
-## ShadowUI AE2 colors
-# Text: 0xFFABAAAA
-# Main Background: 0xFF4A4948
-# Button icon color inactive: 0xFF8B8B8B
-# Button icon color pressed: 0xFF6A6A6A
-
-# Button background color inactive: 0xFF434241
-# Button background color pressed: 0xFF3C3B3A
-# Button background color hovered: 0xFF555452
-
-# Color Blue Light: 0xFF2A63C1
-# Color Blue Dark: 0xFF2344A1
-# Color Orange Light: 0xFFC46632
-# Color Orange Dark: 0XFFAB502C
-# Color Green Light: 0xFF7AC25F
-# Color Green Dark: 0XFF4E8F46k
-# Color Yellow Light: 0xFFFFF70F
-# Color Yellow Dark: 0XFFD6CF0C
-# Color Red Light: 0xFFB13E53
-# Color Red Dark: 0XFF68353F
-
-# Transparency%  0 10 20 30 40 50 60 70 80 90 100
-# Alpha         FF E6 CC B3 99 80 66 4D 33 1A 00
-
+## ARGB Hex Colors
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
 gui.color.appliedenergistics2.SearchboxUnfocused=00000000
 
@@ -175,7 +148,24 @@ gui.color.appliedenergistics2.CraftingPinSlotBackground=26C46632
 
 gui.color.appliedenergistics2.ItemSlotOverlayFluidMismatch=66B13E53
 
-## Color Aplicator Shift-click GUI
+# Network Visualiser
+gui.color.appliedenergistics2.ColorButtonOutline=FF2C2C2C
+gui.color.appliedenergistics2.GuiAeButtonUnderline=FF000000
+gui.color.appliedenergistics2.GuiAeButtonLineBeforeUnderlineDefault=FF2E2E2D
+gui.color.appliedenergistics2.GuiAeButtonLineBeforeUnderlineHover=FF292828
+gui.color.appliedenergistics2.GuiAeButtonLineBeforeUnderlineDisabled=FF202022
+
+gui.color.appliedenergistics2.NetworkVisualiserFloatingText=FFABAAAA
+gui.color.appliedenergistics2.NetworkVisualiserNodeMissing=E6B13E53
+gui.color.appliedenergistics2.NetworkVisualiserNodeDense=E6FFF70F
+gui.color.appliedenergistics2.NetworkVisualiserNodeProxy=E6C46632
+gui.color.appliedenergistics2.NetworkVisualiserNodeDefault=E62A63C1
+gui.color.appliedenergistics2.NetworkVisualiserLinkCompressed=B3FF71D6
+gui.color.appliedenergistics2.NetworkVisualiserLinkDense=B3FFF70F
+gui.color.appliedenergistics2.NetworkVisualiserLinkProxy=B3C46632
+gui.color.appliedenergistics2.NetworkVisualiserLinkDefault=B32A63C1
+
+# Color Aplicator Shift-click GUI
 gui.color.appliedenergistics2.ColorSelectBackground=FF3C3B3A
 gui.color.appliedenergistics2.ColorSelectBorder=FF4A4948
 gui.color.appliedenergistics2.ColorSelectBtnBg=FF6A6A6A
@@ -185,7 +175,7 @@ gui.color.appliedenergistics2.ColorSelectBtnOverlayHover=33555452
 gui.color.appliedenergistics2.ColorSelectBtnBorderDisabled=FF1D1D1D
 gui.color.appliedenergistics2.ColorSelectBtnOverlayDisabled=B31D1D1D
 
-## Level Maintainer Fluid Crafting
+# Level Maintainer Fluid Crafting
 ae2fc.gui.color.StateIdle=FF7AC25F
 ae2fc.gui.color.StateCraft=FFFFF70F
 ae2fc.gui.color.StateExport=FF2A63C1
@@ -194,6 +184,7 @@ ae2fc.gui.color.StateError=FFB13E53
 # Reshuffle
 gui.color.appliedenergistics2.ReshuffleTitle=FFABAAAA
 
+## Strings
 # Reshuffle
 gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
 gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
