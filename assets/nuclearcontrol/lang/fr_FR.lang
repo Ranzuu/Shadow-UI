@@ -1,0 +1,25 @@
+#lang-nuclearcontrol
+#sub-text
+
+# Internal Blocks
+gui.tile.blockThermalMonitor.name.title=§7Moniteur thermique
+gui.tile.blockIndustrialAlarm.name.title=§7Alarme industrielle
+gui.tile.blockHowlerAlarm.name.title=§7Alarme
+gui.tile.blockRemoteThermo.name.title=§7Moniteur thermique distant
+gui.tile.blockInfoPanel.name.title=§7Écran
+gui.tile.blockAdvancedInfoPanel.name.title=§7Écran avancé
+gui.tile.blockEnergyCounter.name.title=§7Compteur énergétique
+gui.tile.blockAverageCounter.name.title=§7Compteur d'arrondi
+gui.tile.blockRangeTrigger.name.title=§7Déclencheur de portée
+
+gui.optional.numbers=§7
+
+# Original Screen Messages
+msg.nc.ScreenColor=§7Couleur d'écran
+msg.nc.TextColor=§7Couleur de texte
+msg.nc.InfoPanelOutput=§7Débit: %sEU/t
+msg.nc.InfoPanelOutputMJ=§7Débit: %sMJ/t
+msg.nc.InfoPanelOutputSteam=§7Débit: %smB/t
+msg.nc.AverageCounterPeriod=§7Période: %ssec
+msg.nc.HowlerAlarmSoundRange=§7Portée du so: %s
+msg.nc.HowlerAlarmSound=§7Son

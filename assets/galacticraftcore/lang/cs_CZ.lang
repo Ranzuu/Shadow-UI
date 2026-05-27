@@ -1,0 +1,125 @@
+#lang-galacticraftcore
+#sub-text
+#button
+
+# Gui
+gui.message.out.name=§7Výstup
+gui.message.in.name=§7Vstup
+gui.message.status.name=§7Stav
+gui.message.oxoutput.name=§7Kyslíkový výstup
+gui.message.oxinput.name=§7Kyslikový vstup
+gui.message.fuel.name=§7Palivo
+gui.message.full.name=§7plný
+gui.message.page.name=§7Strana
+gui.message.addnewsch.name=§7Nové schéma
+gui.message.generating.name=§7Vyrábí
+gui.message.environment.name=§7Akcelerátor prostředí
+gui.message.oil.name=§7Ropa
+gui.message.catalog.name=§7Katalog
+gui.message.back.name=§7Zpět
+gui.message.daynightcycle.name=§7Délka dne
+gui.message.surfacegravity.name=§7Gravitace na povrchu
+gui.message.surfacecomposition.name=§7Složení povrchu
+gui.message.atmosphere.name=§7Atmosféra
+gui.message.meansurfacetemp.name=§7Střední teplota na povrchu
+gui.message.energy=§7Energie
+gui.message.maxEnergy=§7Plná energie
+gui.message.bubbleVisible.name=§7Viditelné bubliny
+gui.message.launch.name=§7Start
+gui.message.clickAgain.0.name=§7Klikněte znovu pro přiblížení (měsíce a satelity)
+gui.message.clickAgain.1.name=§7Klikněte znovu pro přiblížení (měsíce)
+gui.message.clickAgain.2.name=§7Klikněte znovu pro přiblížení (satelity)
+gui.message.clickAgain.3.name=§7Klikněte znovu pro přiblížení
+gui.message.exit.name=§7Ukončit
+gui.message.tier.name=§7Typ %d
+gui.message.canCreateSpaceStation.name=§7Vesmírná stanice zde může být postavena.
+gui.message.cannotCreateSpaceStation.name=§7Vesmírná stanice zde nemůže být postavena.
+gui.message.createSS.name=§7Postavit
+gui.message.selectSS.name=§7Vyberte vesmírnou stanici
+gui.message.ssOwner.name=§7Vlastník:
+gui.message.apply.name=§7Použít
+gui.message.cancel.name=§7Zrušit
+gui.message.assignName.name=§7Přidělit jméno
+gui.message.rename.name=§7Přejmenovat
+gui.message.unnamed.name=§7Nepojmenováno
+gui.message.grow.name=§7Růst
+gui.message.breed.name=§7Rodit
+gui.message.strengthen.name=§7Posílit
+gui.message.heal.name=§7Léčit
+gui.message.of.name=§7z
+gui.message.help1=§7Nápověda Galacticraftu
+gui.message.help1a=§7Pro opětovné zobrazení této zprávy napište
+gui.message.help2=§7Pro rady ohledně vesmírného programu
+gui.message.help3=§7Pro rady ohledně paliv
+gui.message.prelaunch=§7Seznam předstartovní přípravy
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Teplotní regulátor
+
+# Cotnainers
+container.cargoloader.name=§7Nakladač
+container.cargounloader.name=§7Vykladač
+container.fuelloader.name=§7Palivové čerpadlo
+container.oxygencollector.name=§7Kyslikový kolektor
+container.oxygencompressor.name=§7Kyslíkový kompresor
+container.oxygendistributor.name=§7Kyslíkový distributor
+container.oxygensealer.name=§7Systém podpory života
+container.parachest.name=§7Truhla na padáku
+container.refinery.name=§7Refinérie
+container.treasurechest.name=§7Pokladnice
+container.lander.name=§7Přistávací modul
+container.spaceship.name=§7Raketa typ 1
+container.solarbasic.name=§7Základní solární panel
+container.solaradvanced.name=§7Pokročilý solární panel
+container.oxygendecompressor.name=§7Kyslíkový dekompresor
+
+gui.checkbox.redstoneSignal.name=§7Otevře při přivedení napětí
+gui.checkbox.playerWithin.name=§7Hráč v okruhu
+gui.checkbox.playerName.name=§7Jméno hráče je
+gui.checkbox.invert.name=§7Opačné chování
+gui.checkbox.horizontal.name=§7Horizontální režim
+
+tile.machine.0.name=§7Tepelná elektrárna
+tile.machine.1.name=§7Energetická zásobárna
+tile.machine.2.name=§7Elektrická pec
+tile.machine.3.name=§7Kompresor
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Elektrický kompresor
+tile.machine2.5.name=§7Stroj na výrobu solárních waferů
+tile.machine2.6.name=§7Zásobárna kyslíku
+tile.machine.7.name=§7Elektrická oblouková pec
+tile.machine.8.name=§7Energetický Cluster
+
+gui.maxOutput.desc=§7Max. výstup
+gui.oxygenUse.desc=§7Využití kyslíku
+
+gui.message.generating.name=§7Vyrábí
+
+gui.status.collecting.name=&#999999Sbírá
+gui.status.generating.name=&#999999Vyrábí
+gui.status.notGenerating.name=&#999999Nevyrábí
+gui.status.hullHeat.name=&#999999Teplota pláště
+
+gui.title.airLock.name=§7%sův kontroler přechodové komory
+
+gui.status.unknown.name=§7Neznámý
+
+schematic.moonbuggy.name=§7Bugina
+schematic.rocketT1.name=§7Raketa typ 1
+
+# Button
+# gui.button.enableseal.name=§7Enable Seal
+# gui.button.disableseal.name=§7Disable Seal
+# gui.button.loaditems.name=§7Load Items
+# gui.button.stoploading.name=§7Stop Loading
+# gui.button.unloaditems.name=§7Unload Items
+# gui.button.stopunloading.name=§7Stop Unloading
+# gui.button.createsstation.name=§7Create Space Station
+# gui.button.sendtodim.name=§7Send to Dimension
+# gui.button.rename.name=§7Rename
+# gui.button.loadfuel.name=§7Load Fuel
+# gui.button.refine.name=§7Refine
+# gui.button.stoprefine.name=§7Stop Refining
+# gui.button.enable.name=§7Enable
+# gui.button.disable.name=§7Disable
+# gui.button.hideDest.name=§7Hide
+# gui.button.unhideDest.name=§7Unhide

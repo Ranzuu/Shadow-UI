@@ -1,0 +1,17 @@
+#lang-backpack
+#button
+#sub-text
+
+text.backpack.rename=§7Переименовать рюкзак
+text.backpack.backpack_slot=§7Слот для рюкзака
+
+text.backpack.title_format=§7%s
+
+text.backpack.new_name=&#999999Новое имя:
+text.backpack.autopickup=&#999999Подбирать автоматически:
+
+# Buttons
+# button.backpack.ok=§7OK
+# button.backpack.cancel=§7Cancel
+# button.backpack.clear=§7c
+# button.backpack.save=§7s

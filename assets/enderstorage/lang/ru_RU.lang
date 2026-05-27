@@ -1,0 +1,4 @@
+#lang-enderstorage
+
+gui.tile.enderchest|0.name.title=§7Ender Chest
+gui.item.enderpouch.name.title=§7Ender Pouch

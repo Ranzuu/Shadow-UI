@@ -1,0 +1,8 @@
+#lang-ifu
+#error
+
+gui.ifu_buildingKit.title=§7寻矿魔杖
+
+IFU.NameTip=§7名称： %s
+IFU.Empty=§7空
+IFU.BlacklistedBlock=§c黑名单方块！

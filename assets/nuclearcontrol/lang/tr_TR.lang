@@ -1,0 +1,25 @@
+#lang-nuclearcontrol
+#sub-text
+
+# Internal Blocks
+gui.tile.blockThermalMonitor.name.title=§7Termal Monitör
+gui.tile.blockIndustrialAlarm.name.title=§7Endüstriyel Alarm
+gui.tile.blockHowlerAlarm.name.title=§7Güçlü Alarm
+gui.tile.blockRemoteThermo.name.title=§7Uzak Termal Monitör
+gui.tile.blockInfoPanel.name.title=§7Endüstriyel Bilgi Paneli
+gui.tile.blockAdvancedInfoPanel.name.title=§7Gelişmiş Bilgi Paneli
+gui.tile.blockEnergyCounter.name.title=§7Enerji Counter
+gui.tile.blockAverageCounter.name.title=§7Average Counter
+gui.tile.blockRangeTrigger.name.title=§7Range Trigger
+
+gui.optional.numbers=§7
+
+# Original Screen Messages
+msg.nc.ScreenColor=§7Ekran Rengi
+msg.nc.TextColor=§7Yazı Rengi
+msg.nc.InfoPanelOutput=§7ÇıkışGücü: %sEU/t
+msg.nc.InfoPanelOutputMJ=§7ÇıkışGücü: %sMJ/t
+msg.nc.InfoPanelOutputSteam=§7ÇıkışGücü: %smB/t
+msg.nc.AverageCounterPeriod=§7Süre: %ssaniye
+msg.nc.HowlerAlarmSoundRange=§7Ses Seviyesi: %s
+msg.nc.HowlerAlarmSound=§7Ses
