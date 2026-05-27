@@ -1,7 +1,3 @@
-#lang-betterp2p
-#sub-text
-#button
-
 item.advanced_memory_card.name.gui=§7Advanced Memory Card
 item.advanced_memory_card.selected=§7频率:
 

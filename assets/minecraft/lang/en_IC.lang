@@ -1,6 +1,3 @@
-#lang-minecart
-#button
-
 container.inventory=§7MaGicEnterprises(TM) Quantum-Compressed Inventory
 container.hopper=§7Item Hopper
 container.crafting=§7Crafting

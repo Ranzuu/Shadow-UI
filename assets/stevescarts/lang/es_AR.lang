@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Ensamblador de carros
 gui.SC2:basicAssembleInstruction=§7Para comenzar a hacer un carro, añade un casco de carro en el espacio para cascos.

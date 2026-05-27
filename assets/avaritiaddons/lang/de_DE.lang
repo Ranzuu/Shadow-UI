@@ -1,5 +1,3 @@
-#lang-avaritiaddons
-
 container.CompressedChest=§7Komprimierte Kiste
 container.InfinityChest=§7Kiste der Unendlichkeit
 container.ExtremeAutoCrafter=§7Schreckliche Automatische Werkbank

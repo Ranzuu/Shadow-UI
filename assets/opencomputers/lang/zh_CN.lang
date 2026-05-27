@@ -1,6 +1,3 @@
-#lang-opencomputers
-#sub-text
-
 oc:gui.Assembler.Collect=§7收集输出
 oc:gui.Assembler.Complexity=§7复杂度: %s/%s
 oc:gui.Assembler.InsertCase=§7需放入基础配件

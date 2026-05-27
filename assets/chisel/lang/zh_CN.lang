@@ -1,5 +1,3 @@
-#lang-chisel
-
 container.chisel=§7凿子
 container.chisel.title=§7雕刻方块
 container.chisel.titleShort=§7雕刻

@@ -1,5 +1,3 @@
-#lang-ae2fc
-
 ae2fc.gui.fluid_pattern_encoder=§7Flüssigkeitsschablonenkodierer
 ae2fc.gui.fluid_packet_decoder=§7ME-Flüssigkeitspaketdekodierer
 ae2fc.gui.fluid_interface=§7ME-Dualschnittstelle

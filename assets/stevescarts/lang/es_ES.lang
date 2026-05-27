@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Cesta ensamblador
 gui.SC2:basicAssembleInstruction=§7Para empezar a hacer una compra, por favor, añadir un carrito de casco de su elección a la ranura del casco.

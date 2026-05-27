@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Monta Vag�es
 gui.SC2:basicAssembleInstruction=§7Para fazer um vag�o, adicionar um casco de vag�o da tua escolha em "Hull Slot"

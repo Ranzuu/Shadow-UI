@@ -1,6 +1,3 @@
-#lang-alchemicalwizardry
-#sub-text
-
 # Gui
 gui.blockWritingTable.title=§7Matériel d’Alchimie
 gui.demonChest.title=§7Demon's Chest

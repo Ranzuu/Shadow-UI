@@ -1,6 +1,3 @@
-#lang-personalWorld
-#sub-text
-
 gui.personalWorld.biome=§7生物群系名称
 gui.personalWorld.presets=§7预设
 gui.personalWorld.layers=§7层

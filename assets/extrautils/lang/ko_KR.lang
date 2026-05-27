@@ -1,5 +1,3 @@
-#lang-extrautils
-
 gui.transferNode.searching=§7인벤토리를 검색 중
 gui.transferNode=§7전송 노드
 

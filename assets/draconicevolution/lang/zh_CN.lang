@@ -1,6 +1,3 @@
-#lang-draconicevolution
-#button
-
 gui.de.numbers=§7%s
 
 gui.de.particleGenerator.main.title=§7粒子发生器

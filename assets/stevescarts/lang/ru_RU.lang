@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Конструктор вагонеток
 gui.SC2:basicAssembleInstruction=§7Чтобы начать сборку вагонетки, добавьте любой корпус вагонетки в слот для корпусов.

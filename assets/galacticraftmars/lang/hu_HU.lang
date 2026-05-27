@@ -1,5 +1,3 @@
-#lang-mars
-
 container.launchcontroller.name=§7Távvezérlo
 container.tileTerraformer.name=§7Növényülteto
 container.marsLander.name=§7Landing Balloons ##NEEDS TRANSLATE##

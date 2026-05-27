@@ -1,7 +1,3 @@
-#lang-backpack
-#button
-#sub-text
-
 text.backpack.rename=§7Zmień nazwę swojego plecaka
 text.backpack.backpack_slot=§7Slot plecaka
 

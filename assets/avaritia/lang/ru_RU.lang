@@ -1,5 +1,3 @@
-#lang-avaritia
-
 container.neutron_collector=§7Сборщик нейтронов
 container.neutronium_compressor=§7Компрессор нейтрония
 

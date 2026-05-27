@@ -1,5 +1,3 @@
-#lang-galacticraftasteroids
-
 gui.message.address.name=§7Adres
 gui.message.destAddress.name=§7Adres Docelowy
 

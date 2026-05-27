@@ -1,5 +1,3 @@
-#lang-nutrition
-
 # Gui
 gui.nutrition:nutrition_title=§7营养水平
 gui.nutrition:updating=§7更新中……

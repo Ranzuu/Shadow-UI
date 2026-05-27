@@ -1,5 +1,3 @@
-#lang-storagedrawers
-
 storageDrawers.container.drawers=§7Drawers
 storageDrawers.container.compDrawers=§7Compacting Drawers
 storageDrawers.container.upgrades=§7Upgrades

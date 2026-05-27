@@ -1,6 +1,3 @@
-#lang-enderio
-#sub-text
-
 enderio.combustionGenerator.output=§7产能速率:
 enderio.stirlingGenerator.output=§7产能速率:
 enderio.stirlingGenerator.burnRate=§7燃烧速率:

@@ -1,5 +1,3 @@
-#lang-extrautils
-
 gui.transferNode.searching=§7Hledám inventáře v
 gui.transferNode=§7přenosovém uzlu
 

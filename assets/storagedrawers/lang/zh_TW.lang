@@ -1,5 +1,3 @@
-#lang-storagedrawers
-
 storageDrawers.container.drawers=§7抽屜
 storageDrawers.container.compDrawers=§7壓縮抽屜
 storageDrawers.container.upgrades=§7升級組件

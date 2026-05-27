@@ -1,5 +1,3 @@
-#lang-openblocks
-
 openblocks.gui.blocks=§7方块
 openblocks.gui.items=§7物品
 openblocks.gui.misc=§7杂项

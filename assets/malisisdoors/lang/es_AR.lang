@@ -1,5 +1,3 @@
-#lang-malisisdoors
-
 door_movement.rotating_door=§7Rotación
 door_movement.sliding_door=§7Desplazamiento hacia el costado
 door_movement.sliding_up_door=§7Desplazamiento hacia arriba

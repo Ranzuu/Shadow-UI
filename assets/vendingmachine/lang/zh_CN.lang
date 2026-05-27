@@ -1,8 +1,3 @@
-#lang-vendingmachine
-#enum
-#error
-
-
 # Enums
 vendingmachine.gui.neiColor.conditionDefault=AAAAAA
 vendingmachine.gui.neiColor.conditionSatisfied=7AC25F

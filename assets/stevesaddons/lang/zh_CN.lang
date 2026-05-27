@@ -1,5 +1,3 @@
-#lang-stevesaddons
-
 gui.sfm.RfInputLong=§7RF输入
 gui.sfm.RfInputShort=§7RF输入
 

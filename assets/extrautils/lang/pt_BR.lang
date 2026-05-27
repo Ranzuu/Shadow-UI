@@ -1,5 +1,3 @@
-#lang-extrautils
-
 gui.transferNode.searching=§7Procurando por Inventários em
 gui.transferNode=§7Núcleo de Transferência
 

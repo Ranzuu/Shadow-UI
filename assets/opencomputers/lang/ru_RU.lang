@@ -1,6 +1,3 @@
-#lang-opencomputers
-#sub-text
-
 oc:gui.Assembler.Collect=§7Заберите результат сборки
 oc:gui.Assembler.Complexity=§7Сложность: %s/%s
 oc:gui.Assembler.InsertCase=§7Вставьте системный блок

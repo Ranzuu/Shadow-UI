@@ -1,7 +1,3 @@
-#lang-ModName
-#sub-text
-#error
-
 # ActiveTransformerGui
 GT5U.gui.text.at_eu_transferred=§7EU Transferred:
 GT5U.gui.text.at_history.values=  %s EU/t  (%sA %s)

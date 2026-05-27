@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Vagnsverkstad
 gui.SC2:basicAssembleInstruction=§7Var vänlig och placera valfritt vagnsskrov på skrovplatsen för att börja skapa en vagn.

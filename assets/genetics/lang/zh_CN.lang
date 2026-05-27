@@ -1,5 +1,3 @@
-#lang-genetics
-
 gui.genetics.machine.machine.isolator.title=§7Isolator
 gui.genetics.machine.machine.sequencer.title=§7Sequencer
 gui.genetics.machine.machine.polymeriser.title=§7Polymeriser

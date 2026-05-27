@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Lorenmonteur
 gui.SC2:basicAssembleInstruction=§7Um beginnen, eine Lore herzustellen, füge eine Hülle deiner Wahl in den Hüllenslot.

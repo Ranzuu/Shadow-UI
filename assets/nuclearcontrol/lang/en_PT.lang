@@ -1,6 +1,3 @@
-#lang-nuclearcontrol
-#sub-text
-
 # Internal Blocks
 gui.tile.blockThermalMonitor.name.title=§7Thermal Magic Shower-thingy
 gui.tile.blockIndustrialAlarm.name.title=§7HOWLER

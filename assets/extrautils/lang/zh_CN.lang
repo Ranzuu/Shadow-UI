@@ -1,5 +1,3 @@
-#lang-extrautils
-
 gui.transferNode.searching=§7搜寻容器于
 gui.transferNode=§7传输节点
 

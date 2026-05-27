@@ -1,5 +1,3 @@
-#lang-harvestcraft
-
 harvestcraft.nei.garden.found=§7Znajdowany na Biomie: %s
 harvestcraft.nei.garden.berry=§7Leśnym, Wzgórzowym, Zimnym i Wilgotnym
 harvestcraft.nei.garden.desert=§7Piaskowym

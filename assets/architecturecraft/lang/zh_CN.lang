@@ -1,5 +1,3 @@
-#lang-architecturecraft
-
 # Container
 gui.architecturecraft.Sawbench=§7Sawbench
 gui.architecturecraft.Makes=§7%s makes %s

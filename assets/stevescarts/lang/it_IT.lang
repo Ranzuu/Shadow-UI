@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Assemblatore di carrelli
 gui.SC2:basicAssembleInstruction=§7Per iniziare a costruire un carrello, inserisci una carena di tua scelta nello slot carena carrello.

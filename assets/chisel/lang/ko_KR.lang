@@ -1,5 +1,3 @@
-#lang-chisel
-
 container.chisel=§7치슬
 container.chisel.title=§7블력 변환
 container.chisel.titleShort=§7변환

@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Montador de Carrinho
 gui.SC2:basicAssembleInstruction=§7Para começar a fazer o carrinho, por favor adicionar a carcaça do carrinho de sua escolha no slot para a carcaça.

@@ -1,5 +1,3 @@
-#lang-openblocks
-
 openblocks.gui.blocks=§7Blocchi
 openblocks.gui.items=§7Oggetti
 openblocks.gui.misc=§7Miscellanea

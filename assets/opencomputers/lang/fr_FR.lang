@@ -1,6 +1,3 @@
-#lang-opencomputers
-#sub-text
-
 oc:gui.Assembler.Collect=§7Collecter la sortie
 oc:gui.Assembler.Complexity=§7Complexité: %s/%s
 oc:gui.Assembler.InsertCase=§7Insérez une partie de base

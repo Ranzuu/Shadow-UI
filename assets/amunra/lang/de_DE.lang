@@ -1,6 +1,3 @@
-#lang-amunra
-#button
-
 gui.title.gravity=§7Gravitationsgenerator
 gui.title.isotopeGeneratorBasic=§7Radioisotopengenerator
 gui.title.isotopeGeneratorAdvanced=§7Verbesserter Radioisotopengenerator

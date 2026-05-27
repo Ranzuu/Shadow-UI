@@ -1,6 +1,3 @@
-#lang-appliedenergistics2
-#enum
-
 ## Enums - ARGB Hex Colors
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
 gui.color.appliedenergistics2.SearchboxUnfocused=00000000

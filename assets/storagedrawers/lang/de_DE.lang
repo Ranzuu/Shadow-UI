@@ -1,5 +1,3 @@
-#lang-storagedrawers
-
 storageDrawers.container.drawers=§7Schubfächer
 storageDrawers.container.compDrawers=§7Verdichtende Schubfächer
 storageDrawers.container.upgrades=§7Upgrades

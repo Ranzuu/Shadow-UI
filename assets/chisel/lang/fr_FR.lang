@@ -1,5 +1,3 @@
-#lang-chisel
-
 container.chisel=§7Chisel
 container.chisel.title=§7Blocs taillés
 container.chisel.titleShort=§7Taillé

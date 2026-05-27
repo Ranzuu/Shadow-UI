@@ -1,6 +1,3 @@
-#lang-enderio
-#sub-text
-
 enderio.combustionGenerator.output=§7Generuje:
 enderio.stirlingGenerator.output=§7Generuje:
 enderio.stirlingGenerator.burnRate=§7Hodnota spalování:

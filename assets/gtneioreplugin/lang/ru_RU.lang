@@ -1,6 +1,3 @@
-#lang-gtneioreplugin
-#sub-text
-
 # Global
 gtnop.gui.nei.title=§7%s
 gtnop.gui.nei.lineKey=§7%s

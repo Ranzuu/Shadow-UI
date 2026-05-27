@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Kar Assemblage
 gui.SC2:basicAssembleInstruction=§7Om de assemblage te starten plaats je de Kar Frame in het Kar Frame Slot.

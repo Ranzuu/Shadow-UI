@@ -1,5 +1,3 @@
-#lang-ae2fc
-
 ae2fc.gui.fluid_pattern_encoder=§7Кодировщик жидкостных шаблонов
 ae2fc.gui.fluid_packet_decoder=§7МЭ декодер жидкостных пакетов
 ae2fc.gui.fluid_interface=§7МЭ двойной интерфейс

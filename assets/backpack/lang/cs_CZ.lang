@@ -1,7 +1,3 @@
-#lang-backpack
-#button
-#sub-text
-
 text.backpack.rename=§7Přejmenuj svůj batoh
 text.backpack.backpack_slot=§7Slot batohu
 
