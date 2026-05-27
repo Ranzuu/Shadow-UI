@@ -1,0 +1,23 @@
+#lang-hardcoreenderexpansion
+
+ec.title.main=§7Hardcore Ender Expansion - Ender Compendium
+ec.title.main.bacon=§7Hardcore Bacon Expansion - Bacon Compendium
+ec.pointAmount=§7%s
+
+container.enhancedBrewing=§7強化釀造台
+container.voidChest=§7虛空之箱
+container.decompositionTable=§7解構台
+container.experienceTable=§7經驗台
+container.accumulationTable=§7聚能台
+container.extractionTable=§7釋能台
+container.endPowderEnhancements=§7附魔末影粉
+container.endPowderEnhancements.bacon=§7附魔培根粉
+container.charmPouch=§7護符袋
+container.runeCrafting=§7符文合成
+container.transportBeacon=§7傳送信標
+container.transportBeacon.bacon=§7傳送培根
+container.transportBeacon.error.dimension=§7不正確的維度
+container.transportBeacon.error.tamper=§7檢測到篡改
+container.transportBeacon.error.nodestination=§7未選擇目的地
+container.transportBeacon.error.noenergy=§7能量溢出
+container.button.travel=§7旅行

@@ -1,0 +1,3 @@
+#lang-ezstorage
+
+hud.msg.ezstorage.amount_count=§7%s / %s

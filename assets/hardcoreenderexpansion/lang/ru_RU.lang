@@ -1,0 +1,23 @@
+#lang-hardcoreenderexpansion
+
+ec.title.main=§7Hardcore Ender Expansion - Ender Compendium
+ec.title.main.bacon=§7Hardcore Bacon Expansion - Bacon Compendium
+ec.pointAmount=§7%s
+
+container.enhancedBrewing=§7Улучшенная варочная стойка
+container.voidChest=§7Пустотный сундук
+container.decompositionTable=§7Стол разложения
+container.experienceTable=§7Стол опыта
+container.accumulationTable=§7Стол накопления
+container.extractionTable=§7Стол извлечения
+container.endPowderEnhancements=§7Зачарования порошком Края
+container.endPowderEnhancements.bacon=§7Зачарования порошком Бекона
+container.charmPouch=§7Чехол для амулета
+container.runeCrafting=§7Создание руны
+container.transportBeacon=§7Маяк перемещения
+container.transportBeacon.bacon=§7Бекон перемещения
+container.transportBeacon.error.dimension=§7Неверное измерение
+container.transportBeacon.error.tamper=§7Обнаружен взлом
+container.transportBeacon.error.nodestination=§7Место назначения не выбрано
+container.transportBeacon.error.noenergy=§7Нет энергии
+container.button.travel=§7Отправиться

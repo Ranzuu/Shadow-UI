@@ -1,0 +1,125 @@
+#lang-galacticraftcore
+#sub-text
+#button
+
+# Gui
+gui.message.out.name=§7Dehors
+gui.message.in.name=§7Dedans
+gui.message.status.name=§7Statut
+gui.message.oxoutput.name=§7Sortie d'oxygène
+gui.message.oxinput.name=§7Entrée d'oxygène
+gui.message.fuel.name=§7Carburant
+gui.message.full.name=§7Plein
+gui.message.page.name=§7Page
+gui.message.addnewsch.name=§7Ajouter un nouveau Schéma
+gui.message.generating.name=§7Génération
+gui.message.environment.name=§7Amplificateur écologique
+gui.message.oil.name=§7Pétrole
+gui.message.catalog.name=§7Catalogue
+gui.message.back.name=§7Arrière
+gui.message.daynightcycle.name=§7Cycle jour-nuit
+gui.message.surfacegravity.name=§7Gravité à la surface
+gui.message.surfacecomposition.name=§7Composition de la surface
+gui.message.atmosphere.name=§7Atmosphère
+gui.message.meansurfacetemp.name=§7Température à la surface moyenne
+gui.message.energy=§7Energie
+gui.message.maxEnergy=§7Energie maximale
+gui.message.bubbleVisible.name=§7Bulles visibles
+gui.message.launch.name=§7Lancement
+gui.message.clickAgain.0.name=§7Cliquez encore pour zoomer (pour voir les lunes et les satellites)
+gui.message.clickAgain.1.name=§7Cliquez encore pour zoomer (pour voir les lunes)
+gui.message.clickAgain.2.name=§7Cliquez encore pour zoomer (pour voir les satellites)
+gui.message.clickAgain.3.name=§7Cliquez encore pour zoomer
+gui.message.exit.name=§7Sortie
+gui.message.tier.name=§7Niveau %d
+gui.message.canCreateSpaceStation.name=§7Une station spatiale peut être crée ici !
+gui.message.cannotCreateSpaceStation.name=§7Une station spatiale ne peut pas être crée ici !
+gui.message.createSS.name=§7Créer
+gui.message.selectSS.name=§7Sélectionnez une station de l'espace
+gui.message.ssOwner.name=§7Propriétaire :
+gui.message.apply.name=§7Appliquer
+gui.message.cancel.name=§7Annuler
+gui.message.assignName.name=§7Assigner le nom
+gui.message.rename.name=§7Renommer
+gui.message.unnamed.name=§7sans-nom
+gui.message.grow.name=§7Grandir
+gui.message.breed.name=§7Nourir
+gui.message.strengthen.name=§7Renforcer
+gui.message.heal.name=§7Soigner
+gui.message.of.name=§7de
+gui.message.help1=§7Pour l'aide de Galacticraft
+gui.message.help1a=§7Pour revoir ce message une nouvelle fois, tapez 
+gui.message.help2=§7Pour le guide du programme spatial
+gui.message.help3=§7Pour de l'aide sur les carburants
+gui.message.prelaunch=§7Liste de vérification de pré-lancement
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Thermal Control ##NEEDS TRANSLATE##
+
+# Cotnainers
+container.cargoloader.name=§7Chargeur de cargaison
+container.cargounloader.name=§7Déchargeur de cargaison
+container.fuelloader.name=§7Chargeur de carburant
+container.oxygencollector.name=§7Collecteur d'oxygène
+container.oxygencompressor.name=§7Compresseur d'oxygène
+container.oxygendistributor.name=§7Distributeur d'oxygène
+container.oxygensealer.name=§7Scellant d'oxygène
+container.parachest.name=§7Coffre aéroporté
+container.refinery.name=§7Raffinerie
+container.treasurechest.name=§7Coffre au trésor
+container.lander.name=§7Atterrisseur spatial
+container.spaceship.name=§7Fusée Niveau 1
+container.solarbasic.name=§7Panneau solaire de base
+container.solaradvanced.name=§7Panneau solaire avancé
+container.oxygendecompressor.name=§7Décompresseur d'oxygène
+
+gui.checkbox.redstoneSignal.name=§7S'ouvre avec un signal de redstone
+gui.checkbox.playerWithin.name=§7Le joueur est dans 
+gui.checkbox.playerName.name=§7Le nom du joueur est
+gui.checkbox.invert.name=§7Sélection inverssée
+gui.checkbox.horizontal.name=§7Mode horizontal
+
+tile.machine.0.name=§7Générateur à charbon
+tile.machine.1.name=§7Module de stockage d'énergie
+tile.machine.2.name=§7Four électrique
+tile.machine.3.name=§7Compresseur
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7compresseur électrique
+tile.machine2.5.name=§7Constructeur de circuit
+tile.machine2.6.name=§7Module de stockage d'oxygène
+tile.machine.7.name=§7Four à arcs éléctrique
+tile.machine.8.name=§7Groupement de stockage énergétique
+
+gui.maxOutput.desc=§7Sortie Maxi
+gui.oxygenUse.desc=§7Utilise de l'oxygène
+
+gui.message.generating.name=§7Génération
+
+gui.status.collecting.name=&#999999Récupération
+gui.status.generating.name=&#999999Production
+gui.status.notGenerating.name=&#999999pas de production
+gui.status.hullHeat.name=&#999999Bouclier thermique
+
+gui.title.airLock.name=§7%s's Controlleur du sas
+
+gui.status.unknown.name=§7Inconnu
+
+schematic.moonbuggy.name=§7Boghei Lunaire
+schematic.rocketT1.name=§7Fusée Niveau 1
+
+# Button
+# gui.button.enableseal.name=§7Enable Seal
+# gui.button.disableseal.name=§7Disable Seal
+# gui.button.loaditems.name=§7Load Items
+# gui.button.stoploading.name=§7Stop Loading
+# gui.button.unloaditems.name=§7Unload Items
+# gui.button.stopunloading.name=§7Stop Unloading
+# gui.button.createsstation.name=§7Create Space Station
+# gui.button.sendtodim.name=§7Send to Dimension
+# gui.button.rename.name=§7Rename
+# gui.button.loadfuel.name=§7Load Fuel
+# gui.button.refine.name=§7Refine
+# gui.button.stoprefine.name=§7Stop Refining
+# gui.button.enable.name=§7Enable
+# gui.button.disable.name=§7Disable
+# gui.button.hideDest.name=§7Hide
+# gui.button.unhideDest.name=§7Unhide

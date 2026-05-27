@@ -1,0 +1,4 @@
+#lang-wrcbe_addons
+
+item.wrcbe_addons:sniffer.name=§7Sniffer wireless
+item.wrcbe_addons:psniffer.name=§7Sniffer privato

@@ -1,0 +1,6 @@
+#lang-automagy
+#ARR
+
+tile.blockGreedyChest.name=§7Жадный сундук
+tile.blockEagerChest.name=§7Стремительный сундук
+tile.blockTenaciousChest.name=§7Tenacious Chest

@@ -1,0 +1,17 @@
+#lang-backpack
+#button
+#sub-text
+
+text.backpack.rename=§7重命名你的背包
+text.backpack.backpack_slot=§7背包的格子
+
+text.backpack.title_format=§7%s
+
+text.backpack.new_name=&#999999新名称:
+text.backpack.autopickup=&#999999自动捡取:
+
+# Buttons
+# button.backpack.ok=§7OK
+# button.backpack.cancel=§7Cancel
+# button.backpack.clear=§7c
+# button.backpack.save=§7s

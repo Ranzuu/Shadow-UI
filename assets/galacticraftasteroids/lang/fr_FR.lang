@@ -1,0 +1,7 @@
+#lang-galacticraftasteroids
+
+gui.message.address.name=§7Adresse
+gui.message.destAddress.name=§7Adresse de la cible
+
+container.shortRangeTelepad.name=§7Téléporteur à courte portée
+schematic.astroMiner.name=§7Astro-mineur

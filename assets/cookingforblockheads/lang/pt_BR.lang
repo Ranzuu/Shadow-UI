@@ -1,0 +1,11 @@
+#lang-cookingforblockheads
+#sub-text
+
+container.cookingforblockheads:cookingoven=§7Forno de Cozinha
+container.cookingforblockheads:fridge=§7Geladeira
+container.cookingforblockheads:counter=§7Counter
+container.cookingforblockheads:cabinet=§7Cabinet
+container.cookingforblockheads:toolrack=§7Tool Rack
+
+cookingforblockheads:no_selection=§7Selecione um\nitem na direita\npara ver sua receita.
+cookingforblockheads:no_ingredients=&#999999Not\nenough\ningredientes

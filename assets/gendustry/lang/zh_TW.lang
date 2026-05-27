@@ -1,0 +1,13 @@
+#lang-gendustry
+
+gendustry.label.select=§7選擇:
+gendustry.label.mutagen_producer.title=§7誘變劑制造機
+gendustry.label.mutatron.title=§7突變方塊
+gendustry.label.mutatron_adv.title=§7高級突變方塊
+gendustry.label.apiary.title=§7工業蜂箱
+gendustry.label.imprinter.title=§7基因復制機
+gendustry.label.sampler.title=§7基因拓模機
+gendustry.label.extractor.title=§7DNA Extractor
+gendustry.label.liquifier.title=§7Protein Liquifier
+gendustry.label.replicator.title=§7Genetic Replicator
+gendustry.label.transposer.title=§7Genetic Transposer

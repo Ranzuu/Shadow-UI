@@ -1,0 +1,21 @@
+#lang-ae2fc
+
+ae2fc.gui.fluid_pattern_encoder=§7流体适配型样板编码台
+ae2fc.gui.fluid_packet_decoder=§7ME流体封包解码器
+ae2fc.gui.fluid_interface=§7ME二合一接口
+ae2fc.gui.ingredient_buffer=§7原材料缓存仓
+ae2fc.gui.large_ingredient_buffer=§7大型原材料缓存仓
+ae2fc.gui.fluid_auto_filler=§7ME流体自动装填器
+ae2fc.gui.level_maintainer=§7ME库存维持器
+ae2fc.gui.oc_pattern_editor=§7OC样板编辑器
+ae2fc.gui.part_level_terminal=§7Level Terminal
+# ae2fc.gui.part_fluid_import=§7ME Fluid Import Bus
+# ae2fc.gui.part_fluid_export=§7ME Fluid Export Bus
+# ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
+ae2fc.gui.fluid_interface.0=§7下
+ae2fc.gui.fluid_interface.1=§7上
+ae2fc.gui.fluid_interface.2=§7北
+ae2fc.gui.fluid_interface.3=§7南
+ae2fc.gui.fluid_interface.4=§7西
+ae2fc.gui.fluid_interface.5=§7东
+ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
