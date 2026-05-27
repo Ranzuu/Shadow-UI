@@ -1,5 +1,3 @@
-#lang-architecturecraft
-
 # Container
 gui.architecturecraft.Sawbench=§7Tischsäge
 gui.architecturecraft.Makes=§7%s wird zu %s

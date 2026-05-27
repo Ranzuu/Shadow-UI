@@ -1,5 +1,3 @@
-#lang-chisel
-
 container.chisel=§7Стамеска
 container.chisel.title=§7Обработка блоков
 container.chisel.titleShort=§7Обработка

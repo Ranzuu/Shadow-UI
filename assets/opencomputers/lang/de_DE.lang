@@ -1,6 +1,3 @@
-#lang-opencomputers
-#sub-text
-
 oc:gui.Assembler.Collect=§7Fertiges Gerät entnehmen
 oc:gui.Assembler.Complexity=§7Komplexität: %s/%s
 oc:gui.Assembler.InsertCase=§7Grundbaustein einlegen

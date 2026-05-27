@@ -1,5 +1,3 @@
-#lang-ae2fc
-
 ae2fc.gui.fluid_pattern_encoder=§7流体适配型样板编码台
 ae2fc.gui.fluid_packet_decoder=§7ME流体封包解码器
 ae2fc.gui.fluid_interface=§7ME二合一接口

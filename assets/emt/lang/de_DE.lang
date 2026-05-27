@@ -1,6 +1,3 @@
-#lang-emt
-#sub-text
-
 gui.EMT.config.title=§7Electro-Magic Tools Einstellungen
 gui.EMT.etherealMacerator.title=§7Ätherischer Verarbeiter
 gui.EMT.wandRecharge.title=§7Industrie Stab-Auflade-Station

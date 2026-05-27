@@ -1,5 +1,3 @@
-#lang-openprinter
-
 gui.string.printer=§7Open Printer
 gui.string.blackInk=§7Black Ink
 gui.string.colorInk=§7Color Ink

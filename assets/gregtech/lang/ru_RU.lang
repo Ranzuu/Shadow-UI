@@ -1,7 +1,4 @@
 ﻿#lang-gregtech
-#sub-text
-#error
-#button
 
 # AdvancedRedstoneReceiverBaseUIFactory
 GT5U.gui.tooltip.redstone_receiver.GateMode=§7Gate Mode

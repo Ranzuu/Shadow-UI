@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7矿车装配器
 gui.SC2:basicAssembleInstruction=§7请将一个矿车外壳放到外壳槽里，以开始装配一辆矿车。

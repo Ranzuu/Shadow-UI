@@ -1,5 +1,3 @@
-#lang-floodlights
-
 gui.floodlights:nonElectricFloodlightTimeRemaining=§7Осталось времени:
 gui.floodlights:RFStorage=§7Хранилище RF
 gui.floodlights:invert=§7Инвертирован

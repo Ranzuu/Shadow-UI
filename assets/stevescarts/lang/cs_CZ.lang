@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Montazni stroj na voziky
 gui.SC2:basicAssembleInstruction=§7Ke startu sestavovani voziku, pridejte telo voziku dle vaseho vyberu do slotu na tela voziku.

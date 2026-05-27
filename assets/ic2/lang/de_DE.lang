@@ -1,6 +1,4 @@
 ﻿#lang-ic2
-#button
-#ARR
 
 # Machines
 ic2.Centrifuge.gui.name=§7Thermal Centrifuge

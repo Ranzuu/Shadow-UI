@@ -1,5 +1,3 @@
-#lang-opensecurity
-
 gui.string.cardwriter=§7卡片读写器
 gui.string.cardslot=§7卡槽
 gui.string.kvm=§7KVM切换控制器

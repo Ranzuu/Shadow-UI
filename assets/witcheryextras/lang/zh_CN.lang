@@ -1,6 +1,3 @@
-#lang-witcheryextras
-#sub-text
-
 WitcheryExtras.nei.power=§7能量要求: %s
 
 gui.witcheryextras.distilleryidle.title=§7Distillery

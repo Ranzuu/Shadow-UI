@@ -1,7 +1,3 @@
-#lang-binniecore
-#sub-text
-#error
-
 compartbinniecore.gui.slot.slot=§7Slot
 
 binniecore.gui.slot.input=§7Input Slot

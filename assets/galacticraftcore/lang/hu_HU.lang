@@ -1,7 +1,3 @@
-#lang-galacticraftcore
-#sub-text
-#button
-
 # Gui
 gui.message.out.name=§7Kifele
 gui.message.in.name=§7Befele

@@ -1,6 +1,3 @@
-#lang-codechickencore
-#enum
-
 # Enums
 # codechickencore.color.background=FF000000
 # codechickencore.color.overlayTop=FFA0A0A0

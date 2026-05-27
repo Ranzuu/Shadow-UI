@@ -1,6 +1,3 @@
-#lang-emt
-#sub-text
-
 gui.EMT.config.title=§7选项
 gui.EMT.etherealMacerator.title=§7天域加工机
 gui.EMT.wandRecharge.title=§7工业法杖充能站

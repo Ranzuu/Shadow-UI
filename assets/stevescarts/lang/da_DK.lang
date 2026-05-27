@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Vogn Samler
 gui.SC2:basicAssembleInstruction=§7For at starte med at lave en vogn, tilføj et Vognskrog af eget valg til Skrogfeltet.

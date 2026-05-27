@@ -1,5 +1,3 @@
-#lang-stevescarts
-
 # Cart assembler gui localization
 gui.SC2:cartAssembler=§7Cydosodydd Cert
 gui.SC2:basicAssembleInstruction=§7I dechrau creu'r cert, dewiswch plisgyn cert a rhowch yn y slot plisgyn os gwelwch yn dda.

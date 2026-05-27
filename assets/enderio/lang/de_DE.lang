@@ -1,6 +1,3 @@
-#lang-enderio
-#sub-text
-
 enderio.combustionGenerator.output=§7Output:
 enderio.stirlingGenerator.output=§7Output:
 enderio.stirlingGenerator.burnRate=§7Brennrate:

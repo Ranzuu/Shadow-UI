@@ -1,6 +1,3 @@
-#lang-gtnhlanth
-#error
-
 # CheckRecipeResultRegistry
 GT5U.gui.text.recipe_result.dissolution_ratio=§7Wrong fluid input ratio
 GT5U.gui.text.recipe_result.gtnhlanth.toolowenergy=§7Below Required Energy!

@@ -1,5 +1,3 @@
-#lang-openprinter
-
 gui.string.printer=§7开放式打印机
 gui.string.blackInk=§7黑色墨水
 gui.string.colorInk=§7彩色墨水

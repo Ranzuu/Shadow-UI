@@ -1,5 +1,3 @@
-#lang-bibliocraft
-
 # Cannot - Framed Chest
 gui.painting.showFrame=§7Mostrar Borda
 gui.painting.hideFrame=§7Esconder Borda

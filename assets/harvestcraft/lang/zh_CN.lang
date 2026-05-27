@@ -1,5 +1,3 @@
-#lang-harvestcraft
-
 harvestcraft.nei.garden.found=§7Found in %s biome
 harvestcraft.nei.garden.berry=§7Forest, Hills, Cold and Wet
 harvestcraft.nei.garden.desert=§7Sandy

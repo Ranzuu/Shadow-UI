@@ -1,5 +1,3 @@
-#lang-galacticraftasteroids
-
 gui.message.address.name=§7Dirección
 gui.message.destAddress.name=§7Dirección de destino
 

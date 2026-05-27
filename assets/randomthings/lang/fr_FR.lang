@@ -1,6 +1,3 @@
-#lang-randomthings
-#sub-text
-
 item.filter.name=§7Filter: 
 
 gui.item.filterItem.name.title=§7Item Filter

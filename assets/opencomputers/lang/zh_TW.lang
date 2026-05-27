@@ -1,6 +1,3 @@
-#lang-opencomputers
-#sub-text
-
 oc:gui.Assembler.Collect=§7收集機器人
 oc:gui.Assembler.Complexity=§7複雜性：%s/%s
 oc:gui.Assembler.InsertCase=§7裝入電腦機殼（CASE）

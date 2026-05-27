@@ -1,5 +1,3 @@
-#lang-stevesfactory
-
 gui.sfm.TriggerShort=§7触发器
 gui.sfm.TriggerLong=§7触发器
 gui.sfm.InputShort=§7输入

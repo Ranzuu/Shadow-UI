@@ -1,8 +1,3 @@
-#lang-bartworks
-#sub-text
-#error
-#button
-
 # Errors
 GT5U.gui.text.recipe_result.no_imprint=§cMissing imprint
 GT5U.gui.text.recipe_result.not_enough_length=§cMultiblock Too Short

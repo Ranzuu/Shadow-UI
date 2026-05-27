@@ -1,6 +1,3 @@
-#lang-aspectrecipeindex
-#enum
-
 # Enums
 aspectrecipeindex.gui.textColor=BFBFBF
 

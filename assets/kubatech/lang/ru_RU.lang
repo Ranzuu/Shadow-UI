@@ -1,7 +1,3 @@
-#lang-kubatech
-#error
-#sub-text
-
 kubatech.gui.text.inventory=§7Inventory
 kubatech.gui.text.status=§7Status
 kubatech.gui.text.operating=§7Operating

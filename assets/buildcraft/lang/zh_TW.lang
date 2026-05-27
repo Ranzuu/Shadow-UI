@@ -1,6 +1,3 @@
-#lang-buildcraft
-#button
-
 gui.fluidtank.empty=§7Empty
 
 gui.building.resources=§7建築材料

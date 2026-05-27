@@ -1,5 +1,3 @@
-#lang-bibliocraft
-
 # Cannot - Framed Chest
 gui.painting.showFrame=§7프레임 보이기
 gui.painting.hideFrame=§7프레임 숨기기

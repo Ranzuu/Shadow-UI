@@ -1,5 +1,3 @@
-#lang-extrautils
-
 gui.transferNode.searching=§7Поиск инвентарей в
 gui.transferNode=§7Узел передачи
 

@@ -1,5 +1,3 @@
-#lang-storagedrawers
-
 storageDrawers.container.drawers=§7ひきだし
 storageDrawers.container.compDrawers=§7変換ひきだし
 storageDrawers.container.upgrades=§7アップグレード

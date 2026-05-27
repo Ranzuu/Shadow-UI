@@ -1,6 +1,3 @@
-#lang-blockrenderer6343
-#enum
-
 # Enums
 gui.blockrenderer6343.FontColor=AAAAAA
 gui.blockrenderer6343.BgColor=4A4948

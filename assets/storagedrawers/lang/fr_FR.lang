@@ -1,5 +1,3 @@
-#lang-storagedrawers
-
 storageDrawers.container.drawers=§7Tiroirs
 storageDrawers.container.compDrawers=§7Tiroirs de compactage
 storageDrawers.container.upgrades=§7Amélioration

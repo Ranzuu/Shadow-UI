@@ -1,5 +1,3 @@
-#lang-galacticraftasteroids
-
 gui.message.address.name=§7고유번호
 gui.message.destAddress.name=§7타겟 고유번호
 
