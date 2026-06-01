@@ -1,7 +1,7 @@
 #lang-tinker
-#enum
+#colorUtils
 
-# Enums
+# ColorUtils
 tconstruct.nei.color.materialName=0xABAAAA
 tconstruct.nei.color.materialReinforced=0xABAAAA
 tconstruct.nei.color.materialStonebound=0xABAAAA
