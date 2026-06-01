@@ -1,7 +1,7 @@
 #lang-blockrenderer6343
-#enum
+#colorUtils
 
-# Enums
+# ColorUtils
 gui.blockrenderer6343.FontColor=AAAAAA
 gui.blockrenderer6343.BgColor=4A4948
 gui.blockrenderer6343.ButtonHoveredColor=FFFFFF

@@ -1,7 +1,7 @@
 #lang-mobsinfo
-#enum
+#colorUtils
 
-# Enums
+# ColorUtils
 mobsinfo.color.override.text_default=FFBFBFBF
 mobsinfo.color.override.text_danger=FFEFC62F
 

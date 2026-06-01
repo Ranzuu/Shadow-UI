@@ -1,7 +1,7 @@
 #lang-aspectrecipeindex
-#enum
+#colorUtils
 
-# Enums
+# ColorUtils
 aspectrecipeindex.gui.textColor=BFBFBF
 
 # Strings

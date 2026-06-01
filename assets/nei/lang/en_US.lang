@@ -1,9 +1,9 @@
 #lang-nei
-#enum
+#colorUtils
 #sub-text
 #button
 
-# Enums
+# ColorUtils
 nei.recipe.title.color.normal=&#BFBFBF
 # nei.string.button.color=FFFFA0
 # nei.string.button.color.red=601010

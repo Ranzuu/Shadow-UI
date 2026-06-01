@@ -1,13 +1,13 @@
 #lang-ae2stuff
-#enum
+#colorUtils
 
-# Enums - Visualiser Node
+# ColorUtils - Visualiser Node
 ae2stuff.visualiser.color.node.missing=0xE6B13E53
 ae2stuff.visualiser.color.node.dense=0xE6FFF70F
 ae2stuff.visualiser.color.node.proxy=0xE6C46632
 ae2stuff.visualiser.color.node.default=0xE62A63C1
 
-# Enums - Visualiser Link
+# ColorUtils - Visualiser Link
 ae2stuff.visualiser.color.link.compressed=0xB3FF71D6
 ae2stuff.visualiser.color.link.dense=0xB3FFF70F
 ae2stuff.visualiser.color.link.proxy=0xB3C46632
