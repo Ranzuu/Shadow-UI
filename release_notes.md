@@ -1,4 +1,3 @@
-- Texture fixes: Vanilla (Gui horse - armor slot)
-- Lang fixes: GT5 (Pcb Factory)
-- Added mod compatibility: Ae2Thing, ProgHatches, ThingTech
-- Other: Image compression, language sync, readme
+- Other: Licence change
+
+This is the last release for version 2.8.X
