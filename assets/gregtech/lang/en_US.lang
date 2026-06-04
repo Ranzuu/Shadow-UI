@@ -513,7 +513,7 @@ GTPP.CC.parallel=§7Maximum Parallel
 gt.interact.desc.mb.FluidTextLine=§b%s§7 x §6%sL §7%s%s§7%s
 gt.interact.desc.mb.ItemTextLine=§b%s§7 x §6%s §7%s%s§7%s
 GT5U.gui.text.shutdown_reason.computation_loss=§4Shut down due to computation loss.
-GT5U.multiblock.startup=Starting up...
+GT5U.multiblock.startup=§7Starting up...
 
 # MultiLathe
 GT5U.gui.text.structure_error.missing_pipe_casing=Missing Pipe Casing
