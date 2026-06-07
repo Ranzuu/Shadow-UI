@@ -160,6 +160,9 @@ Chromatic Tooltips
 Enhanced Lootbags
 - Updated Nei handler
 
+GuideNH
+- Added gui (new mod)
+
 GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
 - Added Nanochip Assembly Comples gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/2903
@@ -216,4 +219,4 @@ Other
 - Added support for OKBackpack - https://github.com/Shigure-Ruiseki/OKBackpack
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 555 (05.06.26)
+Up to date with Daily 560 (07.06.26)
