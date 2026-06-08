@@ -1,0 +1,7 @@
+#lang-bq_standard
+#colorUtils
+
+## ColorUtils (enums actually)
+# RBG
+bq_standard.gui.neiQuestNameColor=BFBFBF
+bq_standard.gui.neiQuestNameHoveredColor=999999

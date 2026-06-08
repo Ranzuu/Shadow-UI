@@ -1,0 +1,12 @@
+# CheckRecipeResultRegistry
+GT5U.gui.text.recipe_result.dissolution_ratio=§7Неверное соотношение исходных жидкостей
+GT5U.gui.text.recipe_result.gtnhlanth.toolowenergy=§7Below Required Energy!
+GT5U.gui.text.recipe_result.gtnhlanth.wrongparticle=§7Incorrect Particle!
+
+GT5U.gui.text.shutdown_reason.gtnhlanth.nocoolant=В механизме отсутствует хладагент!
+GT5U.gui.text.shutdown_reason.gtnhlanth.inscoolant=Недостаточно хладагента в механизме!
+GT5U.gui.text.shutdown_reason.gtnhlanth.noaccel=Тип частиц не может быть ускорен!
+GT5U.gui.text.shutdown_reason.gtnhlanth.low_input_eut=Входной EU/t слишком мал для создания фотонов!
+GT5U.gui.text.shutdown_reason.gtnhlanth.scerror=Математическая ошибка, неверный рецепт?
+GT5U.gui.text.shutdown_reason.gtnhlanth.inputinterrupt=Input Beam must not be interrupted or changed!
+GT5U.gui.text.shutdown_reason.gtnhlanth.noparticle=Particle absent (rate is 0)!

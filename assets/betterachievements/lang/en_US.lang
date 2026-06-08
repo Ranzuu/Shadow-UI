@@ -1,0 +1,7 @@
+#lang-betterachievements
+#button
+
+betterachievements.gui.title=§7%s Achievements
+
+# Buttons
+# betterachievements.gui.old=§7Old Screen
