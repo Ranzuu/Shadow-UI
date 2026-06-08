@@ -1,0 +1,10 @@
+#lang-neicustomdiagram
+#colorUtils
+
+## ColorUtils
+# ARBG
+# color.resource.neicustomdiagram.textColor=FFABAAAA
+# color.resource.neicustomdiagram.guiLines=FFC6C6C6
+
+## Strings
+neicustomdiagram.generators.forge.worldgenloot.loottitleformat=§7%s

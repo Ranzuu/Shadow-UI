@@ -1,0 +1,26 @@
+#lang-cropsnh
+#error
+#sub-text
+
+# Errors
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderNotFound=&#C62140Failed to insert new seeds as the block that goes below the soil is missing
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderMismatch.input=&#C62140Failed to insert new seeds as the blocks stored in this machine aren't compatible
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderMismatch.farm=&#C62140The current block does not match the blocks required for this seed to grow
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedBedTierTooLow=&#C62140The current tier of Seed Bed is too low for this seed
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedsFull=&#C62140Seed capacity reached
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedOverflow=&#C62140Seed Storage exceeds current capacity
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.cannotGrow=&#C62140This seed cannot grow in the current environment
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughWater=&#C62140Not enough water
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=&#C62140Not enough Enriched Fertilizer
+
+# NEI
+cropsnh_nei.mutationPool.poolName=§7Pool: &#999999%1$s
+cropsnh_nei.crops.tier=§7Tier: &#999999%d
+cropsnh_nei.crops.growthDuration=§7Growth Points: &#999999%1$s
+cropsnh_nei.crops.dropMult=§7Drop Multiplier: &#999999%1$0.2f
+cropsnh_nei.crops.likes=§7Likes: &#999999%1$s
+
+# Nei Errors
+cropsnh_growthReq.minLight.format=&#EFC62FNeeds a light Level of %1$d or higher
+cropsnh_growthReq.maxLight.format=&#EFC62FNeeds a light Level of %1$d or lower
+cropsnh_growthReq.lockout.machineOnly.nei=&#EFC62FOnly harvestable in the I. Farm

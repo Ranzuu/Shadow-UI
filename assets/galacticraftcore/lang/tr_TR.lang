@@ -1,0 +1,121 @@
+# Gui
+gui.message.out.name=§7Çıkış
+gui.message.in.name=§7Giriş
+gui.message.status.name=§7Durum
+gui.message.oxoutput.name=§7Oksijen Çıkışı
+gui.message.oxinput.name=§7Oksijen Girişi
+gui.message.fuel.name=§7Yakıt
+gui.message.full.name=§7Dolu
+gui.message.page.name=§7Sayfa
+gui.message.addnewsch.name=§7Yeni Şematik Ekle
+gui.message.generating.name=§7Durum
+gui.message.environment.name=§7Çevresel Kuvvetlendirme
+gui.message.oil.name=§7Yağ
+gui.message.catalog.name=§7Katalog
+gui.message.back.name=§7Geri
+gui.message.daynightcycle.name=§7Gündüz-Gece Döngüsü
+gui.message.surfacegravity.name=§7Yerçekimi
+gui.message.surfacecomposition.name=§7Yüzey Kompozisyon
+gui.message.atmosphere.name=§7Atmosfer
+gui.message.meansurfacetemp.name=§7Ortalama Yüzey Sıcaklığı
+gui.message.energy=§7Enerji
+gui.message.maxEnergy=§7En Yüksek Enerji
+gui.message.bubbleVisible.name=§7Kabarcıklar Görünebilir
+gui.message.launch.name=§7Git
+gui.message.clickAgain.0.name=§7Yakınlaştırmak için terkrar tıklayın (aylara ve uydulara bak)
+gui.message.clickAgain.1.name=§7Yakınlaştırmak için terkrar tıklayın (aylara bak)
+gui.message.clickAgain.2.name=§7Yakınlaştırmak için terkrar tıklayın (uydulara bak)
+gui.message.clickAgain.3.name=§7Yakınlaştırmak için terkrar tıklayın
+gui.message.exit.name=§7Çıkış
+gui.message.tier.name=§7Tier %d
+gui.message.canCreateSpaceStation.name=§7Uzay istasyonunu buraya kurabilirsiniz!
+gui.message.cannotCreateSpaceStation.name=§7Uzay istasyonu buraya kurulamaz.
+gui.message.createSS.name=§7Yarat
+gui.message.selectSS.name=§7Uzay İstasyonunu Seç
+gui.message.ssOwner.name=§7Sahibi:
+gui.message.apply.name=§7Onayla
+gui.message.cancel.name=§7İptal
+gui.message.assignName.name=§7Adı Onayla
+gui.message.rename.name=§7Yeniden Adlandır
+gui.message.unnamed.name=§7Adsız
+gui.message.grow.name=§7Büyüt
+gui.message.breed.name=§7Yetiştir
+gui.message.strengthen.name=§7Güçlendir
+gui.message.heal.name=§7İyileştir
+gui.message.of.name=§7arasında
+gui.message.help1=§7Galacticraft yardımı
+gui.message.help1a=§7Bu mesajı her zaman görüyorsanız, komutu kullan:
+gui.message.help2=§71. Uzay programına katılın
+gui.message.help3=§72. Ham petrol ile yardım edin
+gui.message.prelaunch=§7Ön fırlatış kontrol listesi
+gui.message.clicklink=§7Click for Galacticraft Wiki
+gui.message.thermalStatus.name=§7Sıcaklık Kontrolü
+
+# Cotnainers
+container.cargoloader.name=§7Kargo Yükleyici
+container.cargounloader.name=§7Kargo Boşaltıcı
+container.fuelloader.name=§7Yakıt Yükleyicisi
+container.oxygencollector.name=§7Oksijen Toplayıcısı
+container.oxygencompressor.name=§7Oksijen Kompresör
+container.oxygendistributor.name=§7Oksijen Distribütörü
+container.oxygensealer.name=§7Oksijen Mühürleyen
+container.parachest.name=§7Para-Sandık
+container.refinery.name=§7Rafineri
+container.treasurechest.name=§7Hazine Sandığı
+container.lander.name=§7Uzay Lander
+container.spaceship.name=§7Tier 1 Roket
+container.solarbasic.name=§7Basit Güneş Paneli
+container.solaradvanced.name=§7Gelişmiş Güneş Paneli
+container.oxygendecompressor.name=§7Oksijen Açıcı
+
+gui.checkbox.redstoneSignal.name=§7Kızıltaş Sinyalini Aç
+gui.checkbox.playerWithin.name=§7Oyuncu yakınlığı
+gui.checkbox.playerName.name=§7Oyuncu adı 
+gui.checkbox.invert.name=§7Seçimin Tersine
+gui.checkbox.horizontal.name=§7Yatay Modu
+
+tile.machine.0.name=§7Kömür Jeneratörü
+tile.machine.1.name=§7Enerji Depolama Modülü
+tile.machine.2.name=§7Elektrikli Ocak
+tile.machine.3.name=§7Kompresör
+tile.machine2.0.name=§7Machine
+tile.machine2.4.name=§7Elektrikli Kompresör
+tile.machine2.5.name=§7Devre Fabrikatörü
+tile.machine2.6.name=§7Oksijen Depolama Modülü
+tile.machine.7.name=§7Elektrik Ark Ocağı
+tile.machine.8.name=§7Enerji Depolama Makinesi
+
+gui.maxOutput.desc=§7Maksimum Çıkış
+gui.oxygenUse.desc=§7Oksijeni Kullan
+
+gui.message.generating.name=§7Durum
+
+gui.status.collecting.name=&#999999Toplanıyor
+gui.status.generating.name=&#999999Üretiliyor
+gui.status.notGenerating.name=&#999999Üretilmiyor
+gui.status.hullHeat.name=&#999999Yüksek Isı
+
+gui.title.airLock.name=§7%s Adlı Kişinin Hava Kilidi
+
+gui.status.unknown.name=§7Bilinmeyen
+
+schematic.moonbuggy.name=§7Buggy
+schematic.rocketT1.name=§7Tier 1 Roketi
+
+# Button
+# gui.button.enableseal.name=§7Enable Seal
+# gui.button.disableseal.name=§7Disable Seal
+# gui.button.loaditems.name=§7Load Items
+# gui.button.stoploading.name=§7Stop Loading
+# gui.button.unloaditems.name=§7Unload Items
+# gui.button.stopunloading.name=§7Stop Unloading
+# gui.button.createsstation.name=§7Create Space Station
+# gui.button.sendtodim.name=§7Send to Dimension
+# gui.button.rename.name=§7Rename
+# gui.button.loadfuel.name=§7Load Fuel
+# gui.button.refine.name=§7Refine
+# gui.button.stoprefine.name=§7Stop Refining
+# gui.button.enable.name=§7Enable
+# gui.button.disable.name=§7Disable
+# gui.button.hideDest.name=§7Hide
+# gui.button.unhideDest.name=§7Unhide

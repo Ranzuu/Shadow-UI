@@ -1,0 +1,62 @@
+kubatech.gui.text.inventory=§7Inventory
+kubatech.gui.text.status=§7Status
+kubatech.gui.text.operating=§7Operating
+kubatech.gui.text.input=§7Input
+kubatech.gui.text.output=§7Output
+kubatech.gui.text.eig.setup_mode=§7Setup mode
+kubatech.gui.text.eig.disabled=§7Disabled
+kubatech.gui.text.eig.enabled=§7Enabled
+kubatech.gui.text.eig.ic2_mode=§7IC2 mode
+kubatech.gui.text.eig.no_humidity_mode=§7No Humidity mode
+kubatech.gui.text.mia.primary_mode=§7Primary mode
+kubatech.gui.text.mia.normal=§7Normal
+kubatech.gui.text.mia.swarmer=§7Swarmer
+kubatech.gui.text.mia.secondary_mode=§7Secondary mode
+
+kubatech.gui.text.configuration=§7Configuration
+
+kubatech.gui.text.tea_ultimate.tea=§7Tea
+kubatech.gui.text.tea_ultimate.tea_limit=§7Tea limit
+kubatech.gui.text.tea_acceptor.in=§7IN: %s/t
+
+kubatech.gui.text.usage_line=§7Usage: %s EU/t
+kubatech.gui.text.time_line=§7Time: %s secs
+
+# HighTempGasCooledReactor
+kubatech.infodata.htgr.stored_fuel=§7Stored Fuel:
+kubatech.infodata.htgr.stored_fuel_entry=§7- §b%s §7x §6%s §7(%s, %s, %s)
+kubatech.infodata.htgr.burned_fuel=§7Burned Fuel:
+kubatech.infodata.htgr.burned_fuel_entry=§7- §b%s §7x §6%s%% to output
+kubatech.infodata.htgr.helium_supply=§7Helium Supply: §6%sL
+kubatech.infodata.htgr.coolant_per_tick=§7Coolant per tick: §6%sL
+kubatech.infodata.htgr.water_per_tick=§7Water per tick: §6%sL
+kubatech.infodata.htgr.fuel_supply=§7Fill level §6%s §7out of §6%s
+kubatech.infodata.htgr.fuel_properties=§7Properties: %s, %s, %s
+
+# ExtremeEntityCrusher
+GT5U.gui.text.recipe_result.EEC_nospawner=No powered spawner!
+GT5U.gui.text.recipe_result.EEC_invalidspawner=Invalid spawner!
+GT5U.gui.text.recipe_result.EEC_peaceful=Inserted mob cannot spawn on peaceful mode!
+GT5U.gui.text.recipe_result.EIG_slotoverflow=Too many seed types inside!
+GT5U.gui.text.recipe_result.EIG_seedOverflow=Too many seeds inside!
+GT5U.gui.text.recipe_result.EIG_missingwater=No water!
+
+# IndustrialArcFurnace
+GT5U.gui.text.recipe_result.arc_shutdown=Arc Furnace is shutting down!
+GT5U.gui.text.recipe_result.arc_ignition=Arc Furnace is starting up!
+GT5U.gui.text.recipe_result.no_electrode=No electrode inserted!
+
+GT5U.gui.text.shutdown_reason.electrode_changed=Electrode changed while running!
+
+# MegaIndustrialApiary
+GT5U.gui.text.recipe_result.MegaApiary_slotoverflow=Too many bees inside!
+GT5U.gui.text.MegaApiary_noflowers=Missing flowers!
+
+# idk if needed (mega apiary to mui2)
+# MegaIndustrialApiaryGui
+# kubatech.gui.text.mia.show_bee_inventory=Show Bee Inventory
+# kubatech.gui.text.mia.show_machine_status=Show Machine Status
+# kubatech.infodata.mia.inventory_full=No more slots for bees!
+# kubatech.gui.text.mia.inventory_full_warning=No more bee slots available!
+# kubatech.gui.text.mia.locked_while_running=Bee inventory locked while machine is running
+# kubatech.infodata.mia.gui_locked_while_running=Cannot modify bee inventory via GUI while running

@@ -1,0 +1,34 @@
+oc:gui.Assembler.Collect=§7Collecter la sortie
+oc:gui.Assembler.Complexity=§7Complexité: %s/%s
+oc:gui.Assembler.InsertCase=§7Insérez une partie de base
+oc:gui.Assembler.InsertCPU=§7Insérez une CPU
+oc:gui.Assembler.InsertRAM=§7Insérez un peu de mémoire
+oc:gui.Assembler.Progress=§7Progression: %s%% (%s)
+
+oc:gui.Rack.Back=§7Arrière
+oc:gui.Rack.Bottom=§7Bas
+oc:gui.Rack.Left=§7Gauche
+oc:gui.Rack.None=§7Aucun
+oc:gui.Rack.Right=§7Droite
+oc:gui.Rack.Enabled=§7Enabled
+oc:gui.Rack.Disabled=§4Disabled
+oc:gui.Rack.Top=§7Haut
+
+oc:gui.Switch.TransferRate=§7Vitesse du cycle
+oc:gui.Switch.PacketsPerCycle=§7paquets / cycle
+oc:gui.Switch.QueueSize=§7Taille de la file
+
+# Containers
+oc:container.AccessPoint=§7Point d'accès
+oc:container.Adapter=§7Adapteur
+oc:container.Case=§7Ordinateur
+oc:container.Charger=§7Chargeur
+oc:container.Disassembler=§7Désassembleur
+oc:container.DiskDrive=§7Lecteur de disquette
+oc:container.Printer=§7Imprimante
+oc:container.Raid=§7Raid
+oc:container.Relay=§7Relay
+oc:container.Server=§7Serveur
+oc:container.Rack=§7Support de serveur
+oc:container.Switch=§7Routeur
+oc:container.TabletWrapper=§7Tablette
