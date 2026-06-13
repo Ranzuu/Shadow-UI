@@ -56,12 +56,6 @@
 			"location": "modularui2:gui/slot/item_player"
 		}
 	},
-	"progressbarBoilerHeat": {
-		"background": {
-			"type": "texture",
-			"location": "modularui2:gui/custom/c_progressbarBoilerHeat"
-		}
-	},
 	"scrollbar": {
 		"background": {
 			"type": "texture",
