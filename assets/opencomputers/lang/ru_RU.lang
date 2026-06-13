@@ -11,7 +11,7 @@ oc:gui.Rack.Left=§7Слева
 oc:gui.Rack.None=§7Нет
 oc:gui.Rack.Right=§7Справа
 oc:gui.Rack.Enabled=§7Включено
-oc:gui.Rack.Disabled=§4Выключено
+oc:gui.Rack.Disabled=§7Выключено
 oc:gui.Rack.Top=§7Сверху
 
 oc:gui.Switch.TransferRate=§7Цикличность

@@ -11,7 +11,7 @@ oc:gui.Rack.Left=§7Links
 oc:gui.Rack.None=§7Keine
 oc:gui.Rack.Right=§7Rechts
 oc:gui.Rack.Enabled=§7Aktiv
-oc:gui.Rack.Disabled=§4Inaktiv
+oc:gui.Rack.Disabled=§7Inaktiv
 oc:gui.Rack.Top=§7Oben
 
 oc:gui.Switch.TransferRate=§7Taktung

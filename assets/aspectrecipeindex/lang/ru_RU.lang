@@ -1,6 +1,7 @@
+##TODO SWITCH TO ColorUtils (good just, remove the comment)
 ## ColorUtils
 # RBG
-# color.resource.aspectrecipeindex.text=BFBFBF
+#color.resource.aspectrecipeindex.text=BFBFBF
 
 aspectrecipeindex.gui.textColor=BFBFBF
 
