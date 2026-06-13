@@ -38,29 +38,26 @@ kubatech.infodata.htgr.fuel_supply=§7Fill level §6%s §7out of §6%s
 kubatech.infodata.htgr.fuel_properties=§7Properties: %s, %s, %s
 
 # ExtremeEntityCrusher
-GT5U.gui.text.recipe_result.EEC_nospawner=No powered spawner!
-GT5U.gui.text.recipe_result.EEC_invalidspawner=Invalid spawner!
-GT5U.gui.text.recipe_result.EEC_peaceful=Inserted mob cannot spawn on peaceful mode!
-GT5U.gui.text.recipe_result.EIG_slotoverflow=Too many seed types inside!
-GT5U.gui.text.recipe_result.EIG_seedOverflow=Too many seeds inside!
-GT5U.gui.text.recipe_result.EIG_missingwater=No water!
+GT5U.gui.text.recipe_result.EEC_nospawner=&#C62140No powered spawner!
+GT5U.gui.text.recipe_result.EEC_invalidspawner=&#C62140Invalid spawner!
+GT5U.gui.text.recipe_result.EEC_peaceful=&#C62140Inserted mob cannot spawn on peaceful mode!
+GT5U.gui.text.recipe_result.EIG_slotoverflow=&#C62140Too many seed types inside!
+GT5U.gui.text.recipe_result.EIG_seedOverflow=&#C62140Too many seeds inside!
+GT5U.gui.text.recipe_result.EIG_missingwater=&#C62140No water!
+
+kubatech.gui.text.eig.inventory_full_warning=&#C62140Seed inventory is full!
 
 # IndustrialArcFurnace
-GT5U.gui.text.recipe_result.arc_shutdown=Arc Furnace is shutting down!
-GT5U.gui.text.recipe_result.arc_ignition=Arc Furnace is starting up!
-GT5U.gui.text.recipe_result.no_electrode=No electrode inserted!
+GT5U.gui.text.recipe_result.arc_shutdown=&#C62140Arc Furnace is shutting down!
+GT5U.gui.text.recipe_result.arc_ignition=&#C62140Arc Furnace is starting up!
+GT5U.gui.text.recipe_result.no_electrode=&#C62140No electrode inserted!
 
-GT5U.gui.text.shutdown_reason.electrode_changed=Electrode changed while running!
+GT5U.gui.text.shutdown_reason.electrode_changed=&#C62140Electrode changed while running!
 
 # MegaIndustrialApiary
-GT5U.gui.text.recipe_result.MegaApiary_slotoverflow=Too many bees inside!
-GT5U.gui.text.MegaApiary_noflowers=Missing flowers!
+GT5U.gui.text.recipe_result.MegaApiary_slotoverflow=&#C62140Too many bees inside!
+GT5U.gui.text.MegaApiary_noflowers=&#C62140Missing flowers!
 
-# idk if needed (mega apiary to mui2)
 # MegaIndustrialApiaryGui
-# kubatech.gui.text.mia.show_bee_inventory=Show Bee Inventory
-# kubatech.gui.text.mia.show_machine_status=Show Machine Status
-# kubatech.infodata.mia.inventory_full=No more slots for bees!
-# kubatech.gui.text.mia.inventory_full_warning=No more bee slots available!
-# kubatech.gui.text.mia.locked_while_running=Bee inventory locked while machine is running
-# kubatech.infodata.mia.gui_locked_while_running=Cannot modify bee inventory via GUI while running
+kubatech.gui.text.mia.inventory_full_warning=&#C62140No more bee slots available!
+kubatech.gui.text.mia.locked_while_running=&#C62140Bee inventory locked while machine is running

@@ -4,7 +4,7 @@
 
 # ActiveTransformerGui
 GT5U.gui.text.at_eu_transferred=§7EU Transferred:
-GT5U.gui.text.at_history.values=  %s EU/t  (%sA %s)
+GT5U.gui.text.at_history.values=§7  %s EU/t  (%sA %s)
 GT5U.gui.text.at_past_30secs.header=§7Past 30 seconds:
 GT5U.gui.text.at_past_5secs.header=§7Past 5 seconds:
 GT5U.gui.text.at_past_min.header=§7Past minute:
@@ -25,9 +25,9 @@ fog.cosmetics.savecolors=§7Save
 tt.spaceelevator.storedEnergy=§7Stored Energy: %d
 
 # EntityModuleMinerGui
-tt.spaceminer.calculator.missing.distance=§4Missing distance setting!
-tt.spaceminer.calculator.missing.drone=§4Missing drone!
-tt.spaceminer.calculator.missing.moduleTier=§4Missing module tier!
+tt.spaceminer.calculator.missing.distance=&#C62140Missing distance setting!
+tt.spaceminer.calculator.missing.drone=&#C62140Missing drone!
+tt.spaceminer.calculator.missing.moduleTier=&#C62140Missing module tier!
 tt.spaceminer.textFieldDistance=§7Distance
 tt.spaceminer.textFieldOre=§7Ore
 tt.spaceminer.textFieldTier=§7Tier
@@ -64,11 +64,11 @@ fog.upgrade.confirm=§7Construct
 gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§7Click to consume upgrade materials
 
 # MultiBlockBaseGui
-GT5U.gui.text.shutdown_reason.computation_loss=§4Shut down due to computation loss.
+GT5U.gui.text.shutdown_reason.computation_loss=&#C62140Shut down due to computation loss.
 
 # ResearchStationGui
-GT5U.gui.text.research_progress=§fComputation: %d/%d (%s%%)
-GT5U.gui.text.researching_item=§fResearching: §b%s
+GT5U.gui.text.research_progress=§7Computation: %d/%d (%s%%)
+GT5U.gui.text.researching_item=§7Researching: §b%s
 
 # TeslaTowerGui
 gt.blockmachines.multimachine.tm.teslaCoil.outputVoltage=§7Output Voltage:
@@ -77,49 +77,49 @@ gt.blockmachines.multimachine.tm.teslaCoil.outputVoltage=§7Output Voltage:
 gt.blockmachines.multimachine.FOG.voltageinfo=§7Voltage Per Parallel
 
 # QuantumComputer
-GT5U.gui.text.recipe_result.computing=§aComputing
-GT5U.gui.text.recipe_result.no_computing=§7Can't compute
+GT5U.gui.text.recipe_result.computing=§7Computing
+GT5U.gui.text.recipe_result.no_computing=&#C62140Can't compute
 
 # DataBank
-GT5U.gui.text.recipe_result.providing_data=§aProviding Data
-GT5U.gui.text.recipe_result.no_data=§7Can't output data
+GT5U.gui.text.recipe_result.providing_data=§7Providing Data
+GT5U.gui.text.recipe_result.no_data=&#C62140Can't output data
 
 # ActiveTransformer
-GT5U.gui.text.recipe_result.routing=§aRouting
-GT5U.gui.text.recipe_result.no_routing=§7Can't route
+GT5U.gui.text.recipe_result.routing=§7Routing
+GT5U.gui.text.recipe_result.no_routing=&#C62140Can't route
 
 # ResearchStation
-GT5U.gui.text.recipe_result.researching=§aResearching
-GT5U.gui.text.recipe_result.no_research_item=§7No valid item to research
-GT5U.gui.text.recipe_result.scanning=§aScanning
-GT5U.gui.text.recipe_result.wrongRequirements=§7Incorrect scanning item
+GT5U.gui.text.recipe_result.researching=§7Researching
+GT5U.gui.text.recipe_result.no_research_item=&#C62140No valid item to research
+GT5U.gui.text.recipe_result.scanning=§7Scanning
+GT5U.gui.text.recipe_result.wrongRequirements=&#C62140Incorrect scanning item
 
 # EnergyInfuser.java
-GT5U.gui.text.recipe_result.charging=§aCharging
-GT5U.gui.text.recipe_result.no_chargeable_item=§7No chargeable item
-GT5U.gui.text.recipe_result.insufficient_power_no_val=§7Insufficient power
+GT5U.gui.text.recipe_result.charging=§7Charging
+GT5U.gui.text.recipe_result.no_chargeable_item=&#C62140No chargeable item
+GT5U.gui.text.recipe_result.insufficient_power_no_val=&#C62140Insufficient power
 
 # Microwave
-GT5U.gui.text.recipe_result.microwaving=§aMicrowaving
-GT5U.gui.text.recipe_result.invalid_timer=§7Invalid timer
+GT5U.gui.text.recipe_result.microwaving=§7Microwaving
+GT5U.gui.text.recipe_result.invalid_timer=&#C62140Invalid timer
 
 # EyeOfHarmony
-GT5U.gui.text.recipe_result.no_planet_block=§7Missing planet block
-GT5U.gui.text.recipe_result.no_helium=§7Not enough Helium
-GT5U.gui.text.recipe_result.no_hydrogen=§7Not enough Hydrogen
-GT5U.gui.text.recipe_result.no_stellar_plasma=§7Not enough Stellar Plasma
+GT5U.gui.text.recipe_result.no_planet_block=&#C62140Missing planet block
+GT5U.gui.text.recipe_result.no_helium=&#C62140Not enough Helium
+GT5U.gui.text.recipe_result.no_hydrogen=&#C62140Not enough Hydrogen
+GT5U.gui.text.recipe_result.no_stellar_plasma=&#C62140Not enough Stellar Plasma
 
 # TeslaTower
-GT5U.gui.text.recipe_result.invalid_hysteresis=§7Invalid hysteresis settings
-GT5U.gui.text.recipe_result.invalid_transfer_radius=§7Invalid transfer radius settings
-GT5U.gui.text.recipe_result.invalid_voltage_setting=§7Invalid voltage setting
-GT5U.gui.text.recipe_result.invalid_current_setting=§7Invalid current setting
-GT5U.gui.text.recipe_result.invalid_primary_winding=§7Primary winding tier is too low!
-GT5U.gui.text.recipe_result.invalid_time_setting=§7Invalid time setting
-GT5U.gui.text.recipe_result.invalid_overdrive_setting=§7Invalid overdrive setting
+GT5U.gui.text.recipe_result.invalid_hysteresis=&#C62140Invalid hysteresis settings
+GT5U.gui.text.recipe_result.invalid_transfer_radius=&#C62140Invalid transfer radius settings
+GT5U.gui.text.recipe_result.invalid_voltage_setting=&#C62140Invalid voltage setting
+GT5U.gui.text.recipe_result.invalid_current_setting=&#C62140Invalid current setting
+GT5U.gui.text.recipe_result.invalid_primary_winding=&#C62140Primary winding tier is too low!
+GT5U.gui.text.recipe_result.invalid_time_setting=&#C62140Invalid time setting
+GT5U.gui.text.recipe_result.invalid_overdrive_setting=&#C62140Invalid overdrive setting
 
 # PlasmaModule
-GT5U.gui.text.recipe_result.missing_upgrades=§7Missing upgrades
+GT5U.gui.text.recipe_result.missing_upgrades=&#C62140Missing upgrades
 
 # ExoticModule
 GT5U.gui.text.recipe_result.waiting_for_inputs=§7Waiting for inputs

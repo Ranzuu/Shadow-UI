@@ -11,7 +11,7 @@ oc:gui.Rack.Left=§7Esquerda
 oc:gui.Rack.None=§7Nenhum
 oc:gui.Rack.Right=§7Direita
 oc:gui.Rack.Enabled=§7Habilitado
-oc:gui.Rack.Disabled=§4Disabilitado
+oc:gui.Rack.Disabled=§7Disabilitado
 oc:gui.Rack.Top=§7Cima
 
 oc:gui.Switch.TransferRate=§7Taxa do ciclo

@@ -11,7 +11,7 @@ oc:gui.Rack.Left=§7左
 oc:gui.Rack.None=§7無
 oc:gui.Rack.Right=§7右
 oc:gui.Rack.Enabled=§7啟用
-oc:gui.Rack.Disabled=§4禁用
+oc:gui.Rack.Disabled=§7禁用
 oc:gui.Rack.Top=§7上
 
 oc:gui.Switch.TransferRate=§7速率

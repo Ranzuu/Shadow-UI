@@ -1,18 +1,19 @@
+##TODO SWITCH TO ColorUtils (good just, remove the comment)
 ## ColorUtils
 # RBG
-#color.resource.ae2.guiTextColorGray=ABAAAA
-#color.resource.ae2.guiTextColorBlack=ABAAAA
-#color.resource.ae2.searchboxText=ABAAAA
-#color.resource.ae2.craftingStatusCPUName=ABAAAA
-#color.resource.ae2.craftingStatusCPUStorage=ABAAAA
-#color.resource.ae2.craftingStatusCPUAmount=ABAAAA
-#color.resource.ae2.craftAmountToCraft=ABAAAA
+#color.resource.ae2.guiTextColorGray=BFBFBF
+#color.resource.ae2.guiTextColorBlack=BFBFBF
+#color.resource.ae2.searchboxText=BFBFBF
+#color.resource.ae2.craftingStatusCPUName=BFBFBF
+#color.resource.ae2.craftingStatusCPUStorage=BFBFBF
+#color.resource.ae2.craftingStatusCPUAmount=BFBFBF
+#color.resource.ae2.craftAmountToCraft=BFBFBF
 #color.resource.ae2.craftConfirmPercent25=2A63C1
 #color.resource.ae2.craftConfirmPercent50=7AC25F
 #color.resource.ae2.craftConfirmPercent75=C46632
 #color.resource.ae2.craftConfirmPercent100=B13E53
-#color.resource.ae2.neiGrindstoneRecipeChance=ABAAAA
-#color.resource.ae2.neiGrindstoneNoSecondOutput=ABAAAA
+#color.resource.ae2.neiGrindstoneRecipeChance=BFBFBF
+#color.resource.ae2.neiGrindstoneNoSecondOutput=BFBFBF
 #color.resource.ae2.cellStatusOrange=C46632
 #color.resource.ae2.cellStatusRed=B13E53
 #color.resource.ae2.cellStatusBlue=2A63C1
@@ -46,11 +47,11 @@
 #color.resource.ae2.colorSelectBtnBg=FF6A6A6A
 #color.resource.ae2.colorSelectBtnBorderSelected=FF7AC25F
 #color.resource.ae2.colorSelectBtnBorderHover=FF555452
-#color.resource.ae2.colorSelectBtnBorder=FFABAAAA
+#color.resource.ae2.colorSelectBtnBorder=FFAAAAAA
 #color.resource.ae2.colorSelectBtnBorderDisabled=FF1D1D1D
 #color.resource.ae2.colorSelectBtnOverlayDisabled=B31D1D1D
 #color.resource.ae2.colorSelectBtnOverlayHover=33555452
-#color.resource.ae2.networkVisualiserFloatingText=FFABAAAA
+#color.resource.ae2.networkVisualiserFloatingText=FFBFBFBF
 #color.resource.ae2.networkVisualiserNodeMissing=E6B13E53
 #color.resource.ae2.networkVisualiserNodeDense=E6FFF70F
 #color.resource.ae2.networkVisualiserNodeProxy=E6C46632
@@ -83,19 +84,19 @@ gui.color.appliedenergistics2.PlayerPinSlotBackground=00000000
 gui.color.appliedenergistics2.CraftingDiagnosticTerminalLine=668C8C8C
 gui.color.appliedenergistics2.CraftingDiagnosticTerminalRowHover=33808080
 
-gui.color.appliedenergistics2.GuiTextColorGray=FFABAAAA
-gui.color.appliedenergistics2.GuiTextColorBlack=FFABAAAA
-gui.color.appliedenergistics2.SearchboxText=FFABAAAA
+gui.color.appliedenergistics2.GuiTextColorGray=FFBFBFBF
+gui.color.appliedenergistics2.GuiTextColorBlack=FFBFBFBF
+gui.color.appliedenergistics2.SearchboxText=FFBFBFBF
 
-gui.color.appliedenergistics2.CraftingStatusCPUName=FFABAAAA
-gui.color.appliedenergistics2.CraftingStatusCPUStorage=FFABAAAA
-gui.color.appliedenergistics2.CraftingStatusCPUAmount=FFABAAAA
+gui.color.appliedenergistics2.CraftingStatusCPUName=FFBFBFBF
+gui.color.appliedenergistics2.CraftingStatusCPUStorage=FFBFBFBF
+gui.color.appliedenergistics2.CraftingStatusCPUAmount=FFBFBFBF
 
-gui.color.appliedenergistics2.CraftAmountToCraft=FFABAAAA
+gui.color.appliedenergistics2.CraftAmountToCraft=FFBFBFBF
 
-gui.color.appliedenergistics2.LevelEmitterValue=FFABAAAA
+gui.color.appliedenergistics2.LevelEmitterValue=FFBFBFBF
 
-gui.color.appliedenergistics2.PriorityValue=FFABAAAA
+gui.color.appliedenergistics2.PriorityValue=FFBFBFBF
 
 gui.color.appliedenergistics2.CraftConfirmPercent25=FF2A63C1
 gui.color.appliedenergistics2.CraftConfirmPercent50=FF7AC25F
@@ -114,7 +115,7 @@ gui.color.appliedenergistics2.ProcessBarMiddleColor=CCFFF70F
 gui.color.appliedenergistics2.ProcessBarEndColor=CC7AC25F
 
 # Network Visualiser
-gui.color.appliedenergistics2.NetworkVisualiserFloatingText=FFABAAAA
+gui.color.appliedenergistics2.NetworkVisualiserFloatingText=FFBFBFBF
 gui.color.appliedenergistics2.NetworkVisualiserNodeMissing=E6B13E53
 gui.color.appliedenergistics2.NetworkVisualiserNodeDense=E6FFF70F
 gui.color.appliedenergistics2.NetworkVisualiserNodeProxy=E6C46632
