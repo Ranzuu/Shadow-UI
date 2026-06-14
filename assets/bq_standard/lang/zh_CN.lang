@@ -1,4 +1,4 @@
-## ColorUtils (enums actually)
+## ColorUtils
 # RBG
-bq_standard.gui.neiQuestNameColor=BFBFBF
-bq_standard.gui.neiQuestNameHoveredColor=999999
+color.resource.bq_standard.neiQuestNameColor=BFBFBF
+color.resource.bq_standard.neiQuestNameHoveredColor=999999
