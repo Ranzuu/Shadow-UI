@@ -131,7 +131,7 @@ GT5U.gui.text.recipe_result.no_drilling_fluid=&#C62140No drilling fluid
 GT5U.gui.text.recipe_result.no_fuel=&#C62140No valid fuel found
 GT5U.gui.text.recipe_result.no_immersion_fluid=&#C62140No immersion fluid available
 GT5U.gui.text.recipe_result.no_mining_pipe=&#C62140Missing Mining Pipe
-GT5U.gui.text.recipe_result.no_recipe=&#C62140No valid recipe found
+GT5U.gui.text.recipe_result.no_recipe=§7No valid recipe found
 GT5U.gui.text.no_see_sky=&#C62140Cannot see the sky
 GT5U.gui.text.recipe_result.shutdown_reasonno_turbine=&#C62140No valid turbine found
 GT5U.gui.text.recipe_result.shutdown_reason.none=§7
@@ -511,7 +511,15 @@ GT5U.gui.text.per_second=§7Per second:
 GT5U.gui.text.per_tick=§7Per tick:
 GT5U.gui.text.power_panel=§7Power Control Panel
 GT5U.gui.text.powerfail_events=§7Powerfail Events
-GT5U.gui.text.progress=§7Progress:
+
+GT5U.gui.text.progress_recipe=§7Progress: %ss / %ss &#999999(%s%%)§r
+GT5U.gui.text.progress_detail=§7Progress: %s%% &#999999(%ss/%ss)§r
+GT5U.gui.text.rate_short=&#999999(%s/s)§r
+GT5U.gui.text.rate_short_slow=&#999999(%ss/each)§r
+GT5U.gui.text.rate_large_suffix=&#999999[%s]§r
+GT5U.gui.text.item_amount_display=§b%s§7 x §6%s§r
+GT5U.gui.text.fluid_amount_display=§b%s§7 x §6%sL§r
+
 GT5U.gui.text.rangedvalue=§7Range: %s-%s
 GT5U.gui.text.shutdown_duration=&#C62140Shut down &#EFC62F%s &#C62140h &#EFC62F%s &#C62140min &#EFC62F%s &#C62140s ago.
 GT5U.gui.text.too_uncertain=&#C62140Too Uncertain.
@@ -519,8 +527,6 @@ GT5U.multiblock.parallelism=§7Max Parallel
 GTPP.CC.parallel=§7Maximum Parallel
 
 # MultiBlockBaseGui
-gt.interact.desc.mb.FluidTextLine=§b%s§7 x §6%sL §7%s%s§7%s
-gt.interact.desc.mb.ItemTextLine=§b%s§7 x §6%s §7%s%s§7%s
 GT5U.gui.text.shutdown_reason.computation_loss=&#C62140Shut down due to computation loss.
 GT5U.multiblock.startup=§7Starting up...
 

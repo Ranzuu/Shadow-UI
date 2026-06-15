@@ -1,13 +1,9 @@
 #lang-aspectrecipeindex
 #colorUtils
 
-
-##TODO SWITCH TO ColorUtils (good just, remove the comment)
 ## ColorUtils
 # RBG
-#color.resource.aspectrecipeindex.text=BFBFBF
-
-aspectrecipeindex.gui.textColor=BFBFBF
+color.resource.aspectrecipeindex.text=BFBFBF
 
 ## Strings
 aspectrecipeindex.research.researchName=§7Research

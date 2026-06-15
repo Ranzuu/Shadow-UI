@@ -1,6 +1,13 @@
 #lang-enderio
+#colorUtils
 #sub-text
 
+## ColorUtils
+# RGB
+color.resource.enderio.priorityString=999999
+color.resource.enderio.suctionString=999999
+
+## Strings
 enderio.combustionGenerator.output=§7Generating:&#999999
 enderio.stirlingGenerator.output=§7Generating:&#999999
 enderio.stirlingGenerator.burnRate=§7Burn Rate:&#999999
@@ -33,7 +40,7 @@ enderio.gui.travelAccessable.public=§7Public
 enderio.gui.travelAccessable.private=§7Private
 enderio.gui.travelAccessable.protected=§7Protected
 enderio.gui.machine.poweredspawner.spawn=§7Spawn
-enderio.gui.spawnGurad.range=§7Range:
+enderio.gui.spawnGurad.range=§7Range:&#999999
 enderio.gui.conduit.ioMode.input=§7Extract
 enderio.gui.conduit.ioMode.output=§7Insert
 enderio.gui.conduit.redstone.color=§7Color
