@@ -1,0 +1,79 @@
+## ColorUtils
+# RBG
+color.resource.ae2.guiTextColorGray=BFBFBF
+color.resource.ae2.guiTextColorBlack=BFBFBF
+color.resource.ae2.searchboxText=BFBFBF
+color.resource.ae2.craftingStatusCPUName=BFBFBF
+color.resource.ae2.craftingStatusCPUStorage=BFBFBF
+color.resource.ae2.craftingStatusCPUAmount=BFBFBF
+color.resource.ae2.craftAmountToCraft=BFBFBF
+color.resource.ae2.craftConfirmPercent25=2A63C1
+color.resource.ae2.craftConfirmPercent50=7AC25F
+color.resource.ae2.craftConfirmPercent75=C46632
+color.resource.ae2.craftConfirmPercent100=B13E53
+color.resource.ae2.neiGrindstoneRecipeChance=BFBFBF
+color.resource.ae2.neiGrindstoneNoSecondOutput=BFBFBF
+color.resource.ae2.cellStatusOrange=C46632
+color.resource.ae2.cellStatusRed=B13E53
+color.resource.ae2.cellStatusBlue=2A63C1
+color.resource.ae2.cellStatusGreen=7AC25F
+color.resource.ae2.colorSelectBtnText=FFFFFF
+
+# ARBG
+color.resource.ae2.searchboxFocused=6E000000
+color.resource.ae2.searchboxUnfocused=00000000
+color.resource.ae2.itemSlotOverlayUnpowered=80000000
+color.resource.ae2.itemSlotOverlayInvalid=66C46632
+color.resource.ae2.itemSlotOverlayFluidMismatch=66B13E53
+color.resource.ae2.craftConfirmMissingItem=33B13E53
+color.resource.ae2.craftingCPUActive=4D7AC25F
+color.resource.ae2.craftingCPUInactive=4DFFF70F
+color.resource.ae2.craftingCPUUnsupportedStack=5AE07070
+color.resource.ae2.craftingCPUSameNetwork=5AE07070
+color.resource.ae2.craftingCPUSomethingStuck=5AC9A53A
+color.resource.ae2.craftingCPUNoTarget=5AE07070
+color.resource.ae2.craftingPinSlotBackground=26C46632
+color.resource.ae2.playerPinSlotBackground=00000000
+color.resource.ae2.craftingDiagnosticTerminalLine=668C8C8C
+color.resource.ae2.craftingDiagnosticTerminalRowHover=33808080
+color.resource.ae2.searchHighlight=FFC46632
+color.resource.ae2.searchGoToHighlight=FFC46632
+color.resource.ae2.processBarStartColor=CCB13E53
+color.resource.ae2.processBarMiddleColor=CCFFF70F
+color.resource.ae2.processBarEndColor=CC7AC25F
+color.resource.ae2.colorSelectBackground=FF3C3B3A
+color.resource.ae2.colorSelectBorder=FF4A4948
+color.resource.ae2.colorSelectBtnBg=FF6A6A6A
+color.resource.ae2.colorSelectBtnBorderSelected=FF7AC25F
+color.resource.ae2.colorSelectBtnBorderHover=FF555452
+color.resource.ae2.colorSelectBtnBorder=FFAAAAAA
+color.resource.ae2.colorSelectBtnBorderDisabled=FF1D1D1D
+color.resource.ae2.colorSelectBtnOverlayDisabled=B31D1D1D
+color.resource.ae2.colorSelectBtnOverlayHover=33555452
+color.resource.ae2.networkVisualiserFloatingText=FFBFBFBF
+color.resource.ae2.networkVisualiserNodeMissing=E6B13E53
+color.resource.ae2.networkVisualiserNodeDense=E6FFF70F
+color.resource.ae2.networkVisualiserNodeProxy=E6C46632
+color.resource.ae2.networkVisualiserNodeDefault=E62A63C1
+color.resource.ae2.networkVisualiserLinkCompressed=B3FF71D6
+color.resource.ae2.networkVisualiserLinkDense=B3FFF70F
+color.resource.ae2.networkVisualiserLinkProxy=B3C46632
+color.resource.ae2.networkVisualiserLinkDefault=B32A63C1
+
+## Strings
+# Reshuffle
+gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
+gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
+gui.appliedenergistics2.ReshuffleStatusIdle=§7Idle
+gui.appliedenergistics2.ReshuffleReport=§7Report
+gui.appliedenergistics2.ReshuffleTotalTypes=§7%d / %d types
+
+gui.appliedenergistics2.ReshuffleHealthTopItemEntry=§7 • §f%s §7x%s
+gui.appliedenergistics2.ReshuffleReportNoMatchingCells=§7No cells found!
+gui.appliedenergistics2.ReshuffleScanDuplicatePartition=§7Duplicate partition:
+
+gui.appliedenergistics2.ReshuffleReportTextColorNeutral=§7
+gui.appliedenergistics2.ReshuffleReportTextColorValues=§7
+
+gui.appliedenergistics2.ReshufflePartitionScanner=§7Partition Scanner
+gui.appliedenergistics2.ReshuffleHealthTitle=§7Cell Health
