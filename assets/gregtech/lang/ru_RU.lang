@@ -300,9 +300,6 @@ gt.interact.desc.channel=§7Канал
 gt.interact.desc.set_io=§7Экспорт/Импорт
 gt.interact.desc.set_perm=§7Публ./Приватный
 
-# EUOverclockDescriber
-GT5U.nei.display.overclock=§7(OC)
-
 # ExoFoundry
 GT5U.gui.text.structure_error.exo_foundry_hypercooler_hatch=&#C62140Missing coolant hatch for hypercooler
 
@@ -553,6 +550,21 @@ GT5U.gui.text.drill_chunks_left=§7Пробурено чанков: §a%s / %s
 GT5U.gui.text.drill_current_vein=§7Текущая жила: §a%s
 GT5U.gui.text.drill_ores_left_chunk=§7Руды, оставшиеся в текущем чанке: §a%s
 GT5U.gui.text.drill_ores_left_layer=§7Руды, оставшиеся на уровне y %s: §a%s
+
+# OverclockDescriber
+GT5U.nei.display.steam_variant.bronze=Бронза
+GT5U.nei.display.steam_variant.steel=Сталь
+GT5U.nei.display.duration.seconds=Время: %s секунд
+GT5U.nei.display.duration.ticks=Время: %s тиков
+GT5U.nei.display.total=Всего: %s EU
+GT5U.nei.display.total.steam=Время: %s Л пара
+GT5U.nei.display.usage=Используется: %s EU/t %s
+GT5U.nei.display.usage.original=Первоначально используется: %s EU/t %s
+GT5U.nei.display.usage.steam=Использование: %s Л/с пара
+GT5U.nei.display.voltage=Вольтаж: %s EU/t %s
+GT5U.nei.display.amperage=Ампераж: %s A
+GT5U.nei.display.overclock=§7(OC)
+GT5U.nei.display.average=Среднее: %s EU/t %s
 
 # PCBFactory
 GT5U.gui.text.recipe_result.bio_upgrade_missing=&#C62140Recipe needs Bio Upgrade to start
