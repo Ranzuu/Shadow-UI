@@ -3,16 +3,11 @@
 
 ## ColorUtils
 # ARBG
-#color.resource.ae2fc.guiTextColorGray=BFBFBF
-#color.resource.ae2fc.stateIdle=FF7AC25F
-#color.resource.ae2fc.stateCraft=FFFFF70F
-#color.resource.ae2fc.stateExport=FF2A63C1
-#color.resource.ae2fc.stateError=FFB13E53
-
-ae2fc.gui.color.StateIdle=FF7AC25F
-ae2fc.gui.color.StateCraft=FFFFF70F
-ae2fc.gui.color.StateExport=FF2A63C1
-ae2fc.gui.color.StateError=FFB13E53
+color.resource.ae2fc.guiTextColorGray=BFBFBF
+color.resource.ae2fc.stateIdle=FF7AC25F
+color.resource.ae2fc.stateCraft=FFFFF70F
+color.resource.ae2fc.stateExport=FF2A63C1
+color.resource.ae2fc.stateError=FFB13E53
 
 ## Strings
 ae2fc.gui.fluid_pattern_encoder=§7Fluid Pattern Encoder

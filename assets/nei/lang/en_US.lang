@@ -3,19 +3,14 @@
 #sub-text
 #button
 
-
-##TODO SWITCH TO ColorUtils
 ## ColorUtils
 # RGB
-#color.resource.nei.textGray=BFBFBF
-#color.resource.nei.textLightGray=999999
-#color.resource.nei.recipeTitle=BFBFBF
-#color.resource.nei.recipeTitleHover=EFC62F
-#color.resource.nei.subsetWidget=BFBFBF
-#color.resource.nei.recipeBadge=EFC62F
-
-## ColorUtils (enums actually)
-nei.recipe.title.color.normal=&#BFBFBF
+color.resource.nei.textGray=BFBFBF
+color.resource.nei.textLightGray=999999
+color.resource.nei.recipeTitle=BFBFBF
+color.resource.nei.recipeTitleHover=EFC62F
+color.resource.nei.subsetWidget=BFBFBF
+color.resource.nei.recipeBadge=EFC62F
 
 ## Strings
 nei.recipe.page=&#999999Page %s/%s
