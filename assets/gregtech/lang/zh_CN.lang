@@ -336,8 +336,8 @@ GT5U.gui.text.drone_custom_name=§7Custom Machine Name
 GT5U.gui.text.drone_no_connection=§7No connections
 
 # HatchInputBusMEGui
-GT5U.gui.text.disabled=§7Disabled§7
-GT5U.gui.text.enabled=§7Enabled§7
+GT5U.gui.text.disabled=§7Disabled§r
+GT5U.gui.text.enabled=§7Enabled§r
 GT5U.machines.stocking_bus.force_check=§7Recipe Check on change
 GT5U.machines.stocking_bus.min_stack_size=§7Min Stack Size
 GT5U.machines.stocking_bus.refresh_time=§7Slot Refresh Time (Ticks)
