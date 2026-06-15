@@ -1,0 +1,54 @@
+## ColorUtils
+# RGB
+color.resource.enderio.priorityString=999999
+color.resource.enderio.suctionString=999999
+
+## Strings
+enderio.combustionGenerator.output=§7Генерирует:
+enderio.stirlingGenerator.output=§7Генерирование:
+enderio.stirlingGenerator.burnRate=§7Скорость сгорания:
+
+enderio.gui.capBank.maxInput=§7Макс. вход
+enderio.gui.capBank.maxOutput=§7Макс. выход
+enderio.gui.capBank.maxIo=§7Макс. вход/выход
+enderio.gui.powerMonitor.noNetworkError=§7Нет соединения с сетью. Индикатор мощности должен быть подключён к сети для считывания информации.
+enderio.gui.powerMonitor.engineControl=§7Управление двигателем
+enderio.gui.powerMonitor.engineSection1=§7Подать сигнал, если хранилище заполнено меньше
+enderio.gui.powerMonitor.engineSection2=§7чем на
+enderio.gui.powerMonitor.engineSection3=§7%.
+enderio.gui.powerMonitor.engineSection4=§7 Остановиться, если хранилище заполнено более
+enderio.gui.powerMonitor.engineSection5=§7или точно
+enderio.gui.powerMonitor.of=§7на
+
+enderio.gui.vacuum.header.chest=§7Вакуумный сундук
+enderio.gui.vacuum.header.filter=§7Предметный фильтр
+enderio.gui.vacuum.header.range=§7Дальность
+enderio.gui.receive=§7Получать
+enderio.gui.send=§7Отправлять
+enderio.gui.machine.sendfilter=§7Фильтр отправки
+enderio.gui.available=§7Доступно
+enderio.gui.simple.in=§7Макс. вход:
+enderio.gui.simple.out=§7Макс. выход:
+enderio.gui.inventorypanel.header.crafting=§7Сетка создания
+enderio.gui.inventorypanel.header.return=§7Return area
+enderio.gui.inventorypanel.header.storage=§7Storage area
+enderio.gui.travelAccessable.public=§7Общедоступный
+enderio.gui.travelAccessable.private=§7Частный
+enderio.gui.travelAccessable.protected=§7Защищённый
+enderio.gui.machine.poweredspawner.spawn=§7Призывать
+enderio.gui.spawnGurad.range=§7Дальность:
+enderio.gui.conduit.ioMode.input=§7Извлекать
+enderio.gui.conduit.ioMode.output=§7Помещать
+enderio.gui.conduit.redstone.color=§7Цвет
+enderio.gui.conduit.redstone.signalStrengh=§7Сильный сигнал
+enderio.gui.conduit.item.priority=§7Приоритет
+enderio.gui.existing.item_filter.snapshot=§7Snapshot
+enderio.gui.existing.item_filter.merge=§7Merge
+enderio.gui.existing.item_filter.clear=§7Clear
+enderio.gui.existing.item_filter.show=§7Show
+
+enderio.gui.blockBuffer.name=§7Buffer 
+enderio.gui.blockBuffer.item.name=§7Item Buffer
+enderio.gui.blockBuffer.power.name=§7Power Buffer
+enderio.gui.blockBuffer.omni.name=§7Omni Buffer
+enderio.gui.blockBuffer.creative.name=§7Creative Buffer
