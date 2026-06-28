@@ -104,8 +104,15 @@
   </a>
 </p>
 
-<h2>Other resource packs</h2>
+<h2>Other recommended resource packs</h2>
 <ul>
+  <li>
+    <strong>
+      <a href="https://github.com/S4mpsa/Glass-UI">GlassUI by S4mpsa</a>
+    </strong>
+    – Transparent UI resource pack based on ShadowUI.
+  </li>
+  <br>
   <li>
     <strong>
       <a href="https://github.com/Ranzuu/AE2-Dark-Mode">AE2 Dark Mode</a>
