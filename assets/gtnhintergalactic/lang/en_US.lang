@@ -3,6 +3,7 @@
 
 # GasSiphonRecipeHandler
 ig.nei.elevatorpump.amount=§7Amount
+ig.nei.elevatorpump.eut=§7EU/t
 ig.nei.elevatorpump.see_all=§7See All
 ig.nei.siphon.depth=§7Depth
 ig.nei.siphon.planet=§7Planet
