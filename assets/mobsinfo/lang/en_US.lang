@@ -1,8 +1,0 @@
-#lang-mobsinfo
-#colorUtils
-
-## ColorUtils
-color.resource.mobsinfo.textDefault=FFBFBFBF
-color.resource.mobsinfo.textDanger=FFEFC62F
-color.resource.mobsinfo.textBoss=FFC46632
-color.resource.mobsinfo.textPositive=FF7AC25F
