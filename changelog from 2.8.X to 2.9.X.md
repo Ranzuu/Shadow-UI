@@ -138,6 +138,7 @@ Applied Energistics 2
 - Added Reshuffle gui - https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/pull/1072
 - Lot's of other color fixes and additions as per GTNH update (Additionally [Ae2 Dark Mode](https://github.com/Ranzuu/AE2-Dark-Mode) also got updates)
 - Added Crafting Diagnostic terminal gui elements
+- Added ME Stock Replenisher gui
 
 Aspect Recipe Index
 - Added, well everything (new mod)
@@ -219,4 +220,4 @@ Other
 - Added support for OKBackpack - https://github.com/Shigure-Ruiseki/OKBackpack
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 584 (21.06.26)
+Up to date with Daily 595 (28.06.26)
