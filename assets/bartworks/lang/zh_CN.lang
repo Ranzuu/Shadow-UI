@@ -1,0 +1,8 @@
+# Errors
+GT5U.gui.text.recipe_result.no_imprint=§cMissing imprint
+GT5U.gui.text.recipe_result.not_enough_length=§cMultiblock Too Short
+
+# RadioHatchFrontend
+BW.NEI.display.radhatch.0=§7Sievert: &#999999%s Sv
+BW.NEI.display.radhatch.1=§7Mass: &#999999%s kg
+BW.NEI.display.radhatch.2=§7Time: &#999999%s s
