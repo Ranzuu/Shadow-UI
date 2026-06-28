@@ -23,15 +23,15 @@ kubatech.gui.text.usage_line=§7Usage: %s EU/t
 kubatech.gui.text.time_line=§7Time: %s secs
 
 # HighTempGasCooledReactor
-kubatech.infodata.htgr.stored_fuel=§7Stored Fuel:
-kubatech.infodata.htgr.stored_fuel_entry=§7- §b%s §7x §6%s §7(%s, %s, %s)
-kubatech.infodata.htgr.burned_fuel=§7Burned Fuel:
-kubatech.infodata.htgr.burned_fuel_entry=§7- §b%s §7x §6%s%% to output
-kubatech.infodata.htgr.helium_supply=§7Helium Supply: §6%sL
-kubatech.infodata.htgr.coolant_per_tick=§7Coolant per tick: §6%sL
-kubatech.infodata.htgr.water_per_tick=§7Water per tick: §6%sL
-kubatech.infodata.htgr.fuel_supply=§7Fill level §6%s §7out of §6%s
-kubatech.infodata.htgr.fuel_properties=§7Properties: %s, %s, %s
+kubatech.infodata.htgr.stored_fuel=§7Хранимое топливо:
+kubatech.infodata.htgr.stored_fuel_entry=§7- §b%s §fx §6%s (%s, %s, %s)
+kubatech.infodata.htgr.burned_fuel=§7Сожжённое топливо:
+kubatech.infodata.htgr.burned_fuel_entry=§7- §b%s §fx §6%s%% на выходе
+kubatech.infodata.htgr.helium_supply=§7Запас гелия: §6%sЛ
+kubatech.infodata.htgr.coolant_per_tick=§7Хладагент за тик: §6%sЛ
+kubatech.infodata.htgr.water_per_tick=§7Вода за тик: §6%sЛ
+kubatech.infodata.htgr.fuel_supply=§7Заполнение %s из %s
+kubatech.infodata.htgr.fuel_properties=§7Свойства: %s, %s, %s
 
 # ExtremeEntityCrusher
 GT5U.gui.text.recipe_result.EEC_nospawner=&#C62140Нет электрического спаунера!
