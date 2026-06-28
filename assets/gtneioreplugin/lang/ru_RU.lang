@@ -1,0 +1,14 @@
+# Global
+gtnop.gui.nei.title=§7%s
+gtnop.gui.nei.lineKey=§7%s
+gtnop.gui.nei.lineValue=&#999999%s
+
+# PluginGT5VeinStat / PluginGT5SmallOreStat
+gtnop.gui.nei.worldNames=§7Генерируется в мире
+
+# PluginGT5UndergroundFluid
+gtnop.gui.nei.dimension=&r§7Измерение
+gtnop.gui.nei.chance=&r§7Шанс
+gtnop.gui.nei.fluidAmount=&r§7Количество
+gtnop.gui.nei.chance.value=&#999999%s%%
+gtnop.gui.nei.fluidAmount.value=&#999999%s-%s

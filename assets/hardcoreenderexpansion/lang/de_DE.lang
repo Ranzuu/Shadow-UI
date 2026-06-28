@@ -1,0 +1,21 @@
+ec.title.main=§7Hardcore Ender Expansion - Ender Compendium
+ec.title.main.bacon=§7Hardcore Bacon Expansion - Bacon Compendium
+ec.pointAmount=§7%s
+
+container.enhancedBrewing=§7Verbesserter Braustand
+container.voidChest=§7Void Saving Chest
+container.decompositionTable=§7Zersetzungstisch
+container.experienceTable=§7Experience Table
+container.accumulationTable=§7Accumulation Table
+container.extractionTable=§7Extraction Table
+container.endPowderEnhancements=§7Endpulver-Verbesserungen
+container.endPowderEnhancements.bacon=§7Bacon Powder Enhancements
+container.charmPouch=§7Amuletttasche
+container.runeCrafting=§7Runecrafting
+container.transportBeacon=§7Transport Leuchtfeuer
+container.transportBeacon.bacon=§7Transport Leuchtfeuer
+container.transportBeacon.error.dimension=§7Falsche Dimension
+container.transportBeacon.error.tamper=§7Manipulationen erkannt
+container.transportBeacon.error.nodestination=§7Kein Ziel ausgewählt
+container.transportBeacon.error.noenergy=§7Keine Energie
+container.button.travel=§7Resisen

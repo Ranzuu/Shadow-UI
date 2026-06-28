@@ -1,0 +1,8 @@
+storageDrawers.container.drawers=§7Tiroirs
+storageDrawers.container.compDrawers=§7Tiroirs de compactage
+storageDrawers.container.upgrades=§7Amélioration
+storageDrawers.container.controller=§7Contrôleur de tiroirs
+storageDrawers.container.unboundSlave=§7Esclave non liée
+storageDrawers.container.framingTable=§7Framing Table
+
+storagedrawers.msg.maxUpgrades=§7Ce tiroir ne peuvent pas accepter davantage d'améliorations.
