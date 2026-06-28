@@ -637,7 +637,8 @@ GT5U.gui.text.recipe_result.insufficient_machine_tier=&#C62140Recipe needs highe
 GT5U.gui.text.recipe_result.insufficient_power=&#C62140Recipe needs more power to start. Required: &#EFC62F%s EU/t &#C62140(&#EFC62F%s&#C62140)
 
 # ResultInsufficientStartupPower
-GT5U.gui.text.recipe_result.insufficient_startup_power=&#C62140Recipe needs higher startup power. Required: &#EFC62F%s&#C62140
+GT5U.gui.text.recipe_result.insufficient_startup_power=&#C62140Recipe needs higher startup power. Required: &#EFC62F%s EU/t&#C62140
+GT5U.gui.text.recipe_result.insufficient_startup_power_with_amperage=&#C62140Recipe needs higher startup power. Required: &#EFC62F%s EU/t&#C62140. Requires &#EFC62F%s&#C62140 A rounded to &#EFC62F%s&#C62140 64A energy hatches
 
 # ResultInsufficientVoltage
 GT5U.gui.text.recipe_result.insufficient_voltage=&#C62140Recipe needs a higher voltage to start. Required: &#EFC62F%s EU/t &#C62140(&#EFC62F%s&#C62140)
