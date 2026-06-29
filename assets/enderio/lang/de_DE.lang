@@ -36,6 +36,7 @@ enderio.gui.travelAccessable.public=§7Öffentlich
 enderio.gui.travelAccessable.private=§7Privat
 enderio.gui.travelAccessable.protected=§7Geschützt
 enderio.gui.machine.poweredspawner.spawn=§7Spawn
+enderio.gui.machine.poweredspawner.capture=§7Einfangen
 enderio.gui.spawnGurad.range=§7Reichweite:
 enderio.gui.conduit.ioMode.input=§7Extrahieren
 enderio.gui.conduit.ioMode.output=§7Insertieren
