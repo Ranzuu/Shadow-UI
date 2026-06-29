@@ -33,21 +33,21 @@ jobs:
 
           CANDIDATE="${{ github.event.workflow_run.head_branch }}"
 
-          if [[ "$CANDIDATE" == v2.8.X/* ]]; then
+          if [[ "$CANDIDATE" == v2.9.X/* ]]; then
             TAG="$CANDIDATE"
             echo "Using TAG from workflow_run.head_branch: $TAG"
           else
-            echo "head_branch was '$CANDIDATE' (not a tag). Falling back to latest v2.8.X/* release."
+            echo "head_branch was '$CANDIDATE' (not a tag). Falling back to latest v2.9.X/* release."
             TAG="$(gh api "repos/${{ github.repository }}/releases?per_page=50" \
-              --jq '[.[] | select(.tag_name | startswith("v2.8.X/"))][0].tag_name')"
+              --jq '[.[] | select(.tag_name | startswith("v2.9.X/"))][0].tag_name')"
 
             if [ -z "${TAG:-}" ] || [ "$TAG" = "null" ]; then
-              echo "ERROR: Could not find any v2.8.X/* releases."
+              echo "ERROR: Could not find any v2.9.X/* releases."
               exit 1
             fi
           fi
 
-          PACK_VERSION="${TAG#v2.8.X/}"  # e.g. v4.28
+          PACK_VERSION="${TAG#v2.9.X/}"  # e.g. v4.28
           echo "TAG=$TAG" >> "$GITHUB_OUTPUT"
           echo "PACK_VERSION=$PACK_VERSION" >> "$GITHUB_OUTPUT"
 
