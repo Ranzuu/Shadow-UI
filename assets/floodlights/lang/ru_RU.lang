@@ -1,0 +1,14 @@
+gui.floodlights:nonElectricFloodlightTimeRemaining=§7Осталось времени:
+gui.floodlights:RFStorage=§7Хранилище RF
+gui.floodlights:invert=§7Инвертирован
+gui.floodlights:mode=§7Режим
+gui.floodlights:true=§7да
+gui.floodlights:false=§7нет
+gui.floodlights:straight=§7прямой
+gui.floodlights:narrowCone=§7узкий конус
+gui.floodlights:wideCone=§7широкий конус
+gui.floodlights:minutesShort=§7м
+gui.floodlights:secondsShort=§7с
+gui.floodlights:growLightLighting=§7Обычное освещение
+gui.floodlights:growLightDarkLight=§7Чёрный свет
+gui.floodlights:tooltipConfigured=§7Configured

@@ -1,0 +1,55 @@
+## ColorUtils
+# RGB
+color.resource.enderio.priorityString=999999
+color.resource.enderio.suctionString=999999
+
+## Strings
+enderio.combustionGenerator.output=§7产能速率:
+enderio.stirlingGenerator.output=§7产能速率:
+enderio.stirlingGenerator.burnRate=§7燃烧速率:
+
+enderio.gui.capBank.maxInput=§7最大输入
+enderio.gui.capBank.maxOutput=§7最大输出
+enderio.gui.capBank.maxIo=§7最大流量
+enderio.gui.powerMonitor.noNetworkError=§7无管道网络连接. 能量监控器需连接于一个管道网路以读取数据.
+enderio.gui.powerMonitor.engineControl=§7引擎控制
+enderio.gui.powerMonitor.engineSection1=§7输出信号条件:当存储
+enderio.gui.powerMonitor.engineSection2=§7能量少于
+enderio.gui.powerMonitor.engineSection3=§7%时.
+enderio.gui.powerMonitor.engineSection4=§7停止条件:当存储能量
+enderio.gui.powerMonitor.engineSection5=§7多或等于
+enderio.gui.powerMonitor.of=§7占
+
+enderio.gui.vacuum.header.chest=§7真空箱子
+enderio.gui.vacuum.header.filter=§7物品过滤器
+enderio.gui.vacuum.header.range=§7范围
+enderio.gui.receive=§7接收
+enderio.gui.send=§7发送
+enderio.gui.machine.sendfilter=§7发送过滤
+enderio.gui.available=§7可用
+enderio.gui.simple.in=§7最大输入:
+enderio.gui.simple.out=§7最大输出:
+enderio.gui.inventorypanel.header.crafting=§7合成栏
+enderio.gui.inventorypanel.header.return=§7返还区
+enderio.gui.inventorypanel.header.storage=§7存储区
+enderio.gui.travelAccessable.public=§7公共
+enderio.gui.travelAccessable.private=§7私有
+enderio.gui.travelAccessable.protected=§7被保护
+enderio.gui.machine.poweredspawner.spawn=§7生成
+enderio.gui.machine.poweredspawner.capture=§7捕获
+enderio.gui.spawnGurad.range=§7范围:
+enderio.gui.conduit.ioMode.input=§7提取
+enderio.gui.conduit.ioMode.output=§7加入
+enderio.gui.conduit.redstone.color=§7颜色
+enderio.gui.conduit.redstone.signalStrengh=§7强信号
+enderio.gui.conduit.item.priority=§7优先级
+enderio.gui.existing.item_filter.snapshot=§7快照
+enderio.gui.existing.item_filter.merge=§7合并
+enderio.gui.existing.item_filter.clear=§7清除
+enderio.gui.existing.item_filter.show=§7显示
+
+enderio.gui.blockBuffer.name=§7Buffer 
+enderio.gui.blockBuffer.item.name=§7Item Buffer
+enderio.gui.blockBuffer.power.name=§7Power Buffer
+enderio.gui.blockBuffer.omni.name=§7Omni Buffer
+enderio.gui.blockBuffer.creative.name=§7Creative Buffer

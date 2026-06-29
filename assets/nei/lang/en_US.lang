@@ -1,0 +1,48 @@
+#lang-nei
+#colorUtils
+#sub-text
+#button
+
+## ColorUtils
+# RGB
+color.resource.nei.textGray=AAAAAA
+color.resource.nei.textLightGray=999999
+color.resource.nei.recipeTitle=AAAAAA
+color.resource.nei.recipeTitleHover=EFC62F
+color.resource.nei.subsetWidget=AAAAAA
+color.resource.nei.recipeBadge=EFC62F
+
+## Strings
+nei.recipe.page=&#999999Page %s/%s
+nei.recipe.fuel.smeltCount=§7Smelts %s items
+nei.gui.button.label.subset=%%
+
+nei.debug.RecipeHandler.Name=§7Name
+nei.debug.RecipeHandler.Id=§7ID
+nei.debug.RecipeHandler.Key=§7Key
+nei.debug.RecipeHandler.HHack=§7H.Hack
+nei.debug.RecipeHandler.ModName=§7Mod Name
+nei.debug.RecipeHandler.ModId=§7Mod ID
+nei.debug.RecipeHandler.Override=§7Override
+nei.debug.RecipeHandler.Order=§7Order
+nei.debug.RecipeHandler.yShift=§7yShift
+nei.debug.RecipeHandler.MultiWidgets=§7Multi Widgets
+nei.debug.RecipeHandler.Height=§7Height
+nei.debug.RecipeHandler.Width=§7Width
+nei.debug.RecipeHandler.AllowOverflowY=§7Allow Overflow Y
+nei.debug.RecipeHandler.AllowOverflowX=§7Allow Overflow X
+nei.debug.RecipeHandler.UseCustomScroll=§7Use Custom Scroll
+nei.debug.RecipeHandler.ShowFavorites=§7Show Favorites
+nei.debug.RecipeHandler.ShowOverlay=§7Show Overlays
+nei.debug.RecipeHandler.ShowBadge=§7Show Badge
+
+nei.inventory.item_subsets=Item Subsets
+
+nei.enchant=§7Enchant
+nei.enchant.level=§7Level
+nei.enchant.locked=§7Locked
+nei.enchant.unlocked=§7Unlocked
+
+nei.potion.favourite=§7Favourite Potions
+nei.potion.duration=§7Duration
+nei.potion.level=§7Level

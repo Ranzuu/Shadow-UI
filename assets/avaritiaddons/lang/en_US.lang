@@ -1,0 +1,5 @@
+#lang-avaritiaddons
+
+container.CompressedChest=§7Compressed Chest
+container.InfinityChest=§7Infinity Chest
+container.ExtremeAutoCrafter=§7Dire Autocrafting Table
