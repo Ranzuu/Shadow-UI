@@ -36,6 +36,7 @@ enderio.gui.travelAccessable.public=§7公共
 enderio.gui.travelAccessable.private=§7私有
 enderio.gui.travelAccessable.protected=§7被保护
 enderio.gui.machine.poweredspawner.spawn=§7生成
+enderio.gui.machine.poweredspawner.capture=§7捕获
 enderio.gui.spawnGurad.range=§7范围:
 enderio.gui.conduit.ioMode.input=§7提取
 enderio.gui.conduit.ioMode.output=§7加入

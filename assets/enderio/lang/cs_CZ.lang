@@ -36,6 +36,7 @@ enderio.gui.travelAccessable.public=§7Veřejné
 enderio.gui.travelAccessable.private=§7Soukromé
 enderio.gui.travelAccessable.protected=§7Chráněné
 enderio.gui.machine.poweredspawner.spawn=§7Spawn
+enderio.gui.machine.poweredspawner.capture=§7Capture
 enderio.gui.spawnGurad.range=§7Vzdálenost:
 enderio.gui.conduit.ioMode.input=§7Extrakce
 enderio.gui.conduit.ioMode.output=§7Vkládání
