@@ -43,9 +43,7 @@
 
 <p align="center">
   <img
-    width="500"
-    height="843"
-    alt="PrevV"
+    alt="Vanilla GTNH version<"
     src="https://github.com/user-attachments/assets/39679340-9895-4eab-8f0b-6b9c7759fcbf"
   >
 </p>
@@ -54,9 +52,7 @@
 
 <p align="center">
   <img
-    width="500"
-    height="843"
-    alt="PrevM"
+    alt="Modernity version"
     src="https://github.com/user-attachments/assets/7f7b43b2-2513-4cd3-af40-2e71761b51ba"
   >
 </p>
