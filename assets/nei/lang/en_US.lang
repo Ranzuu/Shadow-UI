@@ -5,11 +5,11 @@
 
 ## ColorUtils
 # RGB
-color.resource.nei.textGray=BFBFBF
+color.resource.nei.textGray=AAAAAA
 color.resource.nei.textLightGray=999999
-color.resource.nei.recipeTitle=BFBFBF
+color.resource.nei.recipeTitle=AAAAAA
 color.resource.nei.recipeTitleHover=EFC62F
-color.resource.nei.subsetWidget=BFBFBF
+color.resource.nei.subsetWidget=AAAAAA
 color.resource.nei.recipeBadge=EFC62F
 
 ## Strings
