@@ -578,10 +578,10 @@ GT5U.DTPF.catalysttier=§7Catalyst Tier
 GT5U.DTPF.convergencebutton=§7Allow Convergence
 
 # PositionedStructureError
-GT5U.gui.text.structure_error.any_of=&#BFBFBFAny of:
-GT5U.gui.text.structure_error.wrong_block=&#BFBFBFInvalid block at &#999999(%s, %s, %s)
-GT5U.gui.text.structure_error.wrong_block_expected=&#BFBFBFExpected at &#999999(%s, %s, %s)&#BFBFBF:
-GT5U.gui.text.structure_error.wrong_block_expected_single=&#BFBFBFExpects &#EFC62F%s&#BFBFBF at &#999999(%s, %s, %s)
+GT5U.gui.text.structure_error.any_of=&#AAAAAAAny of:
+GT5U.gui.text.structure_error.wrong_block=&#AAAAAAInvalid block at &#999999(%s, %s, %s)
+GT5U.gui.text.structure_error.wrong_block_expected=&#AAAAAAExpected at &#999999(%s, %s, %s)&#AAAAAA:
+GT5U.gui.text.structure_error.wrong_block_expected_single=&#AAAAAAExpects &#EFC62F%s&#AAAAAA at &#999999(%s, %s, %s)
 
 # PowerSubStation
 GT5U.gui.text.recipe_result.managing_power=§7Managing power

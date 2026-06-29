@@ -1,21 +1,21 @@
 ## ColorUtils
 # RBG
-color.resource.tinker.materialName=BFBFBF
-color.resource.tinker.materialDurability=BFBFBF
-color.resource.tinker.materialHandleModifier1=BFBFBF
-color.resource.tinker.materialHandleModifier2=BFBFBF
-color.resource.tinker.materialMiningSpeed=BFBFBF
-color.resource.tinker.materialHarvestLevel=BFBFBF
-color.resource.tinker.materialAttack1=BFBFBF
-color.resource.tinker.materialAttack2=BFBFBF
-color.resource.tinker.materialReinforced=BFBFBF
-color.resource.tinker.materialStonebound=BFBFBF
-color.resource.tinker.materialAbility=BFBFBF
-color.resource.tinker.materialBow=BFBFBF
-color.resource.tinker.materialBowDrawSpeed=BFBFBF
-color.resource.tinker.materialBowFlightSpeedMax=BFBFBF
-color.resource.tinker.materialArrowMass=BFBFBF
-color.resource.tinker.materialArrowBreakChance=BFBFBF
+color.resource.tinker.materialName=AAAAAA
+color.resource.tinker.materialDurability=AAAAAA
+color.resource.tinker.materialHandleModifier1=AAAAAA
+color.resource.tinker.materialHandleModifier2=AAAAAA
+color.resource.tinker.materialMiningSpeed=AAAAAA
+color.resource.tinker.materialHarvestLevel=AAAAAA
+color.resource.tinker.materialAttack1=AAAAAA
+color.resource.tinker.materialAttack2=AAAAAA
+color.resource.tinker.materialReinforced=AAAAAA
+color.resource.tinker.materialStonebound=AAAAAA
+color.resource.tinker.materialAbility=AAAAAA
+color.resource.tinker.materialBow=AAAAAA
+color.resource.tinker.materialBowDrawSpeed=AAAAAA
+color.resource.tinker.materialBowFlightSpeedMax=AAAAAA
+color.resource.tinker.materialArrowMass=AAAAAA
+color.resource.tinker.materialArrowBreakChance=AAAAAA
 
 ## Strings
 crafters.ToolStation=§7Инженерная станция
