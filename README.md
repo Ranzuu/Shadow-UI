@@ -1,11 +1,8 @@
 # GTNH Shadow UI - Future versions
 > Main version
 
-This branch contains assets for future GTNH versions (2.9.X)
+This branch contains assets for future GTNH versions (2.10.X)
 
-[Latest release](https://github.com/Ranzuu/Shadow-UI/releases?q=GTNH+2.9.X&expanded=true)
-/
-[Changelog from 2.8.X to 2.9.X](https://github.com/Ranzuu/Shadow-UI/blob/main-future/changelog%20from%202.8.X%20to%202.9.X.md)
 ---
 ### Licensing
 
