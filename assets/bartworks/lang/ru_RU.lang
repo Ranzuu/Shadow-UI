@@ -1,8 +1,0 @@
-# Errors
-GT5U.gui.text.recipe_result.no_imprint=§cОтсутствует слепок
-GT5U.gui.text.recipe_result.not_enough_length=§cМультиблок слишком короткий
-
-# RadioHatchFrontend
-BW.NEI.display.radhatch.0=§7Зиверт: %s Sv
-BW.NEI.display.radhatch.1=§7Масса: %s кг
-BW.NEI.display.radhatch.2=§7Время: %s сек
