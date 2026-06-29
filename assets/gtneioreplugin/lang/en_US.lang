@@ -1,0 +1,17 @@
+#lang-gtneioreplugin
+#sub-text
+
+# Global
+gtnop.gui.nei.title=§7%s
+gtnop.gui.nei.lineKey=§7%s
+gtnop.gui.nei.lineValue=&#999999%s
+
+# PluginGT5VeinStat / PluginGT5SmallOreStat
+gtnop.gui.nei.worldNames=§7Generated world
+
+# PluginGT5UndergroundFluid
+gtnop.gui.nei.dimension=&r§7Dimension
+gtnop.gui.nei.chance=&r§7Chance
+gtnop.gui.nei.fluidAmount=&r§7Amount
+gtnop.gui.nei.chance.value=&#999999%s%%
+gtnop.gui.nei.fluidAmount.value=&#999999%s-%s

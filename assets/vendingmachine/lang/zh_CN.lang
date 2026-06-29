@@ -1,0 +1,16 @@
+## ColorUtils
+# RGB
+color.resource.vendingmachine.displayText=AAAAAA
+color.resource.vendingmachine.displayTextCooldown=C62140
+color.resource.vendingmachine.textDefault=AAAAAA
+color.resource.vendingmachine.textColorConditionDefault=AAAAAA
+color.resource.vendingmachine.textColorConditionSatisfied=7AC25F
+color.resource.vendingmachine.textColorConditionUnsatisfied=AAAAAA
+color.resource.vendingmachine.tradeDisplayText=B13E53
+
+# ARGB
+color.resource.vendingmachine.volumeSliderBackground=FF2C2C2C
+
+## Strings
+vendingmachine.gui.error.incomplete_structure=&#C62140Incomplete Structure.
+vendingmachine.gui.error.player_using=&#C62140当前有其他玩家正在使用此自动售货机

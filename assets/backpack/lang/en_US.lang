@@ -1,0 +1,17 @@
+#lang-backpack
+#button
+#sub-text
+
+text.backpack.rename=§7Rename your backpack
+text.backpack.backpack_slot=§7Backpack Slot
+
+text.backpack.title_format=§7%s
+
+text.backpack.new_name=&#999999New name:
+text.backpack.autopickup=&#999999Pickup automatically:
+
+# Buttons
+# button.backpack.ok=§7OK
+# button.backpack.cancel=§7Cancel
+# button.backpack.clear=§7c
+# button.backpack.save=§7s
