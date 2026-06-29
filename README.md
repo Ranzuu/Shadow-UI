@@ -39,23 +39,23 @@
 
 <h2>Preview</h2>
 
-<p align="center">Vanilla GTNH version</p>
-
 <p align="center">
-  <img
-    alt="Vanilla GTNH version<"
-    src="https://github.com/user-attachments/assets/39679340-9895-4eab-8f0b-6b9c7759fcbf"
-  >
+  <img src="https://github.com/user-attachments/assets/073f5ec6-8c41-48ce-b1c0-cb6ea0eb3cc2" alt="Example1" width="240" />
+  <img src="https://github.com/user-attachments/assets/09050f4d-a221-4a84-bafe-4439a3c440eb" alt="Example2" width="240" />
+  <img src="https://github.com/user-attachments/assets/c53b4ebe-cb45-496d-a052-e977c4ea667d" alt="Example3" width="240" />
+  <img src="https://github.com/user-attachments/assets/5e6c54b1-3b26-47ef-825c-975132642d1d" alt="Example4" width="240" />
 </p>
 
-<p align="center">Modernity version</p>
-
 <p align="center">
-  <img
-    alt="Modernity version"
-    src="https://github.com/user-attachments/assets/7f7b43b2-2513-4cd3-af40-2e71761b51ba"
-  >
+  <img src="https://github.com/user-attachments/assets/c7741fa4-ddaf-4ce6-9331-fe8c44b4e082" alt="Example5" width="240" />
+  <img src="https://github.com/user-attachments/assets/1c5755a1-121e-47ba-a74c-a41b400db739" alt="Example6" width="240" />
+  <img src="https://github.com/user-attachments/assets/86a1af6f-e4d2-4b1d-84d7-0cf154077f06" alt="Example7" width="240" />
 </p>
+<p align="center">
+  The Modernity version differs slightly. For example, it uses different slot overlay textures.
+</p>
+
+<hr>
 
 <h2>Configuration Notice</h2>
 
