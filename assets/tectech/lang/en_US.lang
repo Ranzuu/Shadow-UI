@@ -1,0 +1,125 @@
+#lang-ModName
+#sub-text
+#error
+
+# ActiveTransformerGui
+GT5U.gui.text.at_eu_transferred=§7EU Transferred:
+GT5U.gui.text.at_history.values=§7  %s EU/t  (%sA %s)
+GT5U.gui.text.at_past_30secs.header=§7Past 30 seconds:
+GT5U.gui.text.at_past_5secs.header=§7Past 5 seconds:
+GT5U.gui.text.at_past_min.header=§7Past minute:
+
+# BaseModuleGui
+gt.blockmachines.multimachine.FOG.modulestatus=§7Status:§f
+
+# CustomStarColorPanel
+fog.cosmetics.addcolor=§7Add
+fog.cosmetics.applycolor=§7Apply
+fog.cosmetics.deletecolors=§7Delete
+fog.cosmetics.exportcolors=§7Export
+fog.cosmetics.importcolors=§7Import
+fog.cosmetics.resetcolor=§7Reset
+fog.cosmetics.savecolors=§7Save
+
+# EntityModuleBaseGui
+tt.spaceelevator.storedEnergy=§7Stored Energy: %d
+
+# EntityModuleMinerGui
+tt.spaceminer.calculator.missing.distance=&#C62140Missing distance setting!
+tt.spaceminer.calculator.missing.drone=&#C62140Missing drone!
+tt.spaceminer.calculator.missing.moduleTier=&#C62140Missing module tier!
+tt.spaceminer.textFieldDistance=§7Distance
+tt.spaceminer.textFieldOre=§7Ore
+tt.spaceminer.textFieldTier=§7Tier
+
+# ExoticInputsListPanel
+gt.blockmachines.multimachine.FOG.expectedinputs=§7Expected Inputs
+
+# ExoticPossibleInputsListPanel
+gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=§7Possible Input Materials for Magmatter
+gt.blockmachines.multimachine.FOG.possibleinputsqgp=§7Possible Input Materials for QGP
+
+# FuelConfigPanel
+gt.blockmachines.multimachine.FOG.fuelconsumption=§7Stellar Fuel Consumption Factor
+gt.blockmachines.multimachine.FOG.fueltype=§7Click to Select Fuel Type
+gt.blockmachines.multimachine.FOG.fuelusage=§7Fuel Usage
+
+# GodforgeExoticFrontend
+GT5U.gui.text.time_line=§7Time: %s secs
+GT5U.gui.text.total_line=§7Total: %s EU
+GT5U.gui.text.usage_line=§7Usage: %s EU/t
+
+# GodforgePlasmaFrontend
+gt.blockmachines.multimachine.FOG.plasmamultistep=§7Multi-Step plasma: %s
+gt.blockmachines.multimachine.FOG.plasmarecipetier=§7Fusion Tier: %s
+GT5U.gui.text.time_line_with_ticks=§7Time: %s secs (%d ticks)
+
+# HatchWirelessComputationInputGui
+tt.wirelessInputData.config.text=§7Configure how much computation to pull from wireless network
+
+# IndividualUpgradePanel
+fog.upgrade.confirm=§7Construct
+
+# ManualInsertionPanel
+gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§7Click to consume upgrade materials
+
+# MultiBlockBaseGui
+GT5U.gui.text.shutdown_reason.computation_loss=&#C62140Shut down due to computation loss.
+
+# ResearchStationGui
+GT5U.gui.text.research_progress=§7Computation: %d/%d (%s%%)
+GT5U.gui.text.researching_item=§7Researching: §b%s
+
+# TeslaTowerGui
+gt.blockmachines.multimachine.tm.teslaCoil.outputVoltage=§7Output Voltage:
+
+# VoltageConfigPanel
+gt.blockmachines.multimachine.FOG.voltageinfo=§7Voltage Per Parallel
+
+# QuantumComputer
+GT5U.gui.text.recipe_result.computing=§7Computing
+GT5U.gui.text.recipe_result.no_computing=&#C62140Can't compute
+
+# DataBank
+GT5U.gui.text.recipe_result.providing_data=§7Providing Data
+GT5U.gui.text.recipe_result.no_data=&#C62140Can't output data
+
+# ActiveTransformer
+GT5U.gui.text.recipe_result.routing=§7Routing
+GT5U.gui.text.recipe_result.no_routing=&#C62140Can't route
+
+# ResearchStation
+GT5U.gui.text.recipe_result.researching=§7Researching
+GT5U.gui.text.recipe_result.no_research_item=&#C62140No valid item to research
+GT5U.gui.text.recipe_result.scanning=§7Scanning
+GT5U.gui.text.recipe_result.wrongRequirements=&#C62140Incorrect scanning item
+
+# EnergyInfuser.java
+GT5U.gui.text.recipe_result.charging=§7Charging
+GT5U.gui.text.recipe_result.no_chargeable_item=&#C62140No chargeable item
+GT5U.gui.text.recipe_result.insufficient_power_no_val=&#C62140Insufficient power
+
+# Microwave
+GT5U.gui.text.recipe_result.microwaving=§7Microwaving
+GT5U.gui.text.recipe_result.invalid_timer=&#C62140Invalid timer
+
+# EyeOfHarmony
+GT5U.gui.text.recipe_result.no_planet_block=&#C62140Missing planet block
+GT5U.gui.text.recipe_result.no_helium=&#C62140Not enough Helium
+GT5U.gui.text.recipe_result.no_hydrogen=&#C62140Not enough Hydrogen
+GT5U.gui.text.recipe_result.no_stellar_plasma=&#C62140Not enough Stellar Plasma
+
+# TeslaTower
+GT5U.gui.text.recipe_result.invalid_hysteresis=&#C62140Invalid hysteresis settings
+GT5U.gui.text.recipe_result.invalid_transfer_radius=&#C62140Invalid transfer radius settings
+GT5U.gui.text.recipe_result.invalid_voltage_setting=&#C62140Invalid voltage setting
+GT5U.gui.text.recipe_result.invalid_current_setting=&#C62140Invalid current setting
+GT5U.gui.text.recipe_result.invalid_primary_winding=&#C62140Primary winding tier is too low!
+GT5U.gui.text.recipe_result.invalid_time_setting=&#C62140Invalid time setting
+GT5U.gui.text.recipe_result.invalid_overdrive_setting=&#C62140Invalid overdrive setting
+
+# PlasmaModule
+GT5U.gui.text.recipe_result.missing_upgrades=&#C62140Missing upgrades
+
+# ExoticModule
+GT5U.gui.text.recipe_result.waiting_for_inputs=§7Waiting for inputs

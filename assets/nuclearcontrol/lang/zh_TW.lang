@@ -1,0 +1,22 @@
+# Internal Blocks
+gui.tile.blockThermalMonitor.name.title=§7溫度監察器
+gui.tile.blockIndustrialAlarm.name.title=§7工業警報器
+gui.tile.blockHowlerAlarm.name.title=§7蜂鳴警報器
+gui.tile.blockRemoteThermo.name.title=§7遙控温度監察器
+gui.tile.blockInfoPanel.name.title=§7工業顯示器
+gui.tile.blockAdvancedInfoPanel.name.title=§7高級工業顯示器
+gui.tile.blockEnergyCounter.name.title=§7電力計算機
+gui.tile.blockAverageCounter.name.title=§7平均電力計算機
+gui.tile.blockRangeTrigger.name.title=§7範圍觸發器
+
+gui.optional.numbers=§7
+
+# Original Screen Messages
+msg.nc.ScreenColor=§7熒幕顏色
+msg.nc.TextColor=§7文本顏色
+msg.nc.InfoPanelOutput=§7輸出電力：%sEU/t
+msg.nc.InfoPanelOutputMJ=§7輸出能量：%sRF/t
+msg.nc.InfoPanelOutputSteam=§7輸出蒸汽：%smB/t
+msg.nc.AverageCounterPeriod=§7周期：%s秒
+msg.nc.HowlerAlarmSoundRange=§7發聲範圍：%s
+msg.nc.HowlerAlarmSound=§7聲音

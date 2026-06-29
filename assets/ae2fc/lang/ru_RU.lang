@@ -1,0 +1,28 @@
+## ColorUtils
+# ARBG
+color.resource.ae2fc.guiTextColorGray=AAAAAA
+color.resource.ae2fc.stateIdle=FF7AC25F
+color.resource.ae2fc.stateCraft=FFFFF70F
+color.resource.ae2fc.stateExport=FF2A63C1
+color.resource.ae2fc.stateError=FFB13E53
+
+## Strings
+ae2fc.gui.fluid_pattern_encoder=§7Кодировщик жидкостных шаблонов
+ae2fc.gui.fluid_packet_decoder=§7МЭ декодер жидкостных пакетов
+ae2fc.gui.fluid_interface=§7МЭ двойной интерфейс
+ae2fc.gui.ingredient_buffer=§7Буфер ингредиентов
+ae2fc.gui.large_ingredient_buffer=§7Большой буфер ингредиентов
+ae2fc.gui.fluid_auto_filler=§7МЭ жидкостный авто-заполнитель
+ae2fc.gui.level_maintainer=§7МЭ регулятор уровня
+ae2fc.gui.oc_pattern_editor=§7OC редактор шаблонов
+ae2fc.gui.part_level_terminal=§7Терминал уровня
+ae2fc.gui.part_fluid_import=§7ME Fluid Import Bus
+ae2fc.gui.part_fluid_export=§7ME Fluid Export Bus
+ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
+ae2fc.gui.fluid_interface.0=§7Низ
+ae2fc.gui.fluid_interface.1=§7Вер
+ae2fc.gui.fluid_interface.2=§7Сев
+ae2fc.gui.fluid_interface.3=§7Юг
+ae2fc.gui.fluid_interface.4=§7Зап
+ae2fc.gui.fluid_interface.5=§7Вос
+ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus

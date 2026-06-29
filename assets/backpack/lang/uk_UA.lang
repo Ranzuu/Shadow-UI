@@ -1,0 +1,13 @@
+text.backpack.rename=§7Перейменування наплічника
+text.backpack.backpack_slot=§7Слот для наплічника
+
+text.backpack.title_format=§7%s
+
+text.backpack.new_name=&#999999Нове ім'я:
+text.backpack.autopickup=&#999999Піднімати автоматично:
+
+# Buttons
+# button.backpack.ok=§7OK
+# button.backpack.cancel=§7Cancel
+# button.backpack.clear=§7c
+# button.backpack.save=§7s

@@ -1,0 +1,55 @@
+## ColorUtils
+# RGB
+color.resource.enderio.priorityString=999999
+color.resource.enderio.suctionString=999999
+
+## Strings
+enderio.combustionGenerator.output=§7產能速率:
+enderio.stirlingGenerator.output=§7產能速率:
+enderio.stirlingGenerator.burnRate=§7燃燒速率:
+
+enderio.gui.capBank.maxInput=§7最大輸入
+enderio.gui.capBank.maxOutput=§7最大輸出
+enderio.gui.capBank.maxIo=§7最大流量
+enderio.gui.powerMonitor.noNetworkError=§7No conduit network attached. The Power Monitor needs to be attached to a conduit network to read data from.
+enderio.gui.powerMonitor.engineControl=§7引擎控制
+enderio.gui.powerMonitor.engineSection1=§7輸出信號條件:當存儲
+enderio.gui.powerMonitor.engineSection2=§7能量少於
+enderio.gui.powerMonitor.engineSection3=§7%時.
+enderio.gui.powerMonitor.engineSection4=§7停止條件:當存儲能量
+enderio.gui.powerMonitor.engineSection5=§7多或等於
+enderio.gui.powerMonitor.of=§7占
+
+enderio.gui.vacuum.header.chest=§7Vacuum Chest
+enderio.gui.vacuum.header.filter=§7Item Filter
+enderio.gui.vacuum.header.range=§7Range
+enderio.gui.receive=§7接收
+enderio.gui.send=§7發送
+enderio.gui.machine.sendfilter=§7Send Filter
+enderio.gui.available=§7Available
+enderio.gui.simple.in=§7Max In:
+enderio.gui.simple.out=§7Max Out:
+enderio.gui.inventorypanel.header.crafting=§7Crafting grid
+enderio.gui.inventorypanel.header.return=§7Return area
+enderio.gui.inventorypanel.header.storage=§7Storage area
+enderio.gui.travelAccessable.public=§7公共
+enderio.gui.travelAccessable.private=§7私有
+enderio.gui.travelAccessable.protected=§7被保護
+enderio.gui.machine.poweredspawner.spawn=§7Spawn
+enderio.gui.machine.poweredspawner.capture=§7Capture
+enderio.gui.spawnGurad.range=§7范圍:
+enderio.gui.conduit.ioMode.input=§7提取
+enderio.gui.conduit.ioMode.output=§7加入
+enderio.gui.conduit.redstone.color=§7顏色
+enderio.gui.conduit.redstone.signalStrengh=§7強信號
+enderio.gui.conduit.item.priority=§7優先級
+enderio.gui.existing.item_filter.snapshot=§7Snapshot
+enderio.gui.existing.item_filter.merge=§7Merge
+enderio.gui.existing.item_filter.clear=§7Clear
+enderio.gui.existing.item_filter.show=§7Show
+
+enderio.gui.blockBuffer.name=§7Buffer 
+enderio.gui.blockBuffer.item.name=§7Item Buffer
+enderio.gui.blockBuffer.power.name=§7Power Buffer
+enderio.gui.blockBuffer.omni.name=§7Omni Buffer
+enderio.gui.blockBuffer.creative.name=§7Creative Buffer

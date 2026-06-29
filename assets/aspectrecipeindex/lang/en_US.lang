@@ -1,0 +1,11 @@
+#lang-aspectrecipeindex
+#colorUtils
+
+## ColorUtils
+# RBG
+color.resource.aspectrecipeindex.text=AAAAAA
+
+## Strings
+aspectrecipeindex.research.researchName=§7Research
+aspectrecipeindex.gui.nei.seeAll=§7See All
+aspectrecipeindex.research.missing=§7You haven't completed the research required to craft this item
