@@ -3,7 +3,7 @@ name: Build and Release Resource Pack
 on:
   push:
     tags:
-      - 'v2.8.X/v*'  # Trigger only on tags like v2.8.X/v*
+      - 'v2.9.X/v*'  # Trigger only on tags like v2.9.X/v*
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
           TAG="${GITHUB_REF#refs/tags/}"
           echo "Extracted TAG: $TAG"
 
-          PACK_VERSION="${TAG#v2.8.X/}"      # e.g. v4.28
+          PACK_VERSION="${TAG#v2.9.X/}"      # e.g. v4.28
           PACK_VERSION_NUM="${PACK_VERSION#v}" # e.g. 4.28
 
           echo "TAG=$TAG" >> $GITHUB_OUTPUT
@@ -95,7 +95,7 @@ jobs:
         run: |
           cd main
           PACK_META="pack.mcmeta"
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §aby Ranzu"
+          DESC="§8GTNH v2.9.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §aby Ranzu"
           jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
           ZIP_NAME="Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}.zip"
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
@@ -106,7 +106,7 @@ jobs:
         run: |
           cd modernity
           PACK_META="pack.mcmeta"
-          DESC="§8GTNH v2.8.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §f- §2Modernity version §aby Ranzu"
+          DESC="§8GTNH v2.9.X §f/ §3Pack ${{ steps.vars.outputs.PACK_VERSION }} §f- §2Modernity version §aby Ranzu"
           jq --arg desc "$DESC" '.pack.description = $desc' "$PACK_META" > temp.mcmeta && mv temp.mcmeta "$PACK_META"
           ZIP_NAME="Shadow UI ${{ steps.vars.outputs.PACK_VERSION }}-Modernity version.zip"
           zip -r "$ZIP_NAME" assets pack.mcmeta pack.png README.md
@@ -136,7 +136,7 @@ jobs:
           cat > gtnh-pack-update.json <<JSON
           {
             "schema": 1,
-            "pack_game_version": "2.8.X",
+            "pack_game_version": "2.9.X",
             "pack_version": "${{ steps.vars.outputs.PACK_VERSION_NUM }}"
           }
           JSON
@@ -154,7 +154,7 @@ jobs:
           body: |
             ### Version Info
             - Minecraft 1.7.10
-            - GTNH 2.8.X
+            - GTNH 2.9.X
             - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
 
             ### Changes
