@@ -40,21 +40,17 @@
 <h2>Preview</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/073f5ec6-8c41-48ce-b1c0-cb6ea0eb3cc2" alt="Example1" width="240" />
-  <img src="https://github.com/user-attachments/assets/09050f4d-a221-4a84-bafe-4439a3c440eb" alt="Example2" width="240" />
-  <img src="https://github.com/user-attachments/assets/c53b4ebe-cb45-496d-a052-e977c4ea667d" alt="Example3" width="240" />
-
+  <img src="https://github.com/user-attachments/assets/2f9f96fe-96c1-4a32-844e-d08b54e6fe9b" alt="Example1" width="240" />
+  <img src="https://github.com/user-attachments/assets/faab5dba-2023-407f-a5d2-79b496a721f1" alt="Example2" width="240" />
+  <img src="https://github.com/user-attachments/assets/f2a5e230-d7d4-4e9b-9a8e-1a18303ca37b" alt="Example3" width="240" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5e6c54b1-3b26-47ef-825c-975132642d1d" alt="Example4" width="240" />
-  <img src="https://github.com/user-attachments/assets/c7741fa4-ddaf-4ce6-9331-fe8c44b4e082" alt="Example5" width="240" /> 
-  <img src="https://github.com/user-attachments/assets/1c5755a1-121e-47ba-a74c-a41b400db739" alt="Example6" width="240" />
+  <img src="https://github.com/user-attachments/assets/69e1a698-0764-41d8-a23c-6d1b0c8fe7af" alt="Example4" width="240" />
+  <img src="https://github.com/user-attachments/assets/67b73026-d639-4f2f-8c64-614311833f28" alt="Example5" width="240" /> 
+  <img src="https://github.com/user-attachments/assets/4c31e690-33c0-48b7-929c-771ed7aa49bf" alt="Example6" width="240" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/86a1af6f-e4d2-4b1d-84d7-0cf154077f06" alt="Example7" width="240" />
-</p>
 <p align="center">
   The Modernity version differs slightly. For example, it uses different slot overlay textures.
 </p>
