@@ -95,7 +95,7 @@
 
 <p>
   📄
-  <a href="https://github.com/Ranzuu/Shadow-UI/blob/main-future/changelog%20from%202.8.X%20to%202.9.X.md">
+  <a href="https://github.com/Ranzuu/Shadow-UI/blob/main/changelog%20from%202.8.X%20to%202.9.X.md">
     Changelog
   </a>
 </p>
