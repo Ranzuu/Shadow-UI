@@ -1,5 +1,5 @@
 gui.ifu_buildingKit.title=§7Wünschelrute
 
-IFU.NameTip=§7Name: &#999999%s
-IFU.Empty=§7Leer
+IFU.NameTip=§7Name: %s
+IFU.Empty=&#999999Leer
 IFU.BlacklistedBlock=§cBlacklisted block!
