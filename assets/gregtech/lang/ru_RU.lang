@@ -410,8 +410,10 @@ GT5U.gui.select.current=§7Состояние:
 GT5U.gui.text.structure_error.lsc_cap=&#C62140Too many empty capacitors
 
 # LargeBoilerGui
-GT5U.machines.large_boiler.gui.solid_burn=§7Твёрдое топливо сгорает в течение: §9%s§r сек.
-GT5U.machines.large_boiler.gui.fluid_burn=§7Жидкое топливо сгорает в течение: §9%s§r сек.
+GT5U.machines.large_boiler.gui.consumption_fluid=§7Fluid consumption
+GT5U.machines.large_boiler.gui.consumption_solid=§7Item consumption
+GT5U.machines.large_boiler.gui.solid_burn=§7Твёрдое топливо сгорает в течение: &#EFC62F%ss/%ss
+GT5U.machines.large_boiler.gui.fluid_burn=§7Жидкое топливо сгорает в течение: &#EFC62F%ss/%ss
 
 # LargeChemicalReactor
 GT5U.gui.text.structure_error.need_exactly_one_coil=&#C62140Needs exactly 1 Heating Coil
