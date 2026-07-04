@@ -750,6 +750,8 @@ GT5U.gui.text.data_stick.loaded=§7Loaded Config from Data Stick
 GT5U.gui.text.data_stick.saved=§7Saved Config to Data Stick
 GT5U.gui.text.recipe_result.drill_extracting_ores=§7Extracting Ores
 GT5U.gui.text.recipe_result.drill_extracting_ores_failed=&#C62140Extraction Failed
+GT5U.gui.text.recipe_result.void_miner_wrong_dim=&#EFC62FThis dimension cannot be void mined
+GT5U.gui.text.recipe_result.void_miner_no_ores=&#EFC62FNo ores available to mine in this dimension
 
 # VolumetricFlaskGui
 GT5U.gui.text.volumetric_flask.capacity=§7Capacity
