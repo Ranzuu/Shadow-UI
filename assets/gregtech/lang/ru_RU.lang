@@ -656,7 +656,7 @@ GT5U.gui.text.shutdown_reason.fluid_output_failed=&#C62140FaНе удалось 
 GT5U.gui.text.shutdown_reason.item_output_failed=&#C62140FaНе удалось вывести все предметы.
 
 # SOFuelCellMK1
-GT5U.gui.text.structure_error.sofc_missing_input_hatches=&#C62140Missing Input Hatches: requires 1 for Fuel and 1 for Oxygen, found %s
+GT5U.gui.text.structure_error.sofc_missing_input_hatches=&#C62140Missing Input Hatches: &#EFC62Frequires 1 for Fuel and 1 for Oxygen&#C62140, found &#EFC62F%s
 
 # SolarFactory
 GT5U.gui.text.recipe_result.low_wafer_tier=&#C62140Found wafer is too low tier for the recipe
@@ -745,6 +745,8 @@ GT5U.gui.text.data_stick.loaded=§7Настройки загружены с фл
 GT5U.gui.text.data_stick.saved=§7Настройки сохранены на флешку
 GT5U.gui.text.recipe_result.drill_extracting_ores=§7Extracting Ores
 GT5U.gui.text.recipe_result.drill_extracting_ores_failed=&#C62140Extraction Failed
+GT5U.gui.text.recipe_result.void_miner_wrong_dim=&#EFC62FThis dimension cannot be void mined
+GT5U.gui.text.recipe_result.void_miner_no_ores=&#EFC62FNo ores available to mine in this dimension
 
 # VolumetricFlaskGui
 GT5U.gui.text.volumetric_flask.capacity=§7Ёмкость
