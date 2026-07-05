@@ -1,7 +1,7 @@
-## ColorUtils (Need help here on pr)
+## ColorUtils
 # ARBG
-# color.resource.neicustomdiagram.textColor=FFAAAAAA
-# color.resource.neicustomdiagram.guiLines=FFC6C6C6
+color.resource.neicustomdiagram.textColor=FFAAAAAA
+color.resource.neicustomdiagram.guiLines=FFC6C6C6
 
 ## Strings
 neicustomdiagram.generators.forge.worldgenloot.loottitleformat=§7%s
