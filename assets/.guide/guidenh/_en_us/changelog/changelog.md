@@ -220,7 +220,7 @@ navigation:
 - Added colored gui names
 
 **Other**
-- Added ability for the resoruce pack to be checked for updates
+- Added ability for the resource pack to be checked for updates
 - Lots of lang updates to get correct color per translation
 - Fixes grayscale images / image compression
 - Added support for OKBackpack
