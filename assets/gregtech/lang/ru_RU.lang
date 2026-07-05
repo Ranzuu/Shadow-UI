@@ -1,3 +1,14 @@
+## ColorUtils
+# RBG
+color.resource.gregtech.networkAnalyzerNodeInput=C46632
+color.resource.gregtech.networkAnalyzerNodeOutput=2A63C1
+color.resource.gregtech.networkAnalyzerNodeFork=7AC25F
+color.resource.gregtech.networkAnalyzerSeverityNone=AAAAAA
+color.resource.gregtech.networkAnalyzerSeveritySuccess=7AC25F
+color.resource.gregtech.networkAnalyzerSeverityWarning=FFD800
+color.resource.gregtech.networkAnalyzerSeverityAlert=B13E53
+
+## Strings
 # AssemblyLine
 GT5U.gui.text.structure_error.al_too_many_data_access_hatch=&#C62140Only one Data Access Hatch is allowed
 GT5U.gui.text.structure_error.al_missing_output_bus=&#C62140Missing Output Bus on the last slice
@@ -412,8 +423,8 @@ GT5U.gui.text.structure_error.lsc_cap=&#C62140Too many empty capacitors
 # LargeBoilerGui
 GT5U.machines.large_boiler.gui.consumption_fluid=§7Fluid consumption
 GT5U.machines.large_boiler.gui.consumption_solid=§7Item consumption
-GT5U.machines.large_boiler.gui.solid_burn=§7Твёрдое топливо сгорает в течение: &#EFC62F%ss/%ss
-GT5U.machines.large_boiler.gui.fluid_burn=§7Жидкое топливо сгорает в течение: &#EFC62F%ss/%ss
+GT5U.machines.large_boiler.gui.solid_burn=§7Твёрдое топливо сгорает в течение: §9%s§r сек.
+GT5U.machines.large_boiler.gui.fluid_burn=§7Жидкое топливо сгорает в течение: §9%s§r сек.
 
 # LargeChemicalReactor
 GT5U.gui.text.structure_error.need_exactly_one_coil=&#C62140Needs exactly 1 Heating Coil
