@@ -130,7 +130,7 @@ jobs:
           token: ${{ secrets.MODRINTH_TOKEN }}
           project: OFx9JGCC
           name: Shadow UI ${{ steps.rel.outputs.PACK_VERSION }} Modernity Version
-          version: ${{ steps.rel.outputs.PACK_VERSION }}
+          version: ${{ steps.rel.outputs.PACK_VERSION }}-M
           changelog: ${{ steps.notes.outputs.body }}
           loaders: |-
             minecraft
