@@ -596,6 +596,62 @@ GT5U.gui.text.structure_error.wrong_block=&#AAAAAAInvalid block at &#999999(%s, 
 GT5U.gui.text.structure_error.wrong_block_expected=&#AAAAAAExpected at &#999999(%s, %s, %s)&#AAAAAA:
 GT5U.gui.text.structure_error.wrong_block_expected_single=&#AAAAAAExpects &#EFC62F%s&#AAAAAA at &#999999(%s, %s, %s)
 
+# PowerGogglesGuiOverlay
+GT5U.power_goggles_config.notation_scientific=§fSCIENTIFIC
+GT5U.power_goggles_config.notation_engineering=§fENGINEERING
+GT5U.power_goggles_config.notation_si=§fSI
+GT5U.power_goggles_config.reading_both=§fBOTH
+GT5U.power_goggles_config.reading_total=§fTOTAL
+GT5U.power_goggles_config.reading_eut=§fEUT
+GT5U.power_goggles_config.settings_general=§fGeneral Settings
+GT5U.power_goggles_config.settings_scale=§fScale settings
+GT5U.power_goggles_config.settings_color=§fColor Scheme
+
+GT5U.power_goggles_config.toggle_notation=§fToggle Notation: %s
+GT5U.power_goggles_config.toggle_reading=§fToggle Reading Type: %s
+GT5U.power_goggles_config.graph_scale=§fGraph Scale: %s
+GT5U.power_goggles_config.graph_scale_auto=§fAutomatic
+GT5U.power_goggles_config.graph_scale_manual=§fManual
+GT5U.power_goggles_config.manual_graph_min=§fManual Min Value
+GT5U.power_goggles_config.manual_graph_min_tooltip=§fManual graph minimum (must be lower than Manual Max Value)
+GT5U.power_goggles_config.manual_graph_max=§fManual Max Value
+GT5U.power_goggles_config.manual_graph_max_tooltip=§fManual graph maximum (must be higher than Manual Min Value)
+GT5U.power_goggles_config.toggle_power_bar=§fShow Power Bar: %s
+GT5U.power_goggles_config.toggle_power_bar_tooltip=§fGradient based on %% EU consumed in the last 5 minutes relative to current storage
+GT5U.power_goggles_config.toggle_hud_with_chat=§fHide HUD when chat open: %s
+GT5U.power_goggles_config.reset_defaults=§fReset All Settings
+GT5U.power_goggles_config.reset_defaults_tooltip=§fReset all Power Goggles settings to default values
+GT5U.power_goggles_config.main_text_scale=§fStorage Text Scale
+GT5U.power_goggles_config.sub_text_scale=§fSub Text Scale
+GT5U.power_goggles_config.hud_scale=§fHUD Scale
+
+GT5U.power_goggles_config.gradient_bad=§fBad Gradient Color
+GT5U.power_goggles_config.gradient_bad_tooltip=§fAffects what color the power rectangle's gradient approaches as EU change goes lower
+GT5U.power_goggles_config.gradient_ok=§fOK Gradient Color
+GT5U.power_goggles_config.gradient_ok_tooltip=§fAffects what color the power rectangle's gradient approaches as EU change approaches 0
+GT5U.power_goggles_config.gradient_good=§fGood Gradient Color
+GT5U.power_goggles_config.gradient_good_tooltip=§fAffects what color the power rectangle's gradient approaches as EU change goes higher
+
+GT5U.power_goggles_config.background_color=§fChart Background Color
+GT5U.power_goggles_config.background_color_tooltip=§fAffects the background color of the power graph
+GT5U.power_goggles_config.border_color=§fChart Border Color
+GT5U.power_goggles_config.border_color_tooltip=§fAffects the border color of the power graph
+GT5U.power_goggles_config.chart_max_text_color=§fChart Max Text Color
+GT5U.power_goggles_config.chart_max_text_color_tooltip=§fAffects the chart maximum value label color
+GT5U.power_goggles_config.chart_manual_scale_indicator_color=§fChart Manual Scale Indicator Color
+GT5U.power_goggles_config.chart_manual_scale_indicator_color_tooltip=§fAffects the color of the manual scale indicator icon
+GT5U.power_goggles_config.chart_min_text_color=§fChart Min Text Color
+GT5U.power_goggles_config.chart_min_text_color_tooltip=§fAffects the chart minimum value label color
+GT5U.power_goggles_config.background_lines_color=§fMeasurements Background Color
+GT5U.power_goggles_config.background_lines_color_tooltip=§fAffects the background color of the measurements tab
+
+GT5U.power_goggles_config.text_bad=§fBad Text Color
+GT5U.power_goggles_config.text_bad_tooltip=§fAffects Text and Power Chart color when EU change is negative
+GT5U.power_goggles_config.text_ok=§fOK Text Color
+GT5U.power_goggles_config.text_ok_tooltip=§fAffects Text color when EU change is 0
+GT5U.power_goggles_config.text_good=§fGood Text Color
+GT5U.power_goggles_config.text_good_tooltip=§fAffects Text and Power Chart color when EU change is positive
+
 # PowerSubStation
 GT5U.gui.text.recipe_result.managing_power=§7Managing power
 
