@@ -213,7 +213,7 @@
 			},
 			"betterquesting:quest_line_pending": {
 				"colorType": "betterquesting:color_static",
-				"color": "FFC46632"
+				"color": "FF2A63C1"
 			},
 			"betterquesting:quest_line_complete": {
 				"colorType": "betterquesting:color_static",
@@ -238,15 +238,15 @@
 			},
 			"betterquesting:quest_icon_pending": {
 				"colorType": "betterquesting:color_pulse",
-				"period": 0.5,
+				"period": 1.0,
 				"phase": 0.0,
 				"color1": {
 					"colorType": "betterquesting:color_static",
-					"color": "FFC46632"
+					"color": "FF2A63C1"
 				},
 				"color2": {
 					"colorType": "betterquesting:color_static",
-					"color": "FF894023"
+					"color": "FF2344A1"
 				}
 			},
 			"betterquesting:quest_icon_complete": {
@@ -514,7 +514,7 @@
 			},
 			"betterquesting:quest_line_pending": {
 				"colorType": "betterquesting:color_static",
-				"color": "FFC46632"
+				"color": "FF2A63C1"
 			},
 			"betterquesting:quest_line_complete": {
 				"colorType": "betterquesting:color_static",
@@ -539,15 +539,15 @@
 			},
 			"betterquesting:quest_icon_pending": {
 				"colorType": "betterquesting:color_pulse",
-				"period": 0.5,
+				"period": 1.0,
 				"phase": 0.0,
 				"color1": {
 					"colorType": "betterquesting:color_static",
-					"color": "FFC46632"
+					"color": "FF2A63C1"
 				},
 				"color2": {
 					"colorType": "betterquesting:color_static",
-					"color": "FF894023"
+					"color": "FF2344A1"
 				}
 			},
 			"betterquesting:quest_icon_complete": {
@@ -815,7 +815,7 @@
 			},
 			"betterquesting:quest_line_pending": {
 				"colorType": "betterquesting:color_static",
-				"color": "FFC46632"
+				"color": "FF2A63C1"
 			},
 			"betterquesting:quest_line_complete": {
 				"colorType": "betterquesting:color_static",
@@ -840,15 +840,15 @@
 			},
 			"betterquesting:quest_icon_pending": {
 				"colorType": "betterquesting:color_pulse",
-				"period": 0.5,
+				"period": 1.0,
 				"phase": 0.0,
 				"color1": {
 					"colorType": "betterquesting:color_static",
-					"color": "FFC46632"
+					"color": "FF2A63C1"
 				},
 				"color2": {
 					"colorType": "betterquesting:color_static",
-					"color": "FF894023"
+					"color": "FF2344A1"
 				}
 			},
 			"betterquesting:quest_icon_complete": {
@@ -1116,7 +1116,7 @@
 			},
 			"betterquesting:quest_line_pending": {
 				"colorType": "betterquesting:color_static",
-				"color": "FFC46632"
+				"color": "FF2A63C1"
 			},
 			"betterquesting:quest_line_complete": {
 				"colorType": "betterquesting:color_static",
@@ -1141,15 +1141,15 @@
 			},
 			"betterquesting:quest_icon_pending": {
 				"colorType": "betterquesting:color_pulse",
-				"period": 0.5,
+				"period": 1.0,
 				"phase": 0.0,
 				"color1": {
 					"colorType": "betterquesting:color_static",
-					"color": "FFC46632"
+					"color": "FF2A63C1"
 				},
 				"color2": {
 					"colorType": "betterquesting:color_static",
-					"color": "FF894023"
+					"color": "FF2344A1"
 				}
 			},
 			"betterquesting:quest_icon_complete": {
@@ -1417,7 +1417,7 @@
 			},
 			"betterquesting:quest_line_pending": {
 				"colorType": "betterquesting:color_static",
-				"color": "FFC46632"
+				"color": "FF2A63C1"
 			},
 			"betterquesting:quest_line_complete": {
 				"colorType": "betterquesting:color_static",
@@ -1442,15 +1442,15 @@
 			},
 			"betterquesting:quest_icon_pending": {
 				"colorType": "betterquesting:color_pulse",
-				"period": 0.5,
+				"period": 1.0,
 				"phase": 0.0,
 				"color1": {
 					"colorType": "betterquesting:color_static",
-					"color": "FFC46632"
+					"color": "FF2A63C1"
 				},
 				"color2": {
 					"colorType": "betterquesting:color_static",
-					"color": "FF894023"
+					"color": "FF2344A1"
 				}
 			},
 			"betterquesting:quest_icon_complete": {
