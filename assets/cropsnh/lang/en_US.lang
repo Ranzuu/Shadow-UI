@@ -24,5 +24,3 @@ cropsnh_nei.crops.likes=§7Likes: &#999999%1$s
 cropsnh_growthReq.minLight.format=&#C62140Needs a light lvl of %1$d or higher
 cropsnh_growthReq.maxLight.format=&#C62140Needs a light lvl of %1$d or lower
 cropsnh_growthReq.lockout.machineOnly.nei=&#C62140Only harvestable in the I. Farm
-
-cropsnh_growthReq.blockUnder.space=&#C62140Needs a space block below to grow
