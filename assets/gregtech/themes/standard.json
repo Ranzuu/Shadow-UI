@@ -10,7 +10,10 @@
 	"textTitle": {
 		"textColor": "#AAAAAA"
 	},
-	"displayText": {
+	"displayTextWhite": {
+		"textColor": "#AAAAAA"
+	},
+	"displayTextGray": {
 		"textColor": "#AAAAAA"
 	},
 	"button": {
