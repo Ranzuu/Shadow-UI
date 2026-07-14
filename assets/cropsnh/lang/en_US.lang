@@ -2,16 +2,30 @@
 #error
 #sub-text
 
-# Errors
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderNotFound=&#C62140Failed to insert new seeds as the block that goes below the soil is missing
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderMismatch.input=&#C62140Failed to insert new seeds as the blocks stored in this machine aren't compatible
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderMismatch.farm=&#C62140The current block does not match the blocks required for this seed to grow
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedBedTierTooLow=&#C62140The current tier of Seed Bed is too low for this seed
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedsFull=&#C62140Seed capacity reached
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedOverflow=&#C62140Seed Storage exceeds current capacity
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.cannotGrow=&#C62140This seed cannot grow in the current environment
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughWater=&#C62140Not enough water
-GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=&#C62140Not enough Enriched Fertilizer
+## Errors
+# Recipe Results
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilNotFound=&#EFC62FCould not find sub-soil for the seed being inserted
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilMismatch.input=&#EFC62FThe stored sub-soil is incompatible with the seed being inserted
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilMismatch.farm=&#EFC62FThe current sub-soil is incompatible with the stored seed
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedBedTierTooLow=&#EFC62FThe current tier of Seed Bed is too low for this seed
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedsFull=&#EFC62FSeed capacity reached
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedOverflow=&#EFC62FSeed Storage exceeds current capacity
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.cannotGrow=&#EFC62FThis seed cannot grow in the current environment
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughWater=&#EFC62FNot enough water
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=&#EFC62FNot enough Enriched Fertilizer
+
+# Structure errors
+cropsnh_tooltip.industrialFarm.structure.error.ComponentTierTooLow=&#C62140Component tier is too low (min %s)
+cropsnh_tooltip.industrialFarm.structure.error.GlassTierTooLow=&#C62140Glass tier too low (min %s)
+cropsnh_tooltip.industrialFarm.structure.error.EEUCount=&#C62140Too many environmental enhancement units (max %s) 
+cropsnh_tooltip.industrialFarm.structure.error.FUCount=&#C62140Too many fertilizer units
+cropsnh_tooltip.industrialFarm.structure.error.AHUCount=&#C62140Too many advanced harvesting units (max %s)
+cropsnh_tooltip.industrialFarm.structure.error.OCGAUCount=&#C62140Too many OC growth accelerator units
+cropsnh_tooltip.industrialFarm.structure.error.OCGAUExclusivity=&#C62140Cannot use regular growth unit when using OC unit
+cropsnh_tooltip.industrialFarm.structure.error.MultiAmpEHatchCount=&#C62140Too many multi-amp hatches
+cropsnh_tooltip.industrialFarm.structure.error.EHatchTypeNoMix=&#C62140Cannot mix regular and multi amp hatches
+cropsnh_tooltip.industrialFarm.structure.error.LaserNotAllowed=&#C62140Lasers energy not allowed
+cropsnh_tooltip.industrialFarm.structure.error.MultiAmpNotAllowed=&#C62140Multi-Amp energy hatches not allowed without OC growth unit
 
 # NEI
 cropsnh_nei.mutationPool.poolName=§7Pool: &#999999%1$s
@@ -21,6 +35,6 @@ cropsnh_nei.crops.dropMult=§7Drop Multiplier: &#999999%1$0.2f
 cropsnh_nei.crops.likes=§7Likes: &#999999%1$s
 
 # Nei Errors
-cropsnh_growthReq.minLight.format=&#C62140Needs a light lvl of %1$d or higher
-cropsnh_growthReq.maxLight.format=&#C62140Needs a light lvl of %1$d or lower
 cropsnh_growthReq.lockout.machineOnly.nei=&#C62140Only harvestable in the I. Farm
+cropsnh_growthReq.minLight.format.nei=&#C62140Needs a light lvl of %1$s or higher
+cropsnh_growthReq.maxLight.format.nei=&#C62140Needs a light lvl of %1$s or lower
