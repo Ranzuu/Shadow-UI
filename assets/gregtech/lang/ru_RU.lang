@@ -569,6 +569,7 @@ GT5U.nei.display.steam_variant.bronze=Бронза
 GT5U.nei.display.steam_variant.steel=Сталь
 GT5U.nei.display.duration.seconds=Время: %s секунд
 GT5U.nei.display.duration.ticks=Время: %s тиков
+GT5U.nei.heat_capacity=Теплоёмкость: &#999999%s K
 GT5U.nei.display.total=Всего: %s EU
 GT5U.nei.display.total.steam=Время: %s Л пара
 GT5U.nei.display.usage=Используется: %s EU/t %s
