@@ -23,6 +23,7 @@ Blood Magic
 
 Botania
 - Fixed text color for pouches - https://github.com/GTNewHorizons/Botania/pull/124
+- Fixed text color for Lexica NEI Handler - https://github.com/GTNewHorizons/Botania/pull/143
 
 Buildcraft and addons
 - Fixed text color for some guis (+texture fixes) - https://github.com/GTNewHorizons/BuildCraft/pull/26 / https://github.com/GTNewHorizons/BuildCraftCompat/pull/13
@@ -220,4 +221,4 @@ Other
 - Added support for OKBackpack - https://github.com/Shigure-Ruiseki/OKBackpack
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 627 (16.07.26)
+Up to date with Daily 628 (17.07.26)
