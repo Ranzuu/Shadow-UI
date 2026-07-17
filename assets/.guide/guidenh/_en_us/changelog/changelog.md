@@ -30,6 +30,7 @@ navigation:
 
 **Botania**
 - Fixed text color for pouches
+- Fixed text color for Lexica NEI Handler
 
 **Buildcraft and addons**
 - Fixed text color for some guis (+texture fixes)
