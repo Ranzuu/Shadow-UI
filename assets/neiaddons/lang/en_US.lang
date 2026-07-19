@@ -1,0 +1,10 @@
+#lang-neiaddons
+#colorUtils
+
+## ColorUtils
+# RGB
+color.resource.neiaddons.neiChanceTextNormal=AAAAAA
+color.resource.neiaddons.neiChanceTextRed=C62140
+color.resource.neiaddons.neiLabel=AAAAAA
+color.resource.neiaddons.neiProd=AAAAAA
+color.resource.neiaddons.neiSpec=AAAAAA
