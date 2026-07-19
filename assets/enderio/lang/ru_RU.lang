@@ -2,6 +2,9 @@
 # RGB
 color.resource.enderio.priorityString=999999
 color.resource.enderio.suctionString=999999
+color.resource.enderio.neiMultiplierString=AAAAAA
+color.resource.enderio.neiEnchantString=AAAAAA
+color.resource.enderio.neiEnergyString=AAAAAA
 
 ## Strings
 enderio.combustionGenerator.output=§7Генерирует:
