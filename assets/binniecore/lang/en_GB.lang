@@ -1,3 +1,8 @@
+## ColorUtils
+# RGB
+color.resource.binniecore.neiDisplayText=AAAAAA
+
+## Strings
 compartbinniecore.gui.slot.slot=§7Slot
 
 binniecore.gui.slot.input=§7Input Slot
