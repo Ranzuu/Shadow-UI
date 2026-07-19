@@ -16,6 +16,7 @@ color.resource.tinker.materialBowDrawSpeed=AAAAAA
 color.resource.tinker.materialBowFlightSpeedMax=AAAAAA
 color.resource.tinker.materialArrowMass=AAAAAA
 color.resource.tinker.materialArrowBreakChance=AAAAAA
+color.resource.tinker.neiTemperature=AAAAAA
 
 ## Strings
 crafters.ToolStation=§7Stół do łączenia narzędzi
