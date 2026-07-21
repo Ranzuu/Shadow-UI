@@ -59,11 +59,6 @@
 
 <h2>Configuration Notice</h2>
 
-> [!IMPORTANT]
-> It is recommended to disable <code>coloredGUI</code> and <code>machineMetalGUI</code> in the GregTech configuration file while using this resource pack.
-> 
-> <strong>Config path:</strong> <code>\config\GregTech\GregTech.cfg</code>(set to false) (or in-game config menu)
-
 > [!NOTE]
 > **ChromaticTooltips** - If you don't like the styling of the pack's tooltips, you can disable them using <code>ResourcePack Themes</code> in the ChromaticTooltip's configuration file.
 >
