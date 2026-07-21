@@ -40,15 +40,15 @@
 <h2>Preview</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f9f96fe-96c1-4a32-844e-d08b54e6fe9b" alt="Example1" width="240" />
-  <img src="https://github.com/user-attachments/assets/faab5dba-2023-407f-a5d2-79b496a721f1" alt="Example2" width="240" />
-  <img src="https://github.com/user-attachments/assets/f2a5e230-d7d4-4e9b-9a8e-1a18303ca37b" alt="Example3" width="240" />
+  <img src=".github/example_images/Example1.png" alt="Example1" width="240" />
+  <img src=".github/example_images/Example2.png" alt="Example2" width="240" />
+  <img src=".github/example_images/Example3.png" alt="Example3" width="240" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69e1a698-0764-41d8-a23c-6d1b0c8fe7af" alt="Example4" width="240" />
-  <img src="https://github.com/user-attachments/assets/67b73026-d639-4f2f-8c64-614311833f28" alt="Example5" width="240" /> 
-  <img src="https://github.com/user-attachments/assets/4c31e690-33c0-48b7-929c-771ed7aa49bf" alt="Example6" width="240" />
+  <img src=".github/example_images/Example4.png" alt="Example4" width="240" />
+  <img src=".github/example_images/Example5.png" alt="Example5" width="240" /> 
+  <img src=".github/example_images/Example6.png" alt="Example6" width="240" />
 </p>
 
 <p align="center">
