@@ -1,0 +1,13 @@
+#lang-kekztech
+#sub-text
+
+kekztech.gui.lapotronic_super_capacitor.total_capacity=§7Total Capacity: &#EFC62F%s §7EU
+kekztech.gui.lapotronic_super_capacitor.used_capacity=§7Used Capacity: &#EFC62F%s
+kekztech.gui.lapotronic_super_capacitor.text.stored=§7Stored: &#7AC25F%s §7EU
+kekztech.gui.lapotronic_super_capacitor.text.avg_eu_in=§7Avg EU IN: &#7AC25F%s §7last 5s
+kekztech.gui.lapotronic_super_capacitor.text.avg_eu_out=§7Avg EU OUT: &#C62140%s §7last 5s
+kekztech.gui.lapotronic_super_capacitor.passive_loss=§7Passive Loss: &#C62140%s §7EU/t
+kekztech.gui.lapotronic_super_capacitor.wireless_eu=§7Total wireless EU: &#EFC62F%s §7EU
+kekztech.gui.lapotronic_super_capacitor.time_to.full=§7Time to Full: &#EFC62F%s
+kekztech.gui.lapotronic_super_capacitor.time_to.sth=§7Time to Something: &#EFC62FInfinite years
+kekztech.gui.lapotronic_super_capacitor.time_to.empty=§7Time to Empty: &#EFC62F%s
