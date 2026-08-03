@@ -581,6 +581,8 @@ GT5U.nei.display.amperage=Ампераж: %s A
 GT5U.nei.display.overclock=§7(OC)
 GT5U.nei.display.average=Среднее: %s EU/t %s
 
+GT5U.gui.text.tier_name_with_parentheses=&#999999(§r%s&#999999)
+
 # PCBFactory
 GT5U.gui.text.recipe_result.bio_upgrade_missing=&#C62140Recipe needs Bio Upgrade to start
 GT5U.gui.text.recipe_result.nanites_missing=&#C62140Отсутствуют наниты
