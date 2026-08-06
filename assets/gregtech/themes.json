@@ -1,5 +1,6 @@
 {
   "vanilla": "gregtech:standard",
+  "modularui.context_menu": "gregtech:modularui.context_menu",
   "gregtech:standard": "gregtech:standard",
   "gregtech:steel": "gregtech:steel",
   "gregtech:bronze": "gregtech:bronze",
