@@ -1,0 +1,26 @@
+{
+	"parent": "DEFAULT",
+	"color": "#4A4948",
+	"textColor": "#AAAAAA",
+	"button": {
+		"background": {
+			"type": "texture",
+			"id": "mc_button"
+		}
+	},
+	"button:hover": {
+		"background": {
+			"type": "texture",
+			"id": "mc_button_hovered"
+		}
+	},
+	"scrollbar": {
+		"background": {
+			"type": "texture",
+			"location": "modularui2:gui/custom/c_scroll",
+			"imageWidth": 4,
+			"imageHeight": 4,
+			"border": 1
+		}
+	}
+}
