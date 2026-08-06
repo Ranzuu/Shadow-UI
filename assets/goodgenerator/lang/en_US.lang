@@ -1,0 +1,29 @@
+#lang-goodgenerator
+
+# GUI Info
+GT5U.gui.text.recipe_result.node_too_small=§7Node too small
+
+gui.NeutronSensor.0=§7Input the value of Neutron Kinetic Energy.
+gui.NeutronSensor.1=§7e.g. >5000KeV, <=30MeV . . .
+gui.NeutronSensor.2=§7Valid
+gui.NeutronSensor.3=§7Invalid
+gui.NeutronSensor.4=§7eV threshold
+gui.NeutronActivator.0=§7Current Neutron Kinetic Energy:
+gui.NeutronActivator.1=§7Input:
+gui.YOTTank.0=§7Capacity:
+gui.YOTTank.1=§7Fluid:
+gui.YOTTank.2=§7Stored:
+gui.YOTTank.3=§7Locked:
+gui.LargeFusion.0=§7Energy Capacity:
+gui.LargeFusion.1=§7Stored Energy:
+gui.AntimatterForge.0.s=§7Contained Antimatter: §9%s §7L
+gui.AntimatterForge.1.s=§7Passive Consumption: §c%s §7EU/t
+gui.AntimatterForge.2.s=§7Active Consumption: §d%s §7EU/t
+gui.AntimatterForge.3.s=§7Antimatter Change: §b%s §7L
+gui.AntimatterGenerator.0.s=§7EU Produced: §9%s §7EU
+gui.AntimatterGenerator.1.s=§7Efficiency: §b%s §7%%
+gui.AntimatterGenerator.2.s=§7Efficiency: ⟨ §b%s §7%% ⟩₁₀
+batch_mode.cfgi.0=§7Batch Size
+gt.blockmachines.YottaFluidTank.cfgi.0=§7Tick rate (Update I/O every x ticks)
+
+gg.gui.text.large_essentia_smeltery.requires=§7Requires %s total §bAqua§7 and §cIgnis §7centivis to function.
