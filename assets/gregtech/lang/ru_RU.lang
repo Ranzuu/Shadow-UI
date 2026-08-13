@@ -538,6 +538,10 @@ GT5U.multiblock.startup=§7Идёт запуск...
 # MultiLathe
 GT5U.gui.text.structure_error.missing_pipe_casing=&#C62140Missing Pipe Casing
 
+# NanochipAssemblyModuleBaseGui
+GT5U.gui.text.nac.module.status.connected=§7Присоединён к главному комплексу
+GT5U.gui.text.nac.module.status.disconnected=&#C62140Отключено от главного комплекса
+
 # NanoForge
 GT5U.gui.text.structure_error.missing_nanite=&#C62140Missing Nanite in controller slot
 
