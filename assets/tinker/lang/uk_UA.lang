@@ -1,5 +1,6 @@
 ## ColorUtils
 # RBG
+color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
 color.resource.tinker.materialHandleModifier1=AAAAAA
@@ -21,15 +22,6 @@ color.resource.tinker.neiTemperature=AAAAAA
 ## Strings
 crafters.ToolStation=§7Інженерна станція
 crafters.ToolForge=§7Інженерна кузня
-crafters.TinkerTable=§7Стіл інженера
-crafters.PartBuilder=§7Конструктор деталей
-crafters.PatternShaper=§7Стіл для вирізки шаблонів
-crafters.CraftingStation=§7Верстак інженера
-crafters.Smeltery=§7Плавильня
-
-inventory.PatternChest=§7Скриня для шаблонів
-inventory.PartChest=§7Part Chest
-toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Створення частин
 gui.partcrafter2=§7Збір частин

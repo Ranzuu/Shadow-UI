@@ -1,5 +1,6 @@
 ## ColorUtils
 # RBG
+color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
 color.resource.tinker.materialHandleModifier1=AAAAAA
@@ -21,15 +22,6 @@ color.resource.tinker.neiTemperature=AAAAAA
 ## Strings
 crafters.ToolStation=§7도구 조립대
 crafters.ToolForge=§7도구 대장간
-crafters.TinkerTable=§7대장장이의 탁자
-crafters.PartBuilder=§7부품 조합대
-crafters.PatternShaper=§7문양 제작 탁자
-crafters.CraftingStation=§7조합소
-crafters.Smeltery=§7제련소
-
-inventory.PatternChest=§7문양 상자
-inventory.PartChest=§7Part Chest
-toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7도구 부품 조합
 gui.partcrafter2=§7도구 부품 제조

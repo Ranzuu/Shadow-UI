@@ -1,5 +1,6 @@
 ## ColorUtils
 # RBG
+color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
 color.resource.tinker.materialHandleModifier1=AAAAAA
@@ -21,15 +22,6 @@ color.resource.tinker.neiTemperature=AAAAAA
 ## Strings
 crafters.ToolStation=§7Toole Station
 crafters.ToolForge=§7Toole Forge
-crafters.TinkerTable=§7Tinker Table
-crafters.PartBuilder=§7Part Builder
-crafters.PatternShaper=§7Scrimshaw Table
-crafters.CraftingStation=§7Crafting Station
-crafters.Smeltery=§7Smeltery
-
-inventory.PatternChest=§7Scrimshaw Chest
-inventory.PartChest=§7Part Chest
-toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Tool Part Crafting
 gui.partcrafter2=§7Tool Part Building
