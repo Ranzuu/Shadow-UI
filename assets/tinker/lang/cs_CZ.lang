@@ -1,5 +1,6 @@
 ## ColorUtils
 # RBG
+color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
 color.resource.tinker.materialHandleModifier1=AAAAAA
@@ -21,15 +22,6 @@ color.resource.tinker.neiTemperature=AAAAAA
 ## Strings
 crafters.ToolStation=§7Výrobní stanice
 crafters.ToolForge=§7Kovací stůl
-crafters.TinkerTable=§7Kovářův stůl
-crafters.PartBuilder=§7Tvořič částí
-crafters.PatternShaper=§7Tvořič šablon
-crafters.CraftingStation=§7Výrobní stanice
-crafters.Smeltery=§7Tavírna
-
-inventory.PatternChest=§7Truhla na šablony
-inventory.PartChest=§7Part Chest
-toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Vyrábění částí nástrojů
 gui.partcrafter2=§7Vyrábění částí nástrojů

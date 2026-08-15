@@ -1,5 +1,6 @@
 ## ColorUtils
 # RBG
+color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
 color.resource.tinker.materialHandleModifier1=AAAAAA
@@ -21,15 +22,6 @@ color.resource.tinker.neiTemperature=AAAAAA
 ## Strings
 crafters.ToolStation=§7ツール組立テーブル
 crafters.ToolForge=§7上位ツール組立テーブル
-crafters.TinkerTable=§7修繕台
-crafters.PartBuilder=§7パーツ作成テーブル
-crafters.PatternShaper=§7木型加工テーブル
-crafters.CraftingStation=§7作業テーブル
-crafters.Smeltery=§7乾式製錬
-
-inventory.PatternChest=§7鋳型チェスト
-inventory.PartChest=§7Part Chest
-toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Tool Part Crafting
 gui.partcrafter2=§7Tool Part Building

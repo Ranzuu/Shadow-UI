@@ -1,5 +1,6 @@
 ## ColorUtils
 # RBG
+color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
 color.resource.tinker.materialHandleModifier1=AAAAAA
@@ -21,15 +22,6 @@ color.resource.tinker.neiTemperature=AAAAAA
 ## Strings
 crafters.ToolStation=§7Stół do łączenia narzędzi
 crafters.ToolForge=§7Kuźnia do łączenia narzędzi
-crafters.TinkerTable=§7Tinker Table
-crafters.PartBuilder=§7Stół do tworzenia części
-crafters.PatternShaper=§7Stół do odciskania szablonów
-crafters.CraftingStation=§7Crafting Station
-crafters.Smeltery=§7Formiernia
-
-inventory.PatternChest=§7Skrzynia na szablony
-inventory.PartChest=§7Part Chest
-toolstation.partholder=§7Part Chest
 
 gui.partcrafter1=§7Tool Part Crafting
 gui.partcrafter2=§7Tool Part Building
