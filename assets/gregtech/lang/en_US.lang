@@ -183,9 +183,6 @@ gt.interact.desc.MachineEnabled=§7Machine enabled
 gt.interact.desc.MachineIdle=§7Machine idle
 gt.interact.desc.RecipeProgress=§7Recipe progress
 
-# CoverDrain
-gt.interact.desc.import=§7Import
-
 # CoverEUMeter
 gt.interact.desc.Energy_Detector.average_in=§7Avg. Input
 gt.interact.desc.Energy_Detector.average_out=§7Avg. Output
@@ -219,9 +216,6 @@ gt.interact.desc.fluid_regulator.ExpImp=§7Export/Import
 gt.interact.desc.fluid_regulator.L=§7 L
 gt.interact.desc.fluid_regulator.L_Sec=§7L/sec
 gt.interact.desc.fluid_regulator.Ticks=§7 ticks
-
-# CoverIOBase
-gt.interact.desc.export=§7Export
 
 # CoverIOBaseGui
 gt.interact.desc.conveyor.Conditional=§7Conditional
