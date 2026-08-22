@@ -29,3 +29,8 @@ ae2fc.gui.fluid_interface.3=§7S
 ae2fc.gui.fluid_interface.4=§7W
 ae2fc.gui.fluid_interface.5=§7E
 ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
+
+ae2fc.gui.magnet=§7Magnet Filter
+ae2fc.gui.magnet.nbt=§7Ignore NBT Data
+ae2fc.gui.magnet.meta=§7Ignore Meta Data
+ae2fc.gui.magnet.ore=§7Use Ore Dictionary
