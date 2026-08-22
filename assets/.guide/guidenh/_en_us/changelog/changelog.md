@@ -184,6 +184,7 @@ navigation:
 - Added new Neutralization Engine Icons
 - Added new fluid and item tank slots
 - Added new side selection icons
+- Added new Windmill icons
 
 **KubaTech**
 - Added HTGR text color
