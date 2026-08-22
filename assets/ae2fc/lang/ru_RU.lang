@@ -26,3 +26,8 @@ ae2fc.gui.fluid_interface.3=§7Юг
 ae2fc.gui.fluid_interface.4=§7Зап
 ae2fc.gui.fluid_interface.5=§7Вос
 ae2fc.gui.part_fluid_storage_bus=§7ME Fluid Storage Bus
+
+ae2fc.gui.magnet=§7Фильтр магнита
+ae2fc.gui.magnet.nbt=§7Игнорировать NBT
+ae2fc.gui.magnet.meta=§7Игнорировать метаданные
+ae2fc.gui.magnet.ore=§7Использовать словарь руд
