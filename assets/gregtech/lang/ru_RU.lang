@@ -177,9 +177,6 @@ gt.interact.desc.MachineEnabled=§7Механизм включён
 gt.interact.desc.MachineIdle=§7Механизм простаивает
 gt.interact.desc.RecipeProgress=§7Прогресс рецепта
 
-# CoverDrain
-gt.interact.desc.import=§7Импорт
-
 # CoverEUMeter
 gt.interact.desc.Energy_Detector.average_in=§7Ср. ввод
 gt.interact.desc.Energy_Detector.average_out=§7Средний ввод
@@ -213,9 +210,6 @@ gt.interact.desc.fluid_regulator.ExpImp=§7Экспорт/Импорт
 gt.interact.desc.fluid_regulator.L=§7 Л
 gt.interact.desc.fluid_regulator.L_Sec=§7Л/сек
 gt.interact.desc.fluid_regulator.Ticks=§7 тиков
-
-# CoverIOBase
-gt.interact.desc.export=§7Экспорт
 
 # CoverIOBaseGui
 gt.interact.desc.conveyor.Conditional=§7Условный
