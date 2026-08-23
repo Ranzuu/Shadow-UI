@@ -222,4 +222,4 @@ Other
 - Added support for many addon mods
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 694 (22.08.26)
+Up to date with Daily 698 (Beta-3) (23.08.26)
