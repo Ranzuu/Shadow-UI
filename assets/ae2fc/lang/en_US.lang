@@ -1,15 +1,15 @@
 #lang-ae2fc
 #colorUtils
 
-## ColorUtils
-# ARBG
+# ColorUtils
+## ARBG
 color.resource.ae2fc.guiTextColorGray=AAAAAA
 color.resource.ae2fc.stateIdle=FF7AC25F
 color.resource.ae2fc.stateCraft=FFFFF70F
 color.resource.ae2fc.stateExport=FF2A63C1
 color.resource.ae2fc.stateError=FFB13E53
 
-## Strings
+# Strings
 ae2fc.gui.fluid_pattern_encoder=§7Fluid Pattern Encoder
 ae2fc.gui.fluid_packet_decoder=§7ME Fluid Packet Decoder
 ae2fc.gui.fluid_interface=§7ME Dual Interface

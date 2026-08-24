@@ -1,8 +1,8 @@
 #lang-appliedenergistics2
 #colorUtils
 
-## ColorUtils
-# RBG
+# ColorUtils
+## RBG
 color.resource.ae2.guiTextColorGray=AAAAAA
 color.resource.ae2.guiTextColorBlack=AAAAAA
 color.resource.ae2.searchboxText=AAAAAA
@@ -22,7 +22,7 @@ color.resource.ae2.cellStatusBlue=2A63C1
 color.resource.ae2.cellStatusGreen=7AC25F
 color.resource.ae2.colorSelectBtnText=FFFFFF
 
-# ARBG
+## ARBG
 color.resource.ae2.searchboxFocused=6E000000
 color.resource.ae2.searchboxUnfocused=00000000
 color.resource.ae2.itemSlotOverlayUnpowered=80000000
@@ -63,8 +63,8 @@ color.resource.ae2.networkVisualiserLinkDense=B3FFF70F
 color.resource.ae2.networkVisualiserLinkProxy=B3C46632
 color.resource.ae2.networkVisualiserLinkDefault=B32A63C1
 
-## Strings
-# Reshuffle
+# Strings
+## Reshuffle
 gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
 gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
 gui.appliedenergistics2.ReshuffleStatusIdle=§7Idle

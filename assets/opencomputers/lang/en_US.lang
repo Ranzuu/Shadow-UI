@@ -2,12 +2,12 @@
 #sub-text
 #colorUtils
 
-## ColorUtils (OC render differently)
-# RBG
+# ColorUtils (OC render differently)
+## RBG
 color.resource.opencomputers.neiDocTitle=676767
 color.resource.opencomputers.neiDocText=909090
 
-## Strings
+# Strings
 oc:gui.Assembler.Collect=§7Collect output
 oc:gui.Assembler.Complexity=§7Complexity: %s/%s
 oc:gui.Assembler.InsertCase=§7Insert a base part

@@ -2,15 +2,15 @@
 #colorUtils
 #sub-text
 
-## ColorUtils
-# RGB
+# ColorUtils
+## RGB
 color.resource.enderio.priorityString=999999
 color.resource.enderio.suctionString=999999
 color.resource.enderio.neiMultiplierString=AAAAAA
 color.resource.enderio.neiEnchantString=AAAAAA
 color.resource.enderio.neiEnergyString=AAAAAA
 
-## Strings
+# Strings
 enderio.combustionGenerator.output=§7Generating:&#999999
 enderio.stirlingGenerator.output=§7Generating:&#999999
 enderio.stirlingGenerator.burnRate=§7Burn Rate:&#999999

@@ -1,7 +1,7 @@
 #lang-mobsinfo
 #colorUtils
 
-## ColorUtils
+# ColorUtils
 color.resource.mobsinfo.textDefault=FFAAAAAA
 color.resource.mobsinfo.textDanger=FFEFC62F
 color.resource.mobsinfo.textBoss=FFC46632

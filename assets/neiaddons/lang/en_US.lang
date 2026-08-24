@@ -1,8 +1,8 @@
 #lang-neiaddons
 #colorUtils
 
-## ColorUtils
-# RGB
+# ColorUtils
+## RGB
 color.resource.neiaddons.neiChanceTextNormal=AAAAAA
 color.resource.neiaddons.neiChanceTextRed=C62140
 color.resource.neiaddons.neiLabel=AAAAAA

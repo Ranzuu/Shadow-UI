@@ -3,8 +3,8 @@
 #sub-text
 #button
 
-## ColorUtils
-# RGB
+# ColorUtils
+## RGB
 color.resource.nei.textGray=AAAAAA
 color.resource.nei.textLightGray=999999
 color.resource.nei.recipeTitle=BFBFBF
@@ -12,7 +12,7 @@ color.resource.nei.recipeTitleHover=EFC62F
 color.resource.nei.subsetWidget=AAAAAA
 color.resource.nei.recipeBadge=EFC62F
 
-## Strings
+# Strings
 nei.recipe.page=&#999999Page %s/%s
 nei.recipe.fuel.smeltCount=§7Smelts %s items
 nei.gui.button.label.subset=%%

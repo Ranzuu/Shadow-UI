@@ -1,8 +1,8 @@
 #lang-beebetteratbees
 #colorUtils
 
-## ColorUtils
-# RGB
+# ColorUtils
+## RGB
 color.resource.beebetteratbees.neiLineBlack=000000
 color.resource.beebetteratbees.neiLineRed=C62140
 color.resource.beebetteratbees.neiLineLabelBlack=AAAAAA

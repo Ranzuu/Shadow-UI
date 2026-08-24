@@ -2,8 +2,8 @@
 #error
 #sub-text
 
-## Errors
-# Recipe Results
+# Errors
+## Recipe Results
 GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilNotFound=&#EFC62FCould not find sub-soil for the seed being inserted
 GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilMismatch.input=&#EFC62FThe stored sub-soil is incompatible with the seed being inserted
 GT5U.gui.text.recipe_result.cropsnh.industrialFarm.subSoilMismatch.farm=&#EFC62FThe current sub-soil is incompatible with the stored seed
@@ -14,7 +14,7 @@ GT5U.gui.text.recipe_result.cropsnh.industrialFarm.cannotGrow=&#EFC62FThis seed 
 GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughWater=&#EFC62FNot enough water
 GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=&#EFC62FNot enough Enriched Fertilizer
 
-# Structure errors
+## Structure errors
 cropsnh_tooltip.industrialFarm.structure.error.ComponentTierTooLow=&#C62140Component tier is too low (min %s)
 cropsnh_tooltip.industrialFarm.structure.error.GlassTierTooLow=&#C62140Glass tier too low (min %s)
 cropsnh_tooltip.industrialFarm.structure.error.EEUCount=&#C62140Too many environmental enhancement units (max %s) 
