@@ -1,3 +1,9 @@
+## ColorUtils (OC render differently)
+# RBG
+color.resource.opencomputers.neiDocTitle=676767
+color.resource.opencomputers.neiDocText=909090
+
+## Strings
 oc:gui.Assembler.Collect=§7Заберите результат сборки
 oc:gui.Assembler.Complexity=§7Сложность: %s/%s
 oc:gui.Assembler.InsertCase=§7Вставьте системный блок
