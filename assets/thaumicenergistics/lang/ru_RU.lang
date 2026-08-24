@@ -1,0 +1,22 @@
+﻿#lang-thaumicenergistics
+
+# Gui
+thaumicenergistics.gui.arcane.crafting.terminal.title=§7Arcane Terminal
+thaumicenergistics.gui.essentia.cell.title=§7Essentia Cell
+thaumicenergistics.gui.essentia.cell.workbench.title=§7Essentia Cell Workbench
+thaumicenergistics.gui.arcane.assembler.title=§7Магический сборщик
+thaumicenergistics.gui.knowledge.inscriber.title=§7Высекатель знаний
+thaumicenergistics.gui.distillation.encoder.title=§7Дистилляционный кодировщик шаблонов
+thaumicenergistics.gui.essentia.ImportBus.title=§7Essentia Import Bus
+thaumicenergistics.gui.essentia.ExportBus.title=§7Essentia Export Bus
+thaumicenergistics.gui.essentia.levelemitter.title=§7Essentia Level Emitter
+thaumicenergistics.gui.essentia.StorageBus.title=§7Essentia Storage Bus
+thaumicenergistics.gui.essentia.terminal.title=§7Essentia Terminal
+
+thaumicenergistics.gui.selected.amount=§7Количество
+thaumicenergistics.gui.selected.aspect=§7Аспект
+thaumicenergistics.gui.digivis.source.name=§7Источник ЦифроВис
+thaumicenergistics.gui.vibration.chamber.stored=Хранится: %d %s
+thaumicenergistics.gui.vibration.chamber.processing=§7Прогресс: %s
+
+thaumicenergistics.gui.priority.title=§7Priority

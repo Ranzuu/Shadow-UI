@@ -1,0 +1,26 @@
+gui.sfm.RfInputLong=§7RF输入
+gui.sfm.RfInputShort=§7RF输入
+
+gui.sfm.RfOutputLong=§7RF输出
+gui.sfm.RfOutputShort=§7RF输出
+
+gui.sfm.TypeRf=§7RF存储
+gui.sfm.TypeRfInput=§7RF供应
+gui.sfm.TypeRfOutput=§7RF接收
+gui.sfm.NoRfError=§7未选中RF存储
+
+gui.sfm.CopyCommand=§7复制[将命令拖至此处]
+
+gui.sfm.RfConditionShort=§7RF条件
+gui.sfm.RfConditionLong=§7RF条件
+gui.sfm.RfConditionMenu=§7RF等级
+gui.sfm.RfConditionInfo=§7在文本框中设置触发的电平,以及高于触发电平或低于触发电平触发
+gui.sfm.RfConditionError=§7无效的触发电平
+gui.sfm.Below=§7低于触发电平
+
+gui.sfm.DelayOutput=§7延时输出
+gui.sfm.DelayTrigger=§7延迟触发
+gui.sfm.DelayInfo=§7设定延迟的秒数，在触发器触发之前的tick(至少 5 ticks)
+gui.sfm.DelayError=§7延迟太低了
+gui.sfm.DelayRestart=§7重启
+gui.sfm.DelayIgnore=§7忽略
