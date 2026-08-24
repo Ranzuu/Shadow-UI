@@ -1,0 +1,21 @@
+ec.title.main=§7Hardcore Ender Expansion - Ender Compendium
+ec.title.main.bacon=§7Hardcore Bacon Expansion - Bacon Compendium
+ec.pointAmount=§7%s
+
+container.enhancedBrewing=§7Soporte de pociones mejorado
+container.voidChest=§7Cofre de vacío
+container.decompositionTable=§7Mesa de la descomposición
+container.experienceTable=§7Mesa de experiencia
+container.accumulationTable=§7Mesa de acumulacióon
+container.extractionTable=§7Mesa de extracción
+container.endPowderEnhancements=§7Mejoras del Polvo del Fin
+container.endPowderEnhancements.bacon=§7Mejoras del polvo de beicon
+container.charmPouch=§7Bolsa de encantamientos
+container.runeCrafting=§7Crear runas
+container.transportBeacon=§7Transporte de faro
+container.transportBeacon.bacon=§7Transporte de beicon
+container.transportBeacon.error.dimension=§7Dimensión Incorrecta
+container.transportBeacon.error.tamper=§7Ejecución detectada
+container.transportBeacon.error.nodestination=§7Ningún destino seleccionado
+container.transportBeacon.error.noenergy=§7Sin Energía
+container.button.travel=§7Viajar

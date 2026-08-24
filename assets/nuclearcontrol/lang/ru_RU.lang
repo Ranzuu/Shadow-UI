@@ -1,0 +1,22 @@
+# Internal Blocks
+gui.tile.blockThermalMonitor.name.title=§7Датчик температуры
+gui.tile.blockIndustrialAlarm.name.title=§7Промышленная сирена
+gui.tile.blockHowlerAlarm.name.title=§7Сирена «Ревун»
+gui.tile.blockRemoteThermo.name.title=§7Дистанционный датчик температуры
+gui.tile.blockInfoPanel.name.title=§7Промышленная информационная панель
+gui.tile.blockAdvancedInfoPanel.name.title=§7Продвинутая информационная панель
+gui.tile.blockEnergyCounter.name.title=§7Энергосчётчик
+gui.tile.blockAverageCounter.name.title=§7Стационарный энергосчётчик
+gui.tile.blockRangeTrigger.name.title=§7Дистанционный триггер
+
+gui.optional.numbers=§7
+
+# Original Screen Messages
+msg.nc.ScreenColor=§7Цветной экран
+msg.nc.TextColor=§7Цветной текст
+msg.nc.InfoPanelOutput=§7Выход: %sEU/т
+msg.nc.InfoPanelOutputMJ=§7Выход: %sMJ/т
+msg.nc.InfoPanelOutputSteam=§7Выход: %smB/т
+msg.nc.AverageCounterPeriod=§7Период: %sсек.
+msg.nc.HowlerAlarmSoundRange=§7Дальность звука: %s
+msg.nc.HowlerAlarmSound=§7Звук

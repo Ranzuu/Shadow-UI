@@ -1,0 +1,17 @@
+botaniamisc.noloc=§7botaniamisc.noloc
+
+# ColorUtils
+## RBG
+color.resource.botania.neiHandlerBotaniaLexicaTitle=BFBFBF
+color.resource.botania.neiHandlerBotaniaLexicaKnowledge=999999
+color.resource.botania.neiHandlerBotaniaLexicaTagline=999999
+color.resource.botania.neiHandlerBotaniaLexicaExtraInfo=AAAAAA
+color.resource.botania.neiHandlerBotaniaLexicaExtraInfoDesc=999999
+
+# Strings
+## Gui
+botania.gui.flowerBag.title=&#AAAAAACesto de Flores
+botania.gui.shroomBag.title=&#AAAAAAMushroom Pouch
+
+## Nei
+botaniamisc.neiratio=&#999999%s &#AAAAAAZoom &#999999(shift to zoom out)
