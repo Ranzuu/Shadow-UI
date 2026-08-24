@@ -55,7 +55,7 @@ gui.message.prelaunch=§7Pre-launch checklist
 gui.message.clicklink=§7Click for Galacticraft Wiki
 gui.message.thermalStatus.name=§7Thermal Control
 
-# Cotnainers
+# Containers
 container.cargoloader.name=§7Cargo Loader
 container.cargounloader.name=§7Cargo Unloader
 container.fuelloader.name=§7Fuel Loader

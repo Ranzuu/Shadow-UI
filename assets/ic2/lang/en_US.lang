@@ -121,12 +121,12 @@ ic2.SortingMachine.whitelist=§7White List
 ic2.Lathe.gui.name=§7Turning Table
 ic2.Lathe.gui.info=§7%s/%s
 
-#Block_Transformer 
+## Block_Transformer 
 ic2.Transformer.gui.Output=§7Output:
 ic2.Transformer.gui.Input=§7Input:
 ic2.Transformer.gui.refresh=§7force manual refresh only need if no energy flow in Grid
 
-#Block_EU Storage
+## Block_EU Storage
 ic2.EUStorage.gui.mod.redstone0=§7Redstone Behavior: Nothing
 ic2.EUStorage.gui.mod.redstone1=§7Redstone Behavior: Emit if full
 ic2.EUStorage.gui.mod.redstone2=§7Redstone Behavior: Emit if partially filled
@@ -142,7 +142,7 @@ ic2.EUStorage.gui.info.output=§7Out: %1$s EU/t
 ic2.blockChargepad.gui.mod.redstone0=§7Redstone Behavior: Emit if active
 ic2.blockChargepad.gui.mod.redstone1=§7Redstone Behavior: Emit if not active
 
-#Blocks_EU_Generator
+## Blocks_EU_Generator
 ic2.Generator.gui.name=§7Generator
 ic2.GeoGenerator.gui.name=§7Geothermal Generator
 ic2.RTGenerator.gui.name=§7Radioisotope Thermoelectric Gen.
@@ -164,7 +164,7 @@ ic2.StirlingGenerator.gui.name=§7Stirling Generator
 ic2.KiticGenerator.gui.name=§7Kinetic Generator
 ic2.KineticGenerator.gui.Output=§7Output: %1$s EU/t
 
-#Blocks_heat_Generator
+## Blocks_heat_Generator
 ic2.RTHeatGenerator.gui.name=§7Radioisotope Heat Generator
 
 ic2.FluidHeatGenerator.gui.name=§7Fluid Heat Generator
@@ -176,7 +176,7 @@ ic2.ElectricHeatGenerator.gui.name=§7Electric Heat Generator
 ic2.ElectricHeatGenerator.gui.hUmax=§7%1$s hU / %2$s hU Max
 ic2.ElectricHeatGenerator.gui.coils=§7Add coils to increase heat output
 
-#Blocks_kinetic_Generator
+## Blocks_kinetic_Generator
 ic2.StirlingKineticGenerator.gui.name=§7Stirling Kinetic Generator
 
 ic2.itemrotor.wind.info=§7Requirements Min: %1$sMCW Max: %2$s MCW
@@ -213,7 +213,7 @@ ic2.WaterKineticGenerator.gui.rotorspace=§7Error: no Space for Rotor
 ic2.WaterKineticGenerator.gui.rotorhealth=§7Rotorhealth: %1$s
 ic2.WaterKineticGenerator.gui.output=§7Output: %1$s kU
 
-#Guis
+# Guis
 ic2.container.personalTrader.want=§7Want:
 ic2.container.personalTrader.offer=§7Offer:
 ic2.container.personalTrader.totalTrades0=§7Performed
@@ -222,7 +222,7 @@ ic2.container.personalTrader.stock=§7Stock:
 ic2.container.personalTraderEnergy.paidFor=§7Paid For: %1$s EU
 ic2.container.personalTraderEnergy.energyBuffer=§7Buffer:
 
-#Generic
+# Generic
 ic2.generic.text.upgrade=§7compatible upgrades:
 ic2.generic.text.UUMatte=§7UU-Matter:
 ic2.generic.text.Energy=§7Energy:
@@ -241,7 +241,7 @@ ic2.generic.text.bar=§7%1$s bar
 ic2.generic.text.tick=§7/tick
 ic2.generic.text.sec=§7/sec
 
-# directions
+# Directions
 ic2.dir.top=§7top
 ic2.dir.bottom=§7bottom
 ic2.dir.north=§7north
@@ -250,7 +250,7 @@ ic2.dir.south=§7south
 ic2.dir.west=§7west
 
 # Additions block/gui same color
-#Block_EU Storage
+## Block_EU Storage
 ic2.blockBatBox=§7BatBox
 ic2.blockMFE=§7MFE
 ic2.blockMFSU=§7MFSU
@@ -260,6 +260,6 @@ ic2.blockChargepadMFE=§7Charge Pad (MFE)
 ic2.blockChargepadMFSU=§7Charge Pad (MFSU)
 ic2.blockChargepadCESU=§7Charge Pad (CESU)
 
-#Block_Transformer 
+## Block_Transformer 
 ic2.blockTransformer=§7Transformer
 ic2.blockPersonalChest=§7Personal Safe

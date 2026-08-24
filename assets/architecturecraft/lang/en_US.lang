@@ -1,5 +1,5 @@
 #lang-architecturecraft
 #colorUtils
 
-## ColorUtils (enums actually)
+# ColorUtils (enums actually)
 gui.architecturecraft.FontColor=AAAAAA

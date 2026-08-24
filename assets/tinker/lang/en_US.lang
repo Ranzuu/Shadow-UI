@@ -1,8 +1,8 @@
 #lang-tinker
 #colorUtils
 
-## ColorUtils
-# RBG
+# ColorUtils
+## RBG
 color.resource.tinker.inventoryTitle=AAAAAA
 color.resource.tinker.materialName=AAAAAA
 color.resource.tinker.materialDurability=AAAAAA
@@ -22,7 +22,7 @@ color.resource.tinker.materialArrowMass=AAAAAA
 color.resource.tinker.materialArrowBreakChance=AAAAAA
 color.resource.tinker.neiTemperature=AAAAAA
 
-## Strings
+# Strings
 crafters.ToolStation=§7Tool Station
 crafters.ToolForge=§7Tool Forge
 

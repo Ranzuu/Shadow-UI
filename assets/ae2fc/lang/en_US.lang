@@ -1,8 +1,8 @@
 #lang-ae2fc
 #colorUtils
 
-## ColorUtils
-# ARBG
+# ColorUtils
+## ARBG
 color.resource.ae2fc.guiTextColorGray=AAAAAA
 color.resource.ae2fc.stateIdle=FF7AC25F
 color.resource.ae2fc.stateCraft=FFFFF70F

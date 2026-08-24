@@ -3,18 +3,18 @@ botaniamisc.noloc=§7botaniamisc.noloc
 #sub-text
 #colorUtils
 
-## ColorUtils
-# RBG
+# ColorUtils
+## RBG
 color.resource.botania.neiHandlerBotaniaLexicaTitle=BFBFBF
 color.resource.botania.neiHandlerBotaniaLexicaKnowledge=999999
 color.resource.botania.neiHandlerBotaniaLexicaTagline=999999
 color.resource.botania.neiHandlerBotaniaLexicaExtraInfo=AAAAAA
 color.resource.botania.neiHandlerBotaniaLexicaExtraInfoDesc=999999
 
-## Strings
-# Gui
+# Strings
+## Gui
 botania.gui.flowerBag.title=&#AAAAAAFlower Pouch
 botania.gui.shroomBag.title=&#AAAAAAMushroom Pouch
 
-# Nei
+## Nei
 botaniamisc.neiratio=&#999999%s &#AAAAAAZoom &#999999(shift to zoom out)
