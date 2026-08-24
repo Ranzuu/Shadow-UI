@@ -1,3 +1,9 @@
+## ColorUtils (OC render differently)
+# RBG
+color.resource.opencomputers.neiDocTitle=676767
+color.resource.opencomputers.neiDocText=909090
+
+## Strings
 oc:gui.Assembler.Collect=§7Saída do coletador
 oc:gui.Assembler.Complexity=§7Complexidade: %s/%s
 oc:gui.Assembler.InsertCase=§7Insira uma parte base
