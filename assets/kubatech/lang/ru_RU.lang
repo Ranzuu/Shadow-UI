@@ -19,8 +19,8 @@ kubatech.gui.text.tea_ultimate.tea=§7Tea
 kubatech.gui.text.tea_ultimate.tea_limit=§7Tea limit
 kubatech.gui.text.tea_acceptor.in=§7IN: &#999999%s%s/t
 
-kubatech.gui.text.usage_line=§7Usage: &#999999%s%s EU/t
-kubatech.gui.text.time_line=§7Time: &#999999%s%s secs
+kubatech.gui.text.usage_line=§7Usage: &#999999%s EU/t
+kubatech.gui.text.time_line=§7Time: &#999999%s secs
 
 # NEI
 kubatech.defusioncrafter.tier=§7Тир корпуса: %s
