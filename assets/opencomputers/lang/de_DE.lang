@@ -1,7 +1,7 @@
 # ColorUtils (OC render differently)
 ## RBG
-color.resource.opencomputers.neiDocTitle=676767
-color.resource.opencomputers.neiDocText=909090
+color.resource.opencomputers.neiDocTitle=BFBFBF
+color.resource.opencomputers.neiDocText=999999
 
 # Strings
 oc:gui.Assembler.Collect=§7Fertiges Gerät entnehmen
