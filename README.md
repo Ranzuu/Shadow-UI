@@ -1,10 +1,8 @@
 <div align="center">
   <div align="center">
     <img
-      width="128"
-      height="128"
-      alt="pack"
-      src="https://github.com/user-attachments/assets/eb47c6f0-f554-4ccb-b18f-93ec2ec6bde2"
+      alt="ShadowUI pack logo"
+      src="pack.png"
     />
     <h1>GTNH Shadow UI</h1>
   </div>
