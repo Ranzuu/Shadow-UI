@@ -19,7 +19,7 @@ GT5U.gui.text.recipe_result.invalid_overdrive=§7Неверные настрой
 GT5U.gui.text.recipe_result.no_project_selected=§7Не работает ни над одним проектом
 
 # SpaceAssemblerFrontend
-ig.nei.module=§7Требуется модуль MK-%s
+ig.nei.module=§7Требуется модуль Mk-%s
 ig.nei.spaceassembler.project=§7Требуется %s
 ig.nei.spaceassembler.projectAnyLocation=§7любое местоположение
 ig.nei.spaceassembler.projectAt=§7в %s

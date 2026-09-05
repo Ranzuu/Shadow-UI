@@ -10,19 +10,19 @@ color.resource.gregtech.networkAnalyzerSeverityAlert=B13E53
 
 # Strings
 ## AssemblyLine
-GT5U.gui.text.structure_error.al_too_many_data_access_hatch=&#C62140Only one Data Access Hatch is allowed
-GT5U.gui.text.structure_error.al_missing_output_bus=&#C62140Missing Output Bus on the last slice
+GT5U.gui.text.structure_error.al_too_many_data_access_hatch=&#C62140Допустим только один шлюз доступа к данным
+GT5U.gui.text.structure_error.al_missing_output_bus=&#C62140Нет выходного люка на последней секции
 
 ## BaseTileEntity
 GT5U.gui.button.forbidden=&#C62140CaНельзя изменить режим для этого механизма
 
 ## BeamCrafterGui
 GT5U.gui.text.beamcrafter.guiheader=§7Current Recipe Progress
-GT5U.gui.text.beamcrafter.guiheaderbuffer=§7Current Particle Buffer
-GT5U.gui.text.beamcrafter.guiheadercrafting=§7Current Particles Required
+GT5U.gui.text.beamcrafter.guiheaderbuffer=§7Буфер частиц
+GT5U.gui.text.beamcrafter.guiheadercrafting=§7Требуемые частицы
 
 ## BioVat
-GT5U.gui.text.structure_error.too_many_radiation_hatch=&#C62140Too many radiation hatch
+GT5U.gui.text.structure_error.too_many_radiation_hatch=&#C62140Слишком много шлюзов излучения
 
 ## BlackHoleUtilityGui
 GT5U.gui.text.pulse_mode=§7Импульсный режим
@@ -66,30 +66,30 @@ GT5U.gui.circuit.generic.data_display.on=§7ВКЛ
 
 ## CircuitCombinationLock
 GT5U.gui.circuit.combination_lock.data_description=§7Мощность %d
-GT5U.gui.circuit.combination_lock.description=§7Checks Combinations
-GT5U.gui.circuit.combination_lock.name=§7Combination Lock
+GT5U.gui.circuit.combination_lock.description=§7Проверяет комбинации
+GT5U.gui.circuit.combination_lock.name=§7Кодовый замок
 
 ## CircuitEquals
-GT5U.gui.circuit.equals.data_description.equal=§7Equal
+GT5U.gui.circuit.equals.data_description.equal=§7Равно
 GT5U.gui.circuit.equals.data_description.signal=§7Сигнал
-GT5U.gui.circuit.equals.data_description.unequal=§7Unequal
+GT5U.gui.circuit.equals.data_description.unequal=§7Не равно
 GT5U.gui.circuit.equals.description=§7сигнал == это
 GT5U.gui.circuit.equals.name=§7Равно
 
 ## CircuitPulser
 GT5U.gui.circuit.data_description.length=§7Длина
 GT5U.gui.circuit.pulser.data_description.rs_out=§7RS Out
-GT5U.gui.circuit.pulser.data_display.highest=§7HIGHEST
-GT5U.gui.circuit.pulser.data_display.lowest=§7LOWEST
-GT5U.gui.circuit.pulser.description=§7Limits & Lengthens
-GT5U.gui.circuit.pulser.name=§7Pulser
+GT5U.gui.circuit.pulser.data_display.highest=§7МАКСИМУМ
+GT5U.gui.circuit.pulser.data_display.lowest=§7МИНИМУМ
+GT5U.gui.circuit.pulser.description=§7Ограничивает и удлиняет
+GT5U.gui.circuit.pulser.name=§7Импульсатор
 
 ## CircuitRandomizer
 GT5U.gui.circuit.data_description.delay=§7Задержка
 GT5U.gui.circuit.data_description.rs_off=§7RS => Выкл
 GT5U.gui.circuit.data_description.rs_on=§7RS => Вкл
 GT5U.gui.circuit.randomizer.data_description.status=§7Статус
-GT5U.gui.circuit.randomizer.description=§7Randomizes Redstone
+GT5U.gui.circuit.randomizer.description=§7Рандомизирует редстоун
 GT5U.gui.circuit.randomizer.name=§7Рандомизатор
 
 ## CircuitRedstoneMeter
@@ -97,59 +97,59 @@ GT5U.gui.circuit.redstone_meter.data_description.invert=§7Инверторны�
 GT5U.gui.circuit.redstone_meter.data_description.lower=§7Очень низкий
 GT5U.gui.circuit.redstone_meter.data_description.rs_out=§7RS Out:
 GT5U.gui.circuit.redstone_meter.data_description.upper=§7Высокий
-GT5U.gui.circuit.redstone_meter.description=§7Checks Boundaries
-GT5U.gui.circuit.redstone_meter.name=§7Redstone Meter
+GT5U.gui.circuit.redstone_meter.description=§7Проверяет границы
+GT5U.gui.circuit.redstone_meter.name=§7Измеритель редстоуна
 
 ## CircuitRepeater
 GT5U.gui.circuit.repeater.description=§7Задержки RS-сигнала
 GT5U.gui.circuit.repeater.name=§7Повторитель
 
 ## CircuitTimer
-GT5U.gui.circuit.timer.data_description.pulses=§7Pulses
+GT5U.gui.circuit.timer.data_description.pulses=§7Импульсы
 GT5U.gui.circuit.timer.data_description.time=§7Время
-GT5U.gui.circuit.timer.description=§7Pulses Redstone
+GT5U.gui.circuit.timer.description=§7Подаёт импульсы редстоуна
 GT5U.gui.circuit.timer.name=§7Таймер
 
 ## Cleanroom
-GT5U.gui.text.recipe_result.cleanroom_running=§7Cleanroom running
-GT5U.gui.text.structure_error.cleanroom_plascrete=&#C62140Not enough plascrete blocks
-GT5U.gui.text.structure_error.cleanroom_size=&#C62140Unable to identify ceiling size
+GT5U.gui.text.recipe_result.cleanroom_running=§7Чистая комната работает
+GT5U.gui.text.structure_error.cleanroom_plascrete=&#C62140Недостаточно блоков пластобетона
+GT5U.gui.text.structure_error.cleanroom_size=&#C62140Не удалось определить размер потолка
 
 ## CheckRecipeResultRegistry
-GT5U.gui.text.recipe_result.crash=&#C62140Machine turned off due to crash. Refer to the log for more info.
-GT5U.gui.text.recipe_result.cycle_idle=&#EFC62FWaiting for cycle to start
-GT5U.gui.text.recipe_result.duration_overflow=&#C62140Processing time overflowed
+GT5U.gui.text.recipe_result.crash=&#C62140Машина отключена из-за сбоя. Подробности в логе.
+GT5U.gui.text.recipe_result.cycle_idle=&#EFC62FОжидание начала цикла
+GT5U.gui.text.recipe_result.duration_overflow=&#C62140Превышено время обработки
 GT5U.gui.text.recipe_result.fluid_output_full=&#C62140Недостаточно пространства для вывода жидкости
-GT5U.gui.text.recipe_result.generating=§7Generating power
+GT5U.gui.text.recipe_result.generating=§7Выработка энергии
 GT5U.gui.text.gtnhlanth.toolowenergy=&#C62140Below Required Energy!
 GT5U.gui.text.gtnhlanth.wrongparticle=&#C62140Incorrect Particle!
-GT5U.gui.text.recipe_result.internal_error=&#C62140Recipe was found, but had internal error
+GT5U.gui.text.recipe_result.internal_error=&#C62140Рецепт найден, но произошла внутренняя ошибка
 GT5U.gui.text.recipe_result.item_output_full=&#C62140Недостаточно пространства для вывода предмета
-GT5U.gui.text.recipe_result.nac.missing_water=&#C62140Insufficient Water Supplied
-GT5U.gui.text.recipe_result.nac.waiting_for_power=§7Waiting For Power
-GT5U.gui.text.recipe_result.nac.no_valid_hatch_color=&#C62140No VCO with color %s found
-GT5U.gui.text.recipe_result.no_bec_assembler=&#C62140Condensate Observation Array Offline
-GT5U.gui.text.shutdown_reason.nac_output_hatch_missing=&#C62140Colored output hatch disappeared mid-recipe.
-GT5U.gui.text.shutdown_reason.bec_clogged=&#C62140More Than 3 Condensates Present
-GT5U.gui.text.recipe_result.no_black_hole=&#C62140Requires an active black hole
-GT5U.gui.text.recipe_result.no_data_sticks=&#C62140No Data Sticks found
-GT5U.gui.text.recipe_result.no_drilling_fluid=&#C62140No drilling fluid
-GT5U.gui.text.recipe_result.no_fuel=&#C62140No valid fuel found
-GT5U.gui.text.recipe_result.no_immersion_fluid=&#C62140No immersion fluid available
+GT5U.gui.text.recipe_result.nac.missing_water=&#C62140Недостаточно воды
+GT5U.gui.text.recipe_result.nac.waiting_for_power=§7Ожидание энергии
+GT5U.gui.text.recipe_result.nac.no_valid_hatch_color=&#C62140VCO с цветом %s не найден
+GT5U.gui.text.recipe_result.no_bec_assembler=&#C62140Массив наблюдения за конденсатом отключён
+GT5U.gui.text.shutdown_reason.nac_output_hatch_missing=&#C62140Цветной выходной шлюз пропал во время рецепта.
+GT5U.gui.text.shutdown_reason.bec_clogged=&#C62140Присутствует более 3 конденсатов
+GT5U.gui.text.recipe_result.no_black_hole=&#C62140Требуется активная чёрная дыра
+GT5U.gui.text.recipe_result.no_data_sticks=&#C62140Флешки не найдены
+GT5U.gui.text.recipe_result.no_drilling_fluid=&#C62140Нет бурового раствора
+GT5U.gui.text.recipe_result.no_fuel=&#C62140Подходящее топливо не найдено
+GT5U.gui.text.recipe_result.no_immersion_fluid=&#C62140Нет жидкости для погружения
 GT5U.gui.text.recipe_result.no_mining_pipe=&#C62140Отсутствует буровая труба
-GT5U.gui.text.recipe_result.no_recipe=§7No valid recipe found
+GT5U.gui.text.recipe_result.no_recipe=§7Подходящий рецепт не найден
 GT5U.gui.text.no_see_sky=&#C62140Cannot see the sky
 GT5U.gui.text.recipe_result.shutdown_reasonno_turbine=&#C62140No valid turbine found
 GT5U.gui.text.recipe_result.shutdown_reason.none=§7
-GT5U.gui.text.recipe_result.power_overflow=&#C62140Power Overflowed: Supplied Energy is too high for this machine.
-GT5U.gui.text.recipe_result.success=§7Processing recipe
+GT5U.gui.text.recipe_result.power_overflow=&#C62140Переполнение: подаваемая энергия слишком велика для этой машины.
+GT5U.gui.text.recipe_result.success=§7Обработка рецепта
 
 ## ConcreteBackfillerBase
 GT5U.gui.text.backfiller_current_area=§7Заливка на уровне высоты: §a%s
 GT5U.gui.text.backfiller_finished=§7Работа завершена
 
-GT5U.gui.text.recipe_result.backfiller_working=§7Pouring concrete
-GT5U.gui.text.recipe_result.backfiller_no_concrete=&#C62140No liquid concrete
+GT5U.gui.text.recipe_result.backfiller_working=§7Заливка бетона
+GT5U.gui.text.recipe_result.backfiller_no_concrete=&#C62140Нет жидкого бетона
 
 ## ConveyorUIFactory
 gt.interact.desc.conveyor.ExpImp=§7Экспорт/Импорт
@@ -265,9 +265,9 @@ GTPP.time.ticks=§7Тиков
 
 ## DecayWarehouse
 GT5U.gui.text.content-entry=§7%s:§9 %s§r
-GT5U.gui.text.contents=§7Contents:§r
+GT5U.gui.text.contents=§7Содержимое:§r
 GT5U.gui.text.decay-rate=§7Скорость распада:§9 %s§7%s
-GT5U.gui.text.nothing=§7Nothing§r
+GT5U.gui.text.nothing=§7Пусто§r
 
 ## DigitalTankBaseGui
 GT5U.machines.digitaltank.lockfluid.empty=§7Нет
@@ -278,27 +278,27 @@ GT5U.gui.text.deploying_pipe=§7Установка буровой трубы
 GT5U.gui.text.recipe_result.not_enough_energy=&#C62140Недостаточно энергии
 GT5U.gui.text.retracting_pipe=§7Втягивание трубы
 
-GT5U.gui.text.recipe_result.deploying_pipe=§7Deploying mining pipe
-GT5U.gui.text.recipe_result.extracting_pipe=§7Extracting pipe
-GT5U.gui.text.recipe_result.drilling=§7Drilling
-GT5U.gui.text.recipe_result.retracting_pipe=§7Retracting pipe
-GT5U.gui.text.recipe_result.drill_generic_finished=§7Mining pipes have been retracted
-GT5U.gui.text.recipe_result.drill_retract_pipes_finished=§7Operation aborted
+GT5U.gui.text.recipe_result.deploying_pipe=§7Установка буровой трубы
+GT5U.gui.text.recipe_result.extracting_pipe=§7Извлечение трубы
+GT5U.gui.text.recipe_result.drilling=§7Бурение
+GT5U.gui.text.recipe_result.retracting_pipe=§7Втягивание трубы
+GT5U.gui.text.recipe_result.drill_generic_finished=§7Буровые трубы втянуты
+GT5U.gui.text.recipe_result.drill_retract_pipes_finished=§7Операция прервана
 
 ## DroneCentre
-GT5U.gui.text.recipe_result.drone_noDrone=&#C62140CaCan't find any drone in Input Buses!
-GT5U.gui.text.recipe_result.drone_operating=§7Drone operating normally!
+GT5U.gui.text.recipe_result.drone_noDrone=&#C62140CaВо входных люках нет ни одного дрона!
+GT5U.gui.text.recipe_result.drone_operating=§7Дрон работает нормально!
 GT5U.gui.text.drone_search=§7Поиск имени механизма
 
 ## DroneConnectionListPanel
 GT5U.gui.text.drone_title=§7Центр управления дронами
 
 ## DroneRemoteInterfaceGUI
-GT5U.gui.text.drone_remote_text=§7Drone Centre Remote Control
+GT5U.gui.text.drone_remote_text=§7Удалённое управление центром дронов
 
 ## EndothermicFridgeGui
-GT5U.gui.text.button.cryotheum.disabled=Cryotheum Cooling: §4Disabled
-GT5U.gui.text.button.cryotheum.enabled=Cryotheum Cooling: §2Enabled
+GT5U.gui.text.button.cryotheum.disabled=Охлаждение криотеумом: §4Выключено
+GT5U.gui.text.button.cryotheum.enabled=Охлаждение криотеумом: §2Включено
 
 ## EnderFluidLinkUIFactory
 gt.interact.desc.channel=§7Канал
@@ -306,21 +306,21 @@ gt.interact.desc.set_io=§7Экспорт/Импорт
 gt.interact.desc.set_perm=§7Публ./Приватный
 
 ## ExoFoundry
-GT5U.gui.text.structure_error.exo_foundry_hypercooler_hatch=&#C62140Missing coolant hatch for hypercooler
+GT5U.gui.text.structure_error.exo_foundry_hypercooler_hatch=&#C62140Нет шлюза хладагента для гиперохладителя
 
 ## ExoFoundryGui
 GT5U.gui.text.foundry.modules.installed=§7Отображение установленных модулей
-GT5U.gui.text.foundry.modules.preview=§7Showing Preview Modules
+GT5U.gui.text.foundry.modules.preview=§7Показаны предварительные модули
 
 ## ExothermicHearthGui
-GT5U.gui.text.button.pyrotheum.disabled=Pyrotheum Heating: §4Disabled
-GT5U.gui.text.button.pyrotheum.enabled=Pyrotheum Heating: §2Enabled
+GT5U.gui.text.button.pyrotheum.disabled=Нагрев пиротеумом: §4Выключен
+GT5U.gui.text.button.pyrotheum.enabled=Нагрев пиротеумом: §2Включён
 
 ## ExtremeIndustrialGreenhouse
 GT5U.gui.text.cannot_change_when_running=&#C62140CaНевозможно изменить конфигурацию во время работы!
 
 ## FrothFlotationCell
-GT5U.gui.text.recipe_result.machine_locked_to_different_recipe=&#C62140Machine is already locked to a different recipe
+GT5U.gui.text.recipe_result.machine_locked_to_different_recipe=&#C62140Машина уже заблокирована на другом рецепте
 
 ## FusionComputer
 GT5U.gui.text.fusion_computer.hit_to_start=Ударь киянкой для (пере)запуска механизма если он не запускается.
@@ -338,7 +338,7 @@ gt.interact.desc.Wireless_Fluid_Detector.FluidTHR=§7Fluid threshold
 
 ## HatchDroneDownLinkGui
 GT5U.gui.text.drone_custom_name=§7Собственное имя механизма
-GT5U.gui.text.drone_no_connection=§7No connections
+GT5U.gui.text.drone_no_connection=§7Нет подключений
 
 ## HatchInputBusMEGui
 GT5U.gui.text.disabled=§7Отключён§f
@@ -348,13 +348,13 @@ GT5U.machines.stocking_bus.min_stack_size=§7Мин. размер стака
 GT5U.machines.stocking_bus.refresh_time=§7Время обновления слота (тиков)
 
 ## HatchInputME
-GT5U.gui.text.recipe_result.stocking_hatch_fail_extraction=&#C62140FaFailed to extract expected amount of fluids from stocking hatch. This can be caused by attaching multiple storage fluid buses to the same tank.
+GT5U.gui.text.recipe_result.stocking_hatch_fail_extraction=&#C62140FaНе удалось извлечь ожидаемое количество жидкости из складского шлюза. Причиной может быть подключение нескольких жидкостных шин хранения к одному баку.
 
 ## HatchInputMEGui
 GT5U.machines.stocking_hatch.min_amount=§7Мин. количество
 
 ## HatchInputBusME
-GT5U.gui.text.recipe_result.stocking_bus_fail_extraction=&#C62140FaFailed to extract expected amount of items from stocking bus. This can be caused by attaching multiple storage buses to the same inventory.
+GT5U.gui.text.recipe_result.stocking_bus_fail_extraction=&#C62140FaНе удалось извлечь ожидаемое количество предметов из складского люка. Причиной может быть подключение нескольких шин хранения к одному инвентарю.
 
 ## HatchNonConsumableBase
 GT5U.gui.text.item_amount=§7Количество
@@ -372,22 +372,22 @@ GT5U.gui.text.shutdown_reason.overheated=&#C62140HIP Unit overheated!
 GT5U.gui.title.unknown=§7Неизвестно
 
 ## IndustrialCuttingMachine
-GT5U.gui.text.recipe_result.sawblade_missing=&#C62140Needs a sawblade in the controller slot
-GT5U.gui.text.recipe_result.sawblade_tier_not_high_enough=&#C62140Sawblade tier is not high enough for the installed energy hatches
+GT5U.gui.text.recipe_result.sawblade_missing=&#C62140Нужна пила в слоте контроллера
+GT5U.gui.text.recipe_result.sawblade_tier_not_high_enough=&#C62140Тир пилы недостаточен для установленных энерговводов
 
 ## IndustrialElectromagneticSeparator
-GT5U.gui.text.recipe_result.electromagnet_insufficient=&#C62140Electromagnet too weak to handle multi-amp energy hatches
-GT5U.gui.text.recipe_result.electromagnet_missing=&#C62140Needs an Electromagnet to run
+GT5U.gui.text.recipe_result.electromagnet_insufficient=&#C62140Электромагнит слишком слаб для многоамперных энерговводов
+GT5U.gui.text.recipe_result.electromagnet_missing=&#C62140Для работы нужен электромагнит
 
 ## IndustrialLaserEngraver
-GT5U.gui.text.recipe_result.laser_insufficient=&#C62140Laser source is too weak to run this recipe
-GT5U.gui.text.structure_error.laser_need_uev=&#C62140Need UEV-tiered laser for Multi-Amp support
+GT5U.gui.text.recipe_result.laser_insufficient=&#C62140Источник лазера слишком слаб для этого рецепта
+GT5U.gui.text.structure_error.laser_need_uev=&#C62140Для поддержки многоамперности нужен лазер тира UEV
 
 ## IndustrialRockBreaker
 GT5U.gui.text.recipe_result.no_lava=&#C62140Отсутствует лава
 
 ## IsaMill
-GT5U.gui.text.recipe_result.no_milling_ball=&#C62140No milling ball found
+GT5U.gui.text.recipe_result.no_milling_ball=&#C62140Мелющий шар не найден
 
 ## IsotopeDecayFrontend
 GT5U.gui.text.alpha=§7α-распад
@@ -397,7 +397,7 @@ GT5U.gui.text.beta-plus=§7β+ распад
 GT5U.gui.text.cluster=§7Распад кластера
 GT5U.gui.text.decay-type=§7Тип распада: %s
 GT5U.gui.text.half-life=§7Период полураспада: %s %s
-GT5U.gui.text.isotope-prod-per-s=§7Prod/Stack/Second: %s
+GT5U.gui.text.isotope-prod-per-s=§7Производство/стак/секунда: %s
 GT5U.gui.text.spontaneous-fission=§7Спонтанное деление
 GT5U.gui.text.unknown=§7Неизвестно
 GTPP.time.days=§7Дни
@@ -412,32 +412,32 @@ gt.interact.desc.Item_Meter.DetectSlot=§7Обнаружить слот #
 GT5U.gui.select.current=§7Состояние:
 
 ## LapotronicSuperCapacitor
-GT5U.gui.text.structure_error.lsc_cap=&#C62140Too many empty capacitors
+GT5U.gui.text.structure_error.lsc_cap=&#C62140Слишком много пустых конденсаторов
 
 ## LargeBoilerGui
 GT5U.machines.large_boiler.gui.consumption_fluid=§7Fluid consumption
 GT5U.machines.large_boiler.gui.consumption_solid=§7Item consumption
-GT5U.machines.large_boiler.gui.solid_burn=§7Твёрдое топливо сгорает в течение: §9%s§r сек.
-GT5U.machines.large_boiler.gui.fluid_burn=§7Жидкое топливо сгорает в течение: §9%s§r сек.
+GT5U.machines.large_boiler.gui.solid_burn=§7Твёрдое топливо сгорает в течение: §9%s§rс/§9%s§rс
+GT5U.machines.large_boiler.gui.fluid_burn=§7Жидкое топливо сгорает в течение: §9%s§rс/§9%s§rс
 
 ## LargeChemicalReactor
-GT5U.gui.text.structure_error.need_exactly_one_coil=&#C62140Needs exactly 1 Heating Coil
+GT5U.gui.text.structure_error.need_exactly_one_coil=&#C62140Нужна ровно 1 нагревательная катушка
 
 ## LargeCombustionEngine
-GT5U.gui.text.recipe_result.fuel_quality_too_high=&#C62140Fuel quality too high to run without boost
-GT5U.gui.text.recipe_result.no_lubricant=&#C62140No lubricant found
+GT5U.gui.text.recipe_result.fuel_quality_too_high=&#C62140Качество топлива слишком высокое для работы без ускорения
+GT5U.gui.text.recipe_result.no_lubricant=&#C62140Смазка не найдена
 
 ## LargeFluidExtractorGui
-GT5U.gui.text.structure_error.large_fluid_extractor_not_enough_casings=&#C62140Not enough casings: need %d, but\nhave %d.
+GT5U.gui.text.structure_error.large_fluid_extractor_not_enough_casings=&#C62140Недостаточно корпусов: нужно %d, а\nимеется %d.
 
 ## LargeHadronColliderGui
-GT5U.gui.text.LHC.acceleratormode=§7Accelerating beam...
-GT5U.gui.text.LHC.beamenergykeV=§7Current Beam Energy %seV
-GT5U.gui.text.LHC.beamrate=§7Current Beam Rate
-GT5U.gui.text.LHC.collidermode=§7Colliding beam...
-GT5U.gui.text.LHC.completedcycles=§7Completed Cycles
+GT5U.gui.text.LHC.acceleratormode=§7Ускорение пучка...
+GT5U.gui.text.LHC.beamenergykeV=§7Текущая энергия пучка %seV
+GT5U.gui.text.LHC.beamrate=§7Текущая интенсивность пучка
+GT5U.gui.text.LHC.collidermode=§7Столкновение пучков...
+GT5U.gui.text.LHC.completedcycles=§7Завершено циклов
 GT5U.gui.text.LHC.off=§7Откл.
-GT5U.gui.text.LHC.powercost=§7Current Power Draw: %s EU/t
+GT5U.gui.text.LHC.powercost=§7Текущее потребление: %s EU/t
 GT5U.gui.text.LHC.status=§7Статус: %s
 GT5U.gui.text.gtnhlanth.inputinterrupt=&#C62140LHC Input Beam Interrupted
 GT5U.gui.text.gtnhlanth.noaccel=&#C62140LHC Accelerator Stopped
@@ -447,7 +447,7 @@ GT5U.gui.text.gtnhlanth.noparticle=&#C62140No Particle Found
 GT5U.gui.text.lma_craftingfx=§7Показать эффекты крафта
 
 ## LargeNeutralizationEngineGui
-GT5U.gui.text.residue_change=§7Residue Change: §c+%s§f/§a-%s §f(%s)
+GT5U.gui.text.residue_change=§7Изменение остатка: §c+%s§f/§a-%s §f(%s)
 
 ## LargeRocketEngine
 GT5U.gui.text.recipe_result.no_air=&#C62140Отсутствует воздух
@@ -457,10 +457,10 @@ GT5U.gui.text.recipe_result.no_co2=&#C62140Отсутствует CO2
 GT5U.gui.text.recipe_result.no_oxygen=&#C62140Отсутствует кислород
 
 ## Latex
-GT5U.gui.text.structure_error.latex_singularity=&#C62140Rumor says you need §osomething§r to have such powerful energy hatches
+GT5U.gui.text.structure_error.latex_singularity=&#C62140Ходят слухи, что для таких мощных энерговводов нужно §oкое-что§r
 
 ## LESU
-GT5U.gui.text.structure_error.lesu_error=&#C62140Unable to identify LESU structure
+GT5U.gui.text.structure_error.lesu_error=&#C62140Не удалось определить структуру LESU
 
 ## LinkedPurificationUnit
 GT5U.infodata.purification_plant.linked_units=§7Привязанные очистные установки:
@@ -469,14 +469,14 @@ GT5U.infodata.purification_plant.linked_units.status.disabled=§7Выключе�
 GT5U.infodata.purification_plant.linked_units.status.incomplete=&#C62140Незавершённая структура
 
 ## ManualTrafo
-GT5U.gui.text.structure_error.manual_transformer_dynamo=&#C62140Dynamo hatches must be of the same tier
-GT5U.gui.text.structure_error.manual_transformer_energy=&#C62140Energy hatches must be of the same tier
+GT5U.gui.text.structure_error.manual_transformer_dynamo=&#C62140Энерговыводы должны быть одного тира
+GT5U.gui.text.structure_error.manual_transformer_energy=&#C62140Энерговводы должны быть одного тира
 
 ## MassFabricator
-GT5U.gui.text.recipe_result.no_scrap=&#C62140Input too low quality
+GT5U.gui.text.recipe_result.no_scrap=&#C62140Качество сырья слишком низкое
 
 ## MegaDistillTower
-GT5U.gui.text.structure_error.missing_top=&#C62140Top layer is not valid
+GT5U.gui.text.structure_error.missing_top=&#C62140Верхний слой неверен
 
 ## MegaMultiBlockBase
 GT5U.multiblock.efficiency=Эффективность
@@ -484,14 +484,14 @@ GT5U.multiblock.energy=§7Энергии накоплено
 GT5U.multiblock.recipesDone=§7Рецепты завершены
 
 ## MicrowaveEnergyTransmitterGui
-GT5U.gui.text.microwave_energy_transmitter.d=§7Target Dim
+GT5U.gui.text.microwave_energy_transmitter.d=§7Целевое измерение
 GT5U.gui.text.microwave_energy_transmitter.x=§7Координата-X
 GT5U.gui.text.microwave_energy_transmitter.y=§7Координата-Y
 GT5U.gui.text.microwave_energy_transmitter.z=§7Координата-Z
 
 ## MissingStructureWrapperCasings
-GT5U.gui.text.structure_error.missing_casings=&#C62140Not enough casings: needs at least %s, found %s
-GT5U.gui.text.structure_error.missing_casings_specific=&#C62140Not enough %s: need at least %s, found %s
+GT5U.gui.text.structure_error.missing_casings=&#C62140Недостаточно корпусов: нужно минимум %s, найдено %s
+GT5U.gui.text.structure_error.missing_casings_specific=&#C62140Недостаточно %s: нужно минимум %s, найдено %s
 
 ## DeepEarthHeatingPump
 GT5U.gui.text.circulating_fluid=§7Циркулирующая жидкость
@@ -502,7 +502,7 @@ gt.interact.desc.mb.running=§7Неполадок не обнаружено.
 GT5U.gui.text.amount=§7Количество:
 GT5U.gui.text.invalid_parameters=&#C62140Неверные параметры.
 GT5U.gui.text.lockedvalue=§7Заблокировано: %s
-GT5U.gui.text.structure_error.one_tt_or_two_energy=&#C62140Either 1 TecTech energy hatch or 2 normal energy hatches are allowed.
+GT5U.gui.text.structure_error.one_tt_or_two_energy=&#C62140Допускается либо 1 экзотический энерговвод, либо 2 обычных.
 GT5U.gui.text.per_day=§7В день:
 GT5U.gui.text.per_hour=§7В час:
 GT5U.gui.text.per_minute=§7В минуту:
@@ -513,11 +513,11 @@ GT5U.gui.text.powerfail_events=§7События сбоя питания
 
 GT5U.gui.text.progress_recipe=§7Прогресс: %ss / %ss (%s%%)
 GT5U.gui.text.progress_detail=§7Прогресс: %s%% §7(§f%ss§7/§f%ss§7)§r
-GT5U.gui.text.rate_short=&#999999(§7%s/s§f)
+GT5U.gui.text.rate_short=&#999999(§7%s/с§f)
 GT5U.gui.text.rate_short_slow=&#999999(§7%ss/каждый§f)
 GT5U.gui.text.rate_large_suffix=&#999999[§7%s§f]
 GT5U.gui.text.item_amount_display=§b%s§f x §6%s§f
-GT5U.gui.text.fluid_amount_display=§b%s§f x §6%sL§f
+GT5U.gui.text.fluid_amount_display=§b%s§f x §6%sЛ§f
 
 GT5U.gui.text.rangedvalue=§7Радиус: %s-%s
 GT5U.gui.text.shutdown_duration=&#C62140Отключён §e%s §4ч §e%s §4м §e%s §4с назад.
@@ -526,25 +526,25 @@ GT5U.multiblock.parallelism=§7Макс. параллель
 GTPP.CC.parallel=§7Максимум параллелей
 
 ## MultiBlockBaseGui
-GT5U.gui.text.shutdown_reason.computation_loss=&#C62140Shut down due to computation loss.
+GT5U.gui.text.shutdown_reason.computation_loss=&#C62140Отключён из-за потери вычислений.
 GT5U.multiblock.startup=§7Идёт запуск...
 
 ## MultiLathe
-GT5U.gui.text.structure_error.missing_pipe_casing=&#C62140Missing Pipe Casing
+GT5U.gui.text.structure_error.missing_pipe_casing=&#C62140Нет полого корпуса
 
 ## NanochipAssemblyModuleBaseGui
 GT5U.gui.text.nac.module.status.connected=§7Присоединён к главному комплексу
 GT5U.gui.text.nac.module.status.disconnected=&#C62140Отключено от главного комплекса
 
 ## NanoForge
-GT5U.gui.text.structure_error.missing_nanite=&#C62140Missing Nanite in controller slot
+GT5U.gui.text.structure_error.missing_nanite=&#C62140Нет нанита в слоте контроллера
 
 ## NuclearReactor
 GT5U.gui.text.recipe_result.no_li2bef4=&#C62140Отсутствует Li2BeF4
-GT5U.gui.text.recipe_result.warm_up=§7Warming up
+GT5U.gui.text.recipe_result.warm_up=§7Прогрев
 
 ## OilCracker
-GT5U.gui.text.structure_error.cracker_missing_middle_input_hatch=&#C62140Missing Input Hatch for cracking fluid
+GT5U.gui.text.structure_error.cracker_missing_middle_input_hatch=&#C62140Нет среднего входного шлюза (жидкость для крекинга)
 
 ## OilDrillBase
 GT5U.gui.text.drill_exhausted=§7Бур завершил добычу всех ресурсов
@@ -582,25 +582,25 @@ GT5U.nei.display.average=Среднее: %s EU/t %s
 GT5U.gui.text.tier_name_with_parentheses=&#999999(§r%s&#999999)
 
 ## PCBFactory
-GT5U.gui.text.recipe_result.bio_upgrade_missing=&#C62140Recipe needs Bio Upgrade to start
+GT5U.gui.text.recipe_result.bio_upgrade_missing=&#C62140Для рецепта нужна биокамера
 GT5U.gui.text.recipe_result.nanites_missing=&#C62140Отсутствуют наниты
 
 ## PlasmaForge
-GT5U.gui.text.structure_error.energy_hatch_tier_mismatch=&#C62140Energy hatches must be of the same tier
+GT5U.gui.text.structure_error.energy_hatch_tier_mismatch=&#C62140Энерговводы должны быть одного тира
 
 ## PlasmaForgeGui
 GT5U.DTPF.catalysttier=§7Тир катализатора
-GT5U.DTPF.convergencebutton=§7Allow Convergence
+GT5U.DTPF.convergencebutton=§7Разрешить конвергенцию
 
 ## PositionedStructureError
 GT5U.gui.text.structure_error.any_of=&#AAAAAAAny of:
-GT5U.gui.text.structure_error.wrong_block=&#AAAAAAInvalid block at (%s, %s, %s)
-GT5U.gui.text.structure_error.wrong_block_expected=&#AAAAAAExpected at (%s, %s, %s):
-GT5U.gui.text.structure_error.wrong_block_expected_single=&#AAAAAAExpects %s at (%s, %s, %s)
+GT5U.gui.text.structure_error.wrong_block=&#AAAAAAНеверный блок в (%s, %s, %s)
+GT5U.gui.text.structure_error.wrong_block_expected=&#AAAAAAОжидается в (%s, %s, %s):
+GT5U.gui.text.structure_error.wrong_block_expected_single=&#AAAAAAОжидается %s в (%s, %s, %s)
 
 ## PowerGogglesGuiOverlay
-GT5U.power_goggles_config.notation_scientific=§fSCIENTIFIC
-GT5U.power_goggles_config.notation_engineering=§fENGINEERING
+GT5U.power_goggles_config.notation_scientific=§fНАУЧНАЯ
+GT5U.power_goggles_config.notation_engineering=§fИНЖЕНЕРНАЯ
 GT5U.power_goggles_config.notation_si=§fСИ
 GT5U.power_goggles_config.reading_both=§fОБЕ
 GT5U.power_goggles_config.reading_total=§fВ ОБЩЕМ
@@ -614,48 +614,48 @@ GT5U.power_goggles_config.toggle_reading=§fПереключить тип чте
 GT5U.power_goggles_config.graph_scale=§fМасштаб графика: %s
 GT5U.power_goggles_config.graph_scale_auto=§fАвтоматический
 GT5U.power_goggles_config.graph_scale_manual=§fРучной
-GT5U.power_goggles_config.manual_graph_min=§fManual Min Value
-GT5U.power_goggles_config.manual_graph_min_tooltip=§fManual graph minimum (must be lower than Manual Max Value)
-GT5U.power_goggles_config.manual_graph_max=§fManual Max Value
-GT5U.power_goggles_config.manual_graph_max_tooltip=§fManual graph maximum (must be higher than Manual Min Value)
-GT5U.power_goggles_config.toggle_power_bar=§fShow Power Bar: %s
-GT5U.power_goggles_config.toggle_power_bar_tooltip=§fGradient based on %% EU consumed in the last 5 minutes relative to current storage
+GT5U.power_goggles_config.manual_graph_min=§fРучное минимальное значение
+GT5U.power_goggles_config.manual_graph_min_tooltip=§fРучной минимум графика (должен быть меньше ручного максимума)
+GT5U.power_goggles_config.manual_graph_max=§fРучное максимальное значение
+GT5U.power_goggles_config.manual_graph_max_tooltip=§fРучной максимум графика (должен быть больше ручного минимума)
+GT5U.power_goggles_config.toggle_power_bar=§fПоказывать полосу энергии: %s
+GT5U.power_goggles_config.toggle_power_bar_tooltip=§fГрадиент по доле %% EU, потраченных за последние 5 минут, относительно текущего запаса
 GT5U.power_goggles_config.toggle_hud_with_chat=§fСкрыть HUD при открытом чате: %s
 GT5U.power_goggles_config.reset_defaults=§fСбросить все настройки
-GT5U.power_goggles_config.reset_defaults_tooltip=§fReset all Power Goggles settings to default values
-GT5U.power_goggles_config.main_text_scale=§fStorage Text Scale
-GT5U.power_goggles_config.sub_text_scale=§fSub Text Scale
+GT5U.power_goggles_config.reset_defaults_tooltip=§fСбросить все настройки энергетических очков к значениям по умолчанию
+GT5U.power_goggles_config.main_text_scale=§fМасштаб текста запаса
+GT5U.power_goggles_config.sub_text_scale=§fМасштаб вспомогательного текста
 GT5U.power_goggles_config.hud_scale=§fМасштаб HUD
 
 GT5U.power_goggles_config.gradient_bad=§fПлохой цвет градиента
-GT5U.power_goggles_config.gradient_bad_tooltip=§fAffects what color the power rectangle's gradient approaches as EU change goes lower
+GT5U.power_goggles_config.gradient_bad_tooltip=§fЗадаёт цвет, к которому стремится градиент прямоугольника энергии при снижении EU
 GT5U.power_goggles_config.gradient_ok=§fOK Цвет градиента
-GT5U.power_goggles_config.gradient_ok_tooltip=§fAffects what color the power rectangle's gradient approaches as EU change approaches 0
+GT5U.power_goggles_config.gradient_ok_tooltip=§fЗадаёт цвет, к которому стремится градиент прямоугольника энергии при изменении EU около нуля
 GT5U.power_goggles_config.gradient_good=§fХороший цвет градиента
-GT5U.power_goggles_config.gradient_good_tooltip=§fAffects what color the power rectangle's gradient approaches as EU change goes higher
+GT5U.power_goggles_config.gradient_good_tooltip=§fЗадаёт цвет, к которому стремится градиент прямоугольника энергии при росте EU
 
-GT5U.power_goggles_config.background_color=§fChart Background Color
-GT5U.power_goggles_config.background_color_tooltip=§fAffects the background color of the power graph
-GT5U.power_goggles_config.border_color=§fChart Border Color
-GT5U.power_goggles_config.border_color_tooltip=§fAffects the border color of the power graph
-GT5U.power_goggles_config.chart_max_text_color=§fChart Max Text Color
-GT5U.power_goggles_config.chart_max_text_color_tooltip=§fAffects the chart maximum value label color
-GT5U.power_goggles_config.chart_manual_scale_indicator_color=§fChart Manual Scale Indicator Color
-GT5U.power_goggles_config.chart_manual_scale_indicator_color_tooltip=§fAffects the color of the manual scale indicator icon
-GT5U.power_goggles_config.chart_min_text_color=§fChart Min Text Color
-GT5U.power_goggles_config.chart_min_text_color_tooltip=§fAffects the chart minimum value label color
-GT5U.power_goggles_config.background_lines_color=§fMeasurements Background Color
-GT5U.power_goggles_config.background_lines_color_tooltip=§fAffects the background color of the measurements tab
+GT5U.power_goggles_config.background_color=§fЦвет фона графика
+GT5U.power_goggles_config.background_color_tooltip=§fЗадаёт цвет фона графика энергии
+GT5U.power_goggles_config.border_color=§fЦвет рамки графика
+GT5U.power_goggles_config.border_color_tooltip=§fЗадаёт цвет рамки графика энергии
+GT5U.power_goggles_config.chart_max_text_color=§fЦвет текста максимума графика
+GT5U.power_goggles_config.chart_max_text_color_tooltip=§fЗадаёт цвет подписи максимального значения графика
+GT5U.power_goggles_config.chart_manual_scale_indicator_color=§fЦвет индикатора ручного масштаба
+GT5U.power_goggles_config.chart_manual_scale_indicator_color_tooltip=§fЗадаёт цвет значка индикатора ручного масштаба
+GT5U.power_goggles_config.chart_min_text_color=§fЦвет текста минимума графика
+GT5U.power_goggles_config.chart_min_text_color_tooltip=§fЗадаёт цвет подписи минимального значения графика
+GT5U.power_goggles_config.background_lines_color=§fЦвет фона измерений
+GT5U.power_goggles_config.background_lines_color_tooltip=§fЗадаёт цвет фона вкладки измерений
 
 GT5U.power_goggles_config.text_bad=§fПлохой цвет текста
-GT5U.power_goggles_config.text_bad_tooltip=§fAffects Text and Power Chart color when EU change is negative
+GT5U.power_goggles_config.text_bad_tooltip=§fЗадаёт цвет текста и графика энергии при отрицательном изменении EU
 GT5U.power_goggles_config.text_ok=§fOK Цвет текста
-GT5U.power_goggles_config.text_ok_tooltip=§fAffects Text color when EU change is 0
+GT5U.power_goggles_config.text_ok_tooltip=§fЗадаёт цвет текста при нулевом изменении EU
 GT5U.power_goggles_config.text_good=§fХороший цвет текста
-GT5U.power_goggles_config.text_good_tooltip=§fAffects Text and Power Chart color when EU change is positive
+GT5U.power_goggles_config.text_good_tooltip=§fЗадаёт цвет текста и графика энергии при положительном изменении EU
 
 ## PowerSubStation
-GT5U.gui.text.recipe_result.managing_power=§7Managing power
+GT5U.gui.text.recipe_result.managing_power=§7Управление энергией
 
 ## PumpUIFactory
 gt.interact.desc.Pump.Conditional=§7Условный
@@ -675,14 +675,14 @@ GT5U.nei.purified_water.grade_3.1=§7+%s%%/%dЛ
 GT5U.nei.purified_water.grade_3.2=§7Возвращается в количестве, эквивалентном потребленному флокулянту.
 
 ## PurificationUnitPhAdjustment
-GT5U.gui.text.shutdown_reason.critical_ph_value=&#C62140pH exceeded critical value.
+GT5U.gui.text.shutdown_reason.critical_ph_value=&#C62140pH превысил критическое значение.
 
 ## PurificationUnitPhAdjustmentFrontend
 GT5U.nei.purified_water.grade_4.0=§7+%s pH/стак
 GT5U.nei.purified_water.grade_4.1=§7%s pH/1000Л
 
 ## QuantumForceTransformer
-GT5U.gui.text.recipe_result.no_catalyst=&#C62140No valid catalyst found
+GT5U.gui.text.recipe_result.no_catalyst=&#C62140Подходящий катализатор не найден
 
 ## ReasonOutOfFluid
 GT5U.gui.text.out_of_fluid=&#C62140Не поставлены следующие жидкости: §b%s§f x §6%s Л
@@ -694,23 +694,23 @@ GT5U.gui.text.out_of_item=&#C62140Не поставлены следующие �
 GT5U.gui.text.out_of_stuff=&#C62140Не поставлены следующие ресурсы: §b%s§f x §6%s
 
 ## ResultInsufficientHeat
-GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Recipe needs more heat to start. Required: %s K (%s§7)
+GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Для рецепта нужно больше тепла. Требуется: %s K (%s§7)
 
 ## ResultInsufficientMachineTier
-GT5U.gui.text.recipe_result.insufficient_machine_tier=&#C62140Recipe needs higher structure tier. Required: %s
+GT5U.gui.text.recipe_result.insufficient_machine_tier=&#C62140Для рецепта нужен более высокий тир структуры. Требуется: %s
 
 ## ResultInsufficientPower
-GT5U.gui.text.recipe_result.insufficient_power=&#C62140Recipe needs more power to start. Required: %s EU/t (%s§7)
+GT5U.gui.text.recipe_result.insufficient_power=&#C62140Рецепту требуется больше энергии для запуска. Требуется: %s EU/t (%s§7)
 
 ## ResultInsufficientStartupPower
-GT5U.gui.text.recipe_result.insufficient_startup_power=&#C62140Recipe needs higher startup power. Required: %s
+GT5U.gui.text.recipe_result.insufficient_startup_power=&#C62140Рецепту нужно больше энергии для запуска. Требуется: %s EU/t
 GT5U.gui.text.recipe_result.insufficient_startup_power_with_amperage=&#C62140Recipe needs higher startup power. Required: &#EFC62F%s EU/t&#C62140. Requires &#EFC62F%s&#C62140 A rounded to &#EFC62F%s&#C62140 64A energy hatches
 
 ## ResultInsufficientVoltage
-GT5U.gui.text.recipe_result.insufficient_voltage=&#C62140Recipe needs a higher voltage to start. Required: %s EU/t (%s§7)
+GT5U.gui.text.recipe_result.insufficient_voltage=&#C62140Для рецепта нужен более высокий вольтаж. Требуется: %s EU/t (%s§7)
 
 ## ResultMissingApiaryFlowers
-GT5U.gui.text.recipe_result.apiary_missing_flowers=&#C62140Missing flowers: %s
+GT5U.gui.text.recipe_result.apiary_missing_flowers=&#C62140Не хватает цветов: %s
 
 ## ResultMissingItem
 GT5U.gui.text.recipe_result.missing_item=&#C62140Отсутствует требуемый предмет: §b%s§f
@@ -720,9 +720,9 @@ GT5U.gui.text.shutdown_reasoninsufficient_dynamo=&#C62140Shut down due to insuff
 GT5U.gui.text.shutdown_reasonno_machine_part=&#C62140No correct machine part in controller slot.
 GT5U.gui.text.shutdown_reasonno_repair=&#C62140Shut down due to machine damage.
 GT5U.gui.text.recipe_result.no_water=&#C62140Отсутствует вода
-GT5U.gui.text.shutdown_reason.pollution_fail=&#C62140FaFailed to output the pollution.
-GT5U.gui.text.shutdown_reason.power_loss=&#C62140Shut down due to power loss.
-GT5U.gui.text.shutdown_reason.structure_incomplete=&#C62140Shut down due to incomplete structure.
+GT5U.gui.text.shutdown_reason.pollution_fail=&#C62140FaНе удалось вывести загрязнение.
+GT5U.gui.text.shutdown_reason.power_loss=&#C62140Отключён из-за потери питания.
+GT5U.gui.text.shutdown_reason.structure_incomplete=&#C62140Отключён из-за незавершённой структуры.
 GT5U.gui.text.shutdown_reason.fluid_output_failed=&#C62140FaНе удалось вывести все жидкости.
 GT5U.gui.text.shutdown_reason.item_output_failed=&#C62140FaНе удалось вывести все предметы.
 
@@ -730,101 +730,101 @@ GT5U.gui.text.shutdown_reason.item_output_failed=&#C62140FaНе удалось �
 GT5U.gui.text.structure_error.sofc_missing_input_hatches=&#C62140Missing Input Hatches: &#EFC62Frequires 1 for Fuel and 1 for Oxygen&#C62140, found &#EFC62F%s
 
 ## SolarFactory
-GT5U.gui.text.recipe_result.low_wafer_tier=&#C62140Found wafer is too low tier for the recipe
-GT5U.gui.text.recipe_result.no_wafer=&#C62140No wafer was found
-GT5U.gui.text.recipe_result.not_enough_wafer=&#C62140Found wafer but recipe requires more than given
-GT5U.gui.text.structure_error.solar_factory_precise=&#C62140CaCasing not precise enough
+GT5U.gui.text.recipe_result.low_wafer_tier=&#C62140Тир найденной вафли слишком низкий для рецепта
+GT5U.gui.text.recipe_result.no_wafer=&#C62140Вафля не найдена
+GT5U.gui.text.recipe_result.not_enough_wafer=&#C62140Вафля найдена, но для рецепта её нужно больше
+GT5U.gui.text.structure_error.solar_factory_precise=&#C62140CaКорпус недостаточно точный
 GT5U.machines.solarindicator1=§7Время дня
 GT5U.machines.solarindicator2=§7Не дождя
 GT5U.machines.solarindicator3=§7Имеет доступ к небу
 
 ## SpinmatronGui
-GT5U.gui.text.recipe_result.invalidfluidsup=&#C62140Missing Fluid Required For Operation
+GT5U.gui.text.recipe_result.invalidfluidsup=&#C62140Нет жидкости, необходимой для работы
 GT5U.gui.multimachine.spinmatron.mode=§7Режим: %s
 GT5U.gui.multimachine.spinmatron.parallels=§7Параллелей: %s
-GT5U.gui.multimachine.spinmatron.rotational_power=§7Rotational Power: %s
+GT5U.gui.multimachine.spinmatron.rotational_power=§7Вращательная мощность: %s
 GT5U.gui.multimachine.spinmatron.speed=§7Скорость: %s
 
 ## SprayColorInfiniteGui
 gt.behaviour.paintspray.infinite.gui.header=§7Выберите цвет
 
 ## StructureErrorRegistry
-GT5U.gui.text.structure_error.block_not_loaded=&#C62140Some block is not chunk loaded
-GT5U.gui.text.structure_error.coil_level_not_enough=&#C62140The coil level is not enough
-GT5U.gui.text.structure_error.energy_hatch_exceed_glass=&#C62140Energy hatch tier cannot exceed glass tier
-GT5U.gui.text.structure_error.energy_hatch_not_needed=&#C62140Energy Hatches are not needed
-GT5U.gui.text.structure_error.missing_data_hatch=&#C62140Missing hatch for Data Input
-GT5U.gui.text.structure_error.one_energy_hatch_on_laser=&#C62140Only one energy hatch if using Multi-Amp or Laser Hatches
-GT5U.gui.text.structure_error.one_uncertainty_hatch=&#C62140Require exactly 1 Uncertainty Hatch
-GT5U.gui.text.structure_error.too_long=&#C62140The structure is too long
-GT5U.gui.text.structure_error.too_short_height=&#C62140The structure is too short
-GT5U.gui.text.structure_error.too_short_length=&#C62140The structure is too short
-GT5U.gui.text.structure_error.too_tall=&#C62140The structure is too tall
-GT5U.gui.text.structure_error.unknown_multiblock_tier=&#C62140Unknown multiblock tier
-GT5U.gui.text.structure_error.unknown=&#C62140Unknown structure error
-GT5U.gui.text.structure_error.unneeded_muffler=&#C62140Does not accept Muffler Hatches
+GT5U.gui.text.structure_error.block_not_loaded=&#C62140Часть блоков не загружена в чанках
+GT5U.gui.text.structure_error.coil_level_not_enough=&#C62140Уровень катушек недостаточен
+GT5U.gui.text.structure_error.energy_hatch_exceed_glass=&#C62140Тир энерговвода не может превышать тир стекла
+GT5U.gui.text.structure_error.energy_hatch_not_needed=&#C62140Энерговводы не нужны
+GT5U.gui.text.structure_error.missing_data_hatch=&#C62140Нет шлюза для ввода данных
+GT5U.gui.text.structure_error.one_energy_hatch_on_laser=&#C62140С многоамперными или лазерными шлюзами допустим только один энерговвод
+GT5U.gui.text.structure_error.one_uncertainty_hatch=&#C62140Нужен ровно 1 разрешитель неопределённости
+GT5U.gui.text.structure_error.too_long=&#C62140Структура слишком длинная
+GT5U.gui.text.structure_error.too_short_height=&#C62140Структура слишком низкая
+GT5U.gui.text.structure_error.too_short_length=&#C62140Структура слишком короткая
+GT5U.gui.text.structure_error.too_tall=&#C62140Структура слишком высокая
+GT5U.gui.text.structure_error.unknown_multiblock_tier=&#C62140Неизвестный тир мультиблока
+GT5U.gui.text.structure_error.unknown=&#C62140Неизвестная ошибка структуры
+GT5U.gui.text.structure_error.unneeded_muffler=&#C62140Выхлопная система не поддерживается
 
 ## StructureError
-GT5U.gui.text.structure_error.missing_hatch=&#C62140Missing %s
+GT5U.gui.text.structure_error.missing_hatch=&#C62140Нет %s
 GT5U.gui.text.structure_error.dt_missing_output_hatch=&#C62140Missing Output Hatch on Layer %s
-GT5U.gui.text.structure_error.dt_missing_output_hatches=&#C62140Missing Output Hatch on Layers %s
-GT5U.gui.text.structure_error.energy_hatch_tier_too_low=&#C62140Energy hatch tier too low, required %s-tiered energy hatch
-GT5U.gui.text.structure_error.glass_tier_not_enough=&#C62140Glass tier too low for energy hatch tier
-GT5U.gui.text.structure_error.missing_energy_hatch=&#C62140Missing Energy Hatch
+GT5U.gui.text.structure_error.dt_missing_output_hatches=&#C62140Нет выходных шлюзов на слоях %s
+GT5U.gui.text.structure_error.energy_hatch_tier_too_low=&#C62140Тир энерговвода слишком низкий, требуется энерговвод тира %s
+GT5U.gui.text.structure_error.glass_tier_not_enough=&#C62140Тир стекла слишком низкий для тира энерговвода
+GT5U.gui.text.structure_error.missing_energy_hatch=&#C62140Нет энерговвода
 GT5U.gui.text.structure_error.missing_output_bus=&#C62140Отсутствует выходной люк
-GT5U.gui.text.structure_error.not_match_hatch=&#C62140Needs exactly %s %s
-GT5U.gui.text.structure_error.too_few_hatch=%1$s: needs at least %2$s, found %3$s
-GT5U.gui.text.structure_error.too_many_hatch=%1$s: needs at most %2$s, found %3$s
-GT5U.gui.text.structure_error.too_many_hatches=&#C62140Too many %ses (max %s)
+GT5U.gui.text.structure_error.not_match_hatch=&#C62140Нужно ровно %s %s
+GT5U.gui.text.structure_error.too_few_hatch=%1$s: нужно минимум %2$s, найдено %3$s
+GT5U.gui.text.structure_error.too_many_hatch=%1$s: нужно максимум %2$s, найдено %3$s
+GT5U.gui.text.structure_error.too_many_hatches=&#C62140Слишком много %s (максимум %s)
 
 ## Synchrotron
-GT5U.gui.text.structure_error.synchrotron_antenna=&#C62140Antenna tier not detected
+GT5U.gui.text.structure_error.synchrotron_antenna=&#C62140Тир антенны не определён
 
 ## TankTFFT
-GT5U.gui.text.structure_error.tfft_too_many_hatch=&#C62140Too many hatches
+GT5U.gui.text.structure_error.tfft_too_many_hatch=&#C62140Слишком много шлюзов
 
 ## TargetChamber
-GT5U.gui.text.structure_error.need_exactly_one_focus_input=&#C62140Needs exactly 1 Focus Input Hatch
+GT5U.gui.text.structure_error.need_exactly_one_focus_input=&#C62140Нужен ровно 1 входной шлюз фокусировки
 
 ## TeleporterGui
 GT5U.gui.text.dim=§7Мир:
-GT5U.gui.text.dim.invalid=§7Dim Valid: No
-GT5U.gui.text.dim.valid=§7Dim Valid: Yes
+GT5U.gui.text.dim.invalid=§7Измерение подходит: Нет
+GT5U.gui.text.dim.valid=§7Измерение подходит: Да
 GT5U.gui.text.x=§7X:
 GT5U.gui.text.y=§7Y:
 GT5U.gui.text.z=§7Z:
 
 ## ToxicResidueSensor
-gt.interact.desc.toxic_residue_sensor.flat=§7Residue Amount
+gt.interact.desc.toxic_residue_sensor.flat=§7Количество остатка
 
 ## ToxicResidueSensorGui
-GT5U.gui.text.toxic_residue=§7Toxic Residue: §c%s §f/ %s (%s%%)
-GT5U.gui.text.toxic_residue_sensor=§7Toxic Residue threshold
+GT5U.gui.text.toxic_residue=§7Токсичный остаток: §c%s §f/ %s (%s%%)
+GT5U.gui.text.toxic_residue_sensor=§7Порог токсичного остатка
 
 ## TreeFarm
-GT5U.gui.text.recipe_result.growing_trees=§7Growing trees
-GT5U.gui.text.recipe_result.no_output_for_sapling=§7This sapling yields no outputs
+GT5U.gui.text.recipe_result.growing_trees=§7Выращивание деревьев
+GT5U.gui.text.recipe_result.no_output_for_sapling=§7Этот саженец не даёт выхода
 GT5U.gui.text.recipe_result.no_sapling=§7Отсутствует саженец
 GT5U.gui.text.recipe_result.no_tools=§7Отсутствуют применимые инструменты
 
 ## TTMultiblockBase
-GT5U.gui.text.structure_error.missing_data_input_hatch=Missing Data Input Hatch
-GT5U.gui.text.structure_error.missing_data_output_hatch=Missing Data Output Hatch
+GT5U.gui.text.structure_error.missing_data_input_hatch=Нет шлюза ввода данных
+GT5U.gui.text.structure_error.missing_data_output_hatch=Нет шлюза вывода данных
 
 ## VoidMinerBase
 GT5U.gui.text.data_stick.loaded=§7Настройки загружены с флешки
 GT5U.gui.text.data_stick.saved=§7Настройки сохранены на флешку
-GT5U.gui.text.recipe_result.drill_extracting_ores=§7Extracting Ores
-GT5U.gui.text.recipe_result.drill_extracting_ores_failed=&#C62140Extraction Failed
-GT5U.gui.text.recipe_result.void_miner_wrong_dim=&#EFC62FThis dimension cannot be void mined
-GT5U.gui.text.recipe_result.void_miner_no_ores=&#EFC62FNo ores available to mine in this dimension
+GT5U.gui.text.recipe_result.drill_extracting_ores=§7Добыча руды
+GT5U.gui.text.recipe_result.drill_extracting_ores_failed=&#C62140Добыча не удалась
+GT5U.gui.text.recipe_result.void_miner_wrong_dim=&#EFC62FВ этом измерении пустотная добыча невозможна
+GT5U.gui.text.recipe_result.void_miner_no_ores=&#EFC62FВ этом измерении нет доступных для добычи руд
 
 ## VolumetricFlaskGui
 GT5U.gui.text.volumetric_flask.capacity=§7Ёмкость
 
 ## Windmill
-GT5U.gui.text.structure_error.missing_dispenser=Missing Dispenser
-GT5U.gui.text.structure_error.too_many_doors=Too many doors (max 2)
+GT5U.gui.text.structure_error.missing_dispenser=Нет раздатчика
+GT5U.gui.text.structure_error.too_many_doors=Слишком много дверей (максимум 1)
 
 ## WirelessActivityDetectorUIFactory
 gt.interact.desc.Wireless_Activity.Enabled=§7Механизм включён
@@ -836,8 +836,8 @@ gt.interact.desc.Item_Item_Detector.DetectSlot=§7Обнаружить слот 
 
 ## WormholeGenerator
 GT5U.gui.text.wormhole_generator.diameter=§7Диаметр червоточины: §b%,d§7 Å§f
-GT5U.gui.text.wormhole_generator.max_io=§7Max I/O per hatch: §b%,d§7 EU/t§f
-GT5U.gui.text.wormhole_generator.max_io.large=§7Max I/O per hatch: §b%3.3e§7 EU/t§f
+GT5U.gui.text.wormhole_generator.max_io=§7Макс. ввод/вывод на шлюз: §b%,d§7 EU/t§f
+GT5U.gui.text.wormhole_generator.max_io.large=§7Макс. ввод/вывод на шлюз: §b%3.3e§7 EU/t§f
 GT5U.gui.text.wormhole_generator.missing_entangled_singularity=§7Отсутствует запутанная сингулярность§f
 GT5U.gui.text.wormhole_generator.status.active=§7Статус Червоточины: §bАктивен§f
 GT5U.gui.text.wormhole_generator.status.decaying=§7Статус Червоточины: §6Распад§f
@@ -845,4 +845,4 @@ GT5U.gui.text.wormhole_generator.status.inactive=§7Статус Червото�
 GT5U.gui.text.wormhole_generator.status.no_destination=§7Статус Червоточины: §cНет пункта назначения§f
 
 ## XLTurbineGas
-GT5U.gui.text.recipe_result.fuel_blacklisted=&#C62140Fuel blacklisted
+GT5U.gui.text.recipe_result.fuel_blacklisted=&#C62140Топливо в чёрном списке
