@@ -1,0 +1,10 @@
+# ColorUtils
+## ARBG
+color.resource.tasknh.iconAdd=FF7AC25F
+color.resource.tasknh.iconRemove=FFC62140
+
+# Strings
+tasknh.status.open=§7Открыт
+tasknh.status.in_progress=§7В работе
+tasknh.status.done=§7Готово
+tasknh.gui.detail.pos=§7Поз.
