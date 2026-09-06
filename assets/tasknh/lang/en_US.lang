@@ -11,3 +11,4 @@ tasknh.status.open=§7Open
 tasknh.status.in_progress=§7In Progress
 tasknh.status.done=§7Done
 tasknh.gui.detail.pos=§7Pos
+tasknh.gui.theme_toggle.tooltip=Toggle light/dark theme | ShadowUI overrides the light theme
