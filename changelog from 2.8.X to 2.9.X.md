@@ -179,6 +179,7 @@ GregTech
 - Added new fluid and item tank slots
 - Added new Side selection icons
 - Added new Windmill icons
+- Rotated Soldering Iron icons
 
 KubaTech
 - Added HTGR text color
@@ -190,6 +191,7 @@ NotEnoughtItems (NEI)
 - Updated Catalyst tab (there was padding added) - https://github.com/GTNewHorizons/NotEnoughItems/pull/822
 - Added Cauldron recipe text - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5542
 - Updated Debug Handler
+- Add Bookmark Tree Screen
 
 TaskNH (Foreman)
 - Added, well everything (new mod)
@@ -225,4 +227,4 @@ Other
 - Added support for many addon mods
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 722 (Beta-3) (05.09.26)
+Up to date with Daily 727 (09.09.26)

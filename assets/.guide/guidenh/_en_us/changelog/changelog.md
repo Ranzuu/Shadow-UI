@@ -140,12 +140,13 @@ navigation:
 - Added "Bookmark" text color
 - Added "Collapse/Expand" icons
 - Added pattern preview text color
-- Updated pattern perminal GUIs
+- Updated Pattern Terminal GUIs
 - Added color aplicator GUI
 - Added spatial link chamber gui (original texture by Auynonymous)
 - Added reshuffle gui
 - Lot's of other color fixes and additions as per GTNH update (Additionally [Ae2 Dark Mode](https://github.com/Ranzuu/AE2-Dark-Mode) also got updates)
 - Added crafting diagnostic terminal gui elements
+- Added ME Stock Replenisher gui
 
 **Aspect Recipe Index**
 - Added everything (new mod)
@@ -185,6 +186,7 @@ navigation:
 - Added new fluid and item tank slots
 - Added new side selection icons
 - Added new Windmill icons
+- Rotated Soldering Iron icons
 
 **KubaTech**
 - Added HTGR text color
@@ -196,6 +198,10 @@ navigation:
 - Updated catalyst tab (there was padding added)
 - Added cauldron recipe text
 - Updated debug handler
+- Add Bookmark Tree Screen
+
+**TaskNH (Foreman)**
+- Added everything (new mod)
 
 **TecTech**
 - Added new icons and updated others (a lot)
