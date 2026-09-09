@@ -111,7 +111,7 @@
 
   <li>
     <strong>
-      <a href="https://github.com/Ranzuu/OutlinedOres-Modern">Outlined Ores-Modern</a>
+      <a href="https://github.com/Ranzuu/GTNH-OutlinedOres">GTNH-OutlinedOres</a>
     </strong>
     – Additional texture pack that adds a solid border matching the ore color.
     Compatible with
