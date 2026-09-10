@@ -784,7 +784,7 @@ GT5U.gui.text.structure_error.synchrotron_antenna=&#C62140Тир антенны 
 GT5U.gui.text.structure_error.tfft_too_many_hatch=&#C62140Слишком много шлюзов
 
 ## TargetChamber
-GT5U.gui.text.structure_error.need_exactly_one_focus_input=&#C62140Нужен ровно 1 входной шлюз фокусировки
+GT5U.gui.text.structure_error.need_exactly_one_focus_input=&#C62140Нужен ровно 1 входной шлюз маски
 
 ## TeleporterGui
 GT5U.gui.text.dim=§7Мир:

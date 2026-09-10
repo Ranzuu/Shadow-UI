@@ -1,0 +1,43 @@
+# ColorUtils
+## RGB
+color.resource.nei.textGray=AAAAAA
+color.resource.nei.textLightGray=999999
+color.resource.nei.recipeTitle=BFBFBF
+color.resource.nei.recipeTitleHover=EFC62F
+color.resource.nei.subsetWidget=AAAAAA
+color.resource.nei.recipeBadge=EFC62F
+
+# Strings
+nei.recipe.page=&#999999Сторінка %s/%s
+nei.recipe.fuel.smeltCount=§7Витоплює: %s
+nei.gui.button.label.subset=%%
+
+nei.debug.RecipeHandler.Name=§7Назва
+nei.debug.RecipeHandler.Id=§7ID
+nei.debug.RecipeHandler.Key=§7Ключ
+nei.debug.RecipeHandler.HHack=§7H.Hack
+nei.debug.RecipeHandler.ModName=§7Назва моду
+nei.debug.RecipeHandler.ModId=§7ID моду
+nei.debug.RecipeHandler.Override=§7Перевизначити
+nei.debug.RecipeHandler.Order=§7Порядок
+nei.debug.RecipeHandler.yShift=§7yShift
+nei.debug.RecipeHandler.MultiWidgets=§7Мультивіджети
+nei.debug.RecipeHandler.Height=§7Висота
+nei.debug.RecipeHandler.Width=§7Ширина
+nei.debug.RecipeHandler.AllowOverflowY=§7Дозволити вихід за межі Y
+nei.debug.RecipeHandler.AllowOverflowX=§7Дозволити вихід за межі X
+nei.debug.RecipeHandler.UseCustomScroll=§7Use Custom Scroll
+nei.debug.RecipeHandler.ShowFavorites=§7Показувати обрані
+nei.debug.RecipeHandler.ShowOverlay=§7Показувати оверлеї
+nei.debug.RecipeHandler.ShowBadge=§7Показувати плашку
+
+nei.inventory.item_subsets=Підгрупи предметів
+
+nei.enchant=§7Зачарування
+nei.enchant.level=§7Рівень
+nei.enchant.locked=§7Заблоковано
+nei.enchant.unlocked=§7Розблоковано
+
+nei.potion.favourite=§7Обрані зілля
+nei.potion.duration=§7Тривалість
+nei.potion.level=§7Рівень
