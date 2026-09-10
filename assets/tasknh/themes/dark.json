@@ -1,71 +1,76 @@
 {
-	"parent": "DEFAULT",
-	"defaultWidth": 18,
-	"defaultHeight": 18,
-	"background": null,
-	"hoverBackground": "none",
-	"color": "#FFFFFF",
-	"textColor": "#AAAAAA",
-	"textShadow": false,
-	"textTitle": {
-		"textColor": "#AAAAAA"
-	},
-	"displayTextWhite": {
-		"textColor": "#AAAAAA"
-	},
-	"displayTextGray": {
-		"textColor": "#AAAAAA"
-	},
-	"button": {
-		"background": {
-			"type": "texture",
-			"id": "mc_button"
-		},
-		"textColor": "#AAAAAA",
-		"textShadow": false
-	},
-	"button:hover": {
-		"background": {
-			"type": "texture",
-			"id": "mc_button_hovered"
-		}
-	},
-	"toggleButton": {
-		"background": {
-			"type": "texture",
-			"id": "mc_button"
-		}
-	},
-	"toggleButton:hover": {
-		"background": {
-			"type": "texture",
-			"id": "mc_button_hovered"
-		}
-	},
-	"textField": {
-		"textColor": "#FFFFFF",
-		"textShadow": false,
-		"hintColor": "#5F5F5F"
-	},
-	"itemSlot:playerMainInventory": {
-		"background": {
-			"type": "texture",
-			"location": "modularui2:gui/slot/item_player"
-		}
-	},
-	"itemSlot:playerHotbar": {
-		"background": {
-			"type": "texture",
-			"location": "modularui2:gui/slot/item_player"
-		}
-	},
-	"scrollbar": {
-		"background": {
-			"type": "texture",
-			"location": "modularui2:gui/custom/c_scroll",
-			"imageWidth": 4,
-			"imageHeight": 4,
-			"border": 1
-		}
-	}
+  "textColor": "#AAAAAA",
+  "textShadow": "false",
+  "panel": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_background",
+      "imageWidth": 12,
+      "imageHeight": 12,
+      "border": 4
+    }
+  },
+  "button": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_mc_button",
+      "imageWidth": 14,
+      "imageHeight": 14,
+      "border": 1
+    },
+    "iconColor": "#AAAAAA"
+  },
+  "button:hover": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_mc_button_hover",
+      "imageWidth": 14,
+      "imageHeight": 14,
+      "border": 1
+    }
+  },
+  "toggleButton": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_mc_button",
+      "imageWidth": 14,
+      "imageHeight": 14,
+      "border": 1
+    },
+    "textColor": "#AAAAAA",
+    "selectedBackground": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_mc_button_pressed",
+      "imageWidth": 14,
+      "imageHeight": 14,
+      "border": 1
+    },
+    "selectedTextColor": "#BFBFBF",
+    "selectedIconColor": "#AAAAAA"
+  },
+  "toggleButton:hover": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_mc_button_hover",
+      "imageWidth": 14,
+      "imageHeight": 14,
+      "border": 1
+    },
+    "selectedIconColor": "#AAAAAA"
+  },
+  "scrollbar": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_scroll",
+      "imageWidth": 4,
+      "imageHeight": 4,
+      "border": 1
+    }
+  },
+  "itemSlot": {
+    "background": {
+      "type": "texture",
+      "location": "modularui2:gui/custom/c_itemSlot"
+    }
+  }
 }
