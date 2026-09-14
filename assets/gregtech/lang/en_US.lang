@@ -699,6 +699,13 @@ GT5U.gui.text.out_of_item=&#C62140No following items supplied: §b%s x %s
 ## ReasonOutOfStuff
 GT5U.gui.text.out_of_stuff=&#C62140No following stuffs supplied: §b%s x %s
 
+## RecipeMaps
+gt.nei.lftr.power=§7Power: &#999999%s EU/t §7per Dynamo
+gt.nei.lftr.dynamo=§7Dynamo: &#999999%s EU
+gt.nei.lftr.total=§7Total: &#999999%s EU
+
+GT5U.nei.fuel=§7Fuel Density: &#999999%s EU§7/&#999999%s
+
 ## ResultInsufficientHeat
 GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Recipe needs more heat to start. Required: &#EFC62F%s K &#C62140(&#EFC62F%s&#C62140)
 
