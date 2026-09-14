@@ -57,6 +57,11 @@ color.resource.ae2.networkVisualiserLinkDense=B3FFF70F
 color.resource.ae2.networkVisualiserLinkProxy=B3C46632
 color.resource.ae2.networkVisualiserLinkDefault=B32A63C1
 
+color.resource.ae2.craftingTreeMissing=FFB13E53
+color.resource.ae2.craftingTreeBlocked=FFFFD800
+color.resource.ae2.craftingTreeLine=FFAAAAAA
+color.resource.ae2.craftingTreeScrollbar=FFAAAAAA
+
 # Strings
 ## Reshuffle
 gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
