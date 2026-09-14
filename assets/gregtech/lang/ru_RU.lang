@@ -693,6 +693,13 @@ GT5U.gui.text.out_of_item=&#C62140Не поставлены следующие �
 ## ReasonOutOfStuff
 GT5U.gui.text.out_of_stuff=&#C62140Не поставлены следующие ресурсы: §b%s§f x §6%s
 
+## RecipeMaps
+gt.nei.lftr.power=§7Мощность: %s EU/t на каждый энерговывод
+gt.nei.lftr.dynamo=§7Энерговывод: %s EU
+gt.nei.lftr.total=§7Всего: %s EU
+
+GT5U.nei.fuel=§7Энергоёмкость: %s EU
+
 ## ResultInsufficientHeat
 GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Для рецепта нужно больше тепла. Требуется: %s K (%s§7)
 
