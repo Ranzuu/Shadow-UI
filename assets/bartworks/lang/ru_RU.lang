@@ -2,6 +2,11 @@
 GT5U.gui.text.recipe_result.no_imprint=§cОтсутствует слепок
 GT5U.gui.text.recipe_result.not_enough_length=§cМультиблок слишком короткий
 
+# BacteriaVatFronend
+nei.biovat.0.name=§7Нужен тир стекла: %s
+nei.biovat.1.name=§7Нужно точное количество зиверт: %s Sv
+nei.biovat.2.name=§7Нужно мин. количество зиверт: %s Sv
+
 # RadioHatchFrontend
 BW.NEI.display.radhatch.0=§7Зиверт: %s Sv
 BW.NEI.display.radhatch.1=§7Масса: %s кг
