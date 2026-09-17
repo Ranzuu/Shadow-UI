@@ -14,9 +14,9 @@ gui.optional.numbers=§7
 # Original Screen Messages
 msg.nc.ScreenColor=§7Skärm Färg
 msg.nc.TextColor=§7Text Färg
-msg.nc.InfoPanelOutput=§7Effekt: %sEU/t
-msg.nc.InfoPanelOutputMJ=§7Effekt: %sMJ/t
-msg.nc.InfoPanelOutputSteam=§7Effekt: %smB/t
-msg.nc.AverageCounterPeriod=§7Period: %ssec
-msg.nc.HowlerAlarmSoundRange=§7Ljudintervall: %s
+msg.nc.InfoPanelOutput=§7Effekt: &#999999%sEU/t
+msg.nc.InfoPanelOutputMJ=§7Effekt: &#999999%sMJ/t
+msg.nc.InfoPanelOutputSteam=§7Effekt: &#999999%smB/t
+msg.nc.AverageCounterPeriod=§7Period: &#999999%ssec
+msg.nc.HowlerAlarmSoundRange=§7Ljudintervall: &#999999%s
 msg.nc.HowlerAlarmSound=§7Ljud

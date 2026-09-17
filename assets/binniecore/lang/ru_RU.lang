@@ -35,7 +35,7 @@ binniecore.gui.slot.breedableIndividual=§7Образец
 binniecore.gui.slot.pickupOnly=§7Автоматическое помещение в слот
 binniecore.gui.slot.playerInventory=§7Инвентарь игрока
 binniecore.gui.slot.anyItem=§7Любой предмет
-binniecore.gui.slot.accepts=§7Принимается: %s
+binniecore.gui.slot.accepts=§7Принимается: &#999999%s
 
 binniecore.gui.tank.input=§7Приёмочный резервуар
 binniecore.gui.tank.process=§7Рабочий резервуар
@@ -50,8 +50,8 @@ binniecore.gui.side.north=§7север
 binniecore.gui.side.east=§7восток
 binniecore.gui.side.west=§7запад
 binniecore.gui.side.south=§7юг
-binniecore.gui.side.insertSide=§7Принимающая сторона: %s
-binniecore.gui.side.extractSide=§7Выдающая сторона: %s
+binniecore.gui.side.insertSide=§7Принимающая сторона: &#999999%s
+binniecore.gui.side.extractSide=§7Выдающая сторона: &#999999%s
 
 binniecore.gui.design=§7Дизайн
 

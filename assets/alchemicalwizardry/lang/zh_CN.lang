@@ -4,7 +4,7 @@ gui.demonChest.title=§7恶魔的箱子
 gui.bloodTeleposer.title=§7传送器
 
 # Nei
-nei.recipe.meteor.radius=§7半径: %s
+nei.recipe.meteor.radius=§7半径: &#999999%s
 nei.recipe.meteor.cost.gui=&#999999%s
 
 text.recipe.alchemicCalcinator.reagent=§7%s AR

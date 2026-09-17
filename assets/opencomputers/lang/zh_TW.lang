@@ -9,7 +9,7 @@ oc:gui.Assembler.Complexity=§7複雜性：%s/%s
 oc:gui.Assembler.InsertCase=§7裝入電腦機殼（CASE）
 oc:gui.Assembler.InsertCPU=§7裝入中央處理器（CPU）
 oc:gui.Assembler.InsertRAM=§7裝入一些記憶體（RAM）
-oc:gui.Assembler.Progress=§7進度：%s%% (%s）
+oc:gui.Assembler.Progress=§7進度：%s%% (&#999999%s§7）
 
 oc:gui.Rack.Back=§7背面
 oc:gui.Rack.Bottom=§7底部

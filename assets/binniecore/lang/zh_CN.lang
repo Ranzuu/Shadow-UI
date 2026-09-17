@@ -35,7 +35,7 @@ binniecore.gui.slot.breedableIndividual=§7可杂交个体
 binniecore.gui.slot.pickupOnly=§7输出格
 binniecore.gui.slot.playerInventory=§7玩家背包
 binniecore.gui.slot.anyItem=§7任意物品
-binniecore.gui.slot.accepts=§7可接受：%s
+binniecore.gui.slot.accepts=§7可接受：&#999999%s
 
 binniecore.gui.tank.input=§7输入罐
 binniecore.gui.tank.process=§7加工罐
@@ -50,8 +50,8 @@ binniecore.gui.side.north=§7北
 binniecore.gui.side.east=§7东
 binniecore.gui.side.west=§7西
 binniecore.gui.side.south=§7南
-binniecore.gui.side.insertSide=§7输入面：%s
-binniecore.gui.side.extractSide=§7输出面：%s
+binniecore.gui.side.insertSide=§7输入面：&#999999%s
+binniecore.gui.side.extractSide=§7输出面：&#999999%s
 
 binniecore.gui.design=§7设计图案
 

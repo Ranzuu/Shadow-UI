@@ -3,9 +3,9 @@ GT5U.gui.text.recipe_result.no_imprint=§cMissing imprint
 GT5U.gui.text.recipe_result.not_enough_length=§cMultiblock Too Short
 
 # BacteriaVatFronend
-nei.biovat.0.name=§7A besoin du tier de verre: %s
-nei.biovat.1.name=§7A besoin du montant exact Sievert: %s Sv
-nei.biovat.2.name=§7A besoin d'un minimum Sievert: %s Sv
+nei.biovat.0.name=§7A besoin du tier de verre: &#999999%s
+nei.biovat.1.name=§7A besoin du montant exact Sievert: &#999999%s Sv
+nei.biovat.2.name=§7A besoin d'un minimum Sievert: &#999999%s Sv
 
 # RadioHatchFrontend
 BW.NEI.display.radhatch.0=§7Sievert: &#999999%s Sv

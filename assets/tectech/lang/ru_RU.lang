@@ -74,15 +74,15 @@ gt.blockmachines.multimachine.FOG.voltageinfo=§7Установите вольт
 
 # QuantumComputer
 GT5U.gui.text.recipe_result.computing=§7Computing
-GT5U.gui.text.recipe_result.no_computing=&#C62140CaНе могу вычислить
+GT5U.gui.text.recipe_result.no_computing=&#C62140Не могу вычислить
 
 # DataBank
 GT5U.gui.text.recipe_result.providing_data=§7Providing Data
-GT5U.gui.text.recipe_result.no_data=&#C62140CaНевозможно вывести данные
+GT5U.gui.text.recipe_result.no_data=&#C62140Невозможно вывести данные
 
 # ActiveTransformer
 GT5U.gui.text.recipe_result.routing=§7Routing
-GT5U.gui.text.recipe_result.no_routing=&#C62140CaCan't route
+GT5U.gui.text.recipe_result.no_routing=&#C62140Can't route
 
 # ResearchStation
 GT5U.gui.text.recipe_result.researching=§7Исследование
