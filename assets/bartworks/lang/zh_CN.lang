@@ -3,9 +3,9 @@ GT5U.gui.text.recipe_result.no_imprint=§cMissing imprint
 GT5U.gui.text.recipe_result.not_enough_length=§cMultiblock Too Short
 
 # BacteriaVatFronend
-nei.biovat.0.name=§7需要玻璃等级: %s
-nei.biovat.1.name=§7精确剂量 Sievert: %s Sv
-nei.biovat.2.name=§7最小剂量 Sievert: %s Sv
+nei.biovat.0.name=§7需要玻璃等级: &#999999%s
+nei.biovat.1.name=§7精确剂量 Sievert: &#999999%s Sv
+nei.biovat.2.name=§7最小剂量 Sievert: &#999999%s Sv
 
 # RadioHatchFrontend
 BW.NEI.display.radhatch.0=§7Sievert: &#999999%s Sv

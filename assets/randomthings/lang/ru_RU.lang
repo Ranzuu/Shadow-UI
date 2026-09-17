@@ -15,9 +15,9 @@ gui.tile.creativePlayerInterface.name.title=§7Creative Player Interface
 
 text.miscellaneous.connectedTo=§7Соединено с
 text.miscellaneous.nobody=§7nobody
-text.miscellaneous.radiusX=§7Radius X: %s
-text.miscellaneous.radiusY=§7Radius Y: %s
-text.miscellaneous.radiusZ=§7Radius Z: %s
+text.miscellaneous.radiusX=§7Radius X: &#999999%s
+text.miscellaneous.radiusY=§7Radius Y: &#999999%s
+text.miscellaneous.radiusZ=§7Radius Z: &#999999%s
 text.onlineDetector.detectingNobody=§7Никто не отслеживается
 text.onlineDetector.detecting=§7"Отслеживание %s"
 text.miscellaneous.edlt=§7Edlt: %s/%s RF

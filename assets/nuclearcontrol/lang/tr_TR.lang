@@ -14,9 +14,9 @@ gui.optional.numbers=§7
 # Original Screen Messages
 msg.nc.ScreenColor=§7Ekran Rengi
 msg.nc.TextColor=§7Yazı Rengi
-msg.nc.InfoPanelOutput=§7ÇıkışGücü: %sEU/t
-msg.nc.InfoPanelOutputMJ=§7ÇıkışGücü: %sMJ/t
-msg.nc.InfoPanelOutputSteam=§7ÇıkışGücü: %smB/t
-msg.nc.AverageCounterPeriod=§7Süre: %ssaniye
-msg.nc.HowlerAlarmSoundRange=§7Ses Seviyesi: %s
+msg.nc.InfoPanelOutput=§7ÇıkışGücü: &#999999%sEU/t
+msg.nc.InfoPanelOutputMJ=§7ÇıkışGücü: &#999999%sMJ/t
+msg.nc.InfoPanelOutputSteam=§7ÇıkışGücü: &#999999%smB/t
+msg.nc.AverageCounterPeriod=§7Süre: &#999999%ssaniye
+msg.nc.HowlerAlarmSoundRange=§7Ses Seviyesi: &#999999%s
 msg.nc.HowlerAlarmSound=§7Ses

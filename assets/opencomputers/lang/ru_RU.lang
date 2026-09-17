@@ -9,7 +9,7 @@ oc:gui.Assembler.Complexity=§7Сложность: %s/%s
 oc:gui.Assembler.InsertCase=§7Вставьте системный блок
 oc:gui.Assembler.InsertCPU=§7Вставьте процессор
 oc:gui.Assembler.InsertRAM=§7Вставьте память
-oc:gui.Assembler.Progress=§7Прогресс: %s%% (%s)
+oc:gui.Assembler.Progress=§7Прогресс: %s%% (&#999999%s§7)
 
 oc:gui.Rack.Back=§7Сзади
 oc:gui.Rack.Bottom=§7Снизу

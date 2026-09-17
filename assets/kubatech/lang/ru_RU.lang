@@ -23,7 +23,7 @@ kubatech.gui.text.usage_line=§7Usage: &#999999%s EU/t
 kubatech.gui.text.time_line=§7Time: &#999999%s secs
 
 # NEI
-kubatech.defusioncrafter.tier=§7Тир корпуса: %s
+kubatech.defusioncrafter.tier=§7Тир корпуса: &#999999%s
 
 # HighTempGasCooledReactor
 kubatech.infodata.htgr.stored_fuel=§7Хранимое топливо:
@@ -33,7 +33,7 @@ kubatech.infodata.htgr.burned_fuel_entry=§7- §b%s §fx §6%s%% на выход
 kubatech.infodata.htgr.helium_supply=§7Запас гелия: §6%sЛ
 kubatech.infodata.htgr.coolant_per_tick=§7Хладагент за тик: §6%sЛ
 kubatech.infodata.htgr.water_per_tick=§7Вода за тик: §6%sЛ
-kubatech.infodata.htgr.fuel_supply=§7Заполнение %s из %s
+kubatech.infodata.htgr.fuel_supply=§7Заполнение §6%s из §6%s
 kubatech.infodata.htgr.fuel_properties=§7Свойства: %s, %s, %s
 
 # ExtremeEntityCrusher

@@ -14,9 +14,9 @@ gui.optional.numbers=§7
 # Original Screen Messages
 msg.nc.ScreenColor=§7Couleur d'écran
 msg.nc.TextColor=§7Couleur de texte
-msg.nc.InfoPanelOutput=§7Débit: %sEU/t
-msg.nc.InfoPanelOutputMJ=§7Débit: %sMJ/t
-msg.nc.InfoPanelOutputSteam=§7Débit: %smB/t
-msg.nc.AverageCounterPeriod=§7Période: %ssec
-msg.nc.HowlerAlarmSoundRange=§7Portée du so: %s
+msg.nc.InfoPanelOutput=§7Débit: &#999999%sEU/t
+msg.nc.InfoPanelOutputMJ=§7Débit: &#999999%sMJ/t
+msg.nc.InfoPanelOutputSteam=§7Débit: &#999999%smB/t
+msg.nc.AverageCounterPeriod=§7Période: &#999999%ssec
+msg.nc.HowlerAlarmSoundRange=§7Portée du so: &#999999%s
 msg.nc.HowlerAlarmSound=§7Son

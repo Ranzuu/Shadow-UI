@@ -9,7 +9,7 @@ oc:gui.Assembler.Complexity=§7Complexité: %s/%s
 oc:gui.Assembler.InsertCase=§7Insérez une partie de base
 oc:gui.Assembler.InsertCPU=§7Insérez une CPU
 oc:gui.Assembler.InsertRAM=§7Insérez un peu de mémoire
-oc:gui.Assembler.Progress=§7Progression: %s%% (%s)
+oc:gui.Assembler.Progress=§7Progression: %s%% (&#999999%s§7)
 
 oc:gui.Rack.Back=§7Arrière
 oc:gui.Rack.Bottom=§7Bas
