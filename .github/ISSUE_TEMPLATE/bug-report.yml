@@ -1,0 +1,72 @@
+name: Bug report
+description: Report a missing or wrong texture, or any other problem
+title: "[Bug]: "
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Shadow UI! Please fill in the fields below.
+        A screenshot is the most helpful thing you can give us.
+
+  - type: dropdown
+    id: bug-type
+    attributes:
+      label: What kind of bug is it?
+      options:
+        - Missing texture
+        - Wrong texture
+        - Wrong colors
+        - Text in not readable
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: affected-item
+    attributes:
+      label: Which GUI is affected?
+      description: The name of the thing, and the mod it comes from if you know.
+      placeholder: "e.g. Large Steam Turbine GUI (GregTech)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: What did you expect to see, and what do you see instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag and drop an image into this box.
+    validations:
+      required: false
+
+  - type: input
+    id: pack-version
+    attributes:
+      label: Shadow UI version
+      placeholder: "e.g. v4.41"
+    validations:
+      required: true
+
+  - type: input
+    id: gtnh-version
+    attributes:
+      label: GTNH version
+      placeholder: "e.g. 2.8.4"
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Other resource packs in use, shaders, GUI scale, and so on.
+    validations:
+      required: false
