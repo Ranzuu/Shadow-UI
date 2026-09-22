@@ -8,9 +8,23 @@ on:
 permissions:
   contents: read
 
+env:
+  GAME_VERSION: "2.9.X" # Version
+
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    env:
+      WORKFLOW_ENABLED: false # Toggle
+    outputs:
+      enabled: ${{ steps.check.outputs.enabled }}
+    steps:
+      - id: check
+        run: echo "enabled=${{ env.WORKFLOW_ENABLED }}" >> "$GITHUB_OUTPUT"
+
   publish:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    needs: gate
+    if: ${{ needs.gate.outputs.enabled == 'true' && github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
@@ -33,21 +47,21 @@ jobs:
 
           CANDIDATE="${{ github.event.workflow_run.head_branch }}"
 
-          if [[ "$CANDIDATE" == v2.9.X/* ]]; then
+          if [[ "$CANDIDATE" == v$GAME_VERSION/* ]]; then
             TAG="$CANDIDATE"
             echo "Using TAG from workflow_run.head_branch: $TAG"
           else
-            echo "head_branch was '$CANDIDATE' (not a tag). Falling back to latest v2.9.X/* release."
+            echo "head_branch was '$CANDIDATE' (not a tag). Falling back to latest v$GAME_VERSION/* release."
             TAG="$(gh api "repos/${{ github.repository }}/releases?per_page=50" \
-              --jq '[.[] | select(.tag_name | startswith("v2.9.X/"))][0].tag_name')"
+              --jq "[.[] | select(.tag_name | startswith(\"v$GAME_VERSION/\"))][0].tag_name")"
 
             if [ -z "${TAG:-}" ] || [ "$TAG" = "null" ]; then
-              echo "ERROR: Could not find any v2.9.X/* releases."
+              echo "ERROR: Could not find any v$GAME_VERSION/* releases."
               exit 1
             fi
           fi
 
-          PACK_VERSION="${TAG#v2.9.X/}"  # e.g. v4.28
+          PACK_VERSION="${TAG#v$GAME_VERSION/}"
           echo "TAG=$TAG" >> "$GITHUB_OUTPUT"
           echo "PACK_VERSION=$PACK_VERSION" >> "$GITHUB_OUTPUT"
 
@@ -60,7 +74,7 @@ jobs:
         run: |
           set -euo pipefail
           BODY="$(gh release view "${{ steps.rel.outputs.TAG }}" --repo "${{ github.repository }}" --json body --jq .body)"
-          # Put body into a multiline output
+
           delim="REL_BODY_$(date +%s%N)"
           {
             echo "body<<$delim"
@@ -92,7 +106,6 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Your filenames contain "Modernity version" for the modernity file.
           MAIN_ZIP="$(ls -1 dist/*.zip | grep -vi "modernity" | head -n 1 || true)"
           MODERNITY_ZIP="$(ls -1 dist/*.zip | grep -i "modernity" | head -n 1 || true)"
 
