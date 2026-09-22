@@ -20,7 +20,12 @@ jobs:
       enabled: ${{ steps.check.outputs.enabled }}
     steps:
       - id: check
-        run: echo "enabled=${{ env.WORKFLOW_ENABLED }}" >> "$GITHUB_OUTPUT"
+        run: |
+          echo "enabled=${{ env.WORKFLOW_ENABLED }}" >> "$GITHUB_OUTPUT"
+          if [ "${{ env.WORKFLOW_ENABLED }}" != "true" ]; then
+            echo "::error::This workflow is disabled (WORKFLOW_ENABLED is set to false in release.yaml). Set it to true to re-enable."
+            exit 1
+          fi
 
   build_and_release:
     needs: gate
