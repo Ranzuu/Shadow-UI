@@ -228,7 +228,7 @@ Other
 - Added support for many addon mods
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-From now on, the ShadowUI will have hard [Angelica](https://github.com/GTNewHorizons/Angelica) dependency (minimum version 2.2.25) (text coloring).
+From now on, the ShadowUI will have hard [Angelica](https://github.com/GTNewHorizons/Angelica) dependency (minimum version 2.2.26) (text coloring).
 The Angelica is **shipped by default with GTNH**, so you don't need to worry about installing it. Unless for whatever nonsense reason you removed the best optimization mod in existence of Minecraft (Angelica), then the ShadowUI will **NOT** be readable. That means the pack is now lighter and loads faster. No more translation and font issues.
 
 

@@ -9,7 +9,7 @@
 
   <p>
     <strong>Darker GUI resource pack for GregTech New Horizons</strong>
-    <br><sub>Dependency: <a href="https://github.com/GTNewHorizons/Angelica">Angelica</a><br>minimum version 2.2.25</sub>
+    <br><sub>Dependency: <a href="https://github.com/GTNewHorizons/Angelica">Angelica</a><br>minimum version 2.2.26</sub>
   </p>
 
   <p>
