@@ -2,8 +2,6 @@
 #error
 #sub-text
 
-gui.ifu_buildingKit.title=§7Ore Finder Wand
-
-IFU.NameTip=§7Name: &#999999%s
+IFU.NameTip=Name: &#999999%s
 IFU.Empty=&#999999Empty
-IFU.BlacklistedBlock=§cBlacklisted block!
+IFU.BlacklistedBlock=&#C62140Blacklisted block!

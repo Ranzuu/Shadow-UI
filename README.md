@@ -8,8 +8,8 @@
   </div>
 
   <p>
-    <strong>Darker GUI resource pack for GregTech New Horizons</strong><br>
-    Minecraft version: <strong>1.7.10</strong>
+    <strong>Darker GUI resource pack for GregTech New Horizons</strong>
+    <br><sub>Dependency: <a href="https://github.com/GTNewHorizons/Angelica">Angelica</a><br>minimum version 2.2.25</sub>
   </p>
 
   <p>
@@ -76,7 +76,7 @@
     <li><a href="https://github.com/slprime/ChromaticTooltips">Chromatic Tooltips</a></li>
 </ul>
 
-<h2>Future Pre-Release Versions (2.9.X)</h2>
+<h2>Future Pre-Release Versions (2.10.X)</h2>
 <ul>
   <li>
     <a href="https://github.com/Ranzuu/Shadow-UI/tree/main-future">Main version</a>
@@ -99,21 +99,21 @@
     <strong>
       <a href="https://github.com/S4mpsa/Glass-UI">GlassUI by S4mpsa</a>
     </strong>
-    – Transparent UI resource pack based on ShadowUI.
+    - Transparent UI resource pack based on ShadowUI.
   </li>
   <br>
   <li>
     <strong>
       <a href="https://github.com/Ranzuu/AE2-Dark-Mode">AE2 Dark Mode</a>
     </strong>
-    – Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
+    - Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
   </li>
 
   <li>
     <strong>
       <a href="https://github.com/Ranzuu/GTNH-OutlinedOres">GTNH-OutlinedOres</a>
     </strong>
-    – Additional texture pack that adds a solid border matching the ore color.
+    - Additional texture pack that adds a solid border matching the ore color.
     Compatible with
     <a href="https://github.com/ABKQPO/Modernity-GTNH">Modernity-GTNH</a>.
   </li>
@@ -125,14 +125,14 @@
     <strong>
       <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-Fire">Just-Fire</a>
     </strong>
-    – Overrides the vanilla fire texture to be lower.
+    - Overrides the vanilla fire texture to be lower.
   </li>
 
   <li>
     <strong>
       <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-NoModels">Just-NoModels</a>
     </strong>
-    – Removes the equipment player models for mods such as: Galacticraft/ElectroMagicTools.
+    - Removes the equipment player models for mods such as: Galacticraft/ElectroMagicTools.
   </li>
 
   <li>
@@ -141,7 +141,7 @@
         Just-TrnspThaumRechargeGlimmer
       </a>
     </strong>
-    – Makes thaumcraft recharge glimmer on aspects transparent for better visibility.
+    - Makes thaumcraft recharge glimmer on aspects transparent for better visibility.
   </li>
 
   <li>
@@ -150,7 +150,7 @@
         Just-InvisHealingAxe
       </a>
     </strong>
-    – Makes Healing Axe "invisible".
+    - Makes Healing Axe "invisible".
   </li>
 
   <li>
@@ -159,16 +159,24 @@
         Just-HealthBar
       </a>
     </strong>
-    – Guide on how to make your health bar be actual bar and not hearts. 
+    - Guide on how to make your health bar be actual bar and not hearts. 
   </li>
 
   <li>
     <strong>
       <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Shadow_Island">Shadow Island</a>
     </strong>
-    – Custom map for my personal dimension.
+    - Custom map for my personal dimension.
   </li>
 </ul>
+
+<h2></h2>
+<p>
+  ✨ Big thanks to <strong><a href="https://github.com/DeathFuel">DeathFuel</a></strong>
+  for creating the <code>DarkModeFontTransformer</code> text-recoloring system in
+  <a href="https://github.com/GTNewHorizons/Angelica">Angelica</a> that powers
+  this pack's dark mode support.
+</p>
 
 <h2>Licensing</h2>
 <p>

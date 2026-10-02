@@ -1,8 +1,14 @@
 #lang-mobsinfo
+#sub-text
 #colorUtils
 
 # ColorUtils
-color.resource.mobsinfo.textDefault=FFAAAAAA
+color.resource.mobsinfo.textDefault=FFBFBFBF
 color.resource.mobsinfo.textDanger=FFEFC62F
 color.resource.mobsinfo.textBoss=FFC46632
 color.resource.mobsinfo.textPositive=FF7AC25F
+
+# Strings
+mobsinfo.mobhandler.max_health=Max health: &#999999
+mobsinfo.villagertradeshandler.name=Name: &#999999
+mobsinfo.villagertradeshandler.mod=Mod: &#999999

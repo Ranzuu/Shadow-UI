@@ -1,8 +1,3 @@
 # ColorUtils
 ## RBG
-color.resource.aspectrecipeindex.text=AAAAAA
-
-# Strings
-aspectrecipeindex.research.researchName=§7Research
-aspectrecipeindex.gui.nei.seeAll=§7See All
-aspectrecipeindex.research.missing=§7合成此物品所需的研究还未完成
+color.resource.aspectrecipeindex.text=BFBFBF

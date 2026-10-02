@@ -12,8 +12,3 @@ ae2stuff.visualiser.color.link.compressed=0xB3FF71D6
 ae2stuff.visualiser.color.link.dense=0xB3FFF70F
 ae2stuff.visualiser.color.link.proxy=0xB3C46632
 ae2stuff.visualiser.color.link.default=0xB32A63C1
-
-# Strings
-gui.ae2stuff.Encoder.title=§7Pattern Encoder
-gui.ae2stuff.Grower.title=§7Crystal Growth Chamber
-gui.ae2stuff.Inscriber.title=§7Advanced Inscriber

@@ -1,7 +1,7 @@
 {
 	"color": "0xFFF0F0F0",
 	"textColor": "0xFF222222",
-	"textShadow": false,
+	"textShadow": true,
 	"panel": {
 		"background": {
 			"type": "texture",
@@ -53,7 +53,7 @@
 		},
 		"color": "0xFFDDDDDD",
 		"textColor": "0xFF222222",
-		"textShadow": false,
+		"textShadow": true,
 		"selectedColor": "0xFFFFFFFF",
 		"selectedTextColor": "0xFFFFFFFF"
 	},
@@ -74,7 +74,7 @@
 		},
 		"color": "0xFFFFFFFF",
 		"textColor": "0xFFFFFFA0",
-		"textShadow": false,
+		"textShadow": true,
 		"selectedColor": "0xFFFFFFFF",
 		"selectedTextColor": "0xFFFFFFFF"
 	},
