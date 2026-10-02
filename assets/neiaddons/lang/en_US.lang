@@ -3,8 +3,8 @@
 
 # ColorUtils
 ## RGB
-color.resource.neiaddons.neiChanceTextNormal=AAAAAA
+color.resource.neiaddons.neiChanceTextNormal=BFBFBF
 color.resource.neiaddons.neiChanceTextRed=C62140
-color.resource.neiaddons.neiLabel=AAAAAA
-color.resource.neiaddons.neiProd=AAAAAA
-color.resource.neiaddons.neiSpec=AAAAAA
+color.resource.neiaddons.neiLabel=BFBFBF
+color.resource.neiaddons.neiProd=BFBFBF
+color.resource.neiaddons.neiSpec=999999

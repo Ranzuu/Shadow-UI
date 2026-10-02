@@ -221,10 +221,11 @@ VillagerNames (new mod)
 - Added colored gui names
 
 Other
+- Shadows!
 - Added ability for the resource pack to be checked for updates
 - Lots of lang updates to get correct color per translation
 - Fixes grayscale images / image compression
 - Added support for many addon mods
 ..and other little pixel changes, text fixes and removed unused files, mods that are not listed above because I either forgot or they are so small, either way, this is big update ;-;.
 
-Up to date with Daily 755 (Release Candidate 1) (25.09.26)
+Up to date with Daily 767 (02.10.26)

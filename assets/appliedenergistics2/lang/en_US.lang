@@ -3,19 +3,19 @@
 
 # ColorUtils
 ## RBG
-color.resource.ae2.guiTextColorGray=AAAAAA
-color.resource.ae2.guiTextColorBlack=AAAAAA
-color.resource.ae2.searchboxText=AAAAAA
-color.resource.ae2.craftingStatusCPUName=AAAAAA
-color.resource.ae2.craftingStatusCPUStorage=AAAAAA
-color.resource.ae2.craftingStatusCPUAmount=AAAAAA
-color.resource.ae2.craftAmountToCraft=AAAAAA
+color.resource.ae2.guiTextColorGray=BFBFBF
+color.resource.ae2.guiTextColorBlack=BFBFBF
+color.resource.ae2.searchboxText=BFBFBF
+color.resource.ae2.craftingStatusCPUName=BFBFBF
+color.resource.ae2.craftingStatusCPUStorage=BFBFBF
+color.resource.ae2.craftingStatusCPUAmount=BFBFBF
+color.resource.ae2.craftAmountToCraft=BFBFBF
 color.resource.ae2.craftConfirmPercent25=2A63C1
 color.resource.ae2.craftConfirmPercent50=7AC25F
 color.resource.ae2.craftConfirmPercent75=C46632
 color.resource.ae2.craftConfirmPercent100=B13E53
-color.resource.ae2.neiGrindstoneRecipeChance=AAAAAA
-color.resource.ae2.neiGrindstoneNoSecondOutput=AAAAAA
+color.resource.ae2.neiGrindstoneRecipeChance=BFBFBF
+color.resource.ae2.neiGrindstoneNoSecondOutput=BFBFBF
 color.resource.ae2.cellStatusOrange=C46632
 color.resource.ae2.cellStatusRed=B13E53
 color.resource.ae2.cellStatusBlue=2A63C1
@@ -47,7 +47,7 @@ color.resource.ae2.processBarEndColor=CC7AC25F
 color.resource.ae2.colorSelectBtnBorderSelected=FF7AC25F
 color.resource.ae2.colorSelectBtnOverlayDisabled=B31D1D1D
 color.resource.ae2.colorSelectBtnOverlayHover=33555452
-color.resource.ae2.networkVisualiserFloatingText=FFAAAAAA
+color.resource.ae2.networkVisualiserFloatingText=FFBFBFBF
 color.resource.ae2.networkVisualiserNodeMissing=9EB13E53
 color.resource.ae2.networkVisualiserNodeDense=9EFFF70F
 color.resource.ae2.networkVisualiserNodeProxy=9EC46632
@@ -59,23 +59,5 @@ color.resource.ae2.networkVisualiserLinkDefault=702A63C1
 
 color.resource.ae2.craftingTreeMissing=FFB13E53
 color.resource.ae2.craftingTreeBlocked=FFFFD800
-color.resource.ae2.craftingTreeLine=FFAAAAAA
-color.resource.ae2.craftingTreeScrollbar=FFAAAAAA
-
-# Strings
-## Reshuffle
-gui.appliedenergistics2.StorageReshuffle=§7Storage Reshuffle
-gui.appliedenergistics2.ReshuffleStatusLabel=§7Status:
-gui.appliedenergistics2.ReshuffleStatusIdle=§7Idle
-gui.appliedenergistics2.ReshuffleReport=§7Report
-gui.appliedenergistics2.ReshuffleTotalTypes=§7%d / %d types
-
-gui.appliedenergistics2.ReshuffleHealthTopItemEntry=§7 • §f%s §7x%s
-gui.appliedenergistics2.ReshuffleReportNoMatchingCells=§7No cells found!
-gui.appliedenergistics2.ReshuffleScanDuplicatePartition=§7Duplicate partition:
-
-gui.appliedenergistics2.ReshuffleReportTextColorNeutral=§7
-gui.appliedenergistics2.ReshuffleReportTextColorValues=§7
-
-gui.appliedenergistics2.ReshufflePartitionScanner=§7Partition Scanner
-gui.appliedenergistics2.ReshuffleHealthTitle=§7Cell Health
+color.resource.ae2.craftingTreeLine=FFBFBFBF
+color.resource.ae2.craftingTreeScrollbar=FFBFBFBF

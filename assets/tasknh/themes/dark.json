@@ -1,5 +1,5 @@
 {
-  "textColor": "#AAAAAA",
+  "textColor": "#BFBFBF",
   "textShadow": "false",
   "panel": {
     "background": {
@@ -18,7 +18,7 @@
       "imageHeight": 14,
       "border": 1
     },
-    "iconColor": "#AAAAAA"
+    "iconColor": "#BFBFBF"
   },
   "button:hover": {
     "background": {
@@ -37,7 +37,7 @@
       "imageHeight": 14,
       "border": 1
     },
-    "textColor": "#AAAAAA",
+    "textColor": "#BFBFBF",
     "selectedBackground": {
       "type": "texture",
       "location": "modularui2:gui/custom/c_mc_button_pressed",
@@ -46,7 +46,7 @@
       "border": 1
     },
     "selectedTextColor": "#BFBFBF",
-    "selectedIconColor": "#AAAAAA"
+    "selectedIconColor": "#BFBFBF"
   },
   "toggleButton:hover": {
     "background": {
@@ -56,7 +56,7 @@
       "imageHeight": 14,
       "border": 1
     },
-    "selectedIconColor": "#AAAAAA"
+    "selectedIconColor": "#BFBFBF"
   },
   "scrollbar": {
     "background": {

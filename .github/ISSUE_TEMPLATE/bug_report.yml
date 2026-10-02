@@ -17,7 +17,8 @@ body:
         - Missing texture
         - Wrong texture
         - Wrong colors
-        - Text in not readable
+        - Text is not readable
+        - No text shadow
         - Other
     validations:
       required: true

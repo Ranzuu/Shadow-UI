@@ -13,5 +13,30 @@
       "owner": "Ranzuu",
       "repo": "Shadow-UI"
     }
+  },
+  "dark_mode_utils": {
+    "schema": 1,
+    "target": {
+      "gui_font": {
+        "input": {
+          "minimum": "0x606666",
+          "maximum": "0xBEBEBE"
+        },
+        "output": "0xBFBFBF",
+        "shadow": true
+      },
+      "button_font": {
+        "enabled": {
+          "output": "0xBFBFBF"
+        },
+        "hovered": {
+          "output": "0xEFC62F"
+        },
+        "disabled": {
+          "output": "0x888888"
+        }
+      },
+      "shadows_global": true
+    }
   }
 }

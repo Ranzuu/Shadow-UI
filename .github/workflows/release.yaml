@@ -173,7 +173,6 @@ jobs:
           prerelease: false
           body: |
             ### Version Info
-            - Minecraft 1.7.10
             - GTNH ${{ env.GAME_VERSION }}
             - Pack version ${{ steps.vars.outputs.PACK_VERSION }}
 

@@ -28,11 +28,11 @@ cropsnh_tooltip.industrialFarm.structure.error.LaserNotAllowed=&#C62140Lasers en
 cropsnh_tooltip.industrialFarm.structure.error.MultiAmpNotAllowed=&#C62140Multi-Amp energy hatches not allowed without OC growth unit
 
 # NEI
-cropsnh_nei.mutationPool.poolName=§7Pool: &#999999%1$s
-cropsnh_nei.crops.tier=§7Tier: &#999999%d
-cropsnh_nei.crops.growthDuration=§7Growth Points: &#999999%1$s
-cropsnh_nei.crops.dropMult=§7Drop Multiplier: &#999999%1$0.2f
-cropsnh_nei.crops.likes=§7Likes: &#999999%1$s
+cropsnh_nei.mutationPool.poolName=Pool: &#999999%1$s
+cropsnh_nei.crops.tier=Tier: &#999999%d
+cropsnh_nei.crops.growthDuration=Growth Points: &#999999%1$s
+cropsnh_nei.crops.dropMult=Drop Multiplier: &#999999%1$0.2f
+cropsnh_nei.crops.likes=Likes: &#999999%1$s
 
 # Nei Errors
 cropsnh_growthReq.lockout.machineOnly.nei=&#C62140Only harvestable in the I. Farm

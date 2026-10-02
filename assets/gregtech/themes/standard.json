@@ -5,16 +5,16 @@
 	"background": null,
 	"hoverBackground": "none",
 	"color": "#FFFFFF",
-	"textColor": "#AAAAAA",
-	"textShadow": false,
+	"textColor": "#BFBFBF",
+	"textShadow": true,
 	"textTitle": {
-		"textColor": "#AAAAAA"
+		"textColor": "#BFBFBF"
 	},
 	"displayTextWhite": {
-		"textColor": "#AAAAAA"
+		"textColor": "#BFBFBF"
 	},
 	"displayTextGray": {
-		"textColor": "#AAAAAA"
+		"textColor": "#BFBFBF"
 	},
 	"textField": {
 		"textColor": "#FFFFFF",
@@ -28,7 +28,7 @@
 			"imageHeight": 14,
 			"border": 1
 		},
-		"textColor": "#AAAAAA",
+		"textColor": "#BFBFBF",
 		"iconColor": "#7F7F7F"
 	},
 	"button:hover": {
@@ -38,7 +38,8 @@
 			"imageWidth": 14,
 			"imageHeight": 14,
 			"border": 1
-		}
+		},
+		"textColor": "#FFFFA0"
 	},
 	"toggleButton": {
 		"background": {
@@ -48,7 +49,7 @@
 			"imageHeight": 14,
 			"border": 1
 		},
-		"textColor": "#AAAAAA",
+		"textColor": "#BFBFBF",
 		"selectedBackground": {
 			"type": "texture",
 			"location": "modularui2:gui/custom/c_mc_button_pressed",
@@ -67,6 +68,7 @@
 			"imageHeight": 14,
 			"border": 1
 		},
+		"textColor": "#FFFFA0",
 		"selectedIconColor": "#7F7F7F"
 	},
 	"itemSlot": {
@@ -95,5 +97,8 @@
 			"imageHeight": 4,
 			"border": 1
 		}
+	},
+	"background_tile_trade_button": {
+		"textColor": "#BFBFBF"
 	}
 }
