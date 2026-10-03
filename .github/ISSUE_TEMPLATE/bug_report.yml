@@ -18,6 +18,7 @@ body:
         - Wrong texture
         - Wrong colors
         - Text is not readable
+        - Broken text shadow
         - No text shadow
         - Other
     validations:
@@ -44,14 +45,14 @@ body:
     id: screenshot
     attributes:
       label: Screenshot
-      description: Drag and drop an image into this box.
+      description: Drag and drop an image(s) into this box.
     validations:
       required: false
 
   - type: input
     id: pack-version
     attributes:
-      label: Shadow UI version
+      label: ShadowUI version
       placeholder: "e.g. v4.41"
     validations:
       required: true
@@ -60,14 +61,22 @@ body:
     id: gtnh-version
     attributes:
       label: GTNH version
-      placeholder: "e.g. 2.8.4"
+      placeholder: "e.g. 2.8.4, Daily 768"
     validations:
       required: true
+
+  - type: input
+    id: angelica-version
+    attributes:
+      label: Angelica version
+      placeholder: "e.g. 2.2.27"
+    validations:
+      required: false
 
   - type: textarea
     id: extra
     attributes:
       label: Anything else?
-      description: Other resource packs in use, shaders, GUI scale, and so on.
+      description: Other useful information that might help to fix the bug.
     validations:
       required: false
