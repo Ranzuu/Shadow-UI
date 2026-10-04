@@ -232,4 +232,4 @@ From now on, the ShadowUI will have hard [Angelica](https://github.com/GTNewHori
 The Angelica is **shipped by default with GTNH**, so you don't need to worry about installing it. Unless for whatever nonsense reason you removed the best optimization mod in existence of Minecraft (Angelica), then the ShadowUI will **NOT** be readable. That means the pack is now lighter and loads faster. No more translation and font issues.
 
 
-Up to date with Daily 767 (02.10.26)
+Up to date with Daily 773 (Release Candidate 2) (04.10.26)
