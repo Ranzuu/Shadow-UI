@@ -6,10 +6,11 @@ navigation:
 author: Ranzu
 ---
 # ShadowUI
-<FloatingImage src="pack.png" align="right" width="64" title="Logo" />
+<FloatingImage src="pack.png" displayWidth="64" title="Logo" />
 
 # Thank you for using ShadowUI resource pack!
 This page includes guide redirect links and some useful external quick links for pages that you might like.
+<br clear="all" />
 
 # Guide links
 - [Changelog from 2.8.X to 2.9.X](./changelog/changelog.md)
@@ -22,7 +23,7 @@ This page includes guide redirect links and some useful external quick links for
 
 # You might also like
 - <a href="https://github.com/Ranzuu/AE2-Dark-Mode">AE2 Dark Mode</a> - Additional texture pack that backports Ae2 (and addons) darker and modern blocks.
-- <a href="https://github.com/Ranzuu/OutlinedOres-Modern">Outlined Ores-Modern</a> Additional texture pack that adds a solid border matching the ore color. Compatible with <a href="https://github.com/ABKQPO/Modernity-GTNH">Modernity-GTNH</a>
+- <a href="https://github.com/Ranzuu/GTNH-OutlinedOres">GTNH OutlinedOres</a> Additional texture pack that adds a solid border matching the ore color. Compatible with <a href="https://github.com/ABKQPO/Modernity-GTNH">Modernity-GTNH</a>
 
 - <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-Fire">Just-Fire</a> – Overrides the vanilla fire texture to be lower.
 - <a href="https://github.com/Ranzuu/Shadow-UI/releases/tag/Just-TrnspThaumRechargeGlimmer">Just-TrnspThaumRechargeGlimmer</a> – Makes thaumcraft recharge glimmer on aspects transparent for better visibility.
