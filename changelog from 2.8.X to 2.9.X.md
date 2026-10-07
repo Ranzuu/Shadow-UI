@@ -140,9 +140,24 @@ Applied Energistics 2
 - Lot's of other color fixes and additions as per GTNH update (Additionally [Ae2 Dark Mode](https://github.com/Ranzuu/AE2-Dark-Mode) also got updates)
 - Added Crafting Diagnostic terminal gui elements
 - Added ME Stock Replenisher gui
+- Added Advanced Level Emitter gui
+- Added Crafting Tree colors
+- Added Network Status search bar
+- Added Items Flow and Crafting Plan icons
+- Added Reshuffler access configuration icons
+- Made the Network Visualizer nodes/lines more transparent
+
+ArchitectureCraft
+- Updated Sawbench gui
 
 Aspect Recipe Index
 - Added, well everything (new mod)
+
+Avaritia
+- Fixed Extreme Crafting NEI handler
+
+BartWorks
+- Added BioVat NEI text color
 
 Better Questing
 - Added support for quest arrows
@@ -162,8 +177,15 @@ Chromatic Tooltips
 Enhanced Lootbags
 - Updated Nei handler
 
+EnderIO
+- Fixed gui icons
+
+Extra Utilities
+- Fixed missing gui borders
+
 GuideNH
 - Added, well everything (new mod)
+- Added ShadowUI guide pages (usefull config informations this changelog)
 
 GregTech
 - Added Exo-Foundry gui elements - https://github.com/GTNewHorizons/GT5-Unofficial/pull/4627
@@ -180,9 +202,26 @@ GregTech
 - Added new Side selection icons
 - Added new Windmill icons
 - Rotated Soldering Iron icons
+- Added new Prospector Scanner gui
+- Added Nanochip Large Splitter panel and arrow
+- Updated lock icon
+- Added NEI Heat and Coil text colors
+- Added tier parentheses text color
+
+Gtnh Intergalactic
+- Added NEI Siphon Rate text color
+
+IC2
+- Fixed Chargepad gui
+
+KekzTech
+- Fixed Lapotronic Supercapacitor gui text
 
 KubaTech
 - Added HTGR text color
+
+Logistics Pipes
+- Fixed gui text colors and textures
 
 NEI Custom Diagram
 - Updated textures and changed the text colors
@@ -192,12 +231,23 @@ NotEnoughtItems (NEI)
 - Added Cauldron recipe text - https://github.com/GTNewHorizons/GT5-Unofficial/pull/5542
 - Updated Debug Handler
 - Add Bookmark Tree Screen
+- Updated recipe arrows for Pam's Harvestcraft and Thaumic Tinkerer
+
+OK Backpack
+- Added gui (new mod)
+
+Project Red
+- Updated scrollbar
+
+Steve's Factory Manager
+- Fixed gradient
 
 TaskNH (Foreman)
 - Added, well everything (new mod)
 
 TecTech
 - Added new icons and updated others (a lot)
+- Added Uncertainty assist button overlay
 
 Thaumic Energistics
 - Updated Arcane Crafting Terminal GUI - https://github.com/GTNewHorizons/ThaumicEnergistics/pull/98
@@ -207,6 +257,10 @@ Thaumic Exploration
 
 Tinkers Construct
 - Added Dump Button - https://github.com/GTNewHorizons/TinkersConstruct/pull/228
+- Removed custom hearts texture
+
+Tinkers Mechworks
+- Updated buttons
 
 ServerUtilities
 - Updated trash can title (god damn finally) - https://github.com/GTNewHorizons/ServerUtilities/pull/256
@@ -220,8 +274,13 @@ Vending machine
 VillagerNames (new mod)
 - Added colored gui names
 
+Witchery
+- Fixed urn gui
+
 Other
 - Shadows!
+- Reworked progress bars for about 35 mods
+- Fixed gui border sizing and pixel issues across many mods
 - Added ability for the resource pack to be checked for updates
 - Lots of lang updates to get correct color per translation
 - Fixes grayscale images / image compression
@@ -231,5 +290,4 @@ Other
 From now on, the ShadowUI will have hard [Angelica](https://github.com/GTNewHorizons/Angelica) dependency (minimum version 2.2.26) (text coloring).
 The Angelica is **shipped by default with GTNH**, so you don't need to worry about installing it. Unless for whatever nonsense reason you removed the best optimization mod in existence of Minecraft (Angelica), then the ShadowUI will **NOT** be readable. That means the pack is now lighter and loads faster. No more translation and font issues.
 
-
-Up to date with Daily 773 (Release Candidate 2) (04.10.26)
+[Full compare changelog](https://github.com/Ranzuu/Shadow-UI/compare/v2.8.X/v4.41...v2.9.X/v5.46)
