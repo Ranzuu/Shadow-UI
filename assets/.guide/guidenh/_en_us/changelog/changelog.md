@@ -147,9 +147,24 @@ navigation:
 - Lot's of other color fixes and additions as per GTNH update (Additionally [Ae2 Dark Mode](https://github.com/Ranzuu/AE2-Dark-Mode) also got updates)
 - Added crafting diagnostic terminal gui elements
 - Added ME Stock Replenisher gui
+- Added advanced level emitter gui
+- Added crafting tree colors
+- Added network status search bar
+- Added items flow and crafting plan icons
+- Added reshuffler access configuration icons
+- Made the network visualizer nodes/lines more transparent
+
+**ArchitectureCraft**
+- Updated sawbench gui
 
 **Aspect Recipe Index**
 - Added everything (new mod)
+
+**Avaritia**
+- Fixed extreme crafting NEI handler
+
+**BartWorks**
+- Added BioVat NEI text color
 
 **Better Questing**
 - Added support for quest arrows
@@ -169,8 +184,15 @@ navigation:
 **Enhanced Lootbags**
 - Updated NEI handler
 
+**EnderIO**
+- Fixed gui icons
+
+**Extra Utilities**
+- Fixed missing gui borders
+
 **GuideNH**
 - Added gui and this guide page(s) (new mod)
+- Added ShadowUI guide pages (usefull config informations this changelog)
 
 **GregTech**
 - Added Exo-Foundry gui elements
@@ -187,9 +209,26 @@ navigation:
 - Added new side selection icons
 - Added new Windmill icons
 - Rotated Soldering Iron icons
+- Added new prospector scanner gui
+- Added nanochip large splitter panel and arrow
+- Updated lock icon
+- Added NEI heat and coil text colors
+- Added tier parentheses text color
+
+**Gtnh Intergalactic**
+- Added NEI siphon rate text color
+
+**IC2**
+- Fixed chargepad gui
+
+**KekzTech**
+- Fixed lapotronic supercapacitor gui text
 
 **KubaTech**
 - Added HTGR text color
+
+**Logistics Pipes**
+- Fixed gui text colors and textures
 
 **NEI Custom Diagram**
 - Updated textures and changed the text colors
@@ -199,12 +238,23 @@ navigation:
 - Added cauldron recipe text
 - Updated debug handler
 - Add Bookmark Tree Screen
+- Updated recipe arrows for Pam's Harvestcraft and Thaumic Tinkerer
+
+**OK Backpack**
+- Added gui (new mod)
+
+**Project Red**
+- Updated scrollbar
+
+**Steve's Factory Manager**
+- Fixed gradient
 
 **TaskNH (Foreman)**
 - Added everything (new mod)
 
 **TecTech**
 - Added new icons and updated others (a lot)
+- Added uncertainty assist button overlay
 
 **Thaumic Energistics**
 - Updated arcane crafting terminal GUI
@@ -214,6 +264,10 @@ navigation:
 
 **Tinkers Construct**
 - Added dump button
+- Removed custom hearts texture
+
+**Tinkers Mechworks**
+- Updated buttons
 
 **ServerUtilities**
 - Updated trash can title
@@ -227,8 +281,13 @@ navigation:
 **VillagerNames**
 - Added colored gui names
 
+**Witchery**
+- Fixed urn gui
+
 **Other**
 - Shadows!
+- Reworked progress bars for about 35 mods
+- Fixed gui border sizing and pixel issues across many mods
 - Added ability for the resource pack to be checked for updates
 - Lots of lang updates to get correct color per translation
 - Fixes grayscale images / image compression
