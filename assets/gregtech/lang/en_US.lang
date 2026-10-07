@@ -65,6 +65,10 @@ GT5U.gui.text.recipe_result.not_enough_energy=&#C62140Not enough energy
 ## DroneCentre
 GT5U.gui.text.recipe_result.drone_noDrone=&#C62140Can't find any drone in Input Buses!
 
+## EnhancedMultiBlockBase
+GT5U.gui.text.structure_error.missing_any_input=&#C62140Missing &#EFC62FInput
+GT5U.gui.text.structure_error.missing_any_output=&#C62140Missing &#EFC62FOutput
+
 ## ExoFoundry
 GT5U.gui.text.structure_error.exo_foundry_hypercooler_hatch=&#C62140Missing coolant hatch for hypercooler
 
