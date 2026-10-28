@@ -1,6 +1,0 @@
-# Original Screen Messages
-msg.nc.InfoPanelOutput=Débit: &#999999%sEU/t
-msg.nc.InfoPanelOutputMJ=Débit: &#999999%sMJ/t
-msg.nc.InfoPanelOutputSteam=Débit: &#999999%smB/t
-msg.nc.AverageCounterPeriod=Période: &#999999%ssec
-msg.nc.HowlerAlarmSoundRange=Portée du so: &#999999%s

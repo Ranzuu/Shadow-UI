@@ -1,7 +1,0 @@
-# ColorUtils (OC render differently)
-## RBG
-color.resource.opencomputers.neiDocTitle=BFBFBF
-color.resource.opencomputers.neiDocText=999999
-
-# Strings
-oc:gui.Assembler.Progress=Progression: %s%% (&#999999%s§r)
