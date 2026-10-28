@@ -5,5 +5,5 @@ item.advanced_memory_card.selected=Frequency:&#999999
 
 gui.advanced_memory_card.name=Name: &#999999%s
 gui.advanced_memory_card.extra.channel=Channels used: &#999999%s
-gui.advanced_memory_card.p2p_status.type=Type: &#999999%s -&r %s
+gui.advanced_memory_card.p2p_status.type=Type: &#999999%s -§r %s
 
