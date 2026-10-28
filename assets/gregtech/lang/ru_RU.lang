@@ -251,20 +251,20 @@ GT5U.nei.fuel=Энергоёмкость: &#999999%s EU/%s
 GT5U.nei.fuel_per_item=Fuel Value: &#999999%s EU/item
 
 ## ResultInsufficientHeat
-GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Для рецепта нужно больше тепла. Требуется: &#EFC62F%s K (&#EFC62F%s§7)
+GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Для рецепта нужно больше тепла. Требуется: &#EFC62F%s K (&#EFC62F%s§r)
 
 ## ResultInsufficientMachineTier
 GT5U.gui.text.recipe_result.insufficient_machine_tier=&#C62140Для рецепта нужен более высокий тир структуры. Требуется: &#EFC62F%s&#C62140
 
 ## ResultInsufficientPower
-GT5U.gui.text.recipe_result.insufficient_power=&#C62140Рецепту требуется больше энергии для запуска. Требуется: &#EFC62F%s EU/t (&#EFC62F%s§7)
+GT5U.gui.text.recipe_result.insufficient_power=&#C62140Рецепту требуется больше энергии для запуска. Требуется: &#EFC62F%s EU/t (&#EFC62F%s§r)
 
 ## ResultInsufficientStartupPower
 GT5U.gui.text.recipe_result.insufficient_startup_power=&#C62140Рецепту нужно больше энергии для запуска. Требуется: &#EFC62F%s EU/t
 GT5U.gui.text.recipe_result.insufficient_startup_power_with_amperage=&#C62140Recipe needs higher startup power. Required: &#EFC62F%s EU/t&#C62140. Requires &#EFC62F%s&#C62140 A rounded to &#EFC62F%s&#C62140 64A energy hatches
 
 ## ResultInsufficientVoltage
-GT5U.gui.text.recipe_result.insufficient_voltage=&#C62140Для рецепта нужен более высокий вольтаж. Требуется: &#EFC62F%s EU/t (&#EFC62F%s§7)
+GT5U.gui.text.recipe_result.insufficient_voltage=&#C62140Для рецепта нужен более высокий вольтаж. Требуется: &#EFC62F%s EU/t (&#EFC62F%s§r)
 
 ## ResultMissingApiaryFlowers
 GT5U.gui.text.recipe_result.apiary_missing_flowers=&#C62140Не хватает цветов: &#EFC62F%s&#C62140
