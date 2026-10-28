@@ -21,7 +21,7 @@ GT5U.gui.button.forbidden=&#C62140Cannot change mode for this machine
 GT5U.gui.text.structure_error.too_many_radiation_hatch=&#C62140Too many radiation hatch
 
 ## CircuitAssemblyLine
-GT5U.multiblock.runningMode=§e运行模式：
+GT5U.multiblock.runningMode=运行模式:&#EFC62F
 
 ## Cleanroom
 GT5U.gui.text.structure_error.cleanroom_plascrete=&#C62140Not enough plascrete blocks
@@ -243,11 +243,12 @@ GT5U.gui.text.out_of_item=&#C62140No following items supplied: §b%s x %s
 GT5U.gui.text.out_of_stuff=&#C62140No following stuffs supplied: §b%s x %s
 
 ## RecipeMaps
-gt.nei.lftr.power=Power: &#999999%s EU/t §rper Dynamo
+gt.nei.lftr.power=Power: &#999999%s EU/t per Dynamo
 gt.nei.lftr.dynamo=Dynamo: &#999999%s EU
 gt.nei.lftr.total=Total: &#999999%s EU
 
-GT5U.nei.fuel=Fuel Density: &#999999%s EU§r/&#999999%s
+GT5U.nei.fuel=Fuel Density: &#999999%s EU/%s
+GT5U.nei.fuel_per_item=Fuel Value: &#999999%s EU/item
 
 ## ResultInsufficientHeat
 GT5U.gui.text.recipe_result.insufficient_heat=&#C62140Recipe needs more heat to start. Required: &#EFC62F%s K &#C62140(&#EFC62F%s&#C62140)
