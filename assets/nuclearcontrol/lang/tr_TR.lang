@@ -1,6 +1,0 @@
-# Original Screen Messages
-msg.nc.InfoPanelOutput=ÇıkışGücü: &#999999%sEU/t
-msg.nc.InfoPanelOutputMJ=ÇıkışGücü: &#999999%sMJ/t
-msg.nc.InfoPanelOutputSteam=ÇıkışGücü: &#999999%smB/t
-msg.nc.AverageCounterPeriod=Süre: &#999999%ssaniye
-msg.nc.HowlerAlarmSoundRange=Ses Seviyesi: &#999999%s

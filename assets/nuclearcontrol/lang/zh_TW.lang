@@ -1,6 +1,0 @@
-# Original Screen Messages
-msg.nc.InfoPanelOutput=輸出電力：&#999999%sEU/t
-msg.nc.InfoPanelOutputMJ=輸出能量：&#999999%sRF/t
-msg.nc.InfoPanelOutputSteam=輸出蒸汽：&#999999%smB/t
-msg.nc.AverageCounterPeriod=周期：&#999999%s秒
-msg.nc.HowlerAlarmSoundRange=發聲範圍：&#999999%s

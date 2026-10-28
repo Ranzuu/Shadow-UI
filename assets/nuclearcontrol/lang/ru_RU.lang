@@ -1,6 +1,0 @@
-# Original Screen Messages
-msg.nc.InfoPanelOutput=Выход: &#999999%sEU/т
-msg.nc.InfoPanelOutputMJ=Выход: &#999999%sMJ/т
-msg.nc.InfoPanelOutputSteam=Выход: &#999999%smB/т
-msg.nc.AverageCounterPeriod=Период: &#999999%sсек.
-msg.nc.HowlerAlarmSoundRange=Дальность звука: &#999999%s

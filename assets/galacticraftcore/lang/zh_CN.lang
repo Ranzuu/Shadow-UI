@@ -1,5 +1,0 @@
-# Gui
-gui.status.collecting.name=&#999999正在收集
-gui.status.generating.name=&#999999正在产生
-gui.status.notGenerating.name=&#999999未产生
-gui.status.hullHeat.name=&#999999船体热量

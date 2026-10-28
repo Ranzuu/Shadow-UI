@@ -1,5 +1,0 @@
-# Gui
-gui.status.collecting.name=&#999999Сбор
-gui.status.generating.name=&#999999Создание
-gui.status.notGenerating.name=&#999999Не создаётся
-gui.status.hullHeat.name=&#999999Нагрев корпуса

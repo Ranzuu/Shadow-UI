@@ -1,5 +1,0 @@
-# Gui
-gui.status.collecting.name=&#999999Récupération
-gui.status.generating.name=&#999999Production
-gui.status.notGenerating.name=&#999999pas de production
-gui.status.hullHeat.name=&#999999Bouclier thermique
