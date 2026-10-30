@@ -13,6 +13,10 @@ color.resource.gregtech.networkAnalyzerSeveritySuccess=7AC25F
 color.resource.gregtech.networkAnalyzerSeverityWarning=FFD800
 color.resource.gregtech.networkAnalyzerSeverityAlert=B13E53
 
+## ARBG
+color.resource.gregtech.spaceElevatorSelectorWhitelist=FF7AC25F
+color.resource.gregtech.spaceElevatorSelectorBlacklist=FFB13E53
+
 # Strings
 ## AssemblyLine
 GT5U.gui.text.structure_error.al_too_many_data_access_hatch=&#C62140Only one Data Access Hatch is allowed
