@@ -15,7 +15,7 @@ jobs:
   gate:
     runs-on: ubuntu-latest
     env:
-      WORKFLOW_ENABLED: false # Toggle
+      WORKFLOW_ENABLED: true # Toggle
     outputs:
       enabled: ${{ steps.check.outputs.enabled }}
     steps:
