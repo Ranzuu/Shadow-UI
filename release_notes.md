@@ -19,8 +19,4 @@ The Angelica is shipped by default with GTNH, so you don't need to worry about i
 - Fixed GuideNH broken links
 - Added more colored structure errors
 
-### Version Info
-- GTNH 2.9.X
-- Pack version v5.47
-
 Up to date with Daily 807 (GTNH 2.9.0) (31.10.26)
