@@ -10,6 +10,13 @@ permissions:
 
 env:
   GAME_VERSION: "2.9.X" # Version
+  # Angelica 2.2.26 (Modrinth stores dependencies per version, not per project)
+  MODRINTH_DEPENDENCIES: |-
+    [{
+      "project_id": "XN5jnYB4",
+      "version_id": "ng5LFs0B",
+      "dependency_type": "required"
+    }]
 
 jobs:
   gate:
@@ -140,6 +147,7 @@ jobs:
             minecraft
           game-versions: |-
             1.7.10
+          dependencies: ${{ env.MODRINTH_DEPENDENCIES }}
           files: ${{ steps.zips.outputs.MAIN_ZIP }}
 
       - name: Upload to Modrinth (Modernity)
@@ -154,6 +162,7 @@ jobs:
             minecraft
           game-versions: |-
             1.7.10
+          dependencies: ${{ env.MODRINTH_DEPENDENCIES }}
           files: ${{ steps.zips.outputs.MODERNITY_ZIP }}
 
       # CurseForge (2 files)
