@@ -70,6 +70,7 @@
     <li><a href="https://github.com/LITW-Refined/EZStorage">Simple Storage</a></li>
     <li><a href="https://github.com/GTNotLeisure/FunctionalStorageClassic">Functional Storage Classic</a></li>
     <li><a href="https://github.com/GTNotLeisure/GT-Not-Leisure">GT: Not Leisure</a></li>
+    <li><a href="https://github.com/GTNotLeisure/DiskTerminal-Unofficial">DiskTerminal-Unofficial</a></li>
     <li><a href="https://github.com/GTNewHorizons/JustEnoughCalculation">Just Enough Calculation</a></li>
     <li><a href="https://github.com/Shigure-Ruiseki/OKBackpack">OKBackpack</a></li>
     <li><a href="https://github.com/reobf/Programmable-Hatches-Mod">Programmable Hatches</a></li>
