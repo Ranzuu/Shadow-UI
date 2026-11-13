@@ -1,0 +1,9 @@
+#lang-goodgenerator
+#sub-text
+
+# NEI Info
+value.naquadah_reactor=Basic Output Voltage: &#999999%s EU/t
+value.naquadah_fuel_refine_factory=Need Tier &#999999%s§r Coil
+
+value.precise_assembler=Need &#999999Mk-%s§r Casing
+value.component_assembly_line=Casing Tier: &#999999%s
