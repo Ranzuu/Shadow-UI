@@ -2,6 +2,12 @@
 #sub-text
 #error
 
+# NEI
+GT5U.gui.text.total_line=Total: &#999999%s EU
+GT5U.gui.text.usage_line=Usage: &#999999%s EU/t
+GT5U.gui.text.time_line=Time: &#999999%s secs
+GT5U.gui.text.time_line_with_ticks=Time: &#999999%s secs (%d ticks)
+
 # EntityModuleBaseGui
 tt.spaceelevator.storedEnergy=Stored Energy: &#999999%d
 
@@ -45,3 +51,8 @@ GT5U.gui.text.recipe_result.invalid_overdrive_setting=&#C62140Invalid overdrive 
 
 # PlasmaModule
 GT5U.gui.text.recipe_result.missing_upgrades=&#C62140Missing upgrades
+
+# GodforgeExoticFrontend
+tt.nei.research.max_eu=Max EU: &#999999%s EU
+tt.nei.research.computation=Computation: &#999999%s
+tt.nei.research.min_computation=Min Computation: &#999999%s /s
