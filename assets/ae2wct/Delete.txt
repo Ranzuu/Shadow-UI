@@ -1,0 +1,7 @@
+#delete
+gui/crafting_old.png
+gui/magnetfilter_old.png
+
+item/boosterBG.png
+item/boosterBG_old.png
+item/magnetBG.png
