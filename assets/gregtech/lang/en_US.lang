@@ -3,3 +3,7 @@
 
 ## VoidMinerBase
 GT5U.nei.voidminer.total_weight=Total Weight: &#999999%s
+
+## WormholeGenerator
+GT5U.gui.text.wormhole_generator.diameter=Wormhole diameter: &#999999%s Å
+GT5U.gui.text.wormhole_generator.max_io=Max I/O per hatch:\n&#999999%s EU/t
