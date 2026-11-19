@@ -1,0 +1,4 @@
+#lang-goodgenerator
+#sub-text
+
+gui.NeutronActivator.0=Current Neutron Kinetic Energy:\n&#999999%s MeV
