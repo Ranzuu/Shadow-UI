@@ -56,6 +56,7 @@ GT5U.gui.text.recipe_result.no_drilling_fluid=&#C62140No drilling fluid
 GT5U.gui.text.recipe_result.no_fuel=&#C62140No valid fuel found
 GT5U.gui.text.recipe_result.no_immersion_fluid=&#C62140No immersion fluid available
 GT5U.gui.text.recipe_result.no_mining_pipe=&#C62140Missing Mining Pipe
+GT5U.gui.text.recipe_result.circulating_fluid=&#EFC62FCirculating Fluid
 GT5U.gui.text.no_see_sky=&#C62140Cannot see the sky
 GT5U.gui.text.recipe_result.shutdown_reasonno_turbine=&#C62140No valid turbine found
 GT5U.gui.text.recipe_result.power_overflow=&#C62140Power Overflowed: Supplied Energy is too high for this machine.
