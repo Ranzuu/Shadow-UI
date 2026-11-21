@@ -1,9 +1,0 @@
-#lang-tectech
-#sub-text
-
-# GodforgeExoticFrontend
-tt.nei.fog_exotic.picks=Requests &#999999%s§r random plasma
-
-# MicrowaveGui
-gt.blockmachines.multimachine.tm.microwave.timer=Timer: &#999999%s / %s
-gt.blockmachines.multimachine.tm.microwave.damage=Up to &#EFC62F%s§r damage per second
