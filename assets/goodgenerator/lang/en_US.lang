@@ -7,3 +7,7 @@ value.naquadah_fuel_refine_factory=Need Tier &#999999%s§r Coil
 
 value.precise_assembler=Need &#999999Mk-%s§r Casing
 value.component_assembly_line=Casing Tier: &#999999%s
+
+gui.NeutronActivator.0=Current Neutron Kinetic Energy:\n&#999999%s MeV
+gui.LargeFusion.0=Energy Capacity:  &#999999%s EU
+gui.LargeFusion.1=Stored Energy:  &#999999%s EU

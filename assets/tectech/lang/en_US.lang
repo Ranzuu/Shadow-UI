@@ -11,6 +11,11 @@ GT5U.gui.text.time_line_with_ticks=Time: &#999999%s secs (%d ticks)
 # EntityModuleBaseGui
 tt.spaceelevator.storedEnergy=Stored Energy: &#999999%d
 
+# MicrowaveGui
+GT5U.gui.text.recipe_result.invalid_timer=&#C62140Invalid timer
+gt.blockmachines.multimachine.tm.microwave.timer=Timer: &#999999%s / %s
+gt.blockmachines.multimachine.tm.microwave.damage=Up to &#EFC62F%s§r damage per second
+
 # MultiBlockBaseGui
 GT5U.gui.text.shutdown_reason.computation_loss=&#C62140Shut down due to computation loss.
 
@@ -30,9 +35,6 @@ GT5U.gui.text.recipe_result.wrongRequirements=&#C62140Incorrect scanning item
 # EnergyInfuser.java
 GT5U.gui.text.recipe_result.no_chargeable_item=&#C62140No chargeable item
 GT5U.gui.text.recipe_result.insufficient_power_no_val=&#C62140Insufficient power
-
-# Microwave
-GT5U.gui.text.recipe_result.invalid_timer=&#C62140Invalid timer
 
 # EyeOfHarmony
 GT5U.gui.text.recipe_result.no_planet_block=&#C62140Missing planet block
@@ -56,3 +58,4 @@ GT5U.gui.text.recipe_result.missing_upgrades=&#C62140Missing upgrades
 tt.nei.research.max_eu=Max EU: &#999999%s EU
 tt.nei.research.computation=Computation: &#999999%s
 tt.nei.research.min_computation=Min Computation: &#999999%s /s
+tt.nei.fog_exotic.picks=Requests &#999999%s§r random plasma
