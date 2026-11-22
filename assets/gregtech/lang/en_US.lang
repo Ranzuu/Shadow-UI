@@ -362,6 +362,7 @@ GT5U.gui.text.structure_error.missing_data_output_hatch= &#C62140Missing Data Ou
 GT5U.gui.text.recipe_result.drill_extracting_ores_failed=&#C62140Extraction Failed
 GT5U.gui.text.recipe_result.void_miner_wrong_dim=&#EFC62FThis dimension cannot be void mined
 GT5U.gui.text.recipe_result.void_miner_no_ores=&#EFC62FNo ores available to mine in this dimension
+GT5U.nei.voidminer.total_weight=Total Weight: &#999999%s
 
 ## Windmill
 GT5U.gui.text.structure_error.missing_dispenser= &#C62140Missing Dispenser
@@ -371,6 +372,8 @@ GT5U.gui.text.structure_error.too_many_doors= &#C62140Too many doors &#EFC62F(ma
 GT5U.gui.text.wormhole_generator.status.active=Wormhole status: &#EFC62FActive§r
 GT5U.gui.text.wormhole_generator.status.decaying=Wormhole status: &#EFC62FDecaying§r
 GT5U.gui.text.wormhole_generator.status.no_destination=Wormhole status: &#C62140No destination§r
+GT5U.gui.text.wormhole_generator.diameter=Wormhole diameter: &#999999%s Å
+GT5U.gui.text.wormhole_generator.max_io=Max I/O per hatch:\n&#999999%s EU/t
 
 ## XLTurbineGas
 GT5U.gui.text.recipe_result.fuel_blacklisted=&#C62140Fuel blacklisted
