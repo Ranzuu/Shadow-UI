@@ -1,7 +1,7 @@
 # GTNH Shadow UI - Future versions
 > Main version
 
-This branch contains assets for future GTNH versions (2.10.X)
+This branch contains assets for future GTNH versions (2.10.X). To be put above the previous (2.9.X) version.
 
 ---
 ### Licensing
