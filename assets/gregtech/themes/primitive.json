@@ -39,7 +39,7 @@
 			"imageHeight": 14,
 			"border": 1
 		},
-		"textColor": "#FFFFA0"
+		"textColor": "#EFC62F"
 	},
 	"toggleButton": {
 		"background": {
@@ -70,7 +70,7 @@
 			"imageHeight": 14,
 			"border": 1
 		},
-		"textColor": "#FFFFA0",
+		"textColor": "#EFC62F",
 		"selectedIconColor": "#7F7F7F"
 	},
 	"itemSlot": {
