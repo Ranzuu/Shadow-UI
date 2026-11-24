@@ -75,6 +75,7 @@
     <li><a href="https://github.com/GTNewHorizons/JustEnoughCalculation">Just Enough Calculation</a></li>
     <li><a href="https://github.com/Shigure-Ruiseki/OKBackpack">OKBackpack</a></li>
     <li><a href="https://github.com/reobf/Programmable-Hatches-Mod">Programmable Hatches</a></li>
+    <li><a href="https://github.com/TwelveIterations/TrashSlot/tree/1.7.10">TrashSlot</a></li>
     <li><a href="https://github.com/Ol925/ThinkTech">Think Tech</a></li>
     <li><a href="https://github.com/Nxer/Twist-Space-Technology-Mod">Twist Space Technology</a></li>
 </ul>
