@@ -1,4 +1,1 @@
-- Added support for [TrashSlot mod](https://github.com/TwelveIterations/TrashSlot/tree/1.7.10) (updated readme)
-- Fixed Liquid Mode GT icon
-- Fixed hovered button text color on MUI2 themes
-- Added Drone Camera gui texture 
+- Fix NEI buttons (unacceptable)
